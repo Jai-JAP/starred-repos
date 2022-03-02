@@ -43,6 +43,47 @@
 
 ## C 
 
+- [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
+- [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
+- [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
+- [incbee/Unarchiver](https://github.com/incbee/Unarchiver) - Git mirror of The Unarchiver
+- [MCPI-Revival/minecraft-pi-reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) - Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.
+- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
+- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
+- [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple Win64/Win32 applications on arm64/ppc64le/x86_64 Linux and x86_64 Mac
+- [petzval/btferret](https://github.com/petzval/btferret) - Bluetooth Interface for Raspberry Pi
+- [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
+- [mborgerson/xemu](https://github.com/mborgerson/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
+- [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines based on PCem.
+- [lgblgblgb/xemu](https://github.com/lgblgblgb/xemu) - Emulations (running on Linux/Unix/Windows/macOS, utilizing SDL2) of some - mainly - 8 bit machines, including the Commodore LCD, Commodore 65, and the MEGA65 as well.
+- [CleanMachine1/C-Code](https://github.com/CleanMachine1/C-Code) - 
+- [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
+- [stevenhoneyman/l3afpad](https://github.com/stevenhoneyman/l3afpad) - Simple text editor forked from Leafpad, supports GTK+ 3.x
+- [Itai-Nelken/simple-calc](https://github.com/Itai-Nelken/simple-calc) - a very, very simple CLI calculator written in C
+- [chjj/compton](https://github.com/chjj/compton) - A compositor for X11.
+- [raspberrypi-ui/piwiz](https://github.com/raspberrypi-ui/piwiz) - First-run startup wizard
+- [raspberrypi-ui/piclone](https://github.com/raspberrypi-ui/piclone) - Utility to back up Pi to an SD card reader
+- [raspberrypi-ui/gui-pkinst](https://github.com/raspberrypi-ui/gui-pkinst) - 
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
+- [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
+- [ryanfortner/Learning-C](https://github.com/ryanfortner/Learning-C) - Experiments and sample programs from my journey of learning C.
+- [mesa3d/mesa](https://github.com/mesa3d/mesa) - Mesa 3D graphics library (read-only mirror)
+- [deadpixi/mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
+- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight, AstroBWT and GhostRider unified CPU/GPU miner and RandomX benchmark
+- [Acry/flappy](https://github.com/Acry/flappy) - Flappy Birds - A rapid prototype implementation in SDL2-C
+- [valgusk/xwinwrap](https://github.com/valgusk/xwinwrap) - 
+- [mmhobi7/xwinwrap](https://github.com/mmhobi7/xwinwrap) - X11 Window in desktop enviroment background
+- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-reporting/
+- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - FreeBSD src tree (read-only mirror)
+- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
+- [cutiepi-io/cutiepi-drivers](https://github.com/cutiepi-io/cutiepi-drivers) - Drivers for the CutiePi tablet
+- [GNOME/mutter](https://github.com/GNOME/mutter) - Read-only mirror of https://gitlab.gnome.org/GNOME/mutter
+- [smontanaro/python-0.9.1](https://github.com/smontanaro/python-0.9.1) - Upload and changes to Python 0.9.1 release (from 1991!) so that it would compile
+- [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [xeyownt/xseticon](https://github.com/xeyownt/xseticon) - xseticon from Paul Evans -- http://www.leonerd.org.uk/
 - [Strawberry-Software-Industries/ledcontrol](https://github.com/Strawberry-Software-Industries/ledcontrol) - A simple program to control the status LEDs of your Raspberry Pi!
@@ -92,6 +133,8 @@
 
 ## C# # 
 
+- [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [AmirDahan/Application-Template](https://github.com/AmirDahan/Application-Template) - Just a modern application template with modern looking ui
 - [AmirDahan/WoR-ControlPanel](https://github.com/AmirDahan/WoR-ControlPanel) - Windows on Raspberry Control Panel is a simple utility to make your WoR experience just a little bit easier
 - [microsoft/winget-create](https://github.com/microsoft/winget-create) - The Windows Package Manager Manifest Creator command-line tool (aka wingetcreate)
@@ -102,6 +145,17 @@
 
 ## C++ 
 
+- [winegui/WineGui](https://github.com/winegui/WineGui) - Finally, a user-friendly WINE graphical interface (mirror from Gitlab)
+- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
+- [vkmark/vkmark](https://github.com/vkmark/vkmark) - Vulkan benchmark
+- [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
+- [LubosD/twinkle](https://github.com/LubosD/twinkle) - Qt 5 port of Twinkle
+- [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+- [cutefishos/fishui](https://github.com/cutefishos/fishui) - CutefishOS GUI library, based on Qt Quick.
+- [endlessm/libanimation](https://github.com/endlessm/libanimation) - Wobbly windows logic split out from Compiz
+- [Jai-JAP/re-GTA](https://github.com/Jai-JAP/re-GTA) - rEVERSE eNGINEERED GTA III, Vice City ( archived mirror https://github.com/GTAModding/re3 )
 - [martynets/dialogbox](https://github.com/martynets/dialogbox) - GUI widgets for shell scripts. This is a scriptable engine which implements the idea of a GUI &lt;-&gt; text filter tool.
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -119,11 +173,11 @@
 - [TheMindVirus/v3dqpu](https://github.com/TheMindVirus/v3dqpu) - Graphics Infrastructure Development of Full-Display-And-Render-Driver for Raspberry Pi 4 running Windows 10
 - [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [Jai-JAP/re-GTA](https://github.com/Jai-JAP/re-GTA) - rEVERSE eNGINEERED GTA III, Vice City ( archived mirror https://github.com/GTAModding/re3 )
 - [td512/re3](https://github.com/td512/re3) - GTA III, Vice City
 
 ## CSS 
 
+- [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [zayronxio/windows11-GTKtheme](https://github.com/zayronxio/windows11-GTKtheme) - windows11-GTKtheme
 - [petabyt/Windows10Emulator](https://github.com/petabyt/Windows10Emulator) - A game launcher and operating environment for school Chromebooks.
 - [raspbian-addons/raspbian-addons.github.io](https://github.com/raspbian-addons/raspbian-addons.github.io) - Website for the Raspbian Addons debian repository
@@ -139,6 +193,9 @@
 
 ## Go 
 
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+- [aptly-dev/aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
+- [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter) - :rocket: Easy way to know how many visitors are viewing your Github, Website, Notion. :tada:
@@ -150,6 +207,7 @@
 
 ## HTML 
 
+- [Itai-Nelken/Webcord_debian-repo](https://github.com/Itai-Nelken/Webcord_debian-repo) - unofficial repo for electron-discord-webapp (https://github.com/SpacingBat3/WebCord) by @SpacingBat3
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [phoenixbyrd/webapps](https://github.com/phoenixbyrd/webapps) - Web Apps for Twister OS
 - [Pi-Apps-Coders/website](https://github.com/Pi-Apps-Coders/website) - Pi-Apps project website
@@ -212,6 +270,8 @@
 
 ## Others 
 
+- [ryanfortner/starred](https://github.com/ryanfortner/starred) - Curated list of my GitHub stars
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Jai-JAP/starred-repos](https://github.com/Jai-JAP/starred-repos) - List of my starred repos autogenerated
 - [AmirDahan/WoR-CP-Apps](https://github.com/AmirDahan/WoR-CP-Apps) - Application Repository Used for WoR-Cp's Appstore
 - [Debian/apt](https://github.com/Debian/apt) - Mirror of the apt git repository - This is just a mirror of the upstream repository, please submit pull requests there: https://salsa.debian.org/apt-team/apt
@@ -328,6 +388,8 @@
 
 ## Shell 
 
+- [pacstall/pacstall-programs](https://github.com/pacstall/pacstall-programs) - Pacstall's official program repository
+- [pacstall/repo-maintain](https://github.com/pacstall/repo-maintain) - mr helps repo maintainers maintain custom repositories
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
@@ -433,6 +495,7 @@
 
 ## Vala 
 
+- [Jai-JAP/pikiss-gui](https://github.com/Jai-JAP/pikiss-gui) - GTK frontend for PiKISS
 - [krishenriksen/pikiss-gui](https://github.com/krishenriksen/pikiss-gui) - Buy me a Coffee https://www.paypal.me/krishenriksendk
 - [krishenriksen/pibright](https://github.com/krishenriksen/pibright) - Buy me a Coffee https://www.paypal.me/krishenriksendk
 - [libredeb/slingscold](https://github.com/libredeb/slingscold) - Lightweight application launcher similar to Launchpad in macOS X
