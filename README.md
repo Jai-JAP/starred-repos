@@ -6,25 +6,31 @@
 ## Contents
 
   - [Assembly](#assembly)
+  - [AutoIt](#autoit)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [D](#d)
   - [Dart](#dart)
+  - [Elixir](#elixir)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
   - [Makefile](#makefile)
+  - [NSIS](#nsis)
+  - [Nix](#nix)
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Roff](#roff)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
   - [Shell](#shell)
@@ -35,7 +41,12 @@
 
 ## Assembly 
 
+- [hermanhermitage/videocoreiv-qpu](https://github.com/hermanhermitage/videocoreiv-qpu) - Fun and Games with the Videocoreiv Quad Processor Units
 - [akatrevorjay/edid-generator](https://github.com/akatrevorjay/edid-generator) - Hackerswork to generate an EDID blob from given Xorg Modelines, complete with valid checksum.
+
+## AutoIt 
+
+- [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 
 ## Batchfile 
 
@@ -43,6 +54,14 @@
 
 ## C 
 
+- [stefansundin/altdrag](https://github.com/stefansundin/altdrag) - :file_folder: Easily drag windows when pressing the alt key. (Windows)
+- [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
+- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [tianocore/edk2-platforms](https://github.com/tianocore/edk2-platforms) - EDK II sample platform branches and tags
+- [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
+- [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
+- [itszor/vc4-toolchain](https://github.com/itszor/vc4-toolchain) - A port of the GNU toolchain to the Raspberry Pi's VideoCore4 processor.
+- [librerpi/rpi-open-firmware](https://github.com/librerpi/rpi-open-firmware) - Open source VPU side bootloader for Raspberry Pi.
 - [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -75,7 +94,6 @@
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight, AstroBWT and GhostRider unified CPU/GPU miner and RandomX benchmark
 - [Acry/flappy](https://github.com/Acry/flappy) - Flappy Birds - A rapid prototype implementation in SDL2-C
-- [valgusk/xwinwrap](https://github.com/valgusk/xwinwrap) - 
 - [mmhobi7/xwinwrap](https://github.com/mmhobi7/xwinwrap) - X11 Window in desktop enviroment background
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-reporting/
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - FreeBSD src tree (read-only mirror)
@@ -133,6 +151,8 @@
 
 ## C# # 
 
+- [opentk/opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac.
+- [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [AmirDahan/Application-Template](https://github.com/AmirDahan/Application-Template) - Just a modern application template with modern looking ui
@@ -145,6 +165,9 @@
 
 ## C++ 
 
+- [librerpi/rpi-tools](https://github.com/librerpi/rpi-tools) - 
+- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+- [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
 - [winegui/WineGui](https://github.com/winegui/WineGui) - Finally, a user-friendly WINE graphical interface (mirror from Gitlab)
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
@@ -186,10 +209,18 @@
 
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
+## D 
+
+- [spikespaz/search-deflector](https://github.com/spikespaz/search-deflector) - A small program that forwards searches from Cortana to your preferred browser and search engine.
+
 ## Dart 
 
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - 
 - [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
+
+## Elixir 
+
+- [dwyl/hits](https://github.com/dwyl/hits) - :chart_with_upwards_trend: General purpose hits (page views) counter
 
 ## Go 
 
@@ -268,8 +299,18 @@
 - [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
 - [ryanfortner/debuild-experiments](https://github.com/ryanfortner/debuild-experiments) - Experiments with Debian packaging
 
+## NSIS 
+
+- [da2x/EdgeDeflector](https://github.com/da2x/EdgeDeflector) - A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.
+
+## Nix 
+
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+
 ## Others 
 
+- [AlfarexGuy2019/tweaks](https://github.com/AlfarexGuy2019/tweaks) - 💻 List of awesome programs and tweaks for Windows
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [ryanfortner/starred](https://github.com/ryanfortner/starred) - Curated list of my GitHub stars
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Jai-JAP/starred-repos](https://github.com/Jai-JAP/starred-repos) - List of my starred repos autogenerated
@@ -330,6 +371,9 @@
 
 ## Python 
 
+- [hermanhermitage/videocoreiv](https://github.com/hermanhermitage/videocoreiv) - Tools and information for the Broadcom VideoCore IV (RaspberryPi)
+- [volitank/pyshell](https://github.com/volitank/pyshell) - pyshell is a Linux subprocess module
+- [volitank/nala](https://github.com/volitank/nala) - a wrapper for the apt package manager.
 - [firedm/FireDM](https://github.com/firedm/FireDM) - python open source (Internet Download Manager) with multi-connections, high speed engine, based on python, LibCurl, and youtube_dl https://github.com/firedm/FireDM
 - [virtio-win/virtio-win-guest-tools-installer](https://github.com/virtio-win/virtio-win-guest-tools-installer) - 
 - [Gamper98/Sudoku-Solver](https://github.com/Gamper98/Sudoku-Solver) - Sudoku solver written in python
@@ -374,8 +418,14 @@
 
 - [RPi-Distro/chromium-browser](https://github.com/RPi-Distro/chromium-browser) - 
 
+## Ruby 
+
+- [Linuxbrew/brew](https://github.com/Linuxbrew/brew) - :beer::penguin: The Homebrew package manager for Linux
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+
 ## Rust 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
@@ -388,6 +438,9 @@
 
 ## Shell 
 
+- [qt/qt5](https://github.com/qt/qt5) - Qt5 super module
+- [dylanaraps/pxltrm](https://github.com/dylanaraps/pxltrm) - 🖌️ pxltrm - [WIP] A pixel art editor inside the terminal
+- [ValveSoftware/steam-runtime](https://github.com/ValveSoftware/steam-runtime) - A runtime environment for Steam applications
 - [pacstall/pacstall-programs](https://github.com/pacstall/pacstall-programs) - Pacstall's official program repository
 - [pacstall/repo-maintain](https://github.com/pacstall/repo-maintain) - mr helps repo maintainers maintain custom repositories
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
