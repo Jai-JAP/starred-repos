@@ -173,6 +173,7 @@
 
 ## C++ 
 
+- [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a fork of the DOSBox project that focuses on ease of use, modern technology and best practices.
 - [rexdex/recompiler](https://github.com/rexdex/recompiler) - Xbox360 -&gt; Windows executable converter
 - [Grima04/recompiler](https://github.com/Grima04/recompiler) - Xbox360 -&gt; Windows executable converter
 - [coddec/Classic-Shell](https://github.com/coddec/Classic-Shell) - Original code of Classic Shell (v4.3.1), original author Ivo Beltchev
@@ -255,6 +256,7 @@
 
 ## HTML 
 
+- [raspberrypi/raspberrypi.github.io](https://github.com/raspberrypi/raspberrypi.github.io) - Raspberry Pi GitHub organisations
 - [Itai-Nelken/Webcord_debian-repo](https://github.com/Itai-Nelken/Webcord_debian-repo) - unofficial repo for electron-discord-webapp (https://github.com/SpacingBat3/WebCord) by @SpacingBat3
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [phoenixbyrd/webapps](https://github.com/phoenixbyrd/webapps) - Web Apps for Twister OS
@@ -268,6 +270,7 @@
 
 ## Java 
 
+- [PhoenicisOrg/phoenicis](https://github.com/PhoenicisOrg/phoenicis) - Phoenicis PlayOnLinux and PlayOnMac 5 repository
 - [Grima04/Win32droid](https://github.com/Grima04/Win32droid) - Experimental software based on the Wine and box86 projects to emulate Windows x86 32-Bit applications on rooted Android devices
 - [AllPlatform/Box86Launcher](https://github.com/AllPlatform/Box86Launcher) - 
 - [spocon/lovspotify](https://github.com/spocon/lovspotify) - Spotify GUI + Spotify Client for Raspberry PI , Ubuntu and Debian
@@ -332,6 +335,8 @@
 
 ## Others 
 
+- [FydeOS/rpi-boot-bin](https://github.com/FydeOS/rpi-boot-bin) - Raspberry Pi boot binary files
+- [FydeOS/chromium-raspberry_pi](https://github.com/FydeOS/chromium-raspberry_pi) - Chromium Project used for Chromium OS for Raspberry Pi
 - [Augmentedjs/balena-io-etcher-builds](https://github.com/Augmentedjs/balena-io-etcher-builds) - A place to host my community builds of Ethcher
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -398,6 +403,9 @@
 
 ## Python 
 
+- [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
+- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
+- [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
 - [natorsc/gui-python-gtk](https://github.com/natorsc/gui-python-gtk) - Criando interfaces gráficas com Python (PyGObject) e GTK.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
@@ -477,6 +485,12 @@
 
 ## Shell 
 
+- [FydeOS/chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B and Pi400
+- [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
+- [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
+- [PlayOnLinux/wine-patches](https://github.com/PlayOnLinux/wine-patches) - Wine Patches used by PlayOnLinux/PlayOnMac project.
+- [PlayOnLinux/Dosbox-PlayOnLinux-Wrapper](https://github.com/PlayOnLinux/Dosbox-PlayOnLinux-Wrapper) - 
+- [exe-thumbnailer/exe-thumbnailer](https://github.com/exe-thumbnailer/exe-thumbnailer) - Thumbnailer for .exe/.dll/.msi/.lnk files on Linux systems.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [ZhymabekRoman/proot-static](https://github.com/ZhymabekRoman/proot-static) - Static builded of Termux's version proot
 - [WheezyE/AnBox86](https://github.com/WheezyE/AnBox86) - 
@@ -575,6 +589,7 @@
 
 ## TypeScript 
 
+- [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
 - [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
