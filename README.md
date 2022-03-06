@@ -55,6 +55,8 @@
 
 ## C 
 
+- [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
+- [lwfinger/rtl8188eu](https://github.com/lwfinger/rtl8188eu) - Repository for stand-alone RTL8188EU driver.
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
@@ -280,6 +282,7 @@
 
 ## JavaScript 
 
+- [TheBananaStore/web-store](https://github.com/TheBananaStore/web-store) - This is the Banana Web Store online page, built with React.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [aalin/gta2.js](https://github.com/aalin/gta2.js) - GTA2 in JavaScript
 - [Kajakklubben/gta2-webgl](https://github.com/Kajakklubben/gta2-webgl) - Why not port GTA2 to webgl? That's a great idea....
@@ -321,8 +324,8 @@
 
 ## Makefile 
 
-- [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
 - [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
+- [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
 - [ryanfortner/debuild-experiments](https://github.com/ryanfortner/debuild-experiments) - Experiments with Debian packaging
 
 ## NSIS 
@@ -335,6 +338,11 @@
 
 ## Others 
 
+- [theofficialgman/lwjgl3-binaries-arm64](https://github.com/theofficialgman/lwjgl3-binaries-arm64) - Linux ARM64 LWJGL2/3 Backports Binaries
+- [theofficialgman/lwjgl3-binaries-arm32](https://github.com/theofficialgman/lwjgl3-binaries-arm32) - Linux ARM32 LWJGL2/3 Backports Binaries
+- [theofficialgman/meta-multimc](https://github.com/theofficialgman/meta-multimc) - Auto Updating (cross-fingers) for MultiMC Minecraft package metadata for ARM64 and ARMhf Linux. Use the master-clean branch for ARM64 and master-clean-arm32 for ARMhf. A full project description and README is in the update_auto branch
+- [procount/pinnify](https://github.com/procount/pinnify) - A simple, templated script to create PINN-compatible compressed tarballs and metadata from an OS disk image
+- [procount/pinn-doc](https://github.com/procount/pinn-doc) - User Manual and other documentation for PINN
 - [FydeOS/rpi-boot-bin](https://github.com/FydeOS/rpi-boot-bin) - Raspberry Pi boot binary files
 - [FydeOS/chromium-raspberry_pi](https://github.com/FydeOS/chromium-raspberry_pi) - Chromium Project used for Chromium OS for Raspberry Pi
 - [Augmentedjs/balena-io-etcher-builds](https://github.com/Augmentedjs/balena-io-etcher-builds) - A place to host my community builds of Ethcher
@@ -403,6 +411,7 @@
 
 ## Python 
 
+- [TheBananaStore/TheBananaClient](https://github.com/TheBananaStore/TheBananaClient) - [WIP]🍌🐧 Client for the Banana Store
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
@@ -485,6 +494,17 @@
 
 ## Shell 
 
+- [mobilegmYT/mcpi-reborn-extended](https://github.com/mobilegmYT/mcpi-reborn-extended) - MCPI-Reborn, but modded with new community-made features!
+- [TheBananaStore/TheBananaStore](https://github.com/TheBananaStore/TheBananaStore) - 🍌🐧 Content repository for the Banana Store
+- [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
+- [q3aql/aria2-static-builds](https://github.com/q3aql/aria2-static-builds) - aria2 static builds for GNU/Linux & Windows (with OpenSSL).
+- [ShadityOS/exagear-rpi](https://github.com/ShadityOS/exagear-rpi) - Install Exagear on the Raspberry Pi using a simple setup script
+- [Crilum/styleprompt](https://github.com/Crilum/styleprompt) - Create and manage bash prompts
+- [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder
+- [jimeh/git-aware-prompt](https://github.com/jimeh/git-aware-prompt) - Display current Git branch name in your terminal prompt when in a Git working directory.
+- [sakaki-/pinnify](https://github.com/sakaki-/pinnify) - A simple, templated script to create PINN-compatible compressed tarballs and metadata from an OS disk image
+- [procount/noobsconfig](https://github.com/procount/noobsconfig) - Allows you to customise the installation of a NOOBS distro installation
+- [procount/pinn-os](https://github.com/procount/pinn-os) - os-images for PINN
 - [FydeOS/chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B and Pi400
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
