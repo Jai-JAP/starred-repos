@@ -219,6 +219,7 @@
 
 ## CSS 
 
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [zayronxio/windows11-GTKtheme](https://github.com/zayronxio/windows11-GTKtheme) - windows11-GTKtheme
 - [petabyt/Windows10Emulator](https://github.com/petabyt/Windows10Emulator) - A game launcher and operating environment for school Chromebooks.
@@ -243,6 +244,8 @@
 
 ## Go 
 
+- [mkaczanowski/packer-builder-arm](https://github.com/mkaczanowski/packer-builder-arm) - Packer plugin to build ARM images
+- [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: Secure Boot key manager
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
@@ -282,6 +285,7 @@
 
 ## JavaScript 
 
+- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [TheBananaStore/web-store](https://github.com/TheBananaStore/web-store) - This is the Banana Web Store online page, built with React.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [aalin/gta2.js](https://github.com/aalin/gta2.js) - GTA2 in JavaScript
@@ -307,6 +311,7 @@
 - [anschwa/typing-test](https://github.com/anschwa/typing-test) - An ES6 and HTML5 typing test.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [raspbian-addons/docs](https://github.com/raspbian-addons/docs) - Raspbian Addons project documentation
 - [alienzhangyw/BlockPi](https://github.com/alienzhangyw/BlockPi) - A visual programming editor app for Raspberry Pi
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [Strencher/BetterDiscordStuff](https://github.com/Strencher/BetterDiscordStuff) - A collection of my BetterDiscord plugins
@@ -338,6 +343,8 @@
 
 ## Others 
 
+- [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
+- [TheBananaStore/Deb2Arch](https://github.com/TheBananaStore/Deb2Arch) - ♋➡♊ WIP utility to install DEBs on Arch
 - [theofficialgman/lwjgl3-binaries-arm64](https://github.com/theofficialgman/lwjgl3-binaries-arm64) - Linux ARM64 LWJGL2/3 Backports Binaries
 - [theofficialgman/lwjgl3-binaries-arm32](https://github.com/theofficialgman/lwjgl3-binaries-arm32) - Linux ARM32 LWJGL2/3 Backports Binaries
 - [theofficialgman/meta-multimc](https://github.com/theofficialgman/meta-multimc) - Auto Updating (cross-fingers) for MultiMC Minecraft package metadata for ARM64 and ARMhf Linux. Use the master-clean branch for ARM64 and master-clean-arm32 for ARMhf. A full project description and README is in the update_auto branch
@@ -373,7 +380,6 @@
 - [dhanishgajjar/terminal-icons](https://github.com/dhanishgajjar/terminal-icons) - Beautiful icons for your favourite terminal apps like Hyper and iTerm2
 - [ryanfortner/Learning-Python](https://github.com/ryanfortner/Learning-Python) - Bits and pieces of beginners' Python code
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
-- [raspbian-addons/docs](https://github.com/raspbian-addons/docs) - Raspbian Addons project documentation
 - [ryanfortner/exagear-rpi](https://github.com/ryanfortner/exagear-rpi) - installing Exagear Desktop on the newer Raspberry Pies
 - [Pi-Apps-Coders/docs](https://github.com/Pi-Apps-Coders/docs) - [wip] documentation website for pi-apps
 - [TheMindVirus/universaldrivers](https://github.com/TheMindVirus/universaldrivers) - The beginnings of Universal Drivers on UEFI systems for the Windows on Raspberry Project
@@ -411,6 +417,8 @@
 
 ## Python 
 
+- [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - GTK and Python based, system performance and usage monitoring tool
+- [robtech21/chromiumos](https://github.com/robtech21/chromiumos) - 
 - [TheBananaStore/TheBananaClient](https://github.com/TheBananaStore/TheBananaClient) - [WIP]🍌🐧 Client for the Banana Store
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
@@ -475,6 +483,7 @@
 
 ## Ruby 
 
+- [DaCuteRaccoon/img2ascii](https://github.com/DaCuteRaccoon/img2ascii) - A Ruby gem to convert images to ASCII
 - [Linuxbrew/brew](https://github.com/Linuxbrew/brew) - :beer::penguin: The Homebrew package manager for Linux
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 
