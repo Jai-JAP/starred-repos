@@ -161,6 +161,7 @@
 
 ## C# # 
 
+- [gus33000/UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
 - [opentk/opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac.
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
@@ -348,6 +349,7 @@
 
 ## Others 
 
+- [flathub/io.freetubeapp.FreeTube](https://github.com/flathub/io.freetubeapp.FreeTube) - 
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
 - [TheBananaStore/Deb2Arch](https://github.com/TheBananaStore/Deb2Arch) - ♋➡♊ WIP utility to install DEBs on Arch
 - [theofficialgman/lwjgl3-binaries-arm64](https://github.com/theofficialgman/lwjgl3-binaries-arm64) - Linux ARM64 LWJGL2/3 Backports Binaries
@@ -421,6 +423,7 @@
 
 ## Python 
 
+- [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [termux/termux-apt-repo](https://github.com/termux/termux-apt-repo) - Script to create Termux apt repositories.
 - [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - GTK and Python based, system performance and usage monitoring tool
@@ -472,7 +475,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-430-Stars](https://github.com/iBug/This-Repo-Has-430-Stars) - Yes, it's true :heart: This repository has 430 stars.
+- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :sparkling_heart: This repository has 431 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -495,6 +498,7 @@
 
 ## Rust 
 
+- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -626,6 +630,7 @@
 
 ## TypeScript 
 
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
