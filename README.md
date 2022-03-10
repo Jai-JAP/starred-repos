@@ -42,6 +42,7 @@
 
 ## Assembly 
 
+- [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 - [hermanhermitage/videocoreiv-qpu](https://github.com/hermanhermitage/videocoreiv-qpu) - Fun and Games with the Videocoreiv Quad Processor Units
 - [akatrevorjay/edid-generator](https://github.com/akatrevorjay/edid-generator) - Hackerswork to generate an EDID blob from given Xorg Modelines, complete with valid checksum.
 
@@ -287,6 +288,7 @@
 
 ## JavaScript 
 
+- [doctolib/windows-binary-architecture](https://github.com/doctolib/windows-binary-architecture) - Find the target CPU architecture of Windows binaries (DLLs, EXEs and others).
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [TheBananaStore/web-store](https://github.com/TheBananaStore/web-store) - This is the Banana Web Store online page, built with React.
@@ -423,6 +425,8 @@
 
 ## Python 
 
+- [infinitepower18/WSA-Sideloader](https://github.com/infinitepower18/WSA-Sideloader) - Easily sideload Android apps on Windows Subsystem for Android on Windows 11
+- [AppImageCrafters/appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - GNU/Linux packaging solution using the AppImage format
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [termux/termux-apt-repo](https://github.com/termux/termux-apt-repo) - Script to create Termux apt repositories.
@@ -508,11 +512,14 @@
 
 ## SCSS 
 
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme "yaru". Better than a 🌯.
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 
 ## Shell 
 
+- [pguyot/arm-runner-action](https://github.com/pguyot/arm-runner-action) - Run tests natively and build images directly from GitHub Actions using a chroot-based virtualized Raspberry Pi (raspios/raspbian) environment
+- [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
 - [hmsjy2017/n-debs](https://github.com/hmsjy2017/n-debs) - 
 - [tj/n](https://github.com/tj/n) - Node version management
 - [mobilegmYT/mcpi-reborn-extended](https://github.com/mobilegmYT/mcpi-reborn-extended) - MCPI-Reborn, but modded with new community-made features!
