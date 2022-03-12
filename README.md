@@ -265,6 +265,8 @@
 
 ## HTML 
 
+- [xMysticalCoder/ImagineOS](https://github.com/xMysticalCoder/ImagineOS) - Web Version of Imagine OS
+- [dcurtis/markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.
 - [raspberrypi/raspberrypi.github.io](https://github.com/raspberrypi/raspberrypi.github.io) - Raspberry Pi GitHub organisations
 - [Itai-Nelken/Webcord_debian-repo](https://github.com/Itai-Nelken/Webcord_debian-repo) - unofficial repo for electron-discord-webapp (https://github.com/SpacingBat3/WebCord) by @SpacingBat3
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
@@ -278,6 +280,7 @@
 
 ## Java 
 
+- [opencast/opencast](https://github.com/opencast/opencast) - The free and open source solution for automated video capture and distribution at scale.
 - [PhoenicisOrg/phoenicis](https://github.com/PhoenicisOrg/phoenicis) - Phoenicis PlayOnLinux and PlayOnMac 5 repository
 - [Grima04/Win32droid](https://github.com/Grima04/Win32droid) - Experimental software based on the Wine and box86 projects to emulate Windows x86 32-Bit applications on rooted Android devices
 - [AllPlatform/Box86Launcher](https://github.com/AllPlatform/Box86Launcher) - 
@@ -288,6 +291,7 @@
 
 ## JavaScript 
 
+- [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [simpleicons/simpleicons.now.sh](https://github.com/simpleicons/simpleicons.now.sh) - Serve simpleicons with options (and CDN).
 - [doctolib/windows-binary-architecture](https://github.com/doctolib/windows-binary-architecture) - Find the target CPU architecture of Windows binaries (DLLs, EXEs and others).
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
@@ -427,6 +431,9 @@
 
 ## Python 
 
+- [aidenmitchell/statuscheck](https://github.com/aidenmitchell/statuscheck) - Simple Python GUI to check service statuses
+- [maoschanz/dynamic-wallpaper-editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - A little utility for creation or edition of GNOME desktop's XML wallpapers
+- [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [infinitepower18/WSA-Sideloader](https://github.com/infinitepower18/WSA-Sideloader) - Easily sideload Android apps on Windows Subsystem for Android on Windows 11
 - [AppImageCrafters/appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - GNU/Linux packaging solution using the AppImage format
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
@@ -443,7 +450,7 @@
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [simons-public/protonfixes](https://github.com/simons-public/protonfixes) - A module for applying fixes at runtime to unsupported games with Steam Proton without changing game installation files
-- [Djdefrag/NiceScaler](https://github.com/Djdefrag/NiceScaler) - Lossless image upscaler app based on OpenCV SuperResolution deeplearning models
+- [Djdefrag/NiceScaler](https://github.com/Djdefrag/NiceScaler) - Lossless image/video upscaler app based on OpenCV deeplearning models
 - [hermanhermitage/videocoreiv](https://github.com/hermanhermitage/videocoreiv) - Tools and information for the Broadcom VideoCore IV (RaspberryPi)
 - [volitank/pyshell](https://github.com/volitank/pyshell) - pyshell is a Linux subprocess module
 - [volitank/nala](https://github.com/volitank/nala) - a wrapper for the apt package manager.
@@ -520,6 +527,8 @@
 
 ## Shell 
 
+- [HikariKnight/quickpassthrough](https://github.com/HikariKnight/quickpassthrough) - A project to simplify setting up GPU passthrough for QuickEMU and libvirt
+- [twolfson/sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, git statuses, and git branches.
 - [novaspirit/rpi_zram](https://github.com/novaspirit/rpi_zram) - script to enable zram for raspberry pi
 - [pguyot/arm-runner-action](https://github.com/pguyot/arm-runner-action) - Run tests natively and build images directly from GitHub Actions using a chroot-based virtualized Raspberry Pi (raspios/raspbian) environment
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
@@ -661,6 +670,7 @@
 
 ## Vala 
 
+- [lainsce/dot-matrix](https://github.com/lainsce/dot-matrix) - The glyph playground of creativity from simple lines
 - [Jai-JAP/pikiss-gui](https://github.com/Jai-JAP/pikiss-gui) - GTK frontend for PiKISS
 - [krishenriksen/pikiss-gui](https://github.com/krishenriksen/pikiss-gui) - Buy me a Coffee https://www.paypal.me/krishenriksendk
 - [krishenriksen/pibright](https://github.com/krishenriksen/pibright) - Buy me a Coffee https://www.paypal.me/krishenriksendk
