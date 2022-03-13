@@ -314,6 +314,7 @@
 - [tobychui/arozos](https://github.com/tobychui/arozos) - General purposed Web Desktop Operating Platform / OS for Raspberry Pis, Now written in Go!
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [tomer8007/spotify-web-ads-remover](https://github.com/tomer8007/spotify-web-ads-remover) - Simple extension to remove audio ads on Spotify web player
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [railken/mc](https://github.com/railken/mc) - A Minecraft Launcher in electron
 - [dscalzi/HeliosLauncher](https://github.com/dscalzi/HeliosLauncher) - ☀ Custom launcher for modded minecraft written in Electron and Node.js
@@ -514,7 +515,6 @@
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
@@ -527,7 +527,7 @@
 
 ## Shell 
 
-- [HikariKnight/quickpassthrough](https://github.com/HikariKnight/quickpassthrough) - A project to simplify setting up GPU passthrough for QuickEMU and libvirt
+- [HikariKnight/quickpassthrough](https://github.com/HikariKnight/quickpassthrough) - A project to remove the complexity of setting up GPU passthrough for qemu
 - [twolfson/sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, git statuses, and git branches.
 - [novaspirit/rpi_zram](https://github.com/novaspirit/rpi_zram) - script to enable zram for raspberry pi
 - [pguyot/arm-runner-action](https://github.com/pguyot/arm-runner-action) - Run tests natively and build images directly from GitHub Actions using a chroot-based virtualized Raspberry Pi (raspios/raspbian) environment
