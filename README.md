@@ -23,6 +23,7 @@
   - [Kotlin](#kotlin)
   - [Makefile](#makefile)
   - [NSIS](#nsis)
+  - [Nim](#nim)
   - [Nix](#nix)
   - [Others](#others)
   - [PHP](#php)
@@ -56,6 +57,8 @@
 
 ## C 
 
+- [jhhoward/MicroFlight](https://github.com/jhhoward/MicroFlight) - Flight simulator demo for Arduboy
+- [lineage-rpi/android_kernel_brcm_rpi](https://github.com/lineage-rpi/android_kernel_brcm_rpi) - 
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [lwfinger/rtl8188eu](https://github.com/lwfinger/rtl8188eu) - Repository for stand-alone RTL8188EU driver.
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
@@ -177,6 +180,7 @@
 
 ## C++ 
 
+- [fragmede/schroot](https://github.com/fragmede/schroot) - Securely enter a chroot and run a command or login shell
 - [doitsujin/dxvk-ags](https://github.com/doitsujin/dxvk-ags) - Experimental implementation of AGS D3D11 extensions for DXVK
 - [jp7677/dxvk-nvapi](https://github.com/jp7677/dxvk-nvapi) - Alternative NVAPI implementation on top of DXVK.
 - [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a fork of the DOSBox project that focuses on ease of use, modern technology and best practices.
@@ -265,6 +269,7 @@
 
 ## HTML 
 
+- [sarvjeets/i-use-arch](https://github.com/sarvjeets/i-use-arch) - Get your own webpage on i-use-arch.fyi to show off your neofetch output to the world!
 - [xMysticalCoder/ImagineOS](https://github.com/xMysticalCoder/ImagineOS) - Web Version of Imagine OS
 - [dcurtis/markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.
 - [raspberrypi/raspberrypi.github.io](https://github.com/raspberrypi/raspberrypi.github.io) - Raspberry Pi GitHub organisations
@@ -291,6 +296,7 @@
 
 ## JavaScript 
 
+- [stefanXO/firebug-lite](https://github.com/stefanXO/firebug-lite) - Firebug Lite for Chrome - an extension of the popular Firebug Firefox functionality
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [simpleicons/simpleicons.now.sh](https://github.com/simpleicons/simpleicons.now.sh) - Serve simpleicons with options (and CDN).
 - [doctolib/windows-binary-architecture](https://github.com/doctolib/windows-binary-architecture) - Find the target CPU architecture of Windows binaries (DLLs, EXEs and others).
@@ -303,7 +309,7 @@
 - [niklasvh/WebGL-GTA](https://github.com/niklasvh/WebGL-GTA) - JavaScript implementation of GTA
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
-- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🐚🔥🔥
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible communication platform
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
@@ -341,6 +347,8 @@
 
 ## Makefile 
 
+- [lineage-rpi/proprietary_vendor_brcm](https://github.com/lineage-rpi/proprietary_vendor_brcm) - 
+- [lineage-rpi/android_device_brcm_rpi4](https://github.com/lineage-rpi/android_device_brcm_rpi4) - 
 - [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
 - [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
 - [ryanfortner/debuild-experiments](https://github.com/ryanfortner/debuild-experiments) - Experiments with Debian packaging
@@ -349,6 +357,10 @@
 
 - [da2x/EdgeDeflector](https://github.com/da2x/EdgeDeflector) - A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.
 
+## Nim 
+
+- [PMunch/notifishower](https://github.com/PMunch/notifishower) - 
+
 ## Nix 
 
 - [Tow-Boot/Tow-Boot](https://github.com/Tow-Boot/Tow-Boot) - An opinionated distribution of U-Boot. — https://matrix.to/#/#Tow-Boot:matrix.org?via=matrix.org
@@ -356,10 +368,10 @@
 
 ## Others 
 
+- [lineage-rpi/OTA](https://github.com/lineage-rpi/OTA) - 
 - [raspbian-addons/.github](https://github.com/raspbian-addons/.github) - 
 - [flathub/io.freetubeapp.FreeTube](https://github.com/flathub/io.freetubeapp.FreeTube) - 
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
-- [TheBananaStore/Deb2Arch](https://github.com/TheBananaStore/Deb2Arch) - ♋➡♊ WIP utility to install DEBs on Arch
 - [theofficialgman/lwjgl3-binaries-arm64](https://github.com/theofficialgman/lwjgl3-binaries-arm64) - Linux ARM64 LWJGL2/3 Backports Binaries
 - [theofficialgman/lwjgl3-binaries-arm32](https://github.com/theofficialgman/lwjgl3-binaries-arm32) - Linux ARM32 LWJGL2/3 Backports Binaries
 - [theofficialgman/meta-multimc](https://github.com/theofficialgman/meta-multimc) - Auto Updating (cross-fingers) for MultiMC Minecraft package metadata for ARM64 and ARMhf Linux. Use the master-clean branch for ARM64 and master-clean-arm32 for ARMhf. A full project description and README is in the update_auto branch
@@ -431,6 +443,7 @@
 
 ## Python 
 
+- [mcpiscript/Planet](https://github.com/mcpiscript/Planet) - 🌍🍓 A better MCPi Launcher
 - [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
 - [mbusb/multibootusb](https://github.com/mbusb/multibootusb) - Create multiboot live Linux on a USB disk...
 - [aidenmitchell/statuscheck](https://github.com/aidenmitchell/statuscheck) - Simple Python GUI to check service statuses
@@ -513,6 +526,7 @@
 
 ## Rust 
 
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -529,6 +543,7 @@
 
 ## Shell 
 
+- [lineage-rpi/android_device_brcm_rpi-common](https://github.com/lineage-rpi/android_device_brcm_rpi-common) - 
 - [HikariKnight/quickpassthrough](https://github.com/HikariKnight/quickpassthrough) - A project to remove the complexity of setting up GPU passthrough for qemu
 - [twolfson/sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, git statuses, and git branches.
 - [novaspirit/rpi_zram](https://github.com/novaspirit/rpi_zram) - script to enable zram for raspberry pi
@@ -651,6 +666,7 @@
 
 ## TypeScript 
 
+- [hmsjy2017/tabby](https://github.com/hmsjy2017/tabby) - A terminal for a more modern age (formerly Terminus)
 - [teuteuf/worldle](https://github.com/teuteuf/worldle) - 
 - [oznu/node-pty-prebuilt-multiarch](https://github.com/oznu/node-pty-prebuilt-multiarch) - A parallel fork of node-pty providing ia32, amd64, arm, and aarch64 prebuilt packages for macOS, Windows and Linux (glibc and musl libc).
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
