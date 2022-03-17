@@ -294,6 +294,7 @@
 
 ## Java 
 
+- [Catrobat/Catroid](https://github.com/Catrobat/Catroid) - Writing programs on an Android device without prior knowledge.
 - [opencast/opencast](https://github.com/opencast/opencast) - The free and open source solution for automated video capture and distribution at scale.
 - [PhoenicisOrg/phoenicis](https://github.com/PhoenicisOrg/phoenicis) - Phoenicis PlayOnLinux and PlayOnMac 5 repository
 - [Grima04/Win32droid](https://github.com/Grima04/Win32droid) - Experimental software based on the Wine and box86 projects to emulate Windows x86 32-Bit applications on rooted Android devices
@@ -305,6 +306,9 @@
 
 ## JavaScript 
 
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
+- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
+- [cthacker-udel/Raspberry-Pi-Scripts](https://github.com/cthacker-udel/Raspberry-Pi-Scripts) - Raspberry Pi Scripts in the following languages : Python, C++, C, Makefile, Bash Shell/Script, and Java!
 - [splash-cli/splash-cli](https://github.com/splash-cli/splash-cli) - A simple, command line tool to download Unsplash wallpapers. It’s not intended to be anything particularly fancy — it just works.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [nordicgiant2/gh-pages-theme](https://github.com/nordicgiant2/gh-pages-theme) - A very beautiful github pages theme template
@@ -361,6 +365,7 @@
 
 ## Makefile 
 
+- [turquoise-hexagon/fonts](https://github.com/turquoise-hexagon/fonts) - another bitmap fonts repo
 - [lineage-rpi/proprietary_vendor_brcm](https://github.com/lineage-rpi/proprietary_vendor_brcm) - 
 - [lineage-rpi/android_device_brcm_rpi4](https://github.com/lineage-rpi/android_device_brcm_rpi4) - 
 - [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
@@ -459,6 +464,8 @@
 
 ## Python 
 
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [TheBananaStore/BananaLord](https://github.com/TheBananaStore/BananaLord) - I'm the king, now feed me!
 - [mcpiscript/Planet](https://github.com/mcpiscript/Planet) - 🌍🍓 A better MCPi Launcher
 - [qutip/qutip](https://github.com/qutip/qutip) - QuTiP: Quantum Toolbox in Python
 - [cycool29/pi-apps-gui](https://github.com/cycool29/pi-apps-gui) - 
@@ -689,6 +696,8 @@
 
 ## TypeScript 
 
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
+- [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 - [hmsjy2017/tabby](https://github.com/hmsjy2017/tabby) - A terminal for a more modern age (formerly Terminus)
 - [teuteuf/worldle](https://github.com/teuteuf/worldle) - 
 - [oznu/node-pty-prebuilt-multiarch](https://github.com/oznu/node-pty-prebuilt-multiarch) - A parallel fork of node-pty providing ia32, amd64, arm, and aarch64 prebuilt packages for macOS, Windows and Linux (glibc and musl libc).
