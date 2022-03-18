@@ -58,6 +58,7 @@
 
 ## C 
 
+- [abakh/nbsdgames](https://github.com/abakh/nbsdgames) - A package of 18 text-based modern games
 - [kilograham/rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
 - [axeldavy/Xnine](https://github.com/axeldavy/Xnine) - 
 - [spencertipping/shell-tutorial](https://github.com/spencertipping/shell-tutorial) - How to write a UNIX shell, with a lot of background
@@ -214,7 +215,7 @@
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 - [cutefishos/fishui](https://github.com/cutefishos/fishui) - CutefishOS GUI library, based on Qt Quick.
 - [endlessm/libanimation](https://github.com/endlessm/libanimation) - Wobbly windows logic split out from Compiz
-- [Jai-JAP/re-GTA](https://github.com/Jai-JAP/re-GTA) - rEVERSE eNGINEERED GTA III, Vice City ( archived mirror https://github.com/GTAModding/re3 )
+- [Jai-JAP/re-GTA](https://github.com/Jai-JAP/re-GTA) - rEVERSE eNGINEERED GTA III, Vice City ( full archived mirror https://github.com/GTAModding/re3 including wiki)
 - [martynets/dialogbox](https://github.com/martynets/dialogbox) - GUI widgets for shell scripts. This is a scriptable engine which implements the idea of a GUI &lt;-&gt; text filter tool.
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -306,6 +307,7 @@
 
 ## JavaScript 
 
+- [retspen/webvirtmgr](https://github.com/retspen/webvirtmgr) - WebVirtMgr panel for manage virtual machine
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [cthacker-udel/Raspberry-Pi-Scripts](https://github.com/cthacker-udel/Raspberry-Pi-Scripts) - Raspberry Pi Scripts in the following languages : Python, C++, C, Makefile, Bash Shell/Script, and Java!
@@ -327,7 +329,7 @@
 - [niklasvh/WebGL-GTA](https://github.com/niklasvh/WebGL-GTA) - JavaScript implementation of GTA
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible communication platform
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
@@ -531,7 +533,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :yellow_heart: This repository has 431 stars.
+- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :sparkling_heart: This repository has 431 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -555,6 +557,7 @@
 
 ## Rust 
 
+- [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -572,6 +575,7 @@
 
 ## Shell 
 
+- [Hax4us/TermuxBlack](https://github.com/Hax4us/TermuxBlack) - Termux repository for hacking tools and packages
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [lineage-rpi/android_device_brcm_rpi-common](https://github.com/lineage-rpi/android_device_brcm_rpi-common) - 
 - [HikariKnight/quickpassthrough](https://github.com/HikariKnight/quickpassthrough) - A project to remove the complexity of setting up GPU passthrough for qemu
