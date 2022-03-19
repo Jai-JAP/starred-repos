@@ -15,6 +15,7 @@
   - [Clojure](#clojure)
   - [D](#d)
   - [Dart](#dart)
+  - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
   - [Go](#go)
   - [HTML](#html)
@@ -256,6 +257,10 @@
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - 
 - [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
 
+## Dockerfile 
+
+- [hmsjy2017/debian-arm-build-env](https://github.com/hmsjy2017/debian-arm-build-env) - 
+
 ## Elixir 
 
 - [dwyl/hits](https://github.com/dwyl/hits) - :chart_with_upwards_trend: General purpose hits (page views) counter
@@ -466,6 +471,7 @@
 
 ## Python 
 
+- [kraibse/minecraft-art-generator](https://github.com/kraibse/minecraft-art-generator) - 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [TheBananaStore/BananaLord](https://github.com/TheBananaStore/BananaLord) - I'm the king, now feed me!
 - [mcpiscript/Planet](https://github.com/mcpiscript/Planet) - 🌍🍓 A better MCPi Launcher
@@ -533,7 +539,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :sparkling_heart: This repository has 431 stars.
+- [iBug/This-Repo-Has-432-Stars](https://github.com/iBug/This-Repo-Has-432-Stars) - Yes, it's true :heartpulse: This repository has 432 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -575,6 +581,8 @@
 
 ## Shell 
 
+- [vinceliuice/WhiteSur-wallpapers](https://github.com/vinceliuice/WhiteSur-wallpapers) - WhiteSur wallpapers
+- [ryanfortner/deb-builder](https://github.com/ryanfortner/deb-builder) - Super simple script to create Debian packages
 - [Hax4us/TermuxBlack](https://github.com/Hax4us/TermuxBlack) - Termux repository for hacking tools and packages
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [lineage-rpi/android_device_brcm_rpi-common](https://github.com/lineage-rpi/android_device_brcm_rpi-common) - 
