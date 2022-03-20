@@ -59,6 +59,8 @@
 
 ## C 
 
+- [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
+- [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
 - [abakh/nbsdgames](https://github.com/abakh/nbsdgames) - A package of 18 text-based modern games
 - [kilograham/rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
 - [axeldavy/Xnine](https://github.com/axeldavy/Xnine) - 
@@ -189,6 +191,7 @@
 
 ## C++ 
 
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [mickelson/attract](https://github.com/mickelson/attract) - A graphical front-end for command line emulators that hides the underlying operating system and is intended to be controlled with a joystick or gamepad.
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 - [fragmede/schroot](https://github.com/fragmede/schroot) - Securely enter a chroot and run a command or login shell
@@ -284,6 +287,8 @@
 
 ## HTML 
 
+- [codingforentrepreneurs/30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
+- [LAX1DUDE/eaglercraft](https://github.com/LAX1DUDE/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it through a custom proxy based on Bungeecord.
 - [sarvjeets/i-use-arch](https://github.com/sarvjeets/i-use-arch) - Get your own webpage on i-use-arch.fyi to show off your neofetch output to the world!
 - [xMysticalCoder/ImagineOS](https://github.com/xMysticalCoder/ImagineOS) - Web Version of Imagine OS
 - [dcurtis/markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.
@@ -300,6 +305,7 @@
 
 ## Java 
 
+- [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiler of Java bytecode to JavaScript
 - [Catrobat/Catroid](https://github.com/Catrobat/Catroid) - Writing programs on an Android device without prior knowledge.
 - [opencast/opencast](https://github.com/opencast/opencast) - The free and open source solution for automated video capture and distribution at scale.
 - [PhoenicisOrg/phoenicis](https://github.com/PhoenicisOrg/phoenicis) - Phoenicis PlayOnLinux and PlayOnMac 5 repository
@@ -456,7 +462,7 @@
 
 - [soxft/UrlShorting](https://github.com/soxft/UrlShorting) - A simple but powerful URL shortener
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 1.75k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 1.8k code solutions with clear explanation @ onelinerhub.com
 
 ## Perl 
 
@@ -471,6 +477,8 @@
 
 ## Python 
 
+- [AsahiLinux/asahi-installer](https://github.com/AsahiLinux/asahi-installer) - Asahi Linux installer
+- [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [kraibse/minecraft-art-generator](https://github.com/kraibse/minecraft-art-generator) - 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [TheBananaStore/BananaLord](https://github.com/TheBananaStore/BananaLord) - I'm the king, now feed me!
@@ -563,6 +571,8 @@
 
 ## Rust 
 
+- [KDE/rust-qt-binding-generator](https://github.com/KDE/rust-qt-binding-generator) - Generate bindings to use Rust code in Qt and QML
+- [SkwalExe/learn-rust](https://github.com/SkwalExe/learn-rust) - Free Rust 🦀 course in English
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
@@ -581,6 +591,10 @@
 
 ## Shell 
 
+- [AsahiLinux/asahi-scripts](https://github.com/AsahiLinux/asahi-scripts) - Miscellaneous admin scripts for the Asahi Linux reference distro
+- [AsahiLinux/PKGBUILDs](https://github.com/AsahiLinux/PKGBUILDs) - 
+- [AsahiLinux/asahi-calamares-configs](https://github.com/AsahiLinux/asahi-calamares-configs) - Asahi reference distro Calamares setup configs
+- [AsahiLinux/asahi-alarm-builder](https://github.com/AsahiLinux/asahi-alarm-builder) - Asahi Linux ALARM reference image builder
 - [vinceliuice/WhiteSur-wallpapers](https://github.com/vinceliuice/WhiteSur-wallpapers) - WhiteSur wallpapers
 - [ryanfortner/deb-builder](https://github.com/ryanfortner/deb-builder) - Super simple script to create Debian packages
 - [Hax4us/TermuxBlack](https://github.com/Hax4us/TermuxBlack) - Termux repository for hacking tools and packages
@@ -708,6 +722,7 @@
 
 ## TypeScript 
 
+- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 - [hmsjy2017/tabby](https://github.com/hmsjy2017/tabby) - A terminal for a more modern age (formerly Terminus)
