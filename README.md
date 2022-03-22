@@ -59,6 +59,8 @@
 
 ## C 
 
+- [tkinjo1985/cpuminer-multi](https://github.com/tkinjo1985/cpuminer-multi) - crypto cpuminer (linux + windows)
+- [lucasjones/cpuminer-multi](https://github.com/lucasjones/cpuminer-multi) - Multi-algo CPUMiner & Reference Cryptonote Miner (JSON-RPC 2.0)
 - [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
 - [glfw/glfw-legacy](https://github.com/glfw/glfw-legacy) - Official repository of legacy GLFW 2.x
 - [abhayanigam/Learn_C](https://github.com/abhayanigam/Learn_C) - Introduction in C language and all basic codes.
@@ -180,6 +182,7 @@
 
 ## C# # 
 
+- [WOA-Project/WOA-Deployer-Rpi](https://github.com/WOA-Project/WOA-Deployer-Rpi) - WOA Deployer for Raspberry Pi
 - [gus33000/UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
 - [opentk/opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac.
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
@@ -195,6 +198,8 @@
 
 ## C++ 
 
+- [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
+- [filcuc/dotherside](https://github.com/filcuc/dotherside) - C language library for creating bindings for the Qt QML language
 - [linuxdeepin/dtkgui](https://github.com/linuxdeepin/dtkgui) - Deepin Toolkit, gui module for DDE look and feel
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [mickelson/attract](https://github.com/mickelson/attract) - A graphical front-end for command line emulators that hides the underlying operating system and is intended to be controlled with a joystick or gamepad.
@@ -325,6 +330,8 @@
 
 ## JavaScript 
 
+- [canucklegame/canuckle](https://github.com/canucklegame/canuckle) - Canuckle - A daily Canadian word game.
+- [k0mmsussert0d/wordlesolver](https://github.com/k0mmsussert0d/wordlesolver) - CLI tool for solving wordle riddles
 - [mozilla/qbrt](https://github.com/mozilla/qbrt) - CLI to a Gecko desktop app runtime
 - [retspen/webvirtmgr](https://github.com/retspen/webvirtmgr) - WebVirtMgr panel for manage virtual machine
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
@@ -410,6 +417,7 @@
 
 ## Others 
 
+- [joshnh/Git-Commands](https://github.com/joshnh/Git-Commands) - A list of commonly used Git commands
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
@@ -491,6 +499,7 @@
 
 ## Python 
 
+- [hadcl4/Thunder](https://github.com/hadcl4/Thunder) - A gaming service that brings the best open-source software together to create a way to play games on ARM.
 - [GustavoPeredo/Font-Downloader](https://github.com/GustavoPeredo/Font-Downloader) - Download fonts from the web!
 - [AsahiLinux/asahi-installer](https://github.com/AsahiLinux/asahi-installer) - Asahi Linux installer
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
@@ -562,7 +571,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-432-Stars](https://github.com/iBug/This-Repo-Has-432-Stars) - Yes, it's true :heartpulse: This repository has 432 stars.
+- [iBug/This-Repo-Has-433-Stars](https://github.com/iBug/This-Repo-Has-433-Stars) - Yes, it's true :heart: This repository has 433 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -575,10 +584,12 @@
 
 ## Roff 
 
+- [WOA-Project/SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers) - Collection of driver binaries for Surface Duo devices
 - [RPi-Distro/chromium-browser](https://github.com/RPi-Distro/chromium-browser) - 
 
 ## Ruby 
 
+- [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [DaCuteRaccoon/img2ascii](https://github.com/DaCuteRaccoon/img2ascii) - A Ruby gem to convert images to ASCII
 - [Linuxbrew/brew](https://github.com/Linuxbrew/brew) - :beer::penguin: The Homebrew package manager for Linux
@@ -586,6 +597,10 @@
 
 ## Rust 
 
+- [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust
+- [woboq/qmetaobject-rs](https://github.com/woboq/qmetaobject-rs) - Integrate Qml and Rust by building the QMetaObject at compile time.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
+- [White-Oak/qml-rust](https://github.com/White-Oak/qml-rust) - QML (Qt Quick) bindings for Rust language
 - [Rust-GCC/cargo-gccrs](https://github.com/Rust-GCC/cargo-gccrs) - Gaining support for cargo via rustc-wrapper
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [KDE/rust-qt-binding-generator](https://github.com/KDE/rust-qt-binding-generator) - Generate bindings to use Rust code in Qt and QML
@@ -608,6 +623,7 @@
 
 ## Shell 
 
+- [sakaki-/raspbian-nspawn-64](https://github.com/sakaki-/raspbian-nspawn-64) - Bootable RPi4 / RPi3 image with 64-bit kernel, 32-bit Raspbian Buster host OS, 64-bit Debian Buster guest OS in nspawn container
 - [termux/termux-api-package](https://github.com/termux/termux-api-package) - Termux package containing scripts to call functionality in Termux:API.
 - [termux/termux-root-packages](https://github.com/termux/termux-root-packages) - Termux packages that are only usable by root users.
 - [Reyansh-Khobragade/dotfiles](https://github.com/Reyansh-Khobragade/dotfiles) - My dotfiles
@@ -742,6 +758,7 @@
 
 ## TypeScript 
 
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
@@ -768,6 +785,7 @@
 
 ## Vala 
 
+- [MCPI-Revival/gMCPIL](https://github.com/MCPI-Revival/gMCPIL) - Simple MInecraft: Pi Edition launcher - GTK+ Edition.
 - [lainsce/dot-matrix](https://github.com/lainsce/dot-matrix) - The glyph playground of creativity from simple lines
 - [Jai-JAP/pikiss-gui](https://github.com/Jai-JAP/pikiss-gui) - GTK frontend for PiKISS
 - [krishenriksen/pikiss-gui](https://github.com/krishenriksen/pikiss-gui) - Buy me a Coffee https://www.paypal.me/krishenriksendk
