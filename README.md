@@ -276,6 +276,7 @@
 
 ## Elixir 
 
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [dwyl/hits](https://github.com/dwyl/hits) - :chart_with_upwards_trend: General purpose hits (page views) counter
 
 ## Go 
@@ -297,6 +298,7 @@
 
 ## HTML 
 
+- [reactos/web-content](https://github.com/reactos/web-content) - ReactOS Website powered by the Hugo Static Site Generator
 - [codingforentrepreneurs/30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
 - [LAX1DUDE/eaglercraft](https://github.com/LAX1DUDE/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it through a custom proxy based on Bungeecord.
 - [sarvjeets/i-use-arch](https://github.com/sarvjeets/i-use-arch) - Get your own webpage on i-use-arch.fyi to show off your neofetch output to the world!
@@ -330,6 +332,8 @@
 
 ## JavaScript 
 
+- [BlueBirdMC/BlueBird](https://github.com/BlueBirdMC/BlueBird) - New mcbe software created in js
+- [dec0dOS/standard-notes-fast-editor](https://github.com/dec0dOS/standard-notes-fast-editor) - A mobile-friendly and high-performance editor that makes it easy to write and read nested notes in https://standardnotes.org/
 - [canucklegame/canuckle](https://github.com/canucklegame/canuckle) - Canuckle - A daily Canadian word game.
 - [k0mmsussert0d/wordlesolver](https://github.com/k0mmsussert0d/wordlesolver) - CLI tool for solving wordle riddles
 - [mozilla/qbrt](https://github.com/mozilla/qbrt) - CLI to a Gecko desktop app runtime
@@ -417,6 +421,8 @@
 
 ## Others 
 
+- [open-sorcerer64/stacer-on-pi](https://github.com/open-sorcerer64/stacer-on-pi) - 
+- [mcpiscript/PPA](https://github.com/mcpiscript/PPA) - PPA for mcpi-related projects
 - [joshnh/Git-Commands](https://github.com/joshnh/Git-Commands) - A list of commonly used Git commands
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
@@ -482,6 +488,7 @@
 
 ## PHP 
 
+- [boxbilling/boxbilling](https://github.com/boxbilling/boxbilling) - BoxBilling - Open source billing and client management software
 - [soxft/UrlShorting](https://github.com/soxft/UrlShorting) - A simple but powerful URL shortener
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 1.8k code solutions with clear explanation @ onelinerhub.com
@@ -499,6 +506,12 @@
 
 ## Python 
 
+- [termius/termius-cli](https://github.com/termius/termius-cli) - CLI for the ssh client Termius
+- [slashtechno/noobs-flasher](https://github.com/slashtechno/noobs-flasher) - Automated tool to install NOOBS on a Raspberry Pi
+- [slashtechno/github-backup](https://github.com/slashtechno/github-backup) - A simple semi-automated script to backup Github repositories
+- [slashtechno/pyurl](https://github.com/slashtechno/pyurl) - Python URL shortener
+- [slashtechno/mount-usb](https://github.com/slashtechno/mount-usb) - Mount USB drives on Linux, eject them and manage mount points easily
+- [open-sorcerer64/PyIDEA](https://github.com/open-sorcerer64/PyIDEA) - Python IDE written completely in Python using tkinter
 - [hadcl4/Thunder](https://github.com/hadcl4/Thunder) - A gaming service that brings the best open-source software together to create a way to play games on ARM.
 - [GustavoPeredo/Font-Downloader](https://github.com/GustavoPeredo/Font-Downloader) - Download fonts from the web!
 - [AsahiLinux/asahi-installer](https://github.com/AsahiLinux/asahi-installer) - Asahi Linux installer
@@ -623,6 +636,9 @@
 
 ## Shell 
 
+- [joshnh/bash_profile](https://github.com/joshnh/bash_profile) - 
+- [nmilosev/anyfed](https://github.com/nmilosev/anyfed) - Universal Fedora chroot tool
+- [open-sorcerer64/jetbrains-RPi](https://github.com/open-sorcerer64/jetbrains-RPi) - Installation scripts for all JetBrains IDEs that can run on the Raspberry Pi
 - [sakaki-/raspbian-nspawn-64](https://github.com/sakaki-/raspbian-nspawn-64) - Bootable RPi4 / RPi3 image with 64-bit kernel, 32-bit Raspbian Buster host OS, 64-bit Debian Buster guest OS in nspawn container
 - [termux/termux-api-package](https://github.com/termux/termux-api-package) - Termux package containing scripts to call functionality in Termux:API.
 - [termux/termux-root-packages](https://github.com/termux/termux-root-packages) - Termux packages that are only usable by root users.
@@ -758,6 +774,9 @@
 
 ## TypeScript 
 
+- [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely. vscode background 背景扩展插件。
+- [oae/gnome-shell-extensions-sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations
+- [leonwind/cli2cloud](https://github.com/leonwind/cli2cloud) - Pipe your terminal output to the cloud.
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
@@ -795,6 +814,7 @@
 
 ## Vim script 
 
+- [josethz00/neovim-like-vscode](https://github.com/josethz00/neovim-like-vscode) - This is a public repo, that contains some settings and plugins that allows you to use NeoVim like Visual Studio Code.
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 
 ## Vue 
