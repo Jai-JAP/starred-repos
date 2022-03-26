@@ -40,6 +40,7 @@
   - [Shell](#shell)
   - [Swift](#swift)
   - [TypeScript](#typescript)
+  - [V](#v)
   - [Vala](#vala)
   - [Vim script](#vim-script)
   - [Vue](#vue)
@@ -267,6 +268,7 @@
 
 ## CSS 
 
+- [caracal-js/Incognito](https://github.com/caracal-js/Incognito) - Source code.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
@@ -453,6 +455,8 @@
 
 ## Others 
 
+- [hmsjy2017/termux-extras](https://github.com/hmsjy2017/termux-extras) - 
+- [watermelon4468/tasty-grubs](https://github.com/watermelon4468/tasty-grubs) - A collection of GRUB2 themes.
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) - Educational resources to learn to program (Foundation in Web Development)
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
@@ -654,6 +658,7 @@
 
 ## Rust 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust
@@ -682,6 +687,9 @@
 
 ## Shell 
 
+- [AppImage/appimage.github.io](https://github.com/AppImage/appimage.github.io) - Given an URL to an AppImage, AppImageHub inspects the AppImage and puts it into a community-maintained catalog
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
+- [RPi-Distro/pi-bluetooth](https://github.com/RPi-Distro/pi-bluetooth) - Loads BCM43430A1 firmware on boot
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 - [zerojay/RetroPie-Extra](https://github.com/zerojay/RetroPie-Extra) - A collection of unofficial scripts for adding more emulators/ports/games to RetroPie.
 - [joshnh/bash_profile](https://github.com/joshnh/bash_profile) - 
@@ -849,6 +857,10 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord web-based client made with the :electron:.
+
+## V 
+
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## Vala 
 
