@@ -61,6 +61,7 @@
 
 ## C 
 
+- [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [revengsmK/exploader](https://github.com/revengsmK/exploader) - Windows 10 (32-bit) temporary watermark remover.
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
@@ -325,6 +326,7 @@
 - [sarvjeets/i-use-arch](https://github.com/sarvjeets/i-use-arch) - Get your own webpage on i-use-arch.fyi to show off your neofetch output to the world!
 - [xMysticalCoder/ImagineOS](https://github.com/xMysticalCoder/ImagineOS) - Web Version of Imagine OS
 - [dcurtis/markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.
+- [TheBananaStore/web-store](https://github.com/TheBananaStore/web-store) - This is the Banana Web Store online page repo, built with raw HTML, CSS, and JS.
 - [raspberrypi/raspberrypi.github.io](https://github.com/raspberrypi/raspberrypi.github.io) - Raspberry Pi GitHub organisations
 - [Itai-Nelken/Webcord_debian-repo](https://github.com/Itai-Nelken/Webcord_debian-repo) - unofficial repo for electron-discord-webapp (https://github.com/SpacingBat3/WebCord) by @SpacingBat3
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
@@ -342,6 +344,7 @@
 
 ## Java 
 
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
 - [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiler of Java bytecode to JavaScript
@@ -357,6 +360,8 @@
 
 ## JavaScript 
 
+- [hmanzur/actions-set-secret](https://github.com/hmanzur/actions-set-secret) - Create or update secrets in github repository
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [Annihil/github-spray](https://github.com/Annihil/github-spray) - :octocat: Draw on your GitHub contribution graph ░▒▓█
@@ -386,7 +391,6 @@
 - [doctolib/windows-binary-architecture](https://github.com/doctolib/windows-binary-architecture) - Find the target CPU architecture of Windows binaries (DLLs, EXEs and others).
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
-- [TheBananaStore/web-store](https://github.com/TheBananaStore/web-store) - This is the Banana Web Store online page, built with React.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [aalin/gta2.js](https://github.com/aalin/gta2.js) - GTA2 in JavaScript
 - [Kajakklubben/gta2-webgl](https://github.com/Kajakklubben/gta2-webgl) - Why not port GTA2 to webgl? That's a great idea....
@@ -455,6 +459,7 @@
 
 ## Others 
 
+- [lorien/the-art-of-command-line](https://github.com/lorien/the-art-of-command-line) - Master the command line, in one page
 - [hmsjy2017/termux-extras](https://github.com/hmsjy2017/termux-extras) - 
 - [watermelon4468/tasty-grubs](https://github.com/watermelon4468/tasty-grubs) - A collection of GRUB2 themes.
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
@@ -549,6 +554,7 @@
 
 ## Python 
 
+- [NFadhlurrahman/package-manager-gui](https://github.com/NFadhlurrahman/package-manager-gui) - A tool for managing Python packages
 - [piwheels/piwheels](https://github.com/piwheels/piwheels) - Python package repository providing wheels (pre-built binaries) for Raspberry Pi
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
@@ -658,6 +664,7 @@
 
 ## Rust 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -687,6 +694,7 @@
 
 ## Shell 
 
+- [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
 - [AppImage/appimage.github.io](https://github.com/AppImage/appimage.github.io) - Given an URL to an AppImage, AppImageHub inspects the AppImage and puts it into a community-maintained catalog
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
 - [RPi-Distro/pi-bluetooth](https://github.com/RPi-Distro/pi-bluetooth) - Loads BCM43430A1 firmware on boot
