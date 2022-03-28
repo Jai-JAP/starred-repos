@@ -207,6 +207,7 @@
 
 ## C++ 
 
+- [voyageur/openglide](https://github.com/voyageur/openglide) - Git mirror of openglide CVS (http://openglide.sourceforge.net/)
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
@@ -554,6 +555,7 @@
 
 ## Python 
 
+- [jleclanche/tan](https://github.com/jleclanche/tan) - The uncompromising Python code formatter
 - [NFadhlurrahman/package-manager-gui](https://github.com/NFadhlurrahman/package-manager-gui) - A tool for managing Python packages
 - [piwheels/piwheels](https://github.com/piwheels/piwheels) - Python package repository providing wheels (pre-built binaries) for Raspberry Pi
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
