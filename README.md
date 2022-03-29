@@ -61,6 +61,9 @@
 
 ## C 
 
+- [fluix-dev/sway-borders](https://github.com/fluix-dev/sway-borders) - Fork of sway with some extra features, mainly related to borders.
+- [adlererik/qemu-virgl](https://github.com/adlererik/qemu-virgl) - Debianization QEMU code with spice OpenGL/virgl acceleration.
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [revengsmK/exploader](https://github.com/revengsmK/exploader) - Windows 10 (32-bit) temporary watermark remover.
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
@@ -302,6 +305,7 @@
 
 ## Go 
 
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [mkaczanowski/packer-builder-arm](https://github.com/mkaczanowski/packer-builder-arm) - Packer plugin to build ARM images
@@ -320,6 +324,7 @@
 
 ## HTML 
 
+- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
 - [reactos/web-content](https://github.com/reactos/web-content) - ReactOS Website powered by the Hugo Static Site Generator
 - [codingforentrepreneurs/30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
@@ -327,7 +332,7 @@
 - [sarvjeets/i-use-arch](https://github.com/sarvjeets/i-use-arch) - Get your own webpage on i-use-arch.fyi to show off your neofetch output to the world!
 - [xMysticalCoder/ImagineOS](https://github.com/xMysticalCoder/ImagineOS) - Web Version of Imagine OS
 - [dcurtis/markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.
-- [TheBananaStore/web-store](https://github.com/TheBananaStore/web-store) - This is the Banana Web Store online page repo, built with raw HTML, CSS, and JS.
+- [TheBananaStore/web-store](https://github.com/TheBananaStore/web-store) - 🌐🍌This is the Banana Web Store online page repo, built with raw HTML, CSS, and JS.
 - [raspberrypi/raspberrypi.github.io](https://github.com/raspberrypi/raspberrypi.github.io) - Raspberry Pi GitHub organisations
 - [Itai-Nelken/Webcord_debian-repo](https://github.com/Itai-Nelken/Webcord_debian-repo) - unofficial repo for electron-discord-webapp (https://github.com/SpacingBat3/WebCord) by @SpacingBat3
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
@@ -372,7 +377,7 @@
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [BlueBirdMC/BlueBird](https://github.com/BlueBirdMC/BlueBird) - New mcbe software created in js
+- [BlueBirdMC/BlueBirdLegacy](https://github.com/BlueBirdMC/BlueBirdLegacy) - New mcbe software created in js
 - [dec0dOS/standard-notes-fast-editor](https://github.com/dec0dOS/standard-notes-fast-editor) - A mobile-friendly and high-performance editor that makes it easy to write and read nested notes in https://standardnotes.org/
 - [canucklegame/canuckle](https://github.com/canucklegame/canuckle) - Canuckle - A daily Canadian word game.
 - [k0mmsussert0d/wordlesolver](https://github.com/k0mmsussert0d/wordlesolver) - CLI tool for solving wordle riddles
@@ -555,6 +560,8 @@
 
 ## Python 
 
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [jleclanche/tan](https://github.com/jleclanche/tan) - The uncompromising Python code formatter
 - [NFadhlurrahman/package-manager-gui](https://github.com/NFadhlurrahman/package-manager-gui) - A tool for managing Python packages
 - [piwheels/piwheels](https://github.com/piwheels/piwheels) - Python package repository providing wheels (pre-built binaries) for Raspberry Pi
@@ -640,7 +647,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-433-Stars](https://github.com/iBug/This-Repo-Has-433-Stars) - Yes, it's true :orange_heart: This repository has 433 stars.
+- [iBug/This-Repo-Has-433-Stars](https://github.com/iBug/This-Repo-Has-433-Stars) - Yes, it's true :gift_heart: This repository has 433 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -658,6 +665,7 @@
 
 ## Ruby 
 
+- [knazarov/homebrew-qemu-virgl](https://github.com/knazarov/homebrew-qemu-virgl) - A homebrew tap for qemu with support for 3d accelerated guests
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [DaCuteRaccoon/img2ascii](https://github.com/DaCuteRaccoon/img2ascii) - A Ruby gem to convert images to ASCII
@@ -666,6 +674,7 @@
 
 ## Rust 
 
+- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
@@ -696,6 +705,10 @@
 
 ## Shell 
 
+- [raspberrypi/rpi-eeprom](https://github.com/raspberrypi/rpi-eeprom) - Installation scripts and binaries for the closed sourced Raspberry Pi 4 EEPROMs
+- [openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64) - This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)
+- [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
+- [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
 - [AppImage/appimage.github.io](https://github.com/AppImage/appimage.github.io) - Given an URL to an AppImage, AppImageHub inspects the AppImage and puts it into a community-maintained catalog
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
@@ -840,12 +853,13 @@
 
 ## TypeScript 
 
+- [ruslang02/discord-qt](https://github.com/ruslang02/discord-qt) - Discord client powered by Node.JS and Qt Widgets.
 - [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely. vscode background 背景扩展插件。
 - [oae/gnome-shell-extensions-sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations
 - [leonwind/cli2cloud](https://github.com/leonwind/cli2cloud) - Pipe your terminal output to the cloud.
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
-- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 - [hmsjy2017/tabby](https://github.com/hmsjy2017/tabby) - A terminal for a more modern age (formerly Terminus)
 - [teuteuf/worldle](https://github.com/teuteuf/worldle) - 
