@@ -61,6 +61,8 @@
 
 ## C 
 
+- [madewokherd/wine-mono](https://github.com/madewokherd/wine-mono) - 
+- [raspberrypi/userland](https://github.com/raspberrypi/userland) - Source code for ARM side libraries for interfacing to Raspberry Pi GPU.
 - [fluix-dev/sway-borders](https://github.com/fluix-dev/sway-borders) - Fork of sway with some extra features, mainly related to borders.
 - [adlererik/qemu-virgl](https://github.com/adlererik/qemu-virgl) - Debianization QEMU code with spice OpenGL/virgl acceleration.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -210,6 +212,7 @@
 
 ## C++ 
 
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [voyageur/openglide](https://github.com/voyageur/openglide) - Git mirror of openglide CVS (http://openglide.sourceforge.net/)
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.
@@ -366,6 +369,8 @@
 
 ## JavaScript 
 
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [khlam/discord-sandboxed](https://github.com/khlam/discord-sandboxed) - An open source, privacy-focused Discord client.
 - [hmanzur/actions-set-secret](https://github.com/hmanzur/actions-set-secret) - Create or update secrets in github repository
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -443,6 +448,7 @@
 
 ## Makefile 
 
+- [ipxe/pipxe](https://github.com/ipxe/pipxe) - iPXE for the Raspberry Pi
 - [turquoise-hexagon/fonts](https://github.com/turquoise-hexagon/fonts) - another bitmap fonts repo
 - [lineage-rpi/proprietary_vendor_brcm](https://github.com/lineage-rpi/proprietary_vendor_brcm) - 
 - [lineage-rpi/android_device_brcm_rpi4](https://github.com/lineage-rpi/android_device_brcm_rpi4) - 
@@ -545,7 +551,7 @@
 - [boxbilling/boxbilling](https://github.com/boxbilling/boxbilling) - BoxBilling - Open source billing and client management software
 - [soxft/UrlShorting](https://github.com/soxft/UrlShorting) - A simple but powerful URL shortener
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
-- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 1.9k code solutions with clear explanation @ onelinerhub.com
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2k code solutions with clear explanation @ onelinerhub.com
 
 ## Perl 
 
@@ -560,6 +566,9 @@
 
 ## Python 
 
+- [knight0x07/pyc2bytecode](https://github.com/knight0x07/pyc2bytecode) - A Python Bytecode Disassembler helping reverse engineers in dissecting Python binaries by disassembling and analyzing the compiled python byte-code(.pyc) files across all python versions (including Python 3.10.*)
+- [wine-compholio/wine-packaging](https://github.com/wine-compholio/wine-packaging) - Packaging files for Wine. Report bugs at https://bugs.winehq.org/.
+- [Max-py54/Tkinter-grid](https://github.com/Max-py54/Tkinter-grid) - A grid for Tkinter, Python. You can control every box in the grid (useful for simple graphics in Tkinter).
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [jleclanche/tan](https://github.com/jleclanche/tan) - The uncompromising Python code formatter
@@ -581,7 +590,7 @@
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [kraibse/minecraft-art-generator](https://github.com/kraibse/minecraft-art-generator) - 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [TheBananaStore/BananaLord](https://github.com/TheBananaStore/BananaLord) - I'm the king, now feed me!
+- [TheBananaStore/BananaLord](https://github.com/TheBananaStore/BananaLord) - Discord.py bot for the Banana App Store server.
 - [mcpiscript/Planet](https://github.com/mcpiscript/Planet) - 🌍🍓 A better MCPi Launcher
 - [qutip/qutip](https://github.com/qutip/qutip) - QuTiP: Quantum Toolbox in Python
 - [cycool29/pi-apps-gui](https://github.com/cycool29/pi-apps-gui) - 
