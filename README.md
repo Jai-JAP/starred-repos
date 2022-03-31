@@ -61,6 +61,7 @@
 
 ## C 
 
+- [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [madewokherd/wine-mono](https://github.com/madewokherd/wine-mono) - 
 - [raspberrypi/userland](https://github.com/raspberrypi/userland) - Source code for ARM side libraries for interfacing to Raspberry Pi GPU.
 - [fluix-dev/sway-borders](https://github.com/fluix-dev/sway-borders) - Fork of sway with some extra features, mainly related to borders.
@@ -369,6 +370,7 @@
 
 ## JavaScript 
 
+- [FreeTubeApp/freetube-redirect](https://github.com/FreeTubeApp/freetube-redirect) - Browser extension to open YouTube links into FreeTube
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [khlam/discord-sandboxed](https://github.com/khlam/discord-sandboxed) - An open source, privacy-focused Discord client.
 - [hmanzur/actions-set-secret](https://github.com/hmanzur/actions-set-secret) - Create or update secrets in github repository
@@ -471,6 +473,8 @@
 
 ## Others 
 
+- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
 - [lorien/the-art-of-command-line](https://github.com/lorien/the-art-of-command-line) - Master the command line, in one page
 - [hmsjy2017/termux-extras](https://github.com/hmsjy2017/termux-extras) - 
 - [watermelon4468/tasty-grubs](https://github.com/watermelon4468/tasty-grubs) - A collection of GRUB2 themes.
@@ -566,6 +570,10 @@
 
 ## Python 
 
+- [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
+- [GDWR/colours](https://github.com/GDWR/colours) - A webservice to serve images generated from colours passed in via request path.
+- [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
+- [asottile/all-repos](https://github.com/asottile/all-repos) - Clone all your repositories and apply sweeping changes.
 - [knight0x07/pyc2bytecode](https://github.com/knight0x07/pyc2bytecode) - A Python Bytecode Disassembler helping reverse engineers in dissecting Python binaries by disassembling and analyzing the compiled python byte-code(.pyc) files across all python versions (including Python 3.10.*)
 - [wine-compholio/wine-packaging](https://github.com/wine-compholio/wine-packaging) - Packaging files for Wine. Report bugs at https://bugs.winehq.org/.
 - [Max-py54/Tkinter-grid](https://github.com/Max-py54/Tkinter-grid) - A grid for Tkinter, Python. You can control every box in the grid (useful for simple graphics in Tkinter).
@@ -656,7 +664,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-433-Stars](https://github.com/iBug/This-Repo-Has-433-Stars) - Yes, it's true :gift_heart: This repository has 433 stars.
+- [iBug/This-Repo-Has-432-Stars](https://github.com/iBug/This-Repo-Has-432-Stars) - Yes, it's true :heartpulse: This repository has 432 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -714,6 +722,8 @@
 
 ## Shell 
 
+- [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
+- [ofirgall/tmux-browser](https://github.com/ofirgall/tmux-browser) - Web browser sessions attached to tmux sessions
 - [raspberrypi/rpi-eeprom](https://github.com/raspberrypi/rpi-eeprom) - Installation scripts and binaries for the closed sourced Raspberry Pi 4 EEPROMs
 - [openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64) - This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)
 - [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
