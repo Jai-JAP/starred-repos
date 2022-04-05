@@ -11,6 +11,7 @@
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
+  - [CMake](#cmake)
   - [CSS](#css)
   - [Clojure](#clojure)
   - [D](#d)
@@ -62,6 +63,7 @@
 
 ## C 
 
+- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [jcomeauictx/colinux](https://github.com/jcomeauictx/colinux) - 
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [microsoft/winfile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
@@ -292,6 +294,10 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [td512/re3](https://github.com/td512/re3) - GTA III, Vice City
 
+## CMake 
+
+- [Ravbug/AppImage.cmake](https://github.com/Ravbug/AppImage.cmake) - Generate AppImages automatically from your CMake build process
+
 ## CSS 
 
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
@@ -372,6 +378,8 @@
 
 ## Java 
 
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
+- [CoderLogy/Java-maths-calaculator-for-beginners](https://github.com/CoderLogy/Java-maths-calaculator-for-beginners) - I am learning java so I made a calculator with it to do some calculations. Lol
 - [Alvarito050506/mc4k](https://github.com/Alvarito050506/mc4k) - Minecraft 4K, but fixed.
 - [MCPI-Revival/minecraft-4k-reborn](https://github.com/MCPI-Revival/minecraft-4k-reborn) - Our new big project! [APRIL FOOLS!]
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
@@ -390,6 +398,8 @@
 
 ## JavaScript 
 
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+- [fosscord/fosscord-client](https://github.com/fosscord/fosscord-client) - Open source, themeable and extendable discord-compatible native fosscord client
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
@@ -497,6 +507,7 @@
 
 ## Others 
 
+- [android-rpi/local_manifests](https://github.com/android-rpi/local_manifests) - Android on Raspberry Pi : Entry-Point
 - [jay0lee/CPython-Windows-ARM64](https://github.com/jay0lee/CPython-Windows-ARM64) - Unofficial Python 3 binaries for Windows on ARM devices like the Surface Pro X
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [microsoft/DirectStorage](https://github.com/microsoft/DirectStorage) - DirectStorage for Windows is an API that allows game developers to unlock the full potential of high speed NVMe drives for loading game assets.
@@ -588,6 +599,7 @@
 
 ## Perl 
 
+- [raspbian-addons/packages.raspbian-addons.org](https://github.com/raspbian-addons/packages.raspbian-addons.org) - [wip] package search website for raspbian-addons
 - [jnweiger/showspeed](https://github.com/jnweiger/showspeed) - print I/O activity of process, files, or network.
 - [apt-mirror/apt-mirror](https://github.com/apt-mirror/apt-mirror) - Official apt-mirror source.
 
@@ -599,6 +611,10 @@
 
 ## Python 
 
+- [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
+- [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
+- [pypa/pip](https://github.com/pypa/pip) - The Python package installer
+- [Red-exe-Engineer/Minecraft-pi-reborn-texture-swapper](https://github.com/Red-exe-Engineer/Minecraft-pi-reborn-texture-swapper) - This simple GUI program lets you easily swap texture packs!
 - [adyrosebrigg/pyWordle](https://github.com/adyrosebrigg/pyWordle) - No I don't play wordle. Yes I reimplemented it in python for funsies based on my best friend's obsession with it and spinoff games. :^)
 - [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - A simple backup tool for Linux
 - [20Koen02/GamePilot](https://github.com/20Koen02/GamePilot) - Autonomous driving in simulators
@@ -761,6 +777,7 @@
 
 ## Shell 
 
+- [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [willfarrell/docker-crontab](https://github.com/willfarrell/docker-crontab) - A docker job scheduler (aka. crontab for docker)
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
