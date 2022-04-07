@@ -225,6 +225,7 @@
 
 ## C++ 
 
+- [mholtkamp/octave](https://github.com/mholtkamp/octave) - A simple 3D game engine for GameCube, Wii, 3DS, Windows, and Linux.
 - [mholtkamp/retro-league](https://github.com/mholtkamp/retro-league) - Retro League GX is a demake of Rocket League for older game consoles.
 - [HerMajestyDrMona/Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - "Windows 11 Drag & Drop to the Taskbar (Fix)" fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like UndockingDisabled or restoration of the classic taskbar.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -302,6 +303,7 @@
 
 ## CSS 
 
+- [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [caracal-js/Incognito](https://github.com/caracal-js/Incognito) - Source code.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -335,6 +337,7 @@
 
 ## Go 
 
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -400,6 +403,7 @@
 
 ## JavaScript 
 
+- [alseambusher/crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [BraydenTW/book-of-mormon-api](https://github.com/BraydenTW/book-of-mormon-api) - The ultimate Book of Mormon API. Built with Node and Express.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -617,6 +621,8 @@
 
 ## Python 
 
+- [oskarsh/Yin-Yang](https://github.com/oskarsh/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
@@ -751,6 +757,7 @@
 
 ## Rust 
 
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
