@@ -64,6 +64,7 @@
 
 ## C 
 
+- [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [jcomeauictx/colinux](https://github.com/jcomeauictx/colinux) - 
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
@@ -206,6 +207,7 @@
 
 ## C# # 
 
+- [emoacht/Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease
 - [JasonStein/Notepads](https://github.com/JasonStein/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [dotnet/msbuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
@@ -225,6 +227,7 @@
 
 ## C++ 
 
+- [raspberrypi/libcamera-apps](https://github.com/raspberrypi/libcamera-apps) - 
 - [mholtkamp/octave](https://github.com/mholtkamp/octave) - A simple 3D game engine for GameCube, Wii, 3DS, Windows, and Linux.
 - [mholtkamp/retro-league](https://github.com/mholtkamp/retro-league) - Retro League GX is a demake of Rocket League for older game consoles.
 - [HerMajestyDrMona/Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - "Windows 11 Drag & Drop to the Taskbar (Fix)" fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like UndockingDisabled or restoration of the classic taskbar.
@@ -403,6 +406,7 @@
 
 ## JavaScript 
 
+- [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [alseambusher/crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [BraydenTW/book-of-mormon-api](https://github.com/BraydenTW/book-of-mormon-api) - The ultimate Book of Mormon API. Built with Node and Express.
@@ -757,6 +761,10 @@
 
 ## Rust 
 
+- [uutils/uucore](https://github.com/uutils/uucore) - Code shared between uutils projects
+- [uutils/platform-info](https://github.com/uutils/platform-info) - A cross-platform way to get information about your machine
+- [uutils/findutils](https://github.com/uutils/findutils) - Rust implementation of findutils
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
