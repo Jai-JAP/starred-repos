@@ -38,6 +38,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [ShaderLab](#shaderlab)
   - [Shell](#shell)
   - [Swift](#swift)
   - [TypeScript](#typescript)
@@ -228,6 +229,7 @@
 
 ## C++ 
 
+- [linuxdeepin/qt5integration](https://github.com/linuxdeepin/qt5integration) - Qt platform theme integration plugins for DDE.
 - [raspberrypi/libcamera-apps](https://github.com/raspberrypi/libcamera-apps) - 
 - [mholtkamp/octave](https://github.com/mholtkamp/octave) - A simple 3D game engine for GameCube, Wii, 3DS, Windows, and Linux.
 - [mholtkamp/retro-league](https://github.com/mholtkamp/retro-league) - Retro League GX is a demake of Rocket League for older game consoles.
@@ -627,6 +629,11 @@
 
 ## Python 
 
+- [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls` for the pros.
+- [pythonguis/pyqtconfig](https://github.com/pythonguis/pyqtconfig) - A PyQt config manager. Keep Qt widgets in sync with an config dictionary and/or QSettings object.
+- [pythonguis/15-minute-apps](https://github.com/pythonguis/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
+- [xonsh/py-bash-completion](https://github.com/xonsh/py-bash-completion) - A framework for accessing bash completions from Python
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [Asocia/binary-clock-wallpaper](https://github.com/Asocia/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
 - [pythonguis/python-qtwidgets](https://github.com/pythonguis/python-qtwidgets) - Custom widget library for PyQt5 and PySide2 (Qt for Python). Free to use in your own applications.
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
@@ -766,6 +773,7 @@
 
 ## Rust 
 
+- [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf) - Website for graphing performance of rustc
 - [uutils/uucore](https://github.com/uutils/uucore) - Code shared between uutils projects
 - [uutils/platform-info](https://github.com/uutils/platform-info) - A cross-platform way to get information about your machine
 - [uutils/findutils](https://github.com/uutils/findutils) - Rust implementation of findutils
@@ -801,6 +809,10 @@
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme "yaru". Better than a 🌯.
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
+
+## ShaderLab 
+
+- [josfeldmann/WordGame](https://github.com/josfeldmann/WordGame) - An open sourcce word game based on wordle
 
 ## Shell 
 
