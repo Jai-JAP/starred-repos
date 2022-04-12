@@ -65,6 +65,8 @@
 
 ## C 
 
+- [Mashpoe/c-vector](https://github.com/Mashpoe/c-vector) - a simple vector library written in C. Can store any type
+- [probonopd/zsync-curl](https://github.com/probonopd/zsync-curl) - Partial/differential file download client over HTTP(S)
 - [wyatt8740/glc](https://github.com/wyatt8740/glc) - Original nullkey/glc repository backup. "glc is an ALSA & OpenGL capture tool for Linux." Preserving the legacy of the now-disappeared repository https://github.com/nullkey/glc . Made from the clone of the repo I made before armageddon. Wiki pages restored by scraping archive.org and manually formatting, since I hadn't backed that up.
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
@@ -630,6 +632,8 @@
 
 ## Python 
 
+- [bluesabre/mugshot](https://github.com/bluesabre/mugshot) - Mugshot - User Management Utility for Linux
+- [brccabral/WeatherPySimpleGUI](https://github.com/brccabral/WeatherPySimpleGUI) - Weather using PySimpleGUI
 - [rollingrhinoremix/rhino-config](https://github.com/rollingrhinoremix/rhino-config) - Rhino Config is a command-line utility that allows you to configure Rhino, our utility tool that allows you to upgrade the distribution. You will be able to configure Rhino to download and install the latest Linux kernel, proprietary drivers and more!
 - [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls` for the pros.
 - [pythonguis/pyqtconfig](https://github.com/pythonguis/pyqtconfig) - A PyQt config manager. Keep Qt widgets in sync with an config dictionary and/or QSettings object.
@@ -819,6 +823,7 @@
 
 ## Shell 
 
+- [buddyjojo/worli](https://github.com/buddyjojo/worli) - simple wor on linux installer
 - [rollingrhinoremix/distro](https://github.com/rollingrhinoremix/distro) - This repository is a collection of assets and scripts used in the creation of Rolling Rhino Remix. We have a full documented guide on how to create your own disk image of Rolliing Rhino Remix.
 - [rollingrhinoremix/rhino-update](https://github.com/rollingrhinoremix/rhino-update) - Rhino Update is a command-line utility script which will provide updates to items that do not hit the Ubuntu devel repositories, such as the latest Linux Kernel.
 - [RPi-Distro/userconf-pi](https://github.com/RPi-Distro/userconf-pi) - Raspberry Pi tool to rename a user
