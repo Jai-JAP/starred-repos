@@ -66,6 +66,7 @@
 
 ## C 
 
+- [Coreforge/linux](https://github.com/Coreforge/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum
 - [Mashpoe/c-vector](https://github.com/Mashpoe/c-vector) - a simple vector library written in C. Can store any type
 - [probonopd/zsync-curl](https://github.com/probonopd/zsync-curl) - Partial/differential file download client over HTTP(S)
 - [wyatt8740/glc](https://github.com/wyatt8740/glc) - Original nullkey/glc repository backup. "glc is an ALSA & OpenGL capture tool for Linux." Preserving the legacy of the now-disappeared repository https://github.com/nullkey/glc . Made from the clone of the repo I made before armageddon. Wiki pages restored by scraping archive.org and manually formatting, since I hadn't backed that up.
@@ -235,6 +236,9 @@
 
 ## C++ 
 
+- [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
+- [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
+- [nptr/msstyleEditor](https://github.com/nptr/msstyleEditor) - an editor for windows visual styles
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [linuxdeepin/qt5integration](https://github.com/linuxdeepin/qt5integration) - Qt platform theme integration plugins for DDE.
 - [raspberrypi/libcamera-apps](https://github.com/raspberrypi/libcamera-apps) - 
@@ -469,7 +473,6 @@
 - [Kajakklubben/gta2-webgl](https://github.com/Kajakklubben/gta2-webgl) - Why not port GTA2 to webgl? That's a great idea....
 - [niklasvh/WebGL-GTA](https://github.com/niklasvh/WebGL-GTA) - JavaScript implementation of GTA
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
-- [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible communication platform
@@ -534,6 +537,8 @@
 
 ## Others 
 
+- [InfinityQ-Ultra/box86-wine-x86-termux-proot](https://github.com/InfinityQ-Ultra/box86-wine-x86-termux-proot) - Simple script for easily installing box68 & wine x86 on termux proot (for android)
+- [chef/os_release](https://github.com/chef/os_release) - A repo containing the /etc/os-release file from various Linux distros
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [Jai-JAP/hyper-arm-builds](https://github.com/Jai-JAP/hyper-arm-builds) - 
 - [Jai-JAP/tabby-arm-builds](https://github.com/Jai-JAP/tabby-arm-builds) - 
@@ -733,7 +738,6 @@
 - [hermanhermitage/videocoreiv](https://github.com/hermanhermitage/videocoreiv) - Tools and information for the Broadcom VideoCore IV (RaspberryPi)
 - [volitank/pyshell](https://github.com/volitank/pyshell) - pyshell is a Linux subprocess module
 - [volitank/nala](https://github.com/volitank/nala) - a wrapper for the apt package manager.
-- [firedm/FireDM](https://github.com/firedm/FireDM) - python open source (Internet Download Manager) with multi-connections, high speed engine, based on python, LibCurl, and youtube_dl https://github.com/firedm/FireDM
 - [virtio-win/virtio-win-guest-tools-installer](https://github.com/virtio-win/virtio-win-guest-tools-installer) - 
 - [Gamper98/Sudoku-Solver](https://github.com/Gamper98/Sudoku-Solver) - Sudoku solver written in python
 - [KrispyCamel4u/SysMonTask](https://github.com/KrispyCamel4u/SysMonTask) - Linux system monitor with the compactness and usefulness of windows task manager to allow higher control and monitoring.
@@ -767,7 +771,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-435-Stars](https://github.com/iBug/This-Repo-Has-435-Stars) - Yes, it's true :two_hearts: This repository has 435 stars.
+- [iBug/This-Repo-Has-436-Stars](https://github.com/iBug/This-Repo-Has-436-Stars) - Yes, it's true :heartpulse: This repository has 436 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
