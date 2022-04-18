@@ -66,6 +66,7 @@
 
 ## C 
 
+- [mhsjlw/mcpilauncher](https://github.com/mhsjlw/mcpilauncher) - Launch Minecraft: PI Edition on non-ARM-based Linux systems
 - [npp-plugins/mimetools](https://github.com/npp-plugins/mimetools) - 
 - [npp-plugins/converter](https://github.com/npp-plugins/converter) - 
 - [gup4win/wingup](https://github.com/gup4win/wingup) - WinGup - Generic Updater for Windows
@@ -548,6 +549,7 @@
 
 ## Others 
 
+- [Red-exe-Engineer/Compiled-Scratch-Games](https://github.com/Red-exe-Engineer/Compiled-Scratch-Games) - A list of compiled Scratch games you can play in the browser!
 - [jorgem-seq/NVIDIA-Linux-304.137-patches](https://github.com/jorgem-seq/NVIDIA-Linux-304.137-patches) - NVIDIA 304.137 Patches for newer Linux kernels
 - [InfinityQ-Ultra/box86-wine-x86-termux-proot](https://github.com/InfinityQ-Ultra/box86-wine-x86-termux-proot) - Simple script for easily installing box68 & wine x86 on termux proot (for android)
 - [chef/os_release](https://github.com/chef/os_release) - A repo containing the /etc/os-release file from various Linux distros
@@ -664,6 +666,9 @@
 
 ## Python 
 
+- [novialriptide/Gravity](https://github.com/novialriptide/Gravity) - A puzzle game where you can control the gravity in the room you're in.
+- [AppImageCrafters/appimage-builder-docs](https://github.com/AppImageCrafters/appimage-builder-docs) - appimage-builder project documetnation
+- [Red-exe-Engineer/CPP-GUI-Compiler](https://github.com/Red-exe-Engineer/CPP-GUI-Compiler) - A simple GUI for compiling C++ programs
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [notepad-plus-plus/nppPluginList](https://github.com/notepad-plus-plus/nppPluginList) - The official collection of Notepad++ plugins.
 - [Sven-Bo/one-line-gui](https://github.com/Sven-Bo/one-line-gui) - 
@@ -813,6 +818,7 @@
 
 ## Rust 
 
+- [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf) - Website for graphing performance of rustc
