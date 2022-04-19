@@ -66,6 +66,7 @@
 
 ## C 
 
+- [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [mhsjlw/mcpilauncher](https://github.com/mhsjlw/mcpilauncher) - Launch Minecraft: PI Edition on non-ARM-based Linux systems
 - [npp-plugins/mimetools](https://github.com/npp-plugins/mimetools) - 
 - [npp-plugins/converter](https://github.com/npp-plugins/converter) - 
@@ -818,6 +819,7 @@
 
 ## Rust 
 
+- [pop-os/upgrade](https://github.com/pop-os/upgrade) - Utility for upgrading Pop!_OS and its recovery partition to new releases.
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
@@ -865,6 +867,8 @@
 
 ## Shell 
 
+- [RPi-Distro/raspi-gpio](https://github.com/RPi-Distro/raspi-gpio) - Dump the state of the BCM270x GPIOs
+- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
 - [oxmc/chromium-theme](https://github.com/oxmc/chromium-theme) - Set chromium's dark/light mode from terminal
 - [ALBINPRAVEEN/Free-vps](https://github.com/ALBINPRAVEEN/Free-vps) - 
 - [Jai-JAP/desktopify](https://github.com/Jai-JAP/desktopify) - Convert Ubuntu Server for Raspberry Pi into a Desktop
