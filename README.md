@@ -25,6 +25,7 @@
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
   - [Makefile](#makefile)
+  - [Markdown](#markdown)
   - [NSIS](#nsis)
   - [Nim](#nim)
   - [Nix](#nix)
@@ -241,6 +242,8 @@
 
 ## C++ 
 
+- [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF) official mirror. A simple framework for embedding Chromium-based browsers in other applications.
+- [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums on ppsspp.org.
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
 - [nptr/msstyleEditor](https://github.com/nptr/msstyleEditor) - an editor for windows visual styles
@@ -359,6 +362,9 @@
 
 ## Go 
 
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 - [codeyourweb/fastfinder](https://github.com/codeyourweb/fastfinder) - Incident Response - Fast suspicious file finder
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
@@ -382,6 +388,8 @@
 
 ## HTML 
 
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [hmsjy2017/termux-extras](https://github.com/hmsjy2017/termux-extras) - 
 - [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
@@ -408,6 +416,7 @@
 
 ## Java 
 
+- [google/gitiles](https://github.com/google/gitiles) - A simple browser for Git repositories.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [CoderLogy/Java-maths-calaculator-for-beginners](https://github.com/CoderLogy/Java-maths-calaculator-for-beginners) - I am learning java so I made a calculator with it to do some calculations. Lol
 - [Alvarito050506/mc4k](https://github.com/Alvarito050506/mc4k) - Minecraft 4K, but fixed.
@@ -428,6 +437,14 @@
 
 ## JavaScript 
 
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+- [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
+- [nolanlawson/emoji-picker-element](https://github.com/nolanlawson/emoji-picker-element) - A lightweight emoji picker for the modern web
+- [nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) - A real-time 3D digital map of Tokyo's public transport system
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [banner-maker/banner-maker](https://github.com/banner-maker/banner-maker) - 🎨 Make your own banner
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
@@ -535,6 +552,10 @@
 - [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
 - [ryanfortner/debuild-experiments](https://github.com/ryanfortner/debuild-experiments) - Experiments with Debian packaging
 
+## Markdown 
+
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - 👩‍💻👨‍💻 Improve your README.md profile with these amazing badges.
+
 ## NSIS 
 
 - [da2x/EdgeDeflector](https://github.com/da2x/EdgeDeflector) - A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.
@@ -550,6 +571,9 @@
 
 ## Others 
 
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [Red-exe-Engineer/Compiled-Scratch-Games](https://github.com/Red-exe-Engineer/Compiled-Scratch-Games) - A list of compiled Scratch games you can play in the browser!
 - [jorgem-seq/NVIDIA-Linux-304.137-patches](https://github.com/jorgem-seq/NVIDIA-Linux-304.137-patches) - NVIDIA 304.137 Patches for newer Linux kernels
 - [InfinityQ-Ultra/box86-wine-x86-termux-proot](https://github.com/InfinityQ-Ultra/box86-wine-x86-termux-proot) - Simple script for easily installing box68 & wine x86 on termux proot (for android)
@@ -643,6 +667,7 @@
 
 ## PHP 
 
+- [RainLoop/rainloop-webmail](https://github.com/RainLoop/rainloop-webmail) - Simple, modern & fast web-based email client
 - [soxft/UrlShorter](https://github.com/soxft/UrlShorter) - A simple but powerful URL shortener
 - [andreknieriem/photobooth](https://github.com/andreknieriem/photobooth) - A photobooth Web-Application for raspberry pi with gphoto2
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
@@ -667,6 +692,11 @@
 
 ## Python 
 
+- [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
+- [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [pytest-dev/pytest-qt](https://github.com/pytest-dev/pytest-qt) - pytest plugin for Qt (PyQt4, PyQt5 and PySide) application testing
+- [actionschnitzel/sudo_passer](https://github.com/actionschnitzel/sudo_passer) - Sudo Password GUI to CLI
 - [novialriptide/Gravity](https://github.com/novialriptide/Gravity) - A puzzle game where you can control the gravity in the room you're in.
 - [AppImageCrafters/appimage-builder-docs](https://github.com/AppImageCrafters/appimage-builder-docs) - appimage-builder project documetnation
 - [Red-exe-Engineer/CPP-GUI-Compiler](https://github.com/Red-exe-Engineer/CPP-GUI-Compiler) - A simple GUI for compiling C++ programs
@@ -800,6 +830,7 @@
 
 ## QML 
 
+- [adhec/dittoMenuKDE](https://github.com/adhec/dittoMenuKDE) - Menu launcher for plasma KDE
 - [KDE/plasma-mobile](https://github.com/KDE/plasma-mobile) - General UI components for Plasma Phone including shell, containment and applets.
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
@@ -867,6 +898,7 @@
 
 ## Shell 
 
+- [akuker/rascsi-pi-gen](https://github.com/akuker/rascsi-pi-gen) - Tool used to create the raspberrypi.org Raspbian images
 - [RPi-Distro/raspi-gpio](https://github.com/RPi-Distro/raspi-gpio) - Dump the state of the BCM270x GPIOs
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
 - [oxmc/chromium-theme](https://github.com/oxmc/chromium-theme) - Set chromium's dark/light mode from terminal
@@ -1033,6 +1065,7 @@
 
 ## TypeScript 
 
+- [PreMiD/Linux](https://github.com/PreMiD/Linux) - 🐧 Linux-optimized repository.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [ruslang02/discord-qt](https://github.com/ruslang02/discord-qt) - Discord client powered by Node.JS and Qt Widgets.
