@@ -141,7 +141,6 @@
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
 - [incbee/Unarchiver](https://github.com/incbee/Unarchiver) - Git mirror of The Unarchiver
-- [MCPI-Revival/minecraft-pi-reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) - Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple Win64/Win32 applications on arm64/ppc64le/x86_64 Linux and x86_64 Mac
@@ -298,7 +297,7 @@
 - [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
 - [winegui/WineGui](https://github.com/winegui/WineGui) - Finally, a user-friendly WINE graphical interface (mirror from Gitlab)
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
-- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [vkmark/vkmark](https://github.com/vkmark/vkmark) - Vulkan benchmark
 - [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
@@ -306,6 +305,7 @@
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 - [cutefishos/fishui](https://github.com/cutefishos/fishui) - CutefishOS GUI library, based on Qt Quick.
 - [endlessm/libanimation](https://github.com/endlessm/libanimation) - Wobbly windows logic split out from Compiz
+- [MCPI-Revival/minecraft-pi-reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) - Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.
 - [Jai-JAP/re-GTA](https://github.com/Jai-JAP/re-GTA) - rEVERSE eNGINEERED GTA III, Vice City ( full archived mirror https://github.com/GTAModding/re3 including wiki)
 - [martynets/dialogbox](https://github.com/martynets/dialogbox) - GUI widgets for shell scripts. This is a scriptable engine which implements the idea of a GUI &lt;-&gt; text filter tool.
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
@@ -424,6 +424,7 @@
 
 ## Java 
 
+- [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
 - [google/gitiles](https://github.com/google/gitiles) - A simple browser for Git repositories.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [CoderLogy/Java-maths-calaculator-for-beginners](https://github.com/CoderLogy/Java-maths-calaculator-for-beginners) - I am learning java so I made a calculator with it to do some calculations. Lol
@@ -445,6 +446,8 @@
 
 ## JavaScript 
 
+- [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [dthree/cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
 - [Kully/pixel-paint](https://github.com/Kully/pixel-paint) - A spirte art tool for making 32x32 sprites with the NES Palette
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -581,6 +584,8 @@
 
 ## Others 
 
+- [soft-aesthetic/soft-era-vs-code](https://github.com/soft-aesthetic/soft-era-vs-code) - 🌸 soft era for VS Code ~ Light pastel syntax theme for soft, warm, cozy, cute coding. 🌱
+- [nordicgiant2/awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page) - A series of beautiful and practical landing page templates
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
@@ -703,6 +708,7 @@
 
 ## Python 
 
+- [UN-GCPDS/qt-material](https://github.com/UN-GCPDS/qt-material) - Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6
 - [dmerejkowsky/pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progress bar
 - [jlevy/repren](https://github.com/jlevy/repren) - Rename anything
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
@@ -916,6 +922,8 @@
 
 ## Shell 
 
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download
+- [manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them
 - [imperador/chromefy](https://github.com/imperador/chromefy) - Project Croissant: Install Chrome OS on any Computer - Transforming Chromium to Chrome
 - [akuker/rascsi-pi-gen](https://github.com/akuker/rascsi-pi-gen) - Tool used to create the raspberrypi.org Raspbian images
 - [RPi-Distro/raspi-gpio](https://github.com/RPi-Distro/raspi-gpio) - Dump the state of the BCM270x GPIOs
