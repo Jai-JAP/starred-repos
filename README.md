@@ -67,6 +67,8 @@
 
 ## C 
 
+- [eteran/c-vector](https://github.com/eteran/c-vector) - A dynamic array implementation in C similar to the one found in standard C++
+- [Itai-Nelken/itai-lang](https://github.com/Itai-Nelken/itai-lang) - 
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [pulkomandy/grafx2](https://github.com/pulkomandy/grafx2) - Mirror of GrafX2. Official repo is on gitlab.
@@ -446,6 +448,7 @@
 
 ## JavaScript 
 
+- [EmDev21/Dollar](https://github.com/EmDev21/Dollar) - A startpage looking like a terminal
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [dthree/cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
@@ -584,6 +587,7 @@
 
 ## Others 
 
+- [ProjectAfterburner/apt](https://github.com/ProjectAfterburner/apt) - Project package repository
 - [soft-aesthetic/soft-era-vs-code](https://github.com/soft-aesthetic/soft-era-vs-code) - 🌸 soft era for VS Code ~ Light pastel syntax theme for soft, warm, cozy, cute coding. 🌱
 - [nordicgiant2/awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page) - A series of beautiful and practical landing page templates
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -701,6 +705,8 @@
 
 ## PowerShell 
 
+- [teeotsa/windows-10-debloat](https://github.com/teeotsa/windows-10-debloat) - Windows 10 debloater! Makes your installation of Windows 10 faster
+- [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Script to optimize your installation of Windows 11.
 - [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 - [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
@@ -708,6 +714,7 @@
 
 ## Python 
 
+- [oxmc/itunes-rpi](https://github.com/oxmc/itunes-rpi) - 
 - [UN-GCPDS/qt-material](https://github.com/UN-GCPDS/qt-material) - Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6
 - [dmerejkowsky/pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progress bar
 - [jlevy/repren](https://github.com/jlevy/repren) - Rename anything
@@ -922,6 +929,7 @@
 
 ## Shell 
 
+- [D2Lx0wse/pi-apps-manjaro](https://github.com/D2Lx0wse/pi-apps-manjaro) - Manjaro Raspberry Pi App Store for Open Source Projects
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download
 - [manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them
 - [imperador/chromefy](https://github.com/imperador/chromefy) - Project Croissant: Install Chrome OS on any Computer - Transforming Chromium to Chrome
