@@ -298,7 +298,7 @@
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 - [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
 - [winegui/WineGui](https://github.com/winegui/WineGui) - Finally, a user-friendly WINE graphical interface (mirror from Gitlab)
-- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [vkmark/vkmark](https://github.com/vkmark/vkmark) - Vulkan benchmark
@@ -448,6 +448,8 @@
 
 ## JavaScript 
 
+- [michaljaz/webmc](https://github.com/michaljaz/webmc) - Minecraft client written in Javascript
+- [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
 - [EmDev21/Dollar](https://github.com/EmDev21/Dollar) - A startpage looking like a terminal
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -587,7 +589,7 @@
 
 ## Others 
 
-- [ProjectAfterburner/apt](https://github.com/ProjectAfterburner/apt) - Project package repository
+- [ProjectAfterBurner/apt](https://github.com/ProjectAfterBurner/apt) - Project package repository
 - [soft-aesthetic/soft-era-vs-code](https://github.com/soft-aesthetic/soft-era-vs-code) - 🌸 soft era for VS Code ~ Light pastel syntax theme for soft, warm, cozy, cute coding. 🌱
 - [nordicgiant2/awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page) - A series of beautiful and practical landing page templates
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -852,7 +854,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-438-Stars](https://github.com/iBug/This-Repo-Has-438-Stars) - Yes, it's true :orange_heart: This repository has 438 stars.
+- [iBug/This-Repo-Has-439-Stars](https://github.com/iBug/This-Repo-Has-439-Stars) - Yes, it's true :heartpulse: This repository has 439 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -929,6 +931,7 @@
 
 ## Shell 
 
+- [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
 - [D2Lx0wse/pi-apps-manjaro](https://github.com/D2Lx0wse/pi-apps-manjaro) - Manjaro Raspberry Pi App Store for Open Source Projects
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download
 - [manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them
