@@ -67,6 +67,9 @@
 
 ## C 
 
+- [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
+- [hughsie/colord](https://github.com/hughsie/colord) - Making color management just work
+- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [eteran/c-vector](https://github.com/eteran/c-vector) - A dynamic array implementation in C similar to the one found in standard C++
 - [Itai-Nelken/itai-lang](https://github.com/Itai-Nelken/itai-lang) - 
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
@@ -246,6 +249,7 @@
 
 ## C++ 
 
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [linuxdeepin/qt5platform-plugins](https://github.com/linuxdeepin/qt5platform-plugins) - Qt platform integration plugin for DDE.
 - [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF) official mirror. A simple framework for embedding Chromium-based browsers in other applications.
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums on ppsspp.org.
@@ -368,6 +372,7 @@
 
 ## Go 
 
+- [containers/toolbox](https://github.com/containers/toolbox) - Tool for containerized command line environments on Linux
 - [fiatjaf/jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -448,6 +453,8 @@
 
 ## JavaScript 
 
+- [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
+- [janosgyerik/bashoneliners](https://github.com/janosgyerik/bashoneliners) - A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborative system, user friendly, with functions to contribute one-liners, request one-liners, search, rss feed, commenting, Open ID login. Open-source project, using Django, Python, jQuery, HTML5, Bootstrap from Twitter.
 - [michaljaz/webmc](https://github.com/michaljaz/webmc) - Minecraft client written in Javascript
 - [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
 - [EmDev21/Dollar](https://github.com/EmDev21/Dollar) - A startpage looking like a terminal
@@ -589,6 +596,7 @@
 
 ## Others 
 
+- [Xqua/pyAlienFX](https://github.com/Xqua/pyAlienFX) - This project is a multiplatform python software to control the AlienFX device of Alienware computers.  It intend to be easily upgradable for future updates of the AlienFX device, as it happened for the M11XR3. And, to be a powerfull GTK apps, that can be linked with plugins throught a deamon server, allowing the LED to be controled accordingly !  Any Help is more than welcome ! Especially testing on different computers !
 - [ProjectAfterBurner/apt](https://github.com/ProjectAfterBurner/apt) - Project package repository
 - [soft-aesthetic/soft-era-vs-code](https://github.com/soft-aesthetic/soft-era-vs-code) - 🌸 soft era for VS Code ~ Light pastel syntax theme for soft, warm, cozy, cute coding. 🌱
 - [nordicgiant2/awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page) - A series of beautiful and practical landing page templates
@@ -707,6 +715,8 @@
 
 ## PowerShell 
 
+- [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
+- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [teeotsa/windows-10-debloat](https://github.com/teeotsa/windows-10-debloat) - Windows 10 debloater! Makes your installation of Windows 10 faster
 - [teeotsa/windows-11-debloat](https://github.com/teeotsa/windows-11-debloat) - Script to optimize your installation of Windows 11.
 - [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
@@ -716,6 +726,11 @@
 
 ## Python 
 
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [altendky/pyqt-tools](https://github.com/altendky/pyqt-tools) - Qt tools including PyQt Designer and QML plugins
+- [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
+- [rsm-gh/akbl](https://github.com/rsm-gh/akbl) - Control the lights of Alienware computers under GNU/Linux systems.
+- [pindexis/qfc](https://github.com/pindexis/qfc) - Quick Command-line File Completion
 - [oxmc/itunes-rpi](https://github.com/oxmc/itunes-rpi) - 
 - [UN-GCPDS/qt-material](https://github.com/UN-GCPDS/qt-material) - Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6
 - [dmerejkowsky/pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progress bar
@@ -854,7 +869,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-439-Stars](https://github.com/iBug/This-Repo-Has-439-Stars) - Yes, it's true :heartpulse: This repository has 439 stars.
+- [iBug/This-Repo-Has-440-Stars](https://github.com/iBug/This-Repo-Has-440-Stars) - Yes, it's true :gift_heart: This repository has 440 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -882,6 +897,8 @@
 
 ## Rust 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [rust-lang/rustc_codegen_gcc](https://github.com/rust-lang/rustc_codegen_gcc) - libgccjit AOT codegen for rustc
 - [pop-os/upgrade](https://github.com/pop-os/upgrade) - Utility for upgrading Pop!_OS and its recovery partition to new releases.
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
@@ -931,6 +948,29 @@
 
 ## Shell 
 
+- [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+- [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+- [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux) - This is a project, where I give you a way to use Autodesk Fusion 360 on Linux!
+- [armbian/build](https://github.com/armbian/build) - Armbian Linux build framework
+- [ThomasKaiser/sbc-bench](https://github.com/ThomasKaiser/sbc-bench) - Simple benchmark for single board computers
+- [codespell-project/actions-codespell](https://github.com/codespell-project/actions-codespell) - 
+- [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+- [zombieleet/bashify](https://github.com/zombieleet/bashify) - few helper functions in bash ( especially string manipulation functions )
+- [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
+- [feherke/Bash-script](https://github.com/feherke/Bash-script) - Bash scripts
+- [JosefZIla/bash2048](https://github.com/JosefZIla/bash2048) - Bash implementation of 2048 game
+- [rtomayko/git-sh](https://github.com/rtomayko/git-sh) - A customized bash environment suitable for git work.
+- [edouard-lopez/progress-bar.sh](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progress bar for `bash`, give it a duration and it will do the rest.
+- [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
+- [momeni/gittify](https://github.com/momeni/gittify) - A customized bash environment to make git folders more friendly.
+- [lvv/git-prompt](https://github.com/lvv/git-prompt) - bash prompt with GIT, SVN and HG modules
+- [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
+- [hchbaw/auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh) - #zsh automatic complete-word and list-choices. Originally incr-0.2.zsh  by y.fujii &lt;y-fujii at mimosa-pudica.net&gt;
+- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
 - [D2Lx0wse/pi-apps-manjaro](https://github.com/D2Lx0wse/pi-apps-manjaro) - Manjaro Raspberry Pi App Store for Open Source Projects
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download
@@ -1103,6 +1143,8 @@
 
 ## TypeScript 
 
+- [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [PreMiD/Linux](https://github.com/PreMiD/Linux) - 🐧 Linux-optimized repository.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
@@ -1141,6 +1183,7 @@
 
 ## Vala 
 
+- [lainsce/colorway](https://github.com/lainsce/colorway) - Generate color pairings.
 - [MCPI-Revival/gMCPIL](https://github.com/MCPI-Revival/gMCPIL) - Simple MInecraft: Pi Edition launcher - GTK+ Edition.
 - [lainsce/dot-matrix](https://github.com/lainsce/dot-matrix) - The glyph playground of creativity from simple lines
 - [Jai-JAP/pikiss-gui](https://github.com/Jai-JAP/pikiss-gui) - GTK frontend for PiKISS
