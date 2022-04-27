@@ -67,6 +67,7 @@
 
 ## C 
 
+- [realnc/dosbox-core](https://github.com/realnc/dosbox-core) - A DOSBox core for use in RetroArch and other libretro frontends.
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [libretro/dosbox-core](https://github.com/libretro/dosbox-core) - Mirror of DOSBox-core. For downloads, PRs and bug reports, use https://github.com/realnc/dosbox-core
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
@@ -406,6 +407,7 @@
 
 ## HTML 
 
+- [appwrite/playground-for-web](https://github.com/appwrite/playground-for-web) - Simple examples that help you get started with Appwrite + Web (=❤️)
 - [T-campbell572/my-website](https://github.com/T-campbell572/my-website) - 
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
@@ -540,7 +542,6 @@
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [EbookFoundation/free-programming-books-search](https://github.com/EbookFoundation/free-programming-books-search) - 
 - [specious/bitly-client](https://github.com/specious/bitly-client) - :link: Create and manage your Bitly shortlinks from the command line
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [tobychui/arozos](https://github.com/tobychui/arozos) - General purposed Web Desktop Operating Platform / OS for Raspberry Pis, Now written in Go!
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [tomer8007/spotify-web-ads-remover](https://github.com/tomer8007/spotify-web-ads-remover) - Simple extension to remove audio ads on Spotify web player
@@ -734,6 +735,7 @@
 
 ## Python 
 
+- [odziom91/libadwaita-theme-changer](https://github.com/odziom91/libadwaita-theme-changer) - Theme changer for Libadwaita
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats) - A Minecraft player statistics browser for the web - supports 1.13 to 1.19!
 - [feklisoff/python-gui-experiments](https://github.com/feklisoff/python-gui-experiments) - Experimentation with PythonSimple GUI library
@@ -763,7 +765,6 @@
 - [Sven-Bo/one-line-gui](https://github.com/Sven-Bo/one-line-gui) - 
 - [bluesabre/mugshot](https://github.com/bluesabre/mugshot) - Mugshot - User Management Utility for Linux
 - [brccabral/WeatherPySimpleGUI](https://github.com/brccabral/WeatherPySimpleGUI) - Weather using PySimpleGUI
-- [rollingrhinoremix/rhino-config](https://github.com/rollingrhinoremix/rhino-config) - Rhino Config is a command-line utility that allows you to configure Rhino, our utility tool that allows you to upgrade the distribution. You will be able to configure Rhino to download and install the latest Linux kernel, proprietary drivers and more!
 - [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls` for the pros.
 - [pythonguis/pyqtconfig](https://github.com/pythonguis/pyqtconfig) - A PyQt config manager. Keep Qt widgets in sync with an config dictionary and/or QSettings object.
 - [pythonguis/15-minute-apps](https://github.com/pythonguis/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
@@ -918,6 +919,7 @@
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
+- [rollingrhinoremix/rhino-config](https://github.com/rollingrhinoremix/rhino-config) - Rhino Config is a command-line utility that allows you to configure Rhino, our utility tool that allows you to upgrade the distribution. You will be able to configure Rhino to download and install the latest Linux kernel, proprietary drivers and more!
 - [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf) - Website for graphing performance of rustc
 - [uutils/uucore](https://github.com/uutils/uucore) - Code shared between uutils projects
 - [uutils/platform-info](https://github.com/uutils/platform-info) - A cross-platform way to get information about your machine
@@ -962,6 +964,7 @@
 
 ## Shell 
 
+- [ProjectAfterBurner/update-scripts](https://github.com/ProjectAfterBurner/update-scripts) - (not ready) package update scripts for our apt repository
 - [NicoD-SBC/armbian-gaming](https://github.com/NicoD-SBC/armbian-gaming) - Tool to install gaming apps on Armbian Linux/Ubuntu/Debian arm64
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.
@@ -1180,6 +1183,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
 - [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord) - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
