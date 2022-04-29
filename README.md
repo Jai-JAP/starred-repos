@@ -67,6 +67,7 @@
 
 ## C 
 
+- [sarah-walker-pcem/pcem](https://github.com/sarah-walker-pcem/pcem) - PCem
 - [realnc/dosbox-core](https://github.com/realnc/dosbox-core) - A DOSBox core for use in RetroArch and other libretro frontends.
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [libretro/dosbox-core](https://github.com/libretro/dosbox-core) - Mirror of DOSBox-core. For downloads, PRs and bug reports, use https://github.com/realnc/dosbox-core
@@ -460,6 +461,7 @@
 
 ## JavaScript 
 
+- [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [Iku/Google-Forms-to-Discord](https://github.com/Iku/Google-Forms-to-Discord) - A quick way to automatically send Google Form responses to a Discord channel
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
@@ -708,6 +710,7 @@
 
 ## PHP 
 
+- [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [RainLoop/rainloop-webmail](https://github.com/RainLoop/rainloop-webmail) - Simple, modern & fast web-based email client
 - [soxft/UrlShorter](https://github.com/soxft/UrlShorter) - A simple but powerful URL shortener
@@ -739,6 +742,10 @@
 
 ## Python 
 
+- [AbysssDevelopment/hMCPIL](https://github.com/AbysssDevelopment/hMCPIL) - Hacks launcher for MCPI-Reborn
+- [Will-777/spawn_mobs_mcpi](https://github.com/Will-777/spawn_mobs_mcpi) - Python script to spawn some mobs in your Minecraft Pi world, Raspberry Pi version
+- [chbrown/pi](https://github.com/chbrown/pi) - Simpler python package installation
+- [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [CMDR-Piboy314/Python-Typing-Test](https://github.com/CMDR-Piboy314/Python-Typing-Test) - A Text-Based Typing Test made in Python
 - [odziom91/libadwaita-theme-changer](https://github.com/odziom91/libadwaita-theme-changer) - Theme changer for Libadwaita
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
@@ -959,6 +966,7 @@
 
 ## SCSS 
 
+- [Mojang/web-theme-bootstrap](https://github.com/Mojang/web-theme-bootstrap) - Contains the theme used on minecraft.net based on Boostrap 4
 - [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6) - Highly customizable theme for BetterDiscord.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme "yaru". Better than a 🌯.
@@ -970,6 +978,7 @@
 
 ## Shell 
 
+- [89paradox/pimarket](https://github.com/89paradox/pimarket) - App Store For The Raspberry Pi.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [CMDR-Piboy314/Gud](https://github.com/CMDR-Piboy314/Gud) - Git Gud
 - [Crilum/apttools](https://github.com/Crilum/apttools) - make apt easier to use
@@ -1170,6 +1179,7 @@
 
 ## TypeScript 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [PreMiD/Linux](https://github.com/PreMiD/Linux) - 🐧 Linux-optimized repository.
