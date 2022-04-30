@@ -67,6 +67,9 @@
 
 ## C 
 
+- [tsoding/flag.h](https://github.com/tsoding/flag.h) - Command-line flag parsing in C
+- [stefanberger/swtpm](https://github.com/stefanberger/swtpm) - Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
+- [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [sarah-walker-pcem/pcem](https://github.com/sarah-walker-pcem/pcem) - PCem
 - [realnc/dosbox-core](https://github.com/realnc/dosbox-core) - A DOSBox core for use in RetroArch and other libretro frontends.
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
@@ -254,6 +257,7 @@
 
 ## C++ 
 
+- [rexim/aids](https://github.com/rexim/aids) - std replacement for C++
 - [merryhime/dynarmic](https://github.com/merryhime/dynarmic) - An ARM dynamic recompiler.
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [linuxdeepin/qt5platform-plugins](https://github.com/linuxdeepin/qt5platform-plugins) - Qt platform integration plugin for DDE.
@@ -439,6 +443,8 @@
 
 ## Java 
 
+- [SKCraft/Launcher](https://github.com/SKCraft/Launcher) - 🚀 Distribute your Minecraft modpacks with a custom launcher
+- [MCreator/MCreator](https://github.com/MCreator/MCreator) - MCreator is software used to make Minecraft Java Edition mods, Bedrock Edition Add-Ons, and data packs using visual graphical programming or integrated IDE. It is used worldwide by Minecraft players, aspiring mod developers, for education, online classes, and STEM workshops.
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
 - [google/gitiles](https://github.com/google/gitiles) - A simple browser for Git repositories.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
@@ -607,6 +613,7 @@
 
 ## Others 
 
+- [WOA-Project/SurfaceDuo-Guides](https://github.com/WOA-Project/SurfaceDuo-Guides) - Guides for the Surface Duo
 - [ryanfortner/reprepro-multiple-versions](https://github.com/ryanfortner/reprepro-multiple-versions) - Debian package repository producer
 - [monkaBlyat/ThemeTwister](https://github.com/monkaBlyat/ThemeTwister) - Buy me a Coffee https://www.paypal.me/krishenriksendk
 - [kingToolbox/WindEdit](https://github.com/kingToolbox/WindEdit) - A high performace text editor for huge file and long line.
@@ -691,6 +698,7 @@
 - [dhanishgajjar/terminal-icons](https://github.com/dhanishgajjar/terminal-icons) - Beautiful icons for your favourite terminal apps like Hyper and iTerm2
 - [ryanfortner/Learning-Python](https://github.com/ryanfortner/Learning-Python) - Bits and pieces of beginners' Python code
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
+- [koendv/arduino-ide-raspberrypi](https://github.com/koendv/arduino-ide-raspberrypi) - arduino IDE v2 for raspberry pi
 - [ryanfortner/exagear-rpi](https://github.com/ryanfortner/exagear-rpi) - installing Exagear Desktop on the newer Raspberry Pies
 - [TheMindVirus/universaldrivers](https://github.com/TheMindVirus/universaldrivers) - The beginnings of Universal Drivers on UEFI systems for the Windows on Raspberry Project
 - [TheMindVirus/KMDFQPU](https://github.com/TheMindVirus/KMDFQPU) - V3D Windows Driver Source for accessing the QPU's on the Raspberry Pi 4 (Development Version)
@@ -742,6 +750,8 @@
 
 ## Python 
 
+- [CoolCat467/fix-lwjgl](https://github.com/CoolCat467/fix-lwjgl) - Fix LWJGL (Light Weight Java Game Library) java classpath data for ARM devices
+- [DrGFreeman/pdfmerge](https://github.com/DrGFreeman/pdfmerge) - Merge scanned pdf documents of odd and even pages into a single pdf document
 - [AbysssDevelopment/hMCPIL](https://github.com/AbysssDevelopment/hMCPIL) - Hacks launcher for MCPI-Reborn
 - [Will-777/spawn_mobs_mcpi](https://github.com/Will-777/spawn_mobs_mcpi) - Python script to spawn some mobs in your Minecraft Pi world, Raspberry Pi version
 - [chbrown/pi](https://github.com/chbrown/pi) - Simpler python package installation
@@ -978,6 +988,9 @@
 
 ## Shell 
 
+- [lowspecman420/armhf-proot-for-aarch64-android](https://github.com/lowspecman420/armhf-proot-for-aarch64-android) - Anlinux armhf proot for aarch64 android using Termux.
+- [lowspecman420/AnBox86](https://github.com/lowspecman420/AnBox86) - 
+- [WheezyE/Winelink](https://github.com/WheezyE/Winelink) - Installation scripts for running Winlink on non-Windows platforms (currently just RPi 4)
 - [89paradox/pimarket](https://github.com/89paradox/pimarket) - App Store For The Raspberry Pi.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [CMDR-Piboy314/Gud](https://github.com/CMDR-Piboy314/Gud) - Git Gud
@@ -1115,7 +1128,6 @@
 - [transcode-open/apt-cyg](https://github.com/transcode-open/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
 - [aditya24raj/darth_waydr](https://github.com/aditya24raj/darth_waydr) - automates waydroid installation steps on debian-based distributions
 - [sickcodes/Droid-NDK-Extractor](https://github.com/sickcodes/Droid-NDK-Extractor) - Android NDK Extractor - Extract ARM native bridge libndk translation libraries for use in any Android derivative.
-- [koendv/arduino-ide-raspberrypi](https://github.com/koendv/arduino-ide-raspberrypi) - arduino IDE v2 for raspberry pi
 - [hwittenborn/mpm](https://github.com/hwittenborn/mpm) - makedeb package manager
 - [cutefishos-ubuntu/mpm](https://github.com/cutefishos-ubuntu/mpm) - makedeb package manager
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
@@ -1179,6 +1191,8 @@
 
 ## TypeScript 
 
+- [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
+- [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
