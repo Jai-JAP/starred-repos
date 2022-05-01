@@ -75,7 +75,7 @@
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [libretro/dosbox-core](https://github.com/libretro/dosbox-core) - Mirror of DOSBox-core. For downloads, PRs and bug reports, use https://github.com/realnc/dosbox-core
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
-- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, X86)
+- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 - [hughsie/colord](https://github.com/hughsie/colord) - Making color management just work
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
@@ -257,6 +257,7 @@
 
 ## C++ 
 
+- [linuxdeepin/deepin-music](https://github.com/linuxdeepin/deepin-music) - Music player for deepin desktop environment.
 - [rexim/aids](https://github.com/rexim/aids) - std replacement for C++
 - [merryhime/dynarmic](https://github.com/merryhime/dynarmic) - An ARM dynamic recompiler.
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
@@ -467,6 +468,8 @@
 
 ## JavaScript 
 
+- [paysonwallach/aqua-lightdm-webkit-theme](https://github.com/paysonwallach/aqua-lightdm-webkit-theme) - A macOS-inspired LightDM webkit greeter theme.
+- [Xseba360/lightdm-webkit-theme-win10](https://github.com/Xseba360/lightdm-webkit-theme-win10) - A Windows 10 inspired theme for the lightdm webkit greeter
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [Iku/Google-Forms-to-Discord](https://github.com/Iku/Google-Forms-to-Discord) - A quick way to automatically send Google Form responses to a Discord channel
@@ -750,6 +753,7 @@
 
 ## Python 
 
+- [PySimpleGUI/psgtray](https://github.com/PySimpleGUI/psgtray) - System Tray Icon for PySimpleGUI (the tkinter version). Adds a system tray icon by using pystray and PIL
 - [CoolCat467/fix-lwjgl](https://github.com/CoolCat467/fix-lwjgl) - Fix LWJGL (Light Weight Java Game Library) java classpath data for ARM devices
 - [DrGFreeman/pdfmerge](https://github.com/DrGFreeman/pdfmerge) - Merge scanned pdf documents of odd and even pages into a single pdf document
 - [AbysssDevelopment/hMCPIL](https://github.com/AbysssDevelopment/hMCPIL) - Hacks launcher for MCPI-Reborn
