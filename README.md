@@ -67,6 +67,7 @@
 
 ## C 
 
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
 - [tsoding/flag.h](https://github.com/tsoding/flag.h) - Command-line flag parsing in C
 - [stefanberger/swtpm](https://github.com/stefanberger/swtpm) - Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
@@ -444,6 +445,7 @@
 
 ## Java 
 
+- [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - VNC server app for Android that does not require root privileges.
 - [SKCraft/Launcher](https://github.com/SKCraft/Launcher) - 🚀 Distribute your Minecraft modpacks with a custom launcher
 - [MCreator/MCreator](https://github.com/MCreator/MCreator) - MCreator is software used to make Minecraft Java Edition mods, Bedrock Edition Add-Ons, and data packs using visual graphical programming or integrated IDE. It is used worldwide by Minecraft players, aspiring mod developers, for education, online classes, and STEM workshops.
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
@@ -616,6 +618,7 @@
 
 ## Others 
 
+- [mobilegmYT/calamity-texturepack](https://github.com/mobilegmYT/calamity-texturepack) - Auto-pack updater for Calamity Realms MC server using GH acions
 - [WOA-Project/SurfaceDuo-Guides](https://github.com/WOA-Project/SurfaceDuo-Guides) - Guides for the Surface Duo
 - [ryanfortner/reprepro-multiple-versions](https://github.com/ryanfortner/reprepro-multiple-versions) - Debian package repository producer
 - [monkaBlyat/ThemeTwister](https://github.com/monkaBlyat/ThemeTwister) - Buy me a Coffee https://www.paypal.me/krishenriksendk
@@ -753,6 +756,7 @@
 
 ## Python 
 
+- [Jack477/DynamicWallpaper](https://github.com/Jack477/DynamicWallpaper) - Dynamic wallpaper for Xfce
 - [PySimpleGUI/psgtray](https://github.com/PySimpleGUI/psgtray) - System Tray Icon for PySimpleGUI (the tkinter version). Adds a system tray icon by using pystray and PIL
 - [CoolCat467/fix-lwjgl](https://github.com/CoolCat467/fix-lwjgl) - Fix LWJGL (Light Weight Java Game Library) java classpath data for ARM devices
 - [DrGFreeman/pdfmerge](https://github.com/DrGFreeman/pdfmerge) - Merge scanned pdf documents of odd and even pages into a single pdf document
@@ -915,6 +919,7 @@
 
 ## QML 
 
+- [vinceliuice/WhiteSur-kde](https://github.com/vinceliuice/WhiteSur-kde) - MacOS big sur theme for kde plasma
 - [adhec/dittoMenuKDE](https://github.com/adhec/dittoMenuKDE) - Menu launcher for plasma KDE
 - [KDE/plasma-mobile](https://github.com/KDE/plasma-mobile) - General UI components for Plasma Phone including shell, containment and applets.
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
@@ -992,6 +997,7 @@
 
 ## Shell 
 
+- [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
 - [lowspecman420/armhf-proot-for-aarch64-android](https://github.com/lowspecman420/armhf-proot-for-aarch64-android) - Anlinux armhf proot for aarch64 android using Termux.
 - [lowspecman420/AnBox86](https://github.com/lowspecman420/AnBox86) - 
 - [WheezyE/Winelink](https://github.com/WheezyE/Winelink) - Installation scripts for running Winlink on non-Windows platforms (currently just RPi 4)
