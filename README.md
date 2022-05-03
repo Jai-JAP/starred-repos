@@ -414,6 +414,7 @@
 
 ## HTML 
 
+- [NeraWoowty/nerawoowty.github.io](https://github.com/NeraWoowty/nerawoowty.github.io) - my minecraft packs website :)
 - [appwrite/playground-for-web](https://github.com/appwrite/playground-for-web) - Simple examples that help you get started with Appwrite + Web (=❤️)
 - [T-campbell572/my-website](https://github.com/T-campbell572/my-website) - 
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
@@ -618,6 +619,7 @@
 
 ## Others 
 
+- [dweeber/rpiwiggle](https://github.com/dweeber/rpiwiggle) - Script which expands a FS to the size of the SDcard minus a bit
 - [mobilegmYT/calamity-texturepack](https://github.com/mobilegmYT/calamity-texturepack) - Auto-pack updater for Calamity Realms MC server using GH acions
 - [WOA-Project/SurfaceDuo-Guides](https://github.com/WOA-Project/SurfaceDuo-Guides) - Guides for the Surface Duo
 - [ryanfortner/reprepro-multiple-versions](https://github.com/ryanfortner/reprepro-multiple-versions) - Debian package repository producer
@@ -785,7 +787,7 @@
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [pytest-dev/pytest-qt](https://github.com/pytest-dev/pytest-qt) - pytest plugin for Qt (PyQt4, PyQt5 and PySide) application testing
+- [pytest-dev/pytest-qt](https://github.com/pytest-dev/pytest-qt) - pytest plugin for Qt (PyQt5/PyQt6 and PySide2/PySide6) application testing
 - [actionschnitzel/sudo_passer](https://github.com/actionschnitzel/sudo_passer) - Sudo Password GUI to CLI
 - [novialriptide/Gravity](https://github.com/novialriptide/Gravity) - A puzzle game where you can control the gravity in the room you're in.
 - [AppImageCrafters/appimage-builder-docs](https://github.com/AppImageCrafters/appimage-builder-docs) - appimage-builder project documetnation
