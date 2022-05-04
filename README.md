@@ -23,6 +23,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
@@ -258,6 +259,8 @@
 
 ## C++ 
 
+- [linuxdeepin/deepin-devicemanager](https://github.com/linuxdeepin/deepin-devicemanager) - 
+- [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [linuxdeepin/deepin-music](https://github.com/linuxdeepin/deepin-music) - Music player for deepin desktop environment.
 - [rexim/aids](https://github.com/rexim/aids) - std replacement for C++
 - [merryhime/dynarmic](https://github.com/merryhime/dynarmic) - An ARM dynamic recompiler.
@@ -581,6 +584,10 @@
 - [monkaBlyat/docker-chromium-armhf](https://github.com/monkaBlyat/docker-chromium-armhf) - A docker container to provide an armhf chromium instance with widevine installed in it (allows Spotify, Netflix, etc.)
 - [HenningThiemann/docker-chromium-armhf](https://github.com/HenningThiemann/docker-chromium-armhf) - A docker container to provide an armhf chromium instance with widevine installed in it (allows Spotify, Netflix, etc.)
 
+## Jupyter Notebook 
+
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
 ## Kotlin 
 
 - [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
@@ -619,6 +626,8 @@
 
 ## Others 
 
+- [cycool29/gwallc](https://github.com/cycool29/gwallc) - GUI Wallpaper Changer for Linux. (WIP)
+- [saiarcot895/chromium-ubuntu-build](https://github.com/saiarcot895/chromium-ubuntu-build) - Packaging files for building Chromium on Ubuntu
 - [dweeber/rpiwiggle](https://github.com/dweeber/rpiwiggle) - Script which expands a FS to the size of the SDcard minus a bit
 - [mobilegmYT/calamity-texturepack](https://github.com/mobilegmYT/calamity-texturepack) - Auto-pack updater for Calamity Realms MC server using GH acions
 - [WOA-Project/SurfaceDuo-Guides](https://github.com/WOA-Project/SurfaceDuo-Guides) - Guides for the Surface Duo
@@ -758,6 +767,7 @@
 
 ## Python 
 
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [Jack477/DynamicWallpaper](https://github.com/Jack477/DynamicWallpaper) - Dynamic wallpaper for Xfce
 - [PySimpleGUI/psgtray](https://github.com/PySimpleGUI/psgtray) - System Tray Icon for PySimpleGUI (the tkinter version). Adds a system tray icon by using pystray and PIL
 - [CoolCat467/fix-lwjgl](https://github.com/CoolCat467/fix-lwjgl) - Fix LWJGL (Light Weight Java Game Library) java classpath data for ARM devices
@@ -943,6 +953,7 @@
 
 ## Rust 
 
+- [FauxFaux/apt-pkg-native-rs](https://github.com/FauxFaux/apt-pkg-native-rs) - Rust bindings for libapt-pkg
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dmerejkowsky/rusync](https://github.com/dmerejkowsky/rusync) - Minimalist rsync implementation in Rust
@@ -999,6 +1010,8 @@
 
 ## Shell 
 
+- [cycool29/whatsapp-for-linux](https://github.com/cycool29/whatsapp-for-linux) - 
+- [koenvervloesem/bazel-on-arm](https://github.com/koenvervloesem/bazel-on-arm) - Build the open source build tool Bazel for ARM on the Raspberry Pi
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
 - [lowspecman420/armhf-proot-for-aarch64-android](https://github.com/lowspecman420/armhf-proot-for-aarch64-android) - Anlinux armhf proot for aarch64 android using Termux.
 - [lowspecman420/AnBox86](https://github.com/lowspecman420/AnBox86) - 
@@ -1203,6 +1216,7 @@
 
 ## TypeScript 
 
+- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -1236,7 +1250,6 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [mkrl/ttty](https://github.com/mkrl/ttty) - A very simple pure JS lightweight terminal "emulator"
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
-- [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord web-based client made with the :electron:.
