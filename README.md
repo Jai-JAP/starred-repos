@@ -40,6 +40,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [SWIG](#swig)
   - [ShaderLab](#shaderlab)
   - [Shell](#shell)
   - [Swift](#swift)
@@ -68,6 +69,8 @@
 
 ## C 
 
+- [PulpoBoy/Color-Flappy](https://github.com/PulpoBoy/Color-Flappy) - 
+- [Tix3Dev/KnutOS](https://github.com/Tix3Dev/KnutOS) - An x86_64 hobbyist OS written in C and Assembly
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
 - [tsoding/flag.h](https://github.com/tsoding/flag.h) - Command-line flag parsing in C
 - [stefanberger/swtpm](https://github.com/stefanberger/swtpm) - Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
@@ -259,6 +262,7 @@
 
 ## C++ 
 
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [linuxdeepin/deepin-devicemanager](https://github.com/linuxdeepin/deepin-devicemanager) - 
 - [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [linuxdeepin/deepin-music](https://github.com/linuxdeepin/deepin-music) - Music player for deepin desktop environment.
@@ -433,6 +437,7 @@
 - [TheBananaStore/web-store](https://github.com/TheBananaStore/web-store) - 🌐🍌This is the Banana Web Store online page repo, built with raw HTML, CSS, and JS.
 - [raspberrypi/raspberrypi.github.io](https://github.com/raspberrypi/raspberrypi.github.io) - Raspberry Pi GitHub organisations
 - [Itai-Nelken/Webcord_debian-repo](https://github.com/Itai-Nelken/Webcord_debian-repo) - unofficial repo for electron-discord-webapp (https://github.com/SpacingBat3/WebCord) by @SpacingBat3
+- [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [phoenixbyrd/webapps](https://github.com/phoenixbyrd/webapps) - Web Apps for Twister OS
 - [Pi-Apps-Coders/website](https://github.com/Pi-Apps-Coders/website) - Pi-Apps project website
@@ -767,6 +772,8 @@
 
 ## Python 
 
+- [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
+- [Red-exe-Engineer/Toybox](https://github.com/Red-exe-Engineer/Toybox) - A simple(ish) tool to list installed commands
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [Jack477/DynamicWallpaper](https://github.com/Jack477/DynamicWallpaper) - Dynamic wallpaper for Xfce
 - [PySimpleGUI/psgtray](https://github.com/PySimpleGUI/psgtray) - System Tray Icon for PySimpleGUI (the tkinter version). Adds a system tray icon by using pystray and PIL
@@ -953,6 +960,7 @@
 
 ## Rust 
 
+- [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [FauxFaux/apt-pkg-native-rs](https://github.com/FauxFaux/apt-pkg-native-rs) - Rust bindings for libapt-pkg
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -1003,6 +1011,10 @@
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme "yaru". Better than a 🌯.
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
+
+## SWIG 
+
+- [microsoft/Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) - This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.
 
 ## ShaderLab 
 
@@ -1240,7 +1252,6 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
-- [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
 - [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord) - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
