@@ -32,6 +32,7 @@
   - [Nix](#nix)
   - [Others](#others)
   - [PHP](#php)
+  - [Pascal](#pascal)
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
@@ -69,6 +70,8 @@
 
 ## C 
 
+- [jinfeihan57/p7zip](https://github.com/jinfeihan57/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/p7zip/).
+- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [PulpoBoy/Color-Flappy](https://github.com/PulpoBoy/Color-Flappy) - 
 - [Tix3Dev/KnutOS](https://github.com/Tix3Dev/KnutOS) - An x86_64 hobbyist OS written in C and Assembly
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
@@ -262,6 +265,7 @@
 
 ## C++ 
 
+- [mcmilk/7-Zip](https://github.com/mcmilk/7-Zip) - 7-Zip source code repository
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [linuxdeepin/deepin-devicemanager](https://github.com/linuxdeepin/deepin-devicemanager) - 
 - [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
@@ -479,6 +483,7 @@
 
 ## JavaScript 
 
+- [vercel/hazel](https://github.com/vercel/hazel) - Lightweight update server for Electron apps
 - [paysonwallach/aqua-lightdm-webkit-theme](https://github.com/paysonwallach/aqua-lightdm-webkit-theme) - A macOS-inspired LightDM webkit greeter theme.
 - [Xseba360/lightdm-webkit-theme-win10](https://github.com/Xseba360/lightdm-webkit-theme-win10) - A Windows 10 inspired theme for the lightdm webkit greeter
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
@@ -591,6 +596,7 @@
 
 ## Jupyter Notebook 
 
+- [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
 ## Kotlin 
@@ -631,6 +637,7 @@
 
 ## Others 
 
+- [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [cycool29/gwallc](https://github.com/cycool29/gwallc) - GUI Wallpaper Changer for Linux. (WIP)
 - [saiarcot895/chromium-ubuntu-build](https://github.com/saiarcot895/chromium-ubuntu-build) - Packaging files for building Chromium on Ubuntu
 - [dweeber/rpiwiggle](https://github.com/dweeber/rpiwiggle) - Script which expands a FS to the size of the SDcard minus a bit
@@ -679,7 +686,7 @@
 - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [speedcrunch/SpeedCrunch](https://github.com/speedcrunch/SpeedCrunch) - A fast, high-precision and powerful cross-platform desktop calculator.
-- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [lineage-rpi/OTA](https://github.com/lineage-rpi/OTA) - 
 - [raspbian-addons/.github](https://github.com/raspbian-addons/.github) - 
@@ -752,6 +759,10 @@
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - 2k code solutions with clear explanation @ onelinerhub.com
 
+## Pascal 
+
+- [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.
+
 ## Perl 
 
 - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
@@ -772,6 +783,9 @@
 
 ## Python 
 
+- [lordmauve/goblit](https://github.com/lordmauve/goblit) - Award-winning adventure game from PyWeek 19
+- [flexiondotorg/ppa-metrics](https://github.com/flexiondotorg/ppa-metrics) - Get metrics from a Launchpad PPA
+- [trackmastersteve/alienfx](https://github.com/trackmastersteve/alienfx) - AlienFX is a CLI and GUI utility to control the lighting effects of your Alienware computer.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [Red-exe-Engineer/Toybox](https://github.com/Red-exe-Engineer/Toybox) - A simple(ish) tool to list installed commands
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
@@ -930,7 +944,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-441-Stars](https://github.com/iBug/This-Repo-Has-441-Stars) - Yes, it's true :heartpulse: This repository has 441 stars.
+- [iBug/This-Repo-Has-441-Stars](https://github.com/iBug/This-Repo-Has-441-Stars) - Yes, it's true :heartbeat: This repository has 441 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1059,7 +1073,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
 - [D2Lx0wse/pi-apps-manjaro](https://github.com/D2Lx0wse/pi-apps-manjaro) - Manjaro Raspberry Pi App Store for Open Source Projects
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 - [manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them
 - [imperador/chromefy](https://github.com/imperador/chromefy) - Project Croissant: Install Chrome OS on any Computer - Transforming Chromium to Chrome
 - [akuker/rascsi-pi-gen](https://github.com/akuker/rascsi-pi-gen) - Tool used to create the raspberrypi.org Raspbian images
@@ -1228,6 +1242,7 @@
 
 ## TypeScript 
 
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
