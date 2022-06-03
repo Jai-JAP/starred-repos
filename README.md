@@ -74,6 +74,7 @@
 
 ## C 
 
+- [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [linuxmint/xed](https://github.com/linuxmint/xed) - X-Apps [Text] Editor (Cross-DE, backward-compatible, GTK3, traditional UI)
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [intel/media-driver](https://github.com/intel/media-driver) - 
@@ -307,6 +308,7 @@
 
 ## C++ 
 
+- [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
 - [linuxdeepin/deepin-compressor](https://github.com/linuxdeepin/deepin-compressor) - 
 - [snes9xgit/snes9x](https://github.com/snes9xgit/snes9x) - Snes9x - Portable Super Nintendo Entertainment System (TM) emulator
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -500,6 +502,7 @@
 
 ## HTML 
 
+- [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [Mineshaft-game/mineshaft-game.github.io](https://github.com/Mineshaft-game/mineshaft-game.github.io) - 
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - A minimal, responsive and light theme for Hugo inspired by Linux console.
 - [rollingrhinoremix/rollingrhinoremix.github.io](https://github.com/rollingrhinoremix/rollingrhinoremix.github.io) - This is the official repository for the Rolling Rhino Remix. Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu operating system into a rolling release Linux distribution b
@@ -564,6 +567,7 @@
 
 ## JavaScript 
 
+- [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If
 - [tchx84/Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions
@@ -736,7 +740,6 @@
 
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [worproject/WoR-Translations](https://github.com/worproject/WoR-Translations) - Language files for the Windows on Raspberry imager.
-- [GloDroid/glodroid_tests](https://github.com/GloDroid/glodroid_tests) - DRM/KMS manual validation scripts
 - [gunnarmorling/awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open-Source Data Engineering Projects
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
@@ -916,6 +919,7 @@
 - [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
 - [tareksander/termux-gui-package](https://github.com/tareksander/termux-gui-package) - A Termux package containing utilities for Termux:GUI.
+- [GloDroid/glodroid_tests](https://github.com/GloDroid/glodroid_tests) - DRM/KMS manual validation scripts
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [8go/matrix-commander](https://github.com/8go/matrix-commander) - simple but convenient CLI-based Matrix client app for sending and receiving
@@ -1063,7 +1067,7 @@
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
-- [natorsc/gui-python-gtk](https://github.com/natorsc/gui-python-gtk) - Repositório criado para documentar e centralizar conteúdos, dicas, tutoriais e exemplos de código sobre a construção de interfaces com a linguagem de programação Python (PyGObject) e o toolkit gráfico
+- [natorsc/gui-python-pygobject-gtk4](https://github.com/natorsc/gui-python-pygobject-gtk4) - Repositório criado para documentar e centralizar conteúdos, dicas, tutoriais e exemplos de código sobre a construção de interfaces com a linguagem de programação Python (PyGObject) e o toolkit gráfico
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -1139,6 +1143,9 @@
 
 ## Rust 
 
+- [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
+- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [wizard-28/wealthy](https://github.com/wizard-28/wealthy) - https://github.com/Textualize/rich ported to Rust!
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
