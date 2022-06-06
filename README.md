@@ -74,6 +74,7 @@
 
 ## C 
 
+- [amarioguy/m1n1_windows](https://github.com/amarioguy/m1n1_windows) - m1n1, but adapted to run windows (aka with a GIC emulator)
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
@@ -747,6 +748,7 @@
 
 ## Others 
 
+- [amarioguy/m1windowsproject](https://github.com/amarioguy/m1windowsproject) - 
 - [tmplink/ipv6](https://github.com/tmplink/ipv6) - A document about ipv6.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [worproject/WoR-Translations](https://github.com/worproject/WoR-Translations) - Language files for the Windows on Raspberry imager.
@@ -1153,6 +1155,7 @@
 
 ## Rust 
 
+- [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
@@ -1478,6 +1481,7 @@
 
 ## TypeScript 
 
+- [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [flathub/linux-store-frontend](https://github.com/flathub/linux-store-frontend) - A web application to browse and install applications present in Flatpak repositories. Powers https://www.flathub.org
