@@ -461,7 +461,7 @@
 
 ## Dockerfile 
 
-- [hmsjy2017/debian-arm-build-env](https://github.com/hmsjy2017/debian-arm-build-env) - 
+- [hmsjy2017/debian-arm-build-env](https://github.com/hmsjy2017/debian-arm-build-env) - Build Linux arm software in Docker
 
 ## Elixir 
 
