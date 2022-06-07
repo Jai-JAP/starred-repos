@@ -699,6 +699,7 @@
 
 ## Jupyter Notebook 
 
+- [jgmarquesm/Python](https://github.com/jgmarquesm/Python) - To upload my codes, solved exercises and advances while learning and studying Python.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [alexeygrigorev/mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code) - The code from the Machine Learning Bookcamp book and a free course based on the book
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
@@ -706,7 +707,7 @@
 
 ## Kotlin 
 
-- [rouzbehzarei/filester](https://github.com/rouzbehzarei/filester) - A simple file uploader for android
+- [roozbehzarei/filester](https://github.com/roozbehzarei/filester) - A simple file uploader for android
 - [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
 - [termux/termux-styling](https://github.com/termux/termux-styling) - Termux add-on app for customizing the terminal font and color theme.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOT
@@ -920,6 +921,7 @@
 
 ## Python 
 
+- [pygame-web/pygbag](https://github.com/pygame-web/pygbag) - PyGame wasm for everyone ( packager + test server )
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [pittcsc/Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) - Collection of Summer 2023 tech internships!
@@ -955,7 +957,6 @@
 - [eylles/pywal16](https://github.com/eylles/pywal16) - 16 colors fork of pywal
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
-- [rajkumardusad/Tool-X](https://github.com/rajkumardusad/Tool-X) - Tool-X is a kali linux hacking Tool installer. Tool-X developed for termux and other Linux based systems. using Tool-X you can install almost 370+ hacking tools in termux app and other linux based dis
 - [Red-exe-Engineer/MCPI-slash-commands](https://github.com/Red-exe-Engineer/MCPI-slash-commands) - Adds a few slash commands to MCPI such as /tp and /kill as well as has plugin support :p
 - [Red-exe-Engineer/MCPI-slash-commands-plugins](https://github.com/Red-exe-Engineer/MCPI-slash-commands-plugins) - Plugins for https://github.com/Red-exe-Engineer/MCPI-slash-commands
 - [MatthiasSchinzel/sysmon](https://github.com/MatthiasSchinzel/sysmon) - Graphical system monitor for linux, including information about CPU, GPU, Memory, HDD/SDD and your network connections. Similar to windows task manager.
@@ -1233,6 +1234,7 @@
 
 ## Shell 
 
+- [elementary/os](https://github.com/elementary/os) - The OS build system
 - [YurinDoctrine/ubuntu-base-setup](https://github.com/YurinDoctrine/ubuntu-base-setup) - A fine rice bootstrapping script for Ubuntu & Pop!_OS
 - [rollingrhinoremix/rhino-deinst](https://github.com/rollingrhinoremix/rhino-deinst) - rhino-deinst is a command-line utility script which provides a Terminal User Interface to install desktop environments on Rolling Rhino Remix + Ubuntu-based systems
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -1481,6 +1483,7 @@
 
 ## TypeScript 
 
+- [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
