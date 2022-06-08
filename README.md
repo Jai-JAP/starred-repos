@@ -714,7 +714,7 @@
 
 ## Makefile 
 
-- [ProjectAfterBurner/afver](https://github.com/ProjectAfterBurner/afver) - 
+- [ProjectAfterBurner/afver](https://github.com/ProjectAfterBurner/afver) - Displays the afterburner version
 - [pikvm/pi-builder](https://github.com/pikvm/pi-builder) - Extensible tool to build Arch Linux ARM for Raspberry Pi on x86_64 host using Docker
 - [android-rpi/device_arpi_rpi4](https://github.com/android-rpi/device_arpi_rpi4) - Device build-config for Raspberry Pi 4
 - [dmlls/whatsapp-emoji-linux](https://github.com/dmlls/whatsapp-emoji-linux) - WhatsApp Emoji for GNU/Linux 🐧
@@ -1248,7 +1248,7 @@
 - [pirate/wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - 🌐 Guide and tools to run a full offline mirror of Wikipedia.org with three different approaches: Nginx caching proxy, Kiwix + ZIM dump, and MediaWiki/XOWA + XML dump
 - [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community) - Automatic import of svn 'community' repo (read-only mirror)
 - [clayrisser/breeze-hacked-cursor-theme](https://github.com/clayrisser/breeze-hacked-cursor-theme) - Official cursor theme for Jam OS
-- [ProjectAfterBurner/afterburner-neofetch-theme](https://github.com/ProjectAfterBurner/afterburner-neofetch-theme) - 🖼️  A command-line system information tool written in bash 3.2+
+- [ProjectAfterBurner/afterburner-neofetch-theme](https://github.com/ProjectAfterBurner/afterburner-neofetch-theme) - Fork of neofetch that displays the afterburner logo
 - [radxa/debos-radxa](https://github.com/radxa/debos-radxa) - 
 - [ryanfortner/ubuntu22.04-scripts](https://github.com/ryanfortner/ubuntu22.04-scripts) - scripts to make ubuntu 22.04 better
 - [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom) - My custom build of wine, made to use with lutris. Built with lutris's buildbot.
@@ -1512,7 +1512,7 @@
 - [ruslang02/discord-qt](https://github.com/ruslang02/discord-qt) - Discord client powered by Node.JS and Qt Widgets.
 - [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely. vscode background 背景扩展插件。
 - [oae/gnome-shell-extensions-sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations
-- [leonwind/cli2cloud](https://github.com/leonwind/cli2cloud) - Monitor and Share Your Terminal Output with Everyone from Everywhere in Realtime.
+- [leonwind/cli2cloud](https://github.com/leonwind/cli2cloud) - Monitor and share your terminal output with everyone from everywhere in realtime.
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
