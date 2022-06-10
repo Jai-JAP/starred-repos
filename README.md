@@ -74,6 +74,7 @@
 
 ## C 
 
+- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [amarioguy/m1n1_windows](https://github.com/amarioguy/m1n1_windows) - m1n1, but adapted to run windows (aka with a GIC emulator)
@@ -313,6 +314,7 @@
 
 ## C++ 
 
+- [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 - [linuxdeepin/dde-control-center](https://github.com/linuxdeepin/dde-control-center) - Control panel of Deepin Desktop Environment.
@@ -924,6 +926,8 @@
 
 ## Python 
 
+- [blender/blender-addons-contrib](https://github.com/blender/blender-addons-contrib) - This is an official read-only mirror.
+- [blender/blender-addons](https://github.com/blender/blender-addons) - This is an official read-only mirror.
 - [Crilum/pyqt5-weather-app](https://github.com/Crilum/pyqt5-weather-app) - A simple weather app written in PyQt5
 - [pygame-web/pygbag](https://github.com/pygame-web/pygbag) - PyGame wasm for everyone ( packager + test server )
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
