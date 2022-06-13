@@ -75,6 +75,7 @@
 
 ## C 
 
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -289,6 +290,8 @@
 
 ## C# # 
 
+- [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
+- [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [ArkaneDev/WinPass11](https://github.com/ArkaneDev/WinPass11) - 🪟 WinPass11 is a tool for installing Windows 11 on unsupported hardware.
 - [microsoft/Oryx](https://github.com/microsoft/Oryx) - Build your repo automatically.
 - [nptr/msstyleEditor](https://github.com/nptr/msstyleEditor) - an editor for windows visual styles
@@ -315,6 +318,8 @@
 
 ## C++ 
 
+- [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
+- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
@@ -517,6 +522,7 @@
 
 ## HTML 
 
+- [fransallen/thedev.id](https://github.com/fransallen/thedev.id) - Identity for developers on the web.
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [Mineshaft-game/mineshaft-game.github.io](https://github.com/Mineshaft-game/mineshaft-game.github.io) - 
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - A minimal, responsive and light theme for Hugo inspired by Linux console.
@@ -725,7 +731,6 @@
 ## Makefile 
 
 - [ProjectAfterBurner/afver](https://github.com/ProjectAfterBurner/afver) - Displays the afterburner version
-- [pikvm/pi-builder](https://github.com/pikvm/pi-builder) - Extensible tool to build Arch Linux ARM for Raspberry Pi on x86_64 host using Docker
 - [android-rpi/device_arpi_rpi4](https://github.com/android-rpi/device_arpi_rpi4) - Device build-config for Raspberry Pi 4
 - [dmlls/whatsapp-emoji-linux](https://github.com/dmlls/whatsapp-emoji-linux) - WhatsApp Emoji for GNU/Linux 🐧
 - [ipxe/pipxe](https://github.com/ipxe/pipxe) - iPXE for the Raspberry Pi
@@ -759,6 +764,7 @@
 
 ## Others 
 
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources.
 - [amarioguy/m1windowsproject](https://github.com/amarioguy/m1windowsproject) - 
 - [tmplink/ipv6](https://github.com/tmplink/ipv6) - IPv6 文档
@@ -932,6 +938,7 @@
 
 ## Python 
 
+- [VatsalP/pdf_utility](https://github.com/VatsalP/pdf_utility) - GUI to merge pdf files
 - [blender/blender-addons-contrib](https://github.com/blender/blender-addons-contrib) - This is an official read-only mirror.
 - [blender/blender-addons](https://github.com/blender/blender-addons) - This is an official read-only mirror.
 - [Crilum/pyqt5-weather-app](https://github.com/Crilum/pyqt5-weather-app) - A simple weather app written in PyQt5
@@ -991,6 +998,7 @@
 - [chbrown/pi](https://github.com/chbrown/pi) - Simpler python package installation
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [CMDR-Piboy314/Python-Typing-Test](https://github.com/CMDR-Piboy314/Python-Typing-Test) - A Text-Based Typing Test made in Python
+- [pikvm/pi-builder](https://github.com/pikvm/pi-builder) - Extensible tool to build Arch Linux ARM for Raspberry Pi on x86_64 host using Docker
 - [odziom91/libadwaita-theme-changer](https://github.com/odziom91/libadwaita-theme-changer) - Theme changer for Libadwaita
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats) - A Minecraft player statistics browser for the web - supports 1.13 to 1.19!
