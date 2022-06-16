@@ -43,6 +43,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SVG](#svg)
 - [SWIG](#swig)
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
@@ -75,6 +76,8 @@
 
 ## C 
 
+- [FDH2/UxPlay](https://github.com/FDH2/UxPlay) - AirPlay Unix mirroring server
+- [TeamWin/Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/TeamWin/android_bootable_recovery/
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
@@ -324,6 +327,7 @@
 
 ## C++ 
 
+- [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 - [torchgm/NewModernWinver](https://github.com/torchgm/NewModernWinver) - A modern and functional replacement for the About Windows dialog
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
@@ -599,6 +603,7 @@
 
 ## JavaScript 
 
+- [atom-community/atom](https://github.com/atom-community/atom) - :atom: Community build of the hackable text editor
 - [jorangreef/sudo-prompt](https://github.com/jorangreef/sudo-prompt) - Run a command using sudo, prompting the user with an OS dialog if necessary.
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [xrkffgg/list-all-followers-and-following](https://github.com/xrkffgg/list-all-followers-and-following) - 😳 Easy view and filter all follows and following. Auto update by GitHub Action.
@@ -910,6 +915,7 @@
 
 ## PHP 
 
+- [fuzzyfox/shlink-cli](https://github.com/fuzzyfox/shlink-cli) - An unofficial Shlink cli rest client.
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
@@ -950,6 +956,7 @@
 
 ## Python 
 
+- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [VatsalP/pdf_utility](https://github.com/VatsalP/pdf_utility) - GUI to merge pdf files
 - [blender/blender-addons-contrib](https://github.com/blender/blender-addons-contrib) - This is an official read-only mirror.
 - [blender/blender-addons](https://github.com/blender/blender-addons) - This is an official read-only mirror.
@@ -1163,6 +1170,7 @@
 
 ## QML 
 
+- [PapirusDevelopmentTeam/arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
 - [varlesh/plasma-deck](https://github.com/varlesh/plasma-deck) - Steam Deck UI on Plasma
 - [PapirusDevelopmentTeam/materia-kde](https://github.com/PapirusDevelopmentTeam/materia-kde) - Materia KDE customization
 - [vinceliuice/WhiteSur-kde](https://github.com/vinceliuice/WhiteSur-kde) - MacOS big sur theme for kde plasma
@@ -1258,6 +1266,10 @@
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme "yaru". Better than a 🌯.
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 
+## SVG 
+
+- [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners!
+
 ## SWIG 
 
 - [microsoft/Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) - This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.
@@ -1268,6 +1280,8 @@
 
 ## Shell 
 
+- [51sec/xrdp4arm](https://github.com/51sec/xrdp4arm) - 
+- [LukeShortCloud/winesapOS](https://github.com/LukeShortCloud/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
 - [openFyde/overlay-rpi4-openfyde](https://github.com/openFyde/overlay-rpi4-openfyde) - 
 - [elementary/os](https://github.com/elementary/os) - The OS build system
 - [YurinDoctrine/ubuntu-base-setup](https://github.com/YurinDoctrine/ubuntu-base-setup) - A fine rice bootstrapping script for Ubuntu & Pop!_OS
