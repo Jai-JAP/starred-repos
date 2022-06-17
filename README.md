@@ -76,6 +76,7 @@
 
 ## C 
 
+- [FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - A GPS bicycle speedometer that supports offline maps and track recording
 - [FDH2/UxPlay](https://github.com/FDH2/UxPlay) - AirPlay Unix mirroring server
 - [TeamWin/Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/TeamWin/android_bootable_recovery/
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
@@ -122,7 +123,7 @@
 - [LoyieKing/X86PeRunner](https://github.com/LoyieKing/X86PeRunner) - Run X86 PE file on Windows 10 ARM32
 - [jinfeihan57/p7zip](https://github.com/jinfeihan57/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/p7zip/).
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
-- [PulpoBoy/Color-Flappy](https://github.com/PulpoBoy/Color-Flappy) - 
+- [PulpoBoy/Color-Flappy](https://github.com/PulpoBoy/Color-Flappy) - Flappy bird for colorful games console with arduino
 - [Tix3Dev/KnutOS](https://github.com/Tix3Dev/KnutOS) - An x86_64 hobbyist OS written in C and Assembly
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
 - [tsoding/flag.h](https://github.com/tsoding/flag.h) - Command-line flag parsing in C
@@ -533,6 +534,7 @@
 
 ## HTML 
 
+- [lordelph/pastebin](https://github.com/lordelph/pastebin) - The original pastebin source, available under an AGPL licence
 - [ryanfortner/eaglercraft](https://github.com/ryanfortner/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it throu
 - [ryanfortner/public-docs](https://github.com/ryanfortner/public-docs) - The repository for the new Fosshost documentation.
 - [fransallen/thedev.id](https://github.com/fransallen/thedev.id) - Identity for developers on the web.
@@ -603,6 +605,8 @@
 
 ## JavaScript 
 
+- [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
+- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [atom-community/atom](https://github.com/atom-community/atom) - :atom: Community build of the hackable text editor
 - [jorangreef/sudo-prompt](https://github.com/jorangreef/sudo-prompt) - Run a command using sudo, prompting the user with an OS dialog if necessary.
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
@@ -789,6 +793,7 @@
 - [worproject/WoR-Translations](https://github.com/worproject/WoR-Translations) - Language files for the Windows on Raspberry imager.
 - [gunnarmorling/awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open-Source Data Engineering Projects
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
+- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
 - [ossu/math](https://github.com/ossu/math) - 🧮  Path to a free self-taught education in Mathematics!
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -915,6 +920,7 @@
 
 ## PHP 
 
+- [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE) - Paste is a project that started from the files pastebin.com used before it was bought.
 - [fuzzyfox/shlink-cli](https://github.com/fuzzyfox/shlink-cli) - An unofficial Shlink cli rest client.
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
@@ -973,7 +979,6 @@
 - [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
 - [tareksander/termux-gui-package](https://github.com/tareksander/termux-gui-package) - A Termux package containing utilities for Termux:GUI.
 - [GloDroid/glodroid_tests](https://github.com/GloDroid/glodroid_tests) - DRM/KMS manual validation scripts
-- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [8go/matrix-commander](https://github.com/8go/matrix-commander) - simple but convenient CLI-based Matrix client app for sending and receiving
 - [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications
@@ -1280,6 +1285,7 @@
 
 ## Shell 
 
+- [wimpysworld/ubuntu-pi-image](https://github.com/wimpysworld/ubuntu-pi-image) - 
 - [51sec/xrdp4arm](https://github.com/51sec/xrdp4arm) - 
 - [LukeShortCloud/winesapOS](https://github.com/LukeShortCloud/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
 - [openFyde/overlay-rpi4-openfyde](https://github.com/openFyde/overlay-rpi4-openfyde) - 
@@ -1596,6 +1602,7 @@
 
 ## Vala 
 
+- [ErikReider/SwaySettings](https://github.com/ErikReider/SwaySettings) - 
 - [linuxmint/timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 - [monkaBlyat/ThemeTwister](https://github.com/monkaBlyat/ThemeTwister) - Buy me a Coffee https://www.paypal.me/krishenriksendk
 - [lainsce/colorway](https://github.com/lainsce/colorway) - Generate color pairings.
