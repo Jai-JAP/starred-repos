@@ -294,6 +294,8 @@
 
 ## C# # 
 
+- [nachmore/toastify](https://github.com/nachmore/toastify) - Toastify adds global hotkeys and toast notifications to Spotify
+- [aleab/toastify](https://github.com/aleab/toastify) - :mega: TOASTIFY DEVELOPMENT HAS STOPPED | Toastify adds global hotkeys and toast notifications to Spotify
 - [Xeroday/Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows
 - [dahall/TaskScheduler](https://github.com/dahall/TaskScheduler) - Provides a .NET wrapper for the Windows Task Scheduler. It aggregates the multiple versions, provides an editor and allows for localization.
 - [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
@@ -415,7 +417,7 @@
 - [librerpi/rpi-tools](https://github.com/librerpi/rpi-tools) - 
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 - [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
-- [winegui/WineGUI](https://github.com/winegui/WineGUI) - At last, a user-friendly WINE graphical interface (mirror from Gitlab)
+- [winegui/WineGUI](https://github.com/winegui/WineGUI) - At last, a user-friendly Wine graphical interface (mirror from Gitlab)
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
@@ -605,6 +607,7 @@
 
 ## JavaScript 
 
+- [offen/offen](https://github.com/offen/offen) - The fair and lightweight alternative to common web analytics tools
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [atom-community/atom](https://github.com/atom-community/atom) - :atom: Community build of the hackable text editor
@@ -763,6 +766,7 @@
 
 ## Markdown 
 
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 
 ## NSIS 
@@ -780,12 +784,12 @@
 
 ## Objective-C 
 
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 
 ## Others 
 
 - [Botspot/pi-apps-replies](https://github.com/Botspot/pi-apps-replies) - This repository hosts messages to send back to Pi-Apps users who reported an error.
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources.
 - [amarioguy/m1windowsproject](https://github.com/amarioguy/m1windowsproject) - 
 - [tmplink/ipv6](https://github.com/tmplink/ipv6) - IPv6 文档
@@ -962,6 +966,7 @@
 
 ## Python 
 
+- [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [VatsalP/pdf_utility](https://github.com/VatsalP/pdf_utility) - GUI to merge pdf files
 - [blender/blender-addons-contrib](https://github.com/blender/blender-addons-contrib) - This is an official read-only mirror.
