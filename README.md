@@ -298,6 +298,7 @@
 
 ## C# # 
 
+- [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 - [driver1998/VMGuide](https://github.com/driver1998/VMGuide) - A handy utility to manage your virtual machines, provides an easy access to hardware configuration and BIOS settings that are commonly hidden in the UI. Useful when installing pre-release or vintage s
 - [nachmore/toastify](https://github.com/nachmore/toastify) - Toastify adds global hotkeys and toast notifications to Spotify
 - [aleab/toastify](https://github.com/aleab/toastify) - :mega: TOASTIFY DEVELOPMENT HAS STOPPED | Toastify adds global hotkeys and toast notifications to Spotify
@@ -335,6 +336,7 @@
 
 ## C++ 
 
+- [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [IonelPopJara/ascii-video-player](https://github.com/IonelPopJara/ascii-video-player) - A simple script that turns .mp4 files into ASCII characters
 - [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
@@ -748,7 +750,6 @@
 ## Jupyter Notebook 
 
 - [jgmarquesm/Python](https://github.com/jgmarquesm/Python) - To upload my codes, solved exercises and advances while learning and studying Python.
-- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [alexeygrigorev/mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code) - The code from the Machine Learning Bookcamp book and a free course based on the book
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
@@ -1000,6 +1001,7 @@
 - [dsanson/termpdf.py](https://github.com/dsanson/termpdf.py) - A graphical pdf and epub reader that works inside the kitty terminal
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
 - [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
+- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
 - [tareksander/termux-gui-package](https://github.com/tareksander/termux-gui-package) - A Termux package containing utilities for Termux:GUI.
 - [GloDroid/glodroid_tests](https://github.com/GloDroid/glodroid_tests) - DRM/KMS manual validation scripts
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -1152,7 +1154,7 @@
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [simons-public/protonfixes](https://github.com/simons-public/protonfixes) - A module for applying fixes at runtime to unsupported games with Steam Proton without changing game installation files
-- [ZhymabekRoman/proot-static](https://github.com/ZhymabekRoman/proot-static) - Static builded of Termux's version proot
+- [ZhymabekRoman/proot-static](https://github.com/ZhymabekRoman/proot-static) - Statically compiled proot binary repository with patches applied to work better under Termux.
 - [Djdefrag/NiceScaler](https://github.com/Djdefrag/NiceScaler) - NiceScaler - Image/video DeepLearning Upscaler
 - [hermanhermitage/videocoreiv](https://github.com/hermanhermitage/videocoreiv) - Tools and information for the Broadcom VideoCore IV (RaspberryPi)
 - [volitank/pyshell](https://github.com/volitank/pyshell) - pyshell is a Linux subprocess module
@@ -1190,7 +1192,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-450-Stars](https://github.com/iBug/This-Repo-Has-450-Stars) - Yes, it's true :sparkling_heart: This repository has 450 stars.
+- [iBug/This-Repo-Has-450-Stars](https://github.com/iBug/This-Repo-Has-450-Stars) - Yes, it's true :purple_heart: This repository has 450 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1649,6 +1651,7 @@
 
 ## Visual Basic .NET 
 
+- [PeterStrick/ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) - Windows Feature Control GUI based on ViVe / ViVeTool
 - [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
 
 ## Vue 
