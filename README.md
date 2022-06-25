@@ -473,6 +473,7 @@
 
 ## CSS 
 
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [uihaven/ui-buttons](https://github.com/uihaven/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [radxa/apt](https://github.com/radxa/apt) - radxa debian packages repository
@@ -515,6 +516,7 @@
 
 ## Go 
 
+- [dingqiangliu/mhtml2html](https://github.com/dingqiangliu/mhtml2html) - Convert MHTM file to single html embedded all resources with base64 encoding
 - [electron-userland/electron-build-service](https://github.com/electron-userland/electron-build-service) - Package Electron applications in a distributable format on any platform for any platform
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
@@ -809,6 +811,8 @@
 
 ## Others 
 
+- [dair-ai/MLOPs-Primer](https://github.com/dair-ai/MLOPs-Primer) - A collection of resources to learn about MLOPs.
+- [edisionnano/Screenshare-with-audio-on-Discord-with-Linux](https://github.com/edisionnano/Screenshare-with-audio-on-Discord-with-Linux) - A repo trying to gather all info regarding proper screensharing on Discord with Desktop Audio for linux users
 - [playGitboy/WinAsar](https://github.com/playGitboy/WinAsar) - Windows平台下可视化asar文件编辑工具，支持解包、编辑、打包等功能。绿色单文件可运行于XP以上任何Windows系统……
 - [aardio/WinAsar](https://github.com/aardio/WinAsar) - Portable and lightweight GUI utility to pack and extract asar( electron archive ) files, Only 551 KB!
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -992,6 +996,7 @@
 
 ## Python 
 
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [tianocore/edk2-pytool-extensions](https://github.com/tianocore/edk2-pytool-extensions) - Extensions to the edk2 build system allowing for a more robust and plugin based build system and tool execution environment
 - [martinet101/ElevenClock](https://github.com/martinet101/ElevenClock) - ElevenClock: Have a customizable clock on your Windows 11 displays
 - [hugsy/cemu](https://github.com/hugsy/cemu) - Cheap EMUlator: lightweight multi-architecture assembly playground
@@ -1202,7 +1207,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-451-Stars](https://github.com/iBug/This-Repo-Has-451-Stars) - Yes, it's true :revolving_hearts: This repository has 451 stars.
+- [iBug/This-Repo-Has-453-Stars](https://github.com/iBug/This-Repo-Has-453-Stars) - Yes, it's true :revolving_hearts: This repository has 453 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1236,6 +1241,7 @@
 
 ## Rust 
 
+- [rust-lang-nursery/lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
