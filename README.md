@@ -633,7 +633,6 @@
 - [maoschanz/emoji-selector-for-gnome](https://github.com/maoschanz/emoji-selector-for-gnome) - This extension provide a popup menu with some emojis ; clicking on an emoji copies it to the clipboard.
 - [offen/offen](https://github.com/offen/offen) - The fair and lightweight alternative to common web analytics tools
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
-- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [atom-community/atom](https://github.com/atom-community/atom) - :atom: Community build of the hackable text editor
 - [jorangreef/sudo-prompt](https://github.com/jorangreef/sudo-prompt) - Run a command using sudo, prompting the user with an OS dialog if necessary.
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
@@ -1210,7 +1209,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-453-Stars](https://github.com/iBug/This-Repo-Has-453-Stars) - Yes, it's true :revolving_hearts: This repository has 453 stars.
+- [iBug/This-Repo-Has-454-Stars](https://github.com/iBug/This-Repo-Has-454-Stars) - Yes, it's true :yellow_heart: This repository has 454 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1588,6 +1587,7 @@
 - [MarshallOfSound/electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer) - An easy way to ensure Chrome DevTools extensions into Electron
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [app-outlet/app-outlet](https://github.com/app-outlet/app-outlet) - A Universal linux app store
+- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
 - [pl4nty/spotify-public-likes](https://github.com/pl4nty/spotify-public-likes) - Sync your liked songs to a public Spotify playlist
