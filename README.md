@@ -413,7 +413,7 @@
 - [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and 
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [midwan/amiberry](https://github.com/midwan/amiberry) - Optimized Amiga emulator for the Raspberry Pi and other ARM boards
+- [BlitterStudio/amiberry](https://github.com/BlitterStudio/amiberry) - Optimized Amiga emulator for the Raspberry Pi and other ARM boards
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
@@ -518,6 +518,7 @@
 
 ## Go 
 
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [dingqiangliu/mhtml2html](https://github.com/dingqiangliu/mhtml2html) - Convert MHTM file to single html embedded all resources with base64 encoding
 - [electron-userland/electron-build-service](https://github.com/electron-userland/electron-build-service) - Package Electron applications in a distributable format on any platform for any platform
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
@@ -1329,6 +1330,7 @@
 
 ## Shell 
 
+- [rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash)
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [wimpysworld/ubuntu-pi-image](https://github.com/wimpysworld/ubuntu-pi-image) - 
 - [51sec/xrdp4arm](https://github.com/51sec/xrdp4arm) - 
