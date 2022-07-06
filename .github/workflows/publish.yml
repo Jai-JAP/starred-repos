@@ -1,4 +1,4 @@
-name: publish
+name: Publish
 on:
   schedule:
   - cron: 30 0 * * *
@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    name: Deploy docs
+    name: Push new stars
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main
@@ -19,7 +19,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install starred
-      - name: Run stars check
+      - name: Check for stars changes
         run: starred --username Jai-JAP --token ${{secrets.TOKEN}} --sort > README.md
       - name: Push changes
         run: |
