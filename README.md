@@ -77,6 +77,7 @@
 
 ## C 
 
+- [novialriptide/wordle.gb](https://github.com/novialriptide/wordle.gb) - ** WORK IN PROGRESS **
 - [GNOME/glade](https://github.com/GNOME/glade) - Read-only mirror of https://gitlab.gnome.org/GNOME/glade
 - [GNOME/gnome-builder](https://github.com/GNOME/gnome-builder) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-builder
 - [Googulator/dwusb](https://github.com/Googulator/dwusb) - Windows driver for the DesignWare USB 2.0 HS OTG Controller as used in the Raspberry Pi 3.
@@ -575,11 +576,11 @@
 
 ## HTML 
 
+- [ubuntu/ubuntu-make](https://github.com/ubuntu/ubuntu-make) - Easy setup of common tools for developers on Ubuntu.
 - [maunium/dontasktoask.com](https://github.com/maunium/dontasktoask.com) - An informational website about why you should ask questions directly instead of asking to ask
 - [pygame-guide-for-sneks/pygame-guide-for-sneks.github.io](https://github.com/pygame-guide-for-sneks/pygame-guide-for-sneks.github.io) - 
 - [bancika/diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
 - [lordelph/pastebin](https://github.com/lordelph/pastebin) - The original pastebin source, available under an AGPL licence
-- [ryanfortner/eaglercraft](https://github.com/ryanfortner/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it throu
 - [ryanfortner/public-docs](https://github.com/ryanfortner/public-docs) - The repository for the new Fosshost documentation.
 - [fransallen/thedev.id](https://github.com/fransallen/thedev.id) - Identity for developers on the web.
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
@@ -654,6 +655,7 @@
 
 ## JavaScript 
 
+- [Griphitor/Griphitor-ChromeOS](https://github.com/Griphitor/Griphitor-ChromeOS) - 
 - [Griphitor/Packages](https://github.com/Griphitor/Packages) - Packages and Plugins that can be added to Griphitor via The CLI
 - [electron/releases](https://github.com/electron/releases) - 📦 Complete and up-to-date info about every release of Electron
 - [maoschanz/emoji-selector-for-gnome](https://github.com/maoschanz/emoji-selector-for-gnome) - This extension provide a popup menu with some emojis ; clicking on an emoji copies it to the clipboard.
@@ -839,6 +841,7 @@
 
 ## Others 
 
+- [makedeb/status](https://github.com/makedeb/status) - Statuspage for makedeb's websites
 - [novialriptide/learnthebasicsfirst.com](https://github.com/novialriptide/learnthebasicsfirst.com) - 
 - [novaspirit/piprox-arch](https://github.com/novaspirit/piprox-arch) - Install notes for installing arch linux on pi proxmox
 - [dair-ai/MLOPs-Primer](https://github.com/dair-ai/MLOPs-Primer) - A collection of resources to learn about MLOPs.
@@ -1026,6 +1029,9 @@
 
 ## Python 
 
+- [pacstall/libpacstall](https://github.com/pacstall/libpacstall) - Backend API library for Pacstall
+- [makedeb/prebuilt-mpr](https://github.com/makedeb/prebuilt-mpr) - APT repository for prebuilt MPR packages
+- [Griphitor/Griph-pad](https://github.com/Griphitor/Griph-pad) - Griph-Pad is a simple text editor by @Advik-B
 - [leha-code/Claculator](https://github.com/leha-code/Claculator) - The very calculator
 - [xboxone08/making_mcpi_real](https://github.com/xboxone08/making_mcpi_real) - This plugin for Minecraft: Pi edition aims to "update" it to be more like Minecraft 1.15.
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
@@ -1278,6 +1284,8 @@
 
 ## Rust 
 
+- [pacstall/pacstall-gui](https://github.com/pacstall/pacstall-gui) - GUI for pacstall
+- [makedeb/mpr-cli](https://github.com/makedeb/mpr-cli) - The official command-line interface for the makedeb Package Repository
 - [antoyo/relm](https://github.com/antoyo/relm) - Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - An idiomatic GUI library inspired by Elm and based on gtk4-rs
 - [songww/reovim](https://github.com/songww/reovim) - Neovim GUI written in Rust, using relm4(gtk4-rs).
@@ -1369,6 +1377,7 @@
 
 ## Shell 
 
+- [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
 - [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) - Raspberry Pi Guide
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash)
