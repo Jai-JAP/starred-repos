@@ -77,6 +77,10 @@
 
 ## C 
 
+- [GNOME/glade](https://github.com/GNOME/glade) - Read-only mirror of https://gitlab.gnome.org/GNOME/glade
+- [GNOME/gnome-builder](https://github.com/GNOME/gnome-builder) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-builder
+- [Googulator/dwusb](https://github.com/Googulator/dwusb) - Windows driver for the DesignWare USB 2.0 HS OTG Controller as used in the Raspberry Pi 3.
+- [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 - [GNOME/zenity](https://github.com/GNOME/zenity) - Read-only mirror of https://gitlab.gnome.org/GNOME/zenity
 - [ujjwal96/xwinwrap](https://github.com/ujjwal96/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
 - [Xubuntu/lightdm-gtk-greeter](https://github.com/Xubuntu/lightdm-gtk-greeter) - A GTK greeter for LightDM
@@ -310,7 +314,7 @@
 - [builtbybel/LoveWindowsAgain](https://github.com/builtbybel/LoveWindowsAgain) - Fall in love with Windows 11
 - [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - a tool to enable backdrop effect on titlebar of win32 apps on Windows 11
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
-- [driver1998/VMGuide](https://github.com/driver1998/VMGuide) - A handy utility to manage your virtual machines, provides an easy access to hardware configuration and BIOS settings that are commonly hidden in the UI. Useful when installing pre-release or vintage s
+- [driver1998/VMGuide](https://github.com/driver1998/VMGuide) - Virtual Machine utility, turn back BIOS date, disable ACPI and more.
 - [nachmore/toastify](https://github.com/nachmore/toastify) - Toastify adds global hotkeys and toast notifications to Spotify
 - [aleab/toastify](https://github.com/aleab/toastify) - :mega: TOASTIFY DEVELOPMENT HAS STOPPED | Toastify adds global hotkeys and toast notifications to Spotify
 - [Xeroday/Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows
@@ -347,6 +351,9 @@
 
 ## C++ 
 
+- [kjliew/qemu-xtra](https://github.com/kjliew/qemu-xtra) - Old PC Games Addons for QEMU
+- [schellingb/dosbox-pure](https://github.com/schellingb/dosbox-pure) - DOSBox Pure is a new fork of DOSBox built for RetroArch/Libretro aiming for simplicity and ease of use.
+- [codenulls/gta-reversed](https://github.com/codenulls/gta-reversed) - Reversed code of GTA:SA executable (gta_sa.exe) 1.0 US
 - [Electronicks/JoyShockMapper](https://github.com/Electronicks/JoyShockMapper) - A tool for PC gamers to play games with DualShock 4s, JoyCons, and Pro Controllers. Gyro aiming, flick stick.
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
@@ -516,6 +523,7 @@
 
 ## Dockerfile 
 
+- [knatnetwork/github-runner](https://github.com/knatnetwork/github-runner) - Simple Self-Hosted GitHub Actions Runner
 - [hmsjy2017/debian-arm-build-env](https://github.com/hmsjy2017/debian-arm-build-env) - Build Linux arm software in Docker
 
 ## Elixir 
@@ -567,6 +575,8 @@
 
 ## HTML 
 
+- [maunium/dontasktoask.com](https://github.com/maunium/dontasktoask.com) - An informational website about why you should ask questions directly instead of asking to ask
+- [pygame-guide-for-sneks/pygame-guide-for-sneks.github.io](https://github.com/pygame-guide-for-sneks/pygame-guide-for-sneks.github.io) - 
 - [bancika/diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
 - [lordelph/pastebin](https://github.com/lordelph/pastebin) - The original pastebin source, available under an AGPL licence
 - [ryanfortner/eaglercraft](https://github.com/ryanfortner/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it throu
@@ -616,6 +626,7 @@
 
 ## Java 
 
+- [mclaunch/mclaunch](https://github.com/mclaunch/mclaunch) - The old Minecraft Java launcher, updated.
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - VNC server app for Android that does not require root privileges.
 - [SKCraft/Launcher](https://github.com/SKCraft/Launcher) - 🚀 Distribute your Minecraft modpacks with a custom launcher
@@ -643,6 +654,8 @@
 
 ## JavaScript 
 
+- [Griphitor/Packages](https://github.com/Griphitor/Packages) - Packages and Plugins that can be added to Griphitor via The CLI
+- [electron/releases](https://github.com/electron/releases) - 📦 Complete and up-to-date info about every release of Electron
 - [maoschanz/emoji-selector-for-gnome](https://github.com/maoschanz/emoji-selector-for-gnome) - This extension provide a popup menu with some emojis ; clicking on an emoji copies it to the clipboard.
 - [offen/offen](https://github.com/offen/offen) - The fair and lightweight alternative to common web analytics tools
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
@@ -651,7 +664,7 @@
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [xrkffgg/list-all-followers-and-following](https://github.com/xrkffgg/list-all-followers-and-following) - 😳 Easy view and filter all follows and following. Auto update by GitHub Action.
 - [rishz/URL-Shortener](https://github.com/rishz/URL-Shortener) - A URL-Shortener created using Node-JS and synced with Firebase Database.
-- [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+- [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If
 - [tchx84/Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions
@@ -781,7 +794,7 @@
 
 ## Kotlin 
 
-- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android. [WIP]
+- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android.
 - [roozbehzarei/filester](https://github.com/roozbehzarei/filester) - A simple file uploader for android
 - [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
 - [termux/termux-styling](https://github.com/termux/termux-styling) - Termux add-on app for customizing the terminal font and color theme.
@@ -826,6 +839,8 @@
 
 ## Others 
 
+- [novialriptide/learnthebasicsfirst.com](https://github.com/novialriptide/learnthebasicsfirst.com) - 
+- [novaspirit/piprox-arch](https://github.com/novaspirit/piprox-arch) - Install notes for installing arch linux on pi proxmox
 - [dair-ai/MLOPs-Primer](https://github.com/dair-ai/MLOPs-Primer) - A collection of resources to learn about MLOPs.
 - [edisionnano/Screenshare-with-audio-on-Discord-with-Linux](https://github.com/edisionnano/Screenshare-with-audio-on-Discord-with-Linux) - A repo trying to gather all info regarding proper screensharing on Discord with Desktop Audio for linux users
 - [playGitboy/WinAsar](https://github.com/playGitboy/WinAsar) - Windows平台下可视化asar文件编辑工具，支持解包、编辑、打包等功能。绿色单文件可运行于XP以上任何Windows系统……
@@ -1011,6 +1026,8 @@
 
 ## Python 
 
+- [leha-code/Claculator](https://github.com/leha-code/Claculator) - The very calculator
+- [xboxone08/making_mcpi_real](https://github.com/xboxone08/making_mcpi_real) - This plugin for Minecraft: Pi edition aims to "update" it to be more like Minecraft 1.15.
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
 - [ilstam/FF-Multi-Converter](https://github.com/ilstam/FF-Multi-Converter) - GUI File Format Converter
 - [jerrylususu/PySimpleGUI-Demo-LangSelect](https://github.com/jerrylususu/PySimpleGUI-Demo-LangSelect) - PySimpleGUI Language Selection Demo
@@ -1227,7 +1244,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-468-Stars](https://github.com/iBug/This-Repo-Has-468-Stars) - Yes, it's true :gift_heart: This repository has 468 stars.
+- [iBug/This-Repo-Has-469-Stars](https://github.com/iBug/This-Repo-Has-469-Stars) - Yes, it's true :heart: This repository has 469 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1261,6 +1278,11 @@
 
 ## Rust 
 
+- [antoyo/relm](https://github.com/antoyo/relm) - Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
+- [Relm4/Relm4](https://github.com/Relm4/Relm4) - An idiomatic GUI library inspired by Elm and based on gtk4-rs
+- [songww/reovim](https://github.com/songww/reovim) - Neovim GUI written in Rust, using relm4(gtk4-rs).
+- [nushell/nana](https://github.com/nushell/nana) - Experimental GUI version of Nushell
+- [nushell/reedline](https://github.com/nushell/reedline) - A readline replacement written in Rust
 - [rust-lang-nursery/lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
@@ -1347,6 +1369,7 @@
 
 ## Shell 
 
+- [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) - Raspberry Pi Guide
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash)
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
@@ -1604,6 +1627,7 @@
 
 ## TypeScript 
 
+- [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [MarshallOfSound/electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer) - An easy way to ensure Chrome DevTools extensions into Electron
