@@ -576,6 +576,7 @@
 
 ## HTML 
 
+- [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [ubuntu/ubuntu-make](https://github.com/ubuntu/ubuntu-make) - Easy setup of common tools for developers on Ubuntu.
 - [maunium/dontasktoask.com](https://github.com/maunium/dontasktoask.com) - An informational website about why you should ask questions directly instead of asking to ask
 - [pygame-guide-for-sneks/pygame-guide-for-sneks.github.io](https://github.com/pygame-guide-for-sneks/pygame-guide-for-sneks.github.io) - 
@@ -841,6 +842,7 @@
 
 ## Others 
 
+- [nihadenes/EzPass](https://github.com/nihadenes/EzPass) - EzPass is a project about storing your password securely on your disk and undecryptable unless you have a strong password.
 - [makedeb/status](https://github.com/makedeb/status) - Statuspage for makedeb's websites
 - [novialriptide/learnthebasicsfirst.com](https://github.com/novialriptide/learnthebasicsfirst.com) - 
 - [novaspirit/piprox-arch](https://github.com/novaspirit/piprox-arch) - Install notes for installing arch linux on pi proxmox
@@ -1029,6 +1031,7 @@
 
 ## Python 
 
+- [nihadenes/AsciCam](https://github.com/nihadenes/AsciCam) - A program converts your webcam input to ascii and prints it on the screen.
 - [pacstall/libpacstall](https://github.com/pacstall/libpacstall) - Backend API library for Pacstall
 - [makedeb/prebuilt-mpr](https://github.com/makedeb/prebuilt-mpr) - APT repository for prebuilt MPR packages
 - [Griphitor/Griph-pad](https://github.com/Griphitor/Griph-pad) - Griph-Pad is a simple text editor by @Advik-B
@@ -1250,7 +1253,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-470-Stars](https://github.com/iBug/This-Repo-Has-470-Stars) - Yes, it's true :heartpulse: This repository has 470 stars.
+- [iBug/This-Repo-Has-468-Stars](https://github.com/iBug/This-Repo-Has-468-Stars) - Yes, it's true :orange_heart: This repository has 468 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
