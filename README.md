@@ -78,6 +78,7 @@
 
 ## C 
 
+- [drh/cii](https://github.com/drh/cii) - C Interfaces and Implementations
 - [novialriptide/wordle.gb](https://github.com/novialriptide/wordle.gb) - ** WORK IN PROGRESS **
 - [GNOME/glade](https://github.com/GNOME/glade) - Read-only mirror of https://gitlab.gnome.org/GNOME/glade
 - [GNOME/gnome-builder](https://github.com/GNOME/gnome-builder) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-builder
@@ -310,6 +311,8 @@
 
 ## C# # 
 
+- [unoplatform/calculator](https://github.com/unoplatform/calculator) - Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows
+- [unoplatform/uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
 - [MaxtorCoder/MultiConverter](https://github.com/MaxtorCoder/MultiConverter) - Official WoW Model Converter (Originially written by Adspartan)
 - [HarshalKudale/NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge) - 
 - [builtbybel/TweakUIX](https://github.com/builtbybel/TweakUIX) - PowerToys/Tweak UI Replica
@@ -353,6 +356,9 @@
 
 ## C++ 
 
+- [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - 
+- [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK+ UI
+- [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [kjliew/qemu-xtra](https://github.com/kjliew/qemu-xtra) - Old PC Games Addons for QEMU
 - [schellingb/dosbox-pure](https://github.com/schellingb/dosbox-pure) - DOSBox Pure is a new fork of DOSBox built for RetroArch/Libretro aiming for simplicity and ease of use.
 - [codenulls/gta-reversed](https://github.com/codenulls/gta-reversed) - Reversed code of GTA:SA executable (gta_sa.exe) 1.0 US
@@ -491,6 +497,7 @@
 
 ## CSS 
 
+- [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [uihaven/ui-buttons](https://github.com/uihaven/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
@@ -520,6 +527,7 @@
 
 ## Dart 
 
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - 
 - [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
 
@@ -844,6 +852,7 @@
 
 ## Others 
 
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [nihadenes/EzPass](https://github.com/nihadenes/EzPass) - EzPass is a project about storing your password securely on your disk and undecryptable unless you have a strong password.
 - [makedeb/status](https://github.com/makedeb/status) - Statuspage for makedeb's websites
 - [novialriptide/learnthebasicsfirst.com](https://github.com/novialriptide/learnthebasicsfirst.com) - 
@@ -1033,6 +1042,7 @@
 
 ## Python 
 
+- [witalihirsch/QTWin11](https://github.com/witalihirsch/QTWin11) - QT Theme (stylesheet) for Win32 apps on Windows 11
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
 - [nihadenes/AsciCam](https://github.com/nihadenes/AsciCam) - A program converts your webcam input to ascii and prints it on the screen.
 - [pacstall/libpacstall](https://github.com/pacstall/libpacstall) - Backend API library for Pacstall
