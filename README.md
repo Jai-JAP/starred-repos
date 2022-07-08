@@ -67,10 +67,15 @@
 
 ## AutoIt 
 
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 - [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 
 ## Batchfile 
 
+- [MehdiRtal/Tweaker11](https://github.com/MehdiRtal/Tweaker11) - Collection of Windows 11 Registry Tweaks.
+- [HackerajOfficial/Activator](https://github.com/HackerajOfficial/Activator) - Activator is collection of Windows tools Activator.
+- [WSA-Community/WSAPackagingTool](https://github.com/WSA-Community/WSAPackagingTool) - Allows you to modify WSA's Msixbundle and redistribute it.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
@@ -78,6 +83,8 @@
 
 ## C 
 
+- [MlgmXyysd/kernel-assisted-superuser](https://github.com/MlgmXyysd/kernel-assisted-superuser) - Mirror of Kernel-Assisted Superuser
+- [gurnec/HashCheck](https://github.com/gurnec/HashCheck) - HashCheck Shell Extension for Windows with added SHA2, SHA3, and multithreading; originally from code.kliu.org
 - [drh/cii](https://github.com/drh/cii) - C Interfaces and Implementations
 - [novialriptide/wordle.gb](https://github.com/novialriptide/wordle.gb) - ** WORK IN PROGRESS **
 - [GNOME/glade](https://github.com/GNOME/glade) - Read-only mirror of https://gitlab.gnome.org/GNOME/glade
@@ -311,11 +318,12 @@
 
 ## C# # 
 
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
+- [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker for fine-tuning Windows 10 & Windows 11. The next chapter of the Sophia Script project.
 - [unoplatform/calculator](https://github.com/unoplatform/calculator) - Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
 - [MaxtorCoder/MultiConverter](https://github.com/MaxtorCoder/MultiConverter) - Official WoW Model Converter (Originially written by Adspartan)
 - [HarshalKudale/NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge) - 
-- [builtbybel/TweakUIX](https://github.com/builtbybel/TweakUIX) - PowerToys/Tweak UI Replica
 - [builtbybel/LoveWindowsAgain](https://github.com/builtbybel/LoveWindowsAgain) - Fall in love with Windows 11
 - [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - a tool to enable backdrop effect on titlebar of win32 apps on Windows 11
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
@@ -356,6 +364,9 @@
 
 ## C++ 
 
+- [Jax-Core/YourFlyouts](https://github.com/Jax-Core/YourFlyouts) - Windows Audio / Volume flyouts replacement
+- [ChrisAnd1998/TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) - An application written in C++ to modify the Windows 11 Taskbar.
+- [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
 - [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - 
 - [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK+ UI
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -497,6 +508,7 @@
 
 ## CSS 
 
+- [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - MDL2 + Sun Valley Theme for Firefox
 - [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
@@ -543,6 +555,7 @@
 
 ## Go 
 
+- [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [dingqiangliu/mhtml2html](https://github.com/dingqiangliu/mhtml2html) - Convert MHTM file to single html embedded all resources with base64 encoding
 - [electron-userland/electron-build-service](https://github.com/electron-userland/electron-build-service) - Package Electron applications in a distributable format on any platform for any platform
@@ -585,6 +598,7 @@
 
 ## HTML 
 
+- [AmineDjeghri/BetterWindows11](https://github.com/AmineDjeghri/BetterWindows11) - Some windows tips to improve your UX experience when using windows
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [ubuntu/ubuntu-make](https://github.com/ubuntu/ubuntu-make) - Easy setup of common tools for developers on Ubuntu.
 - [maunium/dontasktoask.com](https://github.com/maunium/dontasktoask.com) - An informational website about why you should ask questions directly instead of asking to ask
@@ -1032,6 +1046,9 @@
 
 ## PowerShell 
 
+- [JosephM101/Force-Windows-11-Install](https://github.com/JosephM101/Force-Windows-11-Install) - Modifies Windows 11 installation ISO to bypass compatibility checks both pre and post installation
+- [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice is a tool that uses PowerShell automation to setup your Windows devices.
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [teeotsa/windows-10-debloat](https://github.com/teeotsa/windows-10-debloat) - Windows 10 debloater! Makes your installation of Windows 10 faster
@@ -1043,6 +1060,7 @@
 
 ## Python 
 
+- [martinet101/win32mica](https://github.com/martinet101/win32mica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
 - [witalihirsch/QTWin11](https://github.com/witalihirsch/QTWin11) - QT Theme (stylesheet) for Win32 apps on Windows 11
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
 - [nihadenes/AsciCam](https://github.com/nihadenes/AsciCam) - A program converts your webcam input to ascii and prints it on the screen.
@@ -1395,6 +1413,9 @@
 
 ## Shell 
 
+- [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 11 Guide. Though, most of the Tools, Programs, Resources will also work for Windows 10.
+- [WSA-Community/WSA-Linux-Kernel](https://github.com/WSA-Community/WSA-Linux-Kernel) - Mirror for the Windows Subsystem for Android (WSA) kernel source code, and superuser
+- [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
 - [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) - Raspberry Pi Guide
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
