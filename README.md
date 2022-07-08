@@ -83,6 +83,7 @@
 
 ## C 
 
+- [derf/feh](https://github.com/derf/feh) - a fast and light image viewer
 - [MlgmXyysd/kernel-assisted-superuser](https://github.com/MlgmXyysd/kernel-assisted-superuser) - Mirror of Kernel-Assisted Superuser
 - [gurnec/HashCheck](https://github.com/gurnec/HashCheck) - HashCheck Shell Extension for Windows with added SHA2, SHA3, and multithreading; originally from code.kliu.org
 - [drh/cii](https://github.com/drh/cii) - C Interfaces and Implementations
