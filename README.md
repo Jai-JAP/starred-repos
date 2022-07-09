@@ -367,6 +367,7 @@
 
 ## C++ 
 
+- [benbuck/rbtray](https://github.com/benbuck/rbtray) - A fork of RBTray from http://sourceforge.net/p/rbtray/code/.
 - [Jax-Core/YourFlyouts](https://github.com/Jax-Core/YourFlyouts) - Windows Audio / Volume flyouts replacement
 - [ChrisAnd1998/TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) - An application written in C++ to modify the Windows 11 Taskbar.
 - [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
