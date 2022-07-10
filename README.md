@@ -88,7 +88,7 @@
 - [MlgmXyysd/kernel-assisted-superuser](https://github.com/MlgmXyysd/kernel-assisted-superuser) - Mirror of Kernel-Assisted Superuser
 - [gurnec/HashCheck](https://github.com/gurnec/HashCheck) - HashCheck Shell Extension for Windows with added SHA2, SHA3, and multithreading; originally from code.kliu.org
 - [drh/cii](https://github.com/drh/cii) - C Interfaces and Implementations
-- [novialriptide/wordle.gb](https://github.com/novialriptide/wordle.gb) - ** WORK IN PROGRESS **
+- [novialriptide/wordle.gb](https://github.com/novialriptide/wordle.gb) - A work-in-progress variant of Wordle for the GameBoy implemented using GBDK-2020 in C.
 - [GNOME/glade](https://github.com/GNOME/glade) - Read-only mirror of https://gitlab.gnome.org/GNOME/glade
 - [GNOME/gnome-builder](https://github.com/GNOME/gnome-builder) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-builder
 - [Googulator/dwusb](https://github.com/Googulator/dwusb) - Windows driver for the DesignWare USB 2.0 HS OTG Controller as used in the Raspberry Pi 3.
@@ -1290,7 +1290,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-467-Stars](https://github.com/iBug/This-Repo-Has-467-Stars) - Yes, it's true :heartbeat: This repository has 467 stars.
+- [iBug/This-Repo-Has-468-Stars](https://github.com/iBug/This-Repo-Has-468-Stars) - Yes, it's true :heart: This repository has 468 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1418,6 +1418,7 @@
 
 ## Shell 
 
+- [exions/undo-push](https://github.com/exions/undo-push) - ↪️ Undo a git push by removing the commit and going back to the commit before it.
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 11 Guide. Though, most of the Tools, Programs, Resources will also work for Windows 10.
 - [WSA-Community/WSA-Linux-Kernel](https://github.com/WSA-Community/WSA-Linux-Kernel) - Mirror for the Windows Subsystem for Android (WSA) kernel source code, and superuser
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
