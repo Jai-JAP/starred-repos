@@ -83,6 +83,7 @@
 
 ## C 
 
+- [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
 - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
 - [derf/feh](https://github.com/derf/feh) - a fast and light image viewer
 - [MlgmXyysd/kernel-assisted-superuser](https://github.com/MlgmXyysd/kernel-assisted-superuser) - Mirror of Kernel-Assisted Superuser
