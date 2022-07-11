@@ -83,6 +83,7 @@
 
 ## C 
 
+- [krlvm/DragDropNormalizer](https://github.com/krlvm/DragDropNormalizer) - Normalize Drag&Drop overlay on Windows 11 22H2+
 - [coreboot/coreboot](https://github.com/coreboot/coreboot) - Mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
 - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
@@ -322,6 +323,8 @@
 
 ## C# # 
 
+- [krlvm/AccentColorizer-E11](https://github.com/krlvm/AccentColorizer-E11) - Accent Colorization for Windows 11 File Explorer Icon Glyphs
+- [MishaTY/Rectify11Installer](https://github.com/MishaTY/Rectify11Installer) - Official Rectify11 installer source code. Note: not completed
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 - [AlexanderPro/SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
@@ -370,6 +373,8 @@
 
 ## C++ 
 
+- [krlvm/AccentColorizer](https://github.com/krlvm/AccentColorizer) - Colorize Windows with accent color of your choice without modifying system files
+- [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver) - Winver with mica for Rectify11
 - [benbuck/rbtray](https://github.com/benbuck/rbtray) - A fork of RBTray from http://sourceforge.net/p/rbtray/code/.
 - [Jax-Core/YourFlyouts](https://github.com/Jax-Core/YourFlyouts) - Windows Audio / Volume flyouts replacement
 - [ChrisAnd1998/TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) - An application written in C++ to modify the Windows 11 Taskbar.
@@ -1418,6 +1423,7 @@
 
 ## SWIG 
 
+- [NCommander/Microsoft-3D-Movie-Maker](https://github.com/NCommander/Microsoft-3D-Movie-Maker) - This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.
 - [microsoft/Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) - This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.
 
 ## ShaderLab 
