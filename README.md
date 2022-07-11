@@ -83,6 +83,7 @@
 
 ## C 
 
+- [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [krlvm/DragDropNormalizer](https://github.com/krlvm/DragDropNormalizer) - Normalize Drag&Drop overlay on Windows 11 22H2+
 - [coreboot/coreboot](https://github.com/coreboot/coreboot) - Mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
@@ -323,6 +324,7 @@
 
 ## C# # 
 
+- [randyrants/winverex](https://github.com/randyrants/winverex) - Command prompt utility that returns a "fully qualified" version of Windows 10
 - [krlvm/AccentColorizer-E11](https://github.com/krlvm/AccentColorizer-E11) - Accent Colorization for Windows 11 File Explorer Icon Glyphs
 - [MishaTY/Rectify11Installer](https://github.com/MishaTY/Rectify11Installer) - Official Rectify11 installer source code. Note: not completed
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
@@ -373,6 +375,8 @@
 
 ## C++ 
 
+- [sovetskyfish/winver](https://github.com/sovetskyfish/winver) - A CLI version of winver
+- [dongle-the-gadget/WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - A UWP version of winver
 - [krlvm/AccentColorizer](https://github.com/krlvm/AccentColorizer) - Colorize Windows with accent color of your choice without modifying system files
 - [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver) - Winver with mica for Rectify11
 - [benbuck/rbtray](https://github.com/benbuck/rbtray) - A fork of RBTray from http://sourceforge.net/p/rbtray/code/.
@@ -1030,6 +1034,7 @@
 
 ## PHP 
 
+- [uup-dump/standalone](https://github.com/uup-dump/standalone) - PHP code for standalone command line version of UUP dump
 - [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE) - Paste is a project that started from the files pastebin.com used before it was bought.
 - [fuzzyfox/shlink-cli](https://github.com/fuzzyfox/shlink-cli) - An unofficial Shlink cli rest client.
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
@@ -1075,6 +1080,7 @@
 
 ## Python 
 
+- [ptysko/nixver](https://github.com/ptysko/nixver) - Basically winver ripoff
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [martinet101/win32mica](https://github.com/martinet101/win32mica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
