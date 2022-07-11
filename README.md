@@ -375,6 +375,7 @@
 
 ## C++ 
 
+- [ALTaleX531/TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Acrylic effect for most of the flyouts
 - [sovetskyfish/winver](https://github.com/sovetskyfish/winver) - A CLI version of winver
 - [dongle-the-gadget/WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - A UWP version of winver
 - [krlvm/AccentColorizer](https://github.com/krlvm/AccentColorizer) - Colorize Windows with accent color of your choice without modifying system files
