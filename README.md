@@ -1069,6 +1069,7 @@
 
 ## Python 
 
+- [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [martinet101/win32mica](https://github.com/martinet101/win32mica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
 - [witalihirsch/QTWin11](https://github.com/witalihirsch/QTWin11) - QT Theme (stylesheet) for Win32 apps on Windows 11
@@ -1329,6 +1330,7 @@
 
 ## Rust 
 
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [weclaw1/image-roll](https://github.com/weclaw1/image-roll) - Image Roll - simple and fast GTK image viewer with basic image manipulation tools. Written in Rust.
 - [pacstall/pacstall-gui](https://github.com/pacstall/pacstall-gui) - GUI for pacstall
 - [makedeb/mpr-cli](https://github.com/makedeb/mpr-cli) - The official command-line interface for the makedeb Package Repository
