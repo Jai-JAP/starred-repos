@@ -687,6 +687,7 @@
 
 ## JavaScript 
 
+- [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [Griphitor/Griphitor-ChromeOS](https://github.com/Griphitor/Griphitor-ChromeOS) - 
