@@ -83,6 +83,7 @@
 
 ## C 
 
+- [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [krlvm/DragDropNormalizer](https://github.com/krlvm/DragDropNormalizer) - Normalize Drag&Drop overlay on Windows 11 22H2+
 - [coreboot/coreboot](https://github.com/coreboot/coreboot) - Mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
@@ -633,7 +634,6 @@
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [NeraWoowty/nerawoowty.github.io](https://github.com/NeraWoowty/nerawoowty.github.io) - my minecraft packs website :)
 - [appwrite/playground-for-web](https://github.com/appwrite/playground-for-web) - Simple examples that help you get started with Appwrite + Web (=❤️)
-- [T-campbell572/tcampbell.ml](https://github.com/T-campbell572/tcampbell.ml) - 
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
@@ -1444,6 +1444,7 @@
 
 ## Shell 
 
+- [Har-Kuun/OneClickCDN](https://github.com/Har-Kuun/OneClickCDN) - A one-click shell script to set up a CDN node for your websites.
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
 - [exions/undo-push](https://github.com/exions/undo-push) - ↪️ Undo a git push by removing the commit and going back to the commit before it.
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 11 Guide. Though, most of the Tools, Programs, Resources will also work for Windows 10.
