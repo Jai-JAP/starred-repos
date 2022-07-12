@@ -669,6 +669,7 @@
 
 ## Java 
 
+- [jzyra/DecodeAndroidGesture](https://github.com/jzyra/DecodeAndroidGesture) - This tool decode Android's pattern lock screen with gesture.key file in Android device.
 - [mclaunch/mclaunch](https://github.com/mclaunch/mclaunch) - The old Minecraft Java launcher, updated.
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - VNC server app for Android that does not require root privileges.
