@@ -529,7 +529,7 @@
 - [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
-- [uihaven/ui-buttons](https://github.com/uihaven/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
+- [eludadev/uibuttons](https://github.com/eludadev/uibuttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [radxa/apt](https://github.com/radxa/apt) - radxa debian packages repository
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord.
@@ -933,7 +933,7 @@
 - [cycool29/gwallc](https://github.com/cycool29/gwallc) - GUI Wallpaper Changer for Linux. (WIP)
 - [saiarcot895/chromium-ubuntu-build](https://github.com/saiarcot895/chromium-ubuntu-build) - Packaging files for building Chromium on Ubuntu
 - [dweeber/rpiwiggle](https://github.com/dweeber/rpiwiggle) - Script which expands a FS to the size of the SDcard minus a bit
-- [mobilegmYT/calamity-texturepack](https://github.com/mobilegmYT/calamity-texturepack) - Auto-pack updater for Calamity Realms MC server using GH acions
+- [NoozSBC/calamity-texturepack](https://github.com/NoozSBC/calamity-texturepack) - Auto-pack updater for Calamity Realms MC server using GH acions
 - [kingToolbox/WindEdit](https://github.com/kingToolbox/WindEdit) - A high performace text editor for huge file and long line.
 - [Xqua/pyAlienFX](https://github.com/Xqua/pyAlienFX) - This project is a multiplatform python software to control the AlienFX device of Alienware computers.  It intend to be easily upgradable for future updates of the AlienFX device, as it happened for th
 - [ProjectAfterBurner/apt](https://github.com/ProjectAfterBurner/apt) - Project package repository
@@ -1586,7 +1586,7 @@
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
 - [hmsjy2017/n-debs](https://github.com/hmsjy2017/n-debs) - 
 - [tj/n](https://github.com/tj/n) - Node version management
-- [mobilegmYT/mcpi-reborn-extended](https://github.com/mobilegmYT/mcpi-reborn-extended) - The next generation of Minecraft: Pi Edition
+- [NoozSBC/mcpi-reborn-extended](https://github.com/NoozSBC/mcpi-reborn-extended) - The next generation of Minecraft: Pi Edition
 - [TheBananaStore/TheBananaStore](https://github.com/TheBananaStore/TheBananaStore) - 🍌🐧 Content repository for the Banana Store
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [q3aql/aria2-static-builds](https://github.com/q3aql/aria2-static-builds) - aria2 static builds for GNU/Linux & Windows (with OpenSSL).
