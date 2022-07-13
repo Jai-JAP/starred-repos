@@ -72,6 +72,7 @@
 
 ## Batchfile 
 
+- [MoneroOcean/xmrig_setup](https://github.com/MoneroOcean/xmrig_setup) - Auto setup scripts and pre-compiled xmr miner for moneroocean.stream pool
 - [MehdiRtal/Tweaker11](https://github.com/MehdiRtal/Tweaker11) - Collection of Windows 11 Registry Tweaks.
 - [HackerajOfficial/Activator](https://github.com/HackerajOfficial/Activator) - Activator is collection of Windows tools Activator.
 - [WSA-Community/WSAPackagingTool](https://github.com/WSA-Community/WSAPackagingTool) - Allows you to modify WSA's Msixbundle and redistribute it.
@@ -376,6 +377,7 @@
 
 ## C++ 
 
+- [litespeedtech/openlitespeed](https://github.com/litespeedtech/openlitespeed) - Our high-performance, lightweight, open source HTTP server
 - [ALTaleX531/TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Acrylic effect for most of the flyouts
 - [sovetskyfish/winver](https://github.com/sovetskyfish/winver) - A CLI version of winver
 - [dongle-the-gadget/WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - A UWP version of winver
@@ -526,6 +528,23 @@
 
 ## CSS 
 
+- [Elbullazul/Chicago95](https://github.com/Elbullazul/Chicago95) - 
+- [B00merang-Project/Windows-XP](https://github.com/B00merang-Project/Windows-XP) - Windows XP themes
+- [B00merang-Project/Windows-8.1-Metro](https://github.com/B00merang-Project/Windows-8.1-Metro) - GTK theme taking styles & colors from Windows 8.1 Metro apps
+- [B00merang-Project/Windows-95](https://github.com/B00merang-Project/Windows-95) - GTK theme based on the classic appearance of Windows 95 and Windows Server 2003
+- [B00merang-Project/Chrome-OS](https://github.com/B00merang-Project/Chrome-OS) - Home for the Linux theme emulating Chrome OS
+- [B00merang-Project/macOS-Catalina-Dark](https://github.com/B00merang-Project/macOS-Catalina-Dark) - Dark version of macOS Catalina theme
+- [B00merang-Project/Windows-10-Acrylic-Dark](https://github.com/B00merang-Project/Windows-10-Acrylic-Dark) - Windows 10 Dark variant with black as main color
+- [B00merang-Project/Windows-7](https://github.com/B00merang-Project/Windows-7) - Linux theme based on the apperance of Windows 7
+- [B00merang-Project/Windows-8.1](https://github.com/B00merang-Project/Windows-8.1) - GTK theme based on the Windows 8.1 appearance
+- [B00merang-Project/Windows-Vista](https://github.com/B00merang-Project/Windows-Vista) - GTK theme based on Windows Vista appearance
+- [B00merang-Project/Windows-10](https://github.com/B00merang-Project/Windows-10) - Windows 10 Light theme for Linux (GTK)
+- [B00merang-Project/Windows-10-Dark](https://github.com/B00merang-Project/Windows-10-Dark) - Dark variant of Windows 10 theme
+- [B00merang-Project/Windows-10-Acrylic](https://github.com/B00merang-Project/Windows-10-Acrylic) - GTK theme based on the Windows 10 Mobile appearance
+- [B00merang-Project/macOS-Catalina](https://github.com/B00merang-Project/macOS-Catalina) - GTK theme replicating the appearance of macOS 10.15 Catalina
+- [B00merang-Project/macOS-Dark](https://github.com/B00merang-Project/macOS-Dark) - Dark version of macOS theme
+- [B00merang-Project/macOS](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops
+- [USBA/macOS11-theme](https://github.com/USBA/macOS11-theme) - macOS11 concept design GTK+ and GNOME-Shell theme for Linux
 - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - MDL2 + Sun Valley Theme for Firefox
 - [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
@@ -618,6 +637,8 @@
 
 ## HTML 
 
+- [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
+- [nestoris/Win98SE](https://github.com/nestoris/Win98SE) - SE98 icon theme for GNU/Linux based on Windows 98 SE style and grassmunk/Chicago95 theme.
 - [AmineDjeghri/BetterWindows11](https://github.com/AmineDjeghri/BetterWindows11) - Some windows tips to improve your UX experience when using windows
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [ubuntu/ubuntu-make](https://github.com/ubuntu/ubuntu-make) - Easy setup of common tools for developers on Ubuntu.
@@ -699,6 +720,7 @@
 
 ## JavaScript 
 
+- [mimoccc/webkit-greeter](https://github.com/mimoccc/webkit-greeter) - gdm webkit greeter
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
@@ -891,6 +913,13 @@
 
 ## Others 
 
+- [USBA/Cupertino-Catalina-iCons](https://github.com/USBA/Cupertino-Catalina-iCons) - macOS Catalina like icon theme for GNOME, elementaryOS and DeepinOS
+- [USBA/Cupertino-Ventura-iCons](https://github.com/USBA/Cupertino-Ventura-iCons) - macOS Monterey style icon theme for GNOME, elementaryOS and DeepinOS
+- [B00merang-Artwork/Windows-10-Dark](https://github.com/B00merang-Artwork/Windows-10-Dark) - Dark version of the Windows 10 Icon theme
+- [B00merang-Artwork/Windows-8](https://github.com/B00merang-Artwork/Windows-8) - Windows 8 icons
+- [B00merang-Artwork/Windows-7](https://github.com/B00merang-Artwork/Windows-7) - The original Win2-7 icon theme adjusted to work with GTK 3.18 +
+- [B00merang-Artwork/Windows-XP](https://github.com/B00merang-Artwork/Windows-XP) - Remake of classic YlmfOS theme with some mods for icons to scale right
+- [B00merang-Artwork/Windows-10](https://github.com/B00merang-Artwork/Windows-10) - The Windows 10 Icon theme repository
 - [matafokka/PowerPointDarkThemeFix](https://github.com/matafokka/PowerPointDarkThemeFix) - When a custom (especially dark) theme is applied, default PowerPoint's color picker messes grey colors for fill, borders, shadow and glow. PowerPointDarkThemeFix does this simple task right.
 - [matafokka/ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fixes Microsoft Excel appearance when custom Windows theme is used
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - All 3rd party clients will update as needed
@@ -1074,6 +1103,7 @@
 
 ## PowerShell 
 
+- [huben1337/winpfp](https://github.com/huben1337/winpfp) - Custom Windows 10 account picture
 - [JosephM101/Force-Windows-11-Install](https://github.com/JosephM101/Force-Windows-11-Install) - Modifies Windows 11 installation ISO to bypass compatibility checks both pre and post installation
 - [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice is a tool that uses PowerShell automation to setup your Windows devices.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking
@@ -1088,6 +1118,7 @@
 
 ## Python 
 
+- [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Opensource macOS Cursors.
 - [ptysko/nixver](https://github.com/ptysko/nixver) - Basically winver ripoff
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
@@ -1324,6 +1355,7 @@
 
 ## QML 
 
+- [qewer33/Exquisite](https://github.com/qewer33/Exquisite) - Easy window layout management for KDE Plasma
 - [PapirusDevelopmentTeam/arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
 - [varlesh/plasma-deck](https://github.com/varlesh/plasma-deck) - Steam Deck UI on Plasma
 - [PapirusDevelopmentTeam/materia-kde](https://github.com/PapirusDevelopmentTeam/materia-kde) - Materia KDE customization
@@ -1425,6 +1457,7 @@
 
 ## SCSS 
 
+- [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for Gnome desktops
 - [Mojang/web-theme-bootstrap](https://github.com/Mojang/web-theme-bootstrap) - Contains the theme used on minecraft.net based on Boostrap 4
 - [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6) - Highly customizable theme for BetterDiscord.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
@@ -1446,6 +1479,8 @@
 
 ## Shell 
 
+- [yeyushengfan258/Win11-icon-theme](https://github.com/yeyushengfan258/Win11-icon-theme) - A colorful design icon theme for linux desktops
+- [vinceliuice/WhiteSur-icon-theme](https://github.com/vinceliuice/WhiteSur-icon-theme) - MacOS Big Sur style icon theme for linux desktops
 - [Har-Kuun/OneClickCDN](https://github.com/Har-Kuun/OneClickCDN) - A one-click shell script to set up a CDN node for your websites.
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
 - [exions/undo-push](https://github.com/exions/undo-push) - ↪️ Undo a git push by removing the commit and going back to the commit before it.
