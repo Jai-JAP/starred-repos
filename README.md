@@ -84,6 +84,10 @@
 
 ## C 
 
+- [pbatard/gnu-efi](https://github.com/pbatard/gnu-efi) - gnu-efi mirror
+- [pbatard/ntfs-3g-old](https://github.com/pbatard/ntfs-3g-old) - UEFI read/write NTFS driver, based on ntfs-3g
+- [pbatard/uefi-ntfs](https://github.com/pbatard/uefi-ntfs) - UEFI:NTFS - Boot NTFS or exFAT partitions from UEFI
+- [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
 - [stefanberger/libtpms](https://github.com/stefanberger/libtpms) - The libtpms library provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0)
 - [GhostNaN/mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors.
 - [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
@@ -535,6 +539,7 @@
 
 ## CSS 
 
+- [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - Colloid gtk theme for linux
 - [discord-modifications/dark-discord](https://github.com/discord-modifications/dark-discord) - An actual dark mode for discord.
 - [Elbullazul/Chicago95](https://github.com/Elbullazul/Chicago95) - 
 - [B00merang-Project/Windows-XP](https://github.com/B00merang-Project/Windows-XP) - Windows XP themes
@@ -923,6 +928,7 @@
 
 ## Others 
 
+- [pbatard/UEFI-Shell](https://github.com/pbatard/UEFI-Shell) - UEFI Shell binary images, generated from EDK2 stable
 - [afontcu/awesome-learning](https://github.com/afontcu/awesome-learning) - A curated list of awesome learning material
 - [USBA/Cupertino-Catalina-iCons](https://github.com/USBA/Cupertino-Catalina-iCons) - macOS Catalina like icon theme for GNOME, elementaryOS and DeepinOS
 - [USBA/Cupertino-Ventura-iCons](https://github.com/USBA/Cupertino-Ventura-iCons) - macOS Monterey style icon theme for GNOME, elementaryOS and DeepinOS
@@ -1114,6 +1120,7 @@
 
 ## PowerShell 
 
+- [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell
 - [huben1337/winpfp](https://github.com/huben1337/winpfp) - Custom Windows 10 account picture
 - [JosephM101/Force-Windows-11-Install](https://github.com/JosephM101/Force-Windows-11-Install) - Modifies Windows 11 installation ISO to bypass compatibility checks both pre and post installation
 - [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice is a tool that uses PowerShell automation to setup your Windows devices.
@@ -1490,6 +1497,8 @@
 
 ## Shell 
 
+- [vinceliuice/Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme) - Colloid icon theme for linux desktops
+- [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your running Raspberry
 - [KhanhNguyen9872/ubuntu-in-termux](https://github.com/KhanhNguyen9872/ubuntu-in-termux) - This is a script by which you can install Ubuntu in your termux application without a rooted device
 - [KhanhNguyen9872/Kali-Linux-aarch64-arm64-](https://github.com/KhanhNguyen9872/Kali-Linux-aarch64-arm64-) - Here is Server Kali-Linux (arm64) by KhanhNguyen9872
 - [KhanhNguyen9872/ubuntu-on-android](https://github.com/KhanhNguyen9872/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
