@@ -84,6 +84,8 @@
 
 ## C 
 
+- [stefanberger/libtpms](https://github.com/stefanberger/libtpms) - The libtpms library provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0)
+- [GhostNaN/mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors.
 - [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
@@ -378,6 +380,8 @@
 
 ## C++ 
 
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+- [iamshivayep/Winver-Modded](https://github.com/iamshivayep/Winver-Modded) - Windows Version applet reporter, now in a new style and fluent!
 - [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [litespeedtech/openlitespeed](https://github.com/litespeedtech/openlitespeed) - Our high-performance, lightweight, open source HTTP server
@@ -531,6 +535,7 @@
 
 ## CSS 
 
+- [discord-modifications/dark-discord](https://github.com/discord-modifications/dark-discord) - An actual dark mode for discord.
 - [Elbullazul/Chicago95](https://github.com/Elbullazul/Chicago95) - 
 - [B00merang-Project/Windows-XP](https://github.com/B00merang-Project/Windows-XP) - Windows XP themes
 - [B00merang-Project/Windows-8.1-Metro](https://github.com/B00merang-Project/Windows-8.1-Metro) - GTK theme taking styles & colors from Windows 8.1 Metro apps
@@ -723,6 +728,7 @@
 
 ## JavaScript 
 
+- [AdguardTeam/KnowledgeBaseDNS](https://github.com/AdguardTeam/KnowledgeBaseDNS) - AdGuard DNS knowledge base
 - [mimoccc/webkit-greeter](https://github.com/mimoccc/webkit-greeter) - gdm webkit greeter
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
@@ -917,6 +923,7 @@
 
 ## Others 
 
+- [afontcu/awesome-learning](https://github.com/afontcu/awesome-learning) - A curated list of awesome learning material
 - [USBA/Cupertino-Catalina-iCons](https://github.com/USBA/Cupertino-Catalina-iCons) - macOS Catalina like icon theme for GNOME, elementaryOS and DeepinOS
 - [USBA/Cupertino-Ventura-iCons](https://github.com/USBA/Cupertino-Ventura-iCons) - macOS Monterey style icon theme for GNOME, elementaryOS and DeepinOS
 - [B00merang-Artwork/Windows-10-Dark](https://github.com/B00merang-Artwork/Windows-10-Dark) - Dark version of the Windows 10 Icon theme
