@@ -84,6 +84,7 @@
 
 ## C 
 
+- [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [krlvm/DragDropNormalizer](https://github.com/krlvm/DragDropNormalizer) - Normalize Drag&Drop overlay on Windows 11 22H2+
@@ -377,6 +378,8 @@
 
 ## C++ 
 
+- [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
+- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [litespeedtech/openlitespeed](https://github.com/litespeedtech/openlitespeed) - Our high-performance, lightweight, open source HTTP server
 - [ALTaleX531/TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Acrylic effect for most of the flyouts
 - [sovetskyfish/winver](https://github.com/sovetskyfish/winver) - A CLI version of winver
@@ -868,6 +871,7 @@
 
 ## Kotlin 
 
+- [lcarsde/lcarswm](https://github.com/lcarsde/lcarswm) - lcarswm (LCARS Window Manager) is a window manager that is supposed to look like an LCARS interface. It's written in Kotlin and utilizing XLib.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android.
 - [roozbehzarei/filester](https://github.com/roozbehzarei/filester) - A simple file uploader for android
 - [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
@@ -1347,7 +1351,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-471-Stars](https://github.com/iBug/This-Repo-Has-471-Stars) - Yes, it's true :two_hearts: This repository has 471 stars.
+- [iBug/This-Repo-Has-472-Stars](https://github.com/iBug/This-Repo-Has-472-Stars) - Yes, it's true :orange_heart: This repository has 472 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
