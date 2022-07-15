@@ -1140,6 +1140,8 @@
 
 ## Python 
 
+- [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
+- [Sven-Bo/advanced-gui-with-usersettings-and-menubar](https://github.com/Sven-Bo/advanced-gui-with-usersettings-and-menubar) - PySimpleGUI application with menu bar & settings (.ini) file to load/save user settings
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [0k/shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Opensource macOS Cursors.
@@ -1503,6 +1505,7 @@
 
 ## Shell 
 
+- [AlexRogalskiy/github-action-charts](https://github.com/AlexRogalskiy/github-action-charts) - 📊 GitHub action to generate graph charts
 - [OhMyMndy/bin-get](https://github.com/OhMyMndy/bin-get) - Script to easily and safely fetch binaries from Github Releases/tags
 - [dspinellis/pmonitor](https://github.com/dspinellis/pmonitor) - Progress monitor: monitor a job's progress
 - [vinceliuice/Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme) - Colloid icon theme for linux desktops
