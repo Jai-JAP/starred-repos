@@ -84,6 +84,8 @@
 
 ## C 
 
+- [adlocode/xfway](https://github.com/adlocode/xfway) - Not actually part of Xfce, just an experimental window manager.
+- [adlocode/xfwm4](https://github.com/adlocode/xfwm4) - 
 - [agordon/datamash](https://github.com/agordon/datamash) - mirror of GNU Datamash. Send questions/comments/bugs to bug-datamash@gnu.org
 - [pbatard/gnu-efi](https://github.com/pbatard/gnu-efi) - gnu-efi mirror
 - [pbatard/ntfs-3g-old](https://github.com/pbatard/ntfs-3g-old) - UEFI read/write NTFS driver, based on ntfs-3g
