@@ -777,7 +777,7 @@
 - [Iku/Google-Forms-to-Discord](https://github.com/Iku/Google-Forms-to-Discord) - A quick way to automatically send Google Form responses to a Discord channel
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [janosgyerik/bashoneliners](https://github.com/janosgyerik/bashoneliners) - A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborative system, user friendly, with functions to contribu
-- [michaljaz/webmc](https://github.com/michaljaz/webmc) - Minecraft client written in Javascript
+- [michaljaz/webmc](https://github.com/michaljaz/webmc) - Minecraft client written in Javascript (1.16.5 offline mode working)
 - [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
 - [EmDev21/Dollar](https://github.com/EmDev21/Dollar) - A startpage looking like a terminal
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
