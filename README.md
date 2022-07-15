@@ -1503,6 +1503,7 @@
 
 ## Shell 
 
+- [OhMyMndy/bin-get](https://github.com/OhMyMndy/bin-get) - Script to easily and safely fetch binaries from Github Releases/tags
 - [dspinellis/pmonitor](https://github.com/dspinellis/pmonitor) - Progress monitor: monitor a job's progress
 - [vinceliuice/Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme) - Colloid icon theme for linux desktops
 - [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your running Raspberry
