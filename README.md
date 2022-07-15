@@ -84,6 +84,7 @@
 
 ## C 
 
+- [agordon/datamash](https://github.com/agordon/datamash) - mirror of GNU Datamash. Send questions/comments/bugs to bug-datamash@gnu.org
 - [pbatard/gnu-efi](https://github.com/pbatard/gnu-efi) - gnu-efi mirror
 - [pbatard/ntfs-3g-old](https://github.com/pbatard/ntfs-3g-old) - UEFI read/write NTFS driver, based on ntfs-3g
 - [pbatard/uefi-ntfs](https://github.com/pbatard/uefi-ntfs) - UEFI:NTFS - Boot NTFS or exFAT partitions from UEFI
@@ -384,6 +385,7 @@
 
 ## C++ 
 
+- [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [iamshivayep/Winver-Modded](https://github.com/iamshivayep/Winver-Modded) - Windows Version applet reporter, now in a new style and fluent!
 - [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
@@ -1136,6 +1138,8 @@
 
 ## Python 
 
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [0k/shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Opensource macOS Cursors.
 - [ptysko/nixver](https://github.com/ptysko/nixver) - Basically winver ripoff
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
@@ -1497,6 +1501,7 @@
 
 ## Shell 
 
+- [dspinellis/pmonitor](https://github.com/dspinellis/pmonitor) - Progress monitor: monitor a job's progress
 - [vinceliuice/Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme) - Colloid icon theme for linux desktops
 - [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your running Raspberry
 - [KhanhNguyen9872/ubuntu-in-termux](https://github.com/KhanhNguyen9872/ubuntu-in-termux) - This is a script by which you can install Ubuntu in your termux application without a rooted device
