@@ -1510,6 +1510,7 @@
 
 ## Shell 
 
+- [Yisus7u7/termux-desktop-xfce](https://github.com/Yisus7u7/termux-desktop-xfce) - Set up a beautiful xfce desktop in termux
 - [AlexRogalskiy/github-action-charts](https://github.com/AlexRogalskiy/github-action-charts) - 📊 GitHub action to generate graph charts
 - [OhMyMndy/bin-get](https://github.com/OhMyMndy/bin-get) - Script to easily and safely fetch binaries from Github Releases/tags
 - [dspinellis/pmonitor](https://github.com/dspinellis/pmonitor) - Progress monitor: monitor a job's progress
