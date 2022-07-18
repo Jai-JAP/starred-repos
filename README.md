@@ -388,6 +388,7 @@
 
 ## C++ 
 
+- [KDE/kdialog](https://github.com/KDE/kdialog) - Tool to show nice dialog boxes from shell scripts
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -712,6 +713,7 @@
 
 ## Java 
 
+- [dotxyteam/CommandUI](https://github.com/dotxyteam/CommandUI) - Create GUI wrapper for any command line tool
 - [jzyra/DecodeAndroidGesture](https://github.com/jzyra/DecodeAndroidGesture) - This tool decode Android's pattern lock screen with gesture.key file in Android device.
 - [mclaunch/mclaunch](https://github.com/mclaunch/mclaunch) - The old Minecraft Java launcher, updated.
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
@@ -1514,6 +1516,7 @@
 
 ## Shell 
 
+- [BashGui/easybashgui](https://github.com/BashGui/easybashgui) - EasyBashGUI  is a Bash functions library  for *BSD and GNU/Linux that aims to give simple GUI functions  using  yad, gtkdialog, kdialog, zenity, Xdialog, (c)dialog, whiptail or bash builtins   dependi
 - [Yisus7u7/termux-desktop-xfce](https://github.com/Yisus7u7/termux-desktop-xfce) - Set up a beautiful xfce desktop in termux
 - [AlexRogalskiy/github-action-charts](https://github.com/AlexRogalskiy/github-action-charts) - 📊 GitHub action to generate graph charts
 - [OhMyMndy/bin-get](https://github.com/OhMyMndy/bin-get) - Script to easily and safely fetch binaries from Github Releases/tags
