@@ -1150,6 +1150,7 @@
 
 ## Python 
 
+- [Askaniy/TrueColorTools](https://github.com/Askaniy/TrueColorTools) - A set of Python tools for calculating human-visible colors of celestial bodies from their spectra or color indices
 - [Askaniy/fits2png](https://github.com/Askaniy/fits2png) - A small GUI program for converting space images
 - [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
 - [Sven-Bo/advanced-gui-with-usersettings-and-menubar](https://github.com/Sven-Bo/advanced-gui-with-usersettings-and-menubar) - PySimpleGUI application with menu bar & settings (.ini) file to load/save user settings
@@ -1384,7 +1385,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-472-Stars](https://github.com/iBug/This-Repo-Has-472-Stars) - Yes, it's true :orange_heart: This repository has 472 stars.
+- [iBug/This-Repo-Has-474-Stars](https://github.com/iBug/This-Repo-Has-474-Stars) - Yes, it's true :heartbeat: This repository has 474 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1442,7 +1443,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
-- [HexTechDev/skyWM](https://github.com/HexTechDev/skyWM) - skyWM is an extensible tiling window manager written in Rust. skyWM has a clear and distinct focus adhering to the KISS and Unix philosophy.
+- [Chadano/skyWM](https://github.com/Chadano/skyWM) - skyWM is an extensible tiling window manager written in Rust. skyWM has a clear and distinct focus adhering to the KISS and Unix philosophy.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [hopey-dishwasher/termpix](https://github.com/hopey-dishwasher/termpix) - Display images in an ANSI terminal
