@@ -85,6 +85,7 @@
 
 ## C 
 
+- [canonical/lightdm](https://github.com/canonical/lightdm) - Display Manager
 - [libretro-mirrors/mednafen-git](https://github.com/libretro-mirrors/mednafen-git) - Git mirror of Mednafen - untouched - for diff purposes
 - [notaz/picodrive](https://github.com/notaz/picodrive) - Fast MegaDrive/MegaCD/32X emulator
 - [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
