@@ -85,6 +85,9 @@
 
 ## C 
 
+- [libretro-mirrors/mednafen-git](https://github.com/libretro-mirrors/mednafen-git) - Git mirror of Mednafen - untouched - for diff purposes
+- [notaz/picodrive](https://github.com/notaz/picodrive) - Fast MegaDrive/MegaCD/32X emulator
+- [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
 - [adlocode/xfway](https://github.com/adlocode/xfway) - Not actually part of Xfce, just an experimental window manager.
 - [adlocode/xfwm4](https://github.com/adlocode/xfwm4) - 
 - [agordon/datamash](https://github.com/agordon/datamash) - mirror of GNU Datamash. Send questions/comments/bugs to bug-datamash@gnu.org
@@ -388,6 +391,15 @@
 
 ## C++ 
 
+- [bsnes-emu/bsnes](https://github.com/bsnes-emu/bsnes) - bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
+- [scummvm/scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository
+- [inolen/redream](https://github.com/inolen/redream) - Work In Progress SEGA Dreamcast emulator
+- [residualvm/residualvm](https://github.com/residualvm/residualvm) - ResidualVM main repository
+- [RetroPie/pifba](https://github.com/RetroPie/pifba) - fork of https://code.google.com/p/pifba/
+- [0ldsk00l/nestopia](https://github.com/0ldsk00l/nestopia) - Cross-platform Nestopia emulator core with a GUI
+- [openMSX/openMSX](https://github.com/openMSX/openMSX) - the MSX emulator that aims for perfection
+- [mamedev/mame](https://github.com/mamedev/mame) - MAME
+- [ColinPitrat/caprice32](https://github.com/ColinPitrat/caprice32) - An emulator of the Amstrad CPC 8bit home computer range.
 - [keepassx/keepassx](https://github.com/keepassx/keepassx) - KeePassX is a cross platform port of the windows application “Keepass Password Safe”.
 - [KDE/kdialog](https://github.com/KDE/kdialog) - Tool to show nice dialog boxes from shell scripts
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
@@ -714,6 +726,7 @@
 
 ## Java 
 
+- [TeamMidnightDust/MidnightControls](https://github.com/TeamMidnightDust/MidnightControls) - A Minecraft mod adding controller support and enhanced controls overall.
 - [dotxyteam/CommandUI](https://github.com/dotxyteam/CommandUI) - Create GUI wrapper for any command line tool
 - [jzyra/DecodeAndroidGesture](https://github.com/jzyra/DecodeAndroidGesture) - This tool decode Android's pattern lock screen with gesture.key file in Android device.
 - [mclaunch/mclaunch](https://github.com/mclaunch/mclaunch) - The old Minecraft Java launcher, updated.
@@ -744,6 +757,7 @@
 
 ## JavaScript 
 
+- [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
