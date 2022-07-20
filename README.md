@@ -1565,7 +1565,7 @@
 - [wimpysworld/ubuntu-pi-image](https://github.com/wimpysworld/ubuntu-pi-image) - 
 - [51sec/xrdp4arm](https://github.com/51sec/xrdp4arm) - 
 - [LukeShortCloud/winesapOS](https://github.com/LukeShortCloud/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
-- [openFyde/overlay-rpi4-openfyde](https://github.com/openFyde/overlay-rpi4-openfyde) - 
+- [openFyde/overlay-rpi4-openfyde](https://github.com/openFyde/overlay-rpi4-openfyde) - openFyde supported hardware Raspberry Pi 4 build artefacts and pre-built image releases.
 - [elementary/os](https://github.com/elementary/os) - The OS build system
 - [YurinDoctrine/ubuntu-base-setup](https://github.com/YurinDoctrine/ubuntu-base-setup) - A fine rice bootstrapping script for Ubuntu & Pop!_OS
 - [rollingrhinoremix/rhino-deinst](https://github.com/rollingrhinoremix/rhino-deinst) - rhino-deinst is a command-line utility script which provides a Terminal User Interface to install desktop environments on Rolling Rhino Remix + Ubuntu-based systems
@@ -1859,7 +1859,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [ruslang02/discord-qt](https://github.com/ruslang02/discord-qt) - Discord client powered by Node.JS and Qt Widgets.
-- [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely. vscode background 背景扩展插件。
+- [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - Bring background images to your vscode. vscode background 背景扩展插件。
 - [oae/gnome-shell-extensions-sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations
 - [leonwind/cli2cloud](https://github.com/leonwind/cli2cloud) - Monitor and share your terminal output with everyone from everywhere in realtime.
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
