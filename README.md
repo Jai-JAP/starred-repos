@@ -85,6 +85,7 @@
 
 ## C 
 
+- [Ring-0-Productions/reactos](https://github.com/Ring-0-Productions/reactos) - A free Windows-compatible Operating System
 - [canonical/lightdm](https://github.com/canonical/lightdm) - Display Manager
 - [libretro-mirrors/mednafen-git](https://github.com/libretro-mirrors/mednafen-git) - Git mirror of Mednafen - untouched - for diff purposes
 - [notaz/picodrive](https://github.com/notaz/picodrive) - Fast MegaDrive/MegaCD/32X emulator
@@ -1405,7 +1406,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-482-Stars](https://github.com/iBug/This-Repo-Has-482-Stars) - Yes, it's true :revolving_hearts: This repository has 482 stars.
+- [iBug/This-Repo-Has-483-Stars](https://github.com/iBug/This-Repo-Has-483-Stars) - Yes, it's true :heartbeat: This repository has 483 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
