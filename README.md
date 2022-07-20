@@ -85,6 +85,7 @@
 
 ## C 
 
+- [GNOME/calls](https://github.com/GNOME/calls) - Read-only mirror of https://gitlab.gnome.org/GNOME/calls
 - [Ring-0-Productions/reactos](https://github.com/Ring-0-Productions/reactos) - A free Windows-compatible Operating System
 - [canonical/lightdm](https://github.com/canonical/lightdm) - Display Manager
 - [libretro-mirrors/mednafen-git](https://github.com/libretro-mirrors/mednafen-git) - Git mirror of Mednafen - untouched - for diff purposes
