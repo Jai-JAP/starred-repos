@@ -963,6 +963,7 @@
 
 ## Others 
 
+- [zdotsh/git-io-replace](https://github.com/zdotsh/git-io-replace) - We offer a free replace with your old git.io URLs.
 - [pbatard/UEFI-Shell](https://github.com/pbatard/UEFI-Shell) - UEFI Shell binary images, generated from EDK2 stable
 - [afontcu/awesome-learning](https://github.com/afontcu/awesome-learning) - A curated list of awesome learning material
 - [USBA/Cupertino-Catalina-iCons](https://github.com/USBA/Cupertino-Catalina-iCons) - macOS Catalina like icon theme for GNOME, elementaryOS and DeepinOS
@@ -1538,6 +1539,7 @@
 
 ## Shell 
 
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
 - [GYKgamer/Install-steamos-in-Ubuntu](https://github.com/GYKgamer/Install-steamos-in-Ubuntu) - New updated installation for steamos
 - [BashGui/easybashgui](https://github.com/BashGui/easybashgui) - EasyBashGUI  is a Bash functions library  for *BSD and GNU/Linux that aims to give simple GUI functions  using  yad, gtkdialog, kdialog, zenity, Xdialog, (c)dialog, whiptail or bash builtins   dependi
 - [Yisus7u7/termux-desktop-xfce](https://github.com/Yisus7u7/termux-desktop-xfce) - Set up a beautiful xfce desktop in termux
