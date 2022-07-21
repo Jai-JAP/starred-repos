@@ -394,6 +394,7 @@
 
 ## C++ 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [bsnes-emu/bsnes](https://github.com/bsnes-emu/bsnes) - bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
 - [scummvm/scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository
 - [inolen/redream](https://github.com/inolen/redream) - Work In Progress SEGA Dreamcast emulator
@@ -1173,6 +1174,7 @@
 
 ## Python 
 
+- [MFDGaming/mcpe-0.6.1-patcher](https://github.com/MFDGaming/mcpe-0.6.1-patcher) - Applies pocket tool .mod patches on libminecraftpe.so
 - [Askaniy/TrueColorTools](https://github.com/Askaniy/TrueColorTools) - A set of Python tools for calculating human-visible colors of celestial bodies from their spectra or color indices
 - [Askaniy/fits2png](https://github.com/Askaniy/fits2png) - A small GUI program for converting space images
 - [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
