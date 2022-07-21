@@ -85,6 +85,7 @@
 
 ## C 
 
+- [zaps166/NFSIISE](https://github.com/zaps166/NFSIISE) - Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!
 - [GNOME/calls](https://github.com/GNOME/calls) - Read-only mirror of https://gitlab.gnome.org/GNOME/calls
 - [Ring-0-Productions/reactos](https://github.com/Ring-0-Productions/reactos) - A free Windows-compatible Operating System
 - [canonical/lightdm](https://github.com/canonical/lightdm) - Display Manager
@@ -966,6 +967,7 @@
 
 ## Others 
 
+- [Seabreg/resource_hacker](https://github.com/Seabreg/resource_hacker) - 
 - [zdotsh/git-io-replace](https://github.com/zdotsh/git-io-replace) - We offer a free replace with your old git.io URLs.
 - [pbatard/UEFI-Shell](https://github.com/pbatard/UEFI-Shell) - UEFI Shell binary images, generated from EDK2 stable
 - [afontcu/awesome-learning](https://github.com/afontcu/awesome-learning) - A curated list of awesome learning material
