@@ -85,6 +85,7 @@
 
 ## C 
 
+- [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [zaps166/NFSIISE](https://github.com/zaps166/NFSIISE) - Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!
 - [GNOME/calls](https://github.com/GNOME/calls) - Read-only mirror of https://gitlab.gnome.org/GNOME/calls
 - [Ring-0-Productions/reactos](https://github.com/Ring-0-Productions/reactos) - A free Windows-compatible Operating System
@@ -1413,7 +1414,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-485-Stars](https://github.com/iBug/This-Repo-Has-485-Stars) - Yes, it's true :gift_heart: This repository has 485 stars.
+- [iBug/This-Repo-Has-486-Stars](https://github.com/iBug/This-Repo-Has-486-Stars) - Yes, it's true :yellow_heart: This repository has 486 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
