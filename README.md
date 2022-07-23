@@ -732,6 +732,7 @@
 
 ## Java 
 
+- [rom1v/sndcpy](https://github.com/rom1v/sndcpy) - Android audio forwarding (scrcpy, but for audio)
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [TeamMidnightDust/MidnightControls](https://github.com/TeamMidnightDust/MidnightControls) - A Minecraft mod adding controller support and enhanced controls overall.
 - [dotxyteam/CommandUI](https://github.com/dotxyteam/CommandUI) - Create GUI wrapper for any command line tool
