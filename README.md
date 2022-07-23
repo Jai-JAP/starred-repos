@@ -85,6 +85,8 @@
 
 ## C 
 
+- [notaz/pcsx_rearmed](https://github.com/notaz/pcsx_rearmed) - ARM optimized PCSX fork
+- [FDOS/kernel](https://github.com/FDOS/kernel) - FreeDOS kernel - implements the core MS-DOS/PC-DOS (R) compatible operating system. It is derived from Pat Villani's DOS-C kernel and released under the GPL v2 or later. Please see http://www.freedos.
 - [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [zaps166/NFSIISE](https://github.com/zaps166/NFSIISE) - Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!
 - [GNOME/calls](https://github.com/GNOME/calls) - Read-only mirror of https://gitlab.gnome.org/GNOME/calls
@@ -934,6 +936,7 @@
 
 ## Makefile 
 
+- [libretro/Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.
 - [ProjectAfterBurner/afver](https://github.com/ProjectAfterBurner/afver) - Displays the afterburner version
 - [android-rpi/device_arpi_rpi4](https://github.com/android-rpi/device_arpi_rpi4) - Device build-config for Raspberry Pi 4
 - [dmlls/whatsapp-emoji-linux](https://github.com/dmlls/whatsapp-emoji-linux) - WhatsApp Emoji for GNU/Linux 🐧
@@ -1181,6 +1184,7 @@
 
 ## Python 
 
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [MFDGaming/mcpe-0.6.1-patcher](https://github.com/MFDGaming/mcpe-0.6.1-patcher) - Applies pocket tool .mod patches on libminecraftpe.so
 - [Askaniy/TrueColorTools](https://github.com/Askaniy/TrueColorTools) - A set of Python tools for calculating human-visible colors of celestial bodies from their spectra or color indices
 - [Askaniy/fits2png](https://github.com/Askaniy/fits2png) - A small GUI program for converting space images
@@ -1393,7 +1397,6 @@
 - [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [libredeb/comice-control-center](https://github.com/libredeb/comice-control-center) - A simply control center to monitor connections such as WiFi, Bluetooth, etc. And Monitor brightness and sound levels.
 - [brentvollebregt/hit-counter](https://github.com/brentvollebregt/hit-counter) - Easily count hits 📈 on a website by requesting a SVG displaying hit count 🎯
-- [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [TheMindVirus/pyshader](https://github.com/TheMindVirus/pyshader) - Python 3.9.4 Graphics and Compute Shader Framework and Primitives with no external module dependencies
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [220735540/WebAppMaker](https://github.com/220735540/WebAppMaker) - WebApp Maker make web apps (Duh). It is open source and make with python and shell. This app can take any website and turn it into an app. I highly recommend turning these few websites into webapps: -
