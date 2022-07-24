@@ -1551,6 +1551,7 @@
 
 ## Shell 
 
+- [Onelinerhub/shellhub](https://github.com/Onelinerhub/shellhub) - Shell utility to search onelinerhub directly from terminal (and executing commands if needed)
 - [Hinara/linux-vm-tools](https://github.com/Hinara/linux-vm-tools) - Hyper-V Linux Guest VM Enhancements
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
 - [GYKgamer/Install-steamos-in-Ubuntu](https://github.com/GYKgamer/Install-steamos-in-Ubuntu) - New updated installation for steamos
