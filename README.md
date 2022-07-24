@@ -14,7 +14,6 @@
 - [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
-- [Common Workflow Language](#common-workflow-language)
 - [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -398,6 +397,7 @@
 
 ## C++ 
 
+- [pmachapman/unrar](https://github.com/pmachapman/unrar) - Unrar source code from rarlab.com
 - [rounk-ctrl/MicaForEveryone-win32](https://github.com/rounk-ctrl/MicaForEveryone-win32) - 
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [bsnes-emu/bsnes](https://github.com/bsnes-emu/bsnes) - bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
@@ -459,6 +459,7 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio) - TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
 - [AppImage/AppImageUpdate](https://github.com/AppImage/AppImageUpdate) - AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.
@@ -607,10 +608,6 @@
 ## Clojure 
 
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
-
-## Common Workflow Language 
-
-- [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio) - TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.
 
 ## D 
 
@@ -1184,6 +1181,7 @@
 
 ## Python 
 
+- [IndieCoderMM/chess-gui](https://github.com/IndieCoderMM/chess-gui) - Chess GUI in Python
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [MFDGaming/mcpe-0.6.1-patcher](https://github.com/MFDGaming/mcpe-0.6.1-patcher) - Applies pocket tool .mod patches on libminecraftpe.so
 - [Askaniy/TrueColorTools](https://github.com/Askaniy/TrueColorTools) - A set of Python tools for calculating human-visible colors of celestial bodies from their spectra or color indices
