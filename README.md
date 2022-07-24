@@ -74,7 +74,6 @@
 ## Batchfile 
 
 - [MoneroOcean/xmrig_setup](https://github.com/MoneroOcean/xmrig_setup) - Auto setup scripts and pre-compiled xmr miner for moneroocean.stream pool
-- [MehdiRtal/WinCleanstall](https://github.com/MehdiRtal/WinCleanstall) - Create an automated, clean and custom Windows installation
 - [HackerajOfficial/Activator](https://github.com/HackerajOfficial/Activator) - Activator is collection of Windows tools Activator.
 - [WSA-Community/WSAPackagingTool](https://github.com/WSA-Community/WSAPackagingTool) - Allows you to modify WSA's Msixbundle and redistribute it.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
@@ -1196,6 +1195,7 @@
 - [ptysko/nixver](https://github.com/ptysko/nixver) - Basically winver ripoff
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+- [MehdiRtal/WinCleanstall](https://github.com/MehdiRtal/WinCleanstall) - Create an automated, clean and custom Windows installation
 - [martinet101/win32mica](https://github.com/martinet101/win32mica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
 - [witalihirsch/QTWin11](https://github.com/witalihirsch/QTWin11) - QT Theme (stylesheet) for Win32 apps on Windows 11
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
