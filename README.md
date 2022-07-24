@@ -1205,7 +1205,7 @@
 - [makedeb/prebuilt-mpr](https://github.com/makedeb/prebuilt-mpr) - APT repository for prebuilt MPR packages
 - [Griphitor/Griph-pad](https://github.com/Griphitor/Griph-pad) - Griph-Pad is a simple text editor by @Advik-B
 - [leha-code/Claculator](https://github.com/leha-code/Claculator) - The very calculator
-- [xboxone08/making_mcpi_real](https://github.com/xboxone08/making_mcpi_real) - This plugin for Minecraft: Pi edition aims to "update" it to be more like Minecraft 1.15.
+- [xboxone08/making_mcpi_real](https://github.com/xboxone08/making_mcpi_real) - This plugin for Minecraft: Pi edition aims to "update" it to be more like newer versions of Minecraft Bedrock Edition
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
 - [ilstam/FF-Multi-Converter](https://github.com/ilstam/FF-Multi-Converter) - GUI File Format Converter
 - [jerrylususu/PySimpleGUI-Demo-LangSelect](https://github.com/jerrylususu/PySimpleGUI-Demo-LangSelect) - PySimpleGUI Language Selection Demo
