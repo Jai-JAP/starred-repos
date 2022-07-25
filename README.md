@@ -345,6 +345,7 @@
 
 ## C# # 
 
+- [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [thisismalindu/SymbolPicker](https://github.com/thisismalindu/SymbolPicker) - A Simple Symbol Picker app like the Windows Emoji Picker to search and copy symbols to the clipboard.
 - [randyrants/winverex](https://github.com/randyrants/winverex) - Command prompt utility that returns a "fully qualified" version of Windows 10
 - [krlvm/AccentColorizer-E11](https://github.com/krlvm/AccentColorizer-E11) - Accent Colorization for Windows 11 File Explorer Icon Glyphs
@@ -397,6 +398,7 @@
 
 ## C++ 
 
+- [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a cooperative racing mod of Teeworlds
 - [pmachapman/unrar](https://github.com/pmachapman/unrar) - Unrar source code from rarlab.com
 - [rounk-ctrl/MicaForEveryone-win32](https://github.com/rounk-ctrl/MicaForEveryone-win32) - 
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -1181,6 +1183,8 @@
 
 ## Python 
 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
+- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [IndieCoderMM/chess-gui](https://github.com/IndieCoderMM/chess-gui) - Chess GUI in Python
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [MFDGaming/mcpe-0.6.1-patcher](https://github.com/MFDGaming/mcpe-0.6.1-patcher) - Applies pocket tool .mod patches on libminecraftpe.so
