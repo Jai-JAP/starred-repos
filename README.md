@@ -400,6 +400,8 @@
 
 ## C++ 
 
+- [pmj/virtio-net-osx](https://github.com/pmj/virtio-net-osx) - Mac OS X driver for a (virtualised) "virtio" network device. Virtio network devices are supported by KVM and VirtualBox. Fastest virtual network device for VirtualBox OSX Guests, allows kernel debuggi
+- [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
 - [Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey is a powerful and easy to use scripting language for desktop automation on Windows.
 - [elishacloud/dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10 by wrapping DirectX dlls.  Also allows loading custom libraries with the file extension .asi into game processes.
@@ -629,6 +631,7 @@
 
 ## Dockerfile 
 
+- [retrage/edk2-nightly](https://github.com/retrage/edk2-nightly) - Unofficial EDK2 nightly build
 - [steinruck/kali-xfce-novnc](https://github.com/steinruck/kali-xfce-novnc) - Kali GUI Docker Container via web browser
 - [knatnetwork/github-runner](https://github.com/knatnetwork/github-runner) - Simple Self-Hosted GitHub Actions Runner
 - [hmsjy2017/debian-arm-build-env](https://github.com/hmsjy2017/debian-arm-build-env) - Build Linux arm software in Docker
