@@ -974,6 +974,7 @@
 
 ## Others 
 
+- [ventoy/DeleteVentoySecureBootKey](https://github.com/ventoy/DeleteVentoySecureBootKey) - How to delete the secure boot key enrolled by Ventoy.
 - [Seabreg/resource_hacker](https://github.com/Seabreg/resource_hacker) - 
 - [zdotsh/git-io-replace](https://github.com/zdotsh/git-io-replace) - We offer a free replace with your old git.io URLs.
 - [pbatard/UEFI-Shell](https://github.com/pbatard/UEFI-Shell) - UEFI Shell binary images, generated from EDK2 stable
