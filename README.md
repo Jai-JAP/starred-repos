@@ -983,6 +983,7 @@
 
 ## Others 
 
+- [JustJordanT/Windows_11_Emjois](https://github.com/JustJordanT/Windows_11_Emjois) - 😜☁️⛅⛈️🌪️ This is an ongoing collection of the new Windows 11 Emoji set. Please note that these are PNG images and not editable SVGs. The emojis list will be updated with time. I am not associated with
 - [ventoy/DeleteVentoySecureBootKey](https://github.com/ventoy/DeleteVentoySecureBootKey) - How to delete the secure boot key enrolled by Ventoy.
 - [Seabreg/resource_hacker](https://github.com/Seabreg/resource_hacker) - 
 - [zdotsh/git-io-replace](https://github.com/zdotsh/git-io-replace) - We offer a free replace with your old git.io URLs.
