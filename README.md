@@ -345,6 +345,8 @@
 
 ## C# # 
 
+- [dlrudie/Snip](https://github.com/dlrudie/Snip) - Snip will get the artist, track, and album information from Spotify and iTunes, and save the information to a text file.
+- [luandersonn/MyFTP](https://github.com/luandersonn/MyFTP) - A modern FTP client for Windows 11
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [thisismalindu/SymbolPicker](https://github.com/thisismalindu/SymbolPicker) - A Simple Symbol Picker app like the Windows Emoji Picker to search and copy symbols to the clipboard.
 - [randyrants/winverex](https://github.com/randyrants/winverex) - Command prompt utility that returns a "fully qualified" version of Windows 10
@@ -398,6 +400,9 @@
 
 ## C++ 
 
+- [Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+- [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey is a powerful and easy to use scripting language for desktop automation on Windows.
+- [elishacloud/dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10 by wrapping DirectX dlls.  Also allows loading custom libraries with the file extension .asi into game processes.
 - [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a cooperative racing mod of Teeworlds
 - [pmachapman/unrar](https://github.com/pmachapman/unrar) - Unrar source code from rarlab.com
 - [rounk-ctrl/MicaForEveryone-win32](https://github.com/rounk-ctrl/MicaForEveryone-win32) - 
@@ -572,6 +577,7 @@
 
 ## CSS 
 
+- [purogamer/Fluent-for-Steam](https://github.com/purogamer/Fluent-for-Steam) - Fluent for Steam. A simple skin for steam to make it look like windows 11.
 - [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - Colloid gtk theme for linux
 - [discord-modifications/dark-discord](https://github.com/discord-modifications/dark-discord) - An actual dark mode for discord.
 - [Elbullazul/Chicago95](https://github.com/Elbullazul/Chicago95) - 
