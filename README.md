@@ -83,6 +83,8 @@
 
 ## C 
 
+- [gitGNU/gnu_wget](https://github.com/gitGNU/gnu_wget) - GNU Wget is a free utility for non-interactive download of files from the Web.  It supports HTTP, HTTPS, and FTP protocols, as well as retrieval through HTTP proxies.
+- [autotools-mirror/gettext](https://github.com/autotools-mirror/gettext) - Mirror of git://git.savannah.gnu.org/gettext.git
 - [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [notaz/pcsx_rearmed](https://github.com/notaz/pcsx_rearmed) - ARM optimized PCSX fork
@@ -401,6 +403,7 @@
 
 ## C++ 
 
+- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [pmj/virtio-net-osx](https://github.com/pmj/virtio-net-osx) - Mac OS X driver for a (virtualised) "virtio" network device. Virtio network devices are supported by KVM and VirtualBox. Fastest virtual network device for VirtualBox OSX Guests, allows kernel debuggi
 - [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
 - [Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
@@ -984,6 +987,7 @@
 
 ## Others 
 
+- [autotools-mirror/m4](https://github.com/autotools-mirror/m4) - Mirror of git://git.savannah.gnu.org/m4.git
 - [JustJordanT/Windows_11_Emjois](https://github.com/JustJordanT/Windows_11_Emjois) - 😜☁️⛅⛈️🌪️ This is an ongoing collection of the new Windows 11 Emoji set. Please note that these are PNG images and not editable SVGs. The emojis list will be updated with time. I am not associated with
 - [ventoy/DeleteVentoySecureBootKey](https://github.com/ventoy/DeleteVentoySecureBootKey) - How to delete the secure boot key enrolled by Ventoy.
 - [Seabreg/resource_hacker](https://github.com/Seabreg/resource_hacker) - 
@@ -1197,6 +1201,8 @@
 
 ## Python 
 
+- [fritzone/autocmake](https://github.com/fritzone/autocmake) - Convert an autotools project to CMake
+- [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [IndieCoderMM/chess-gui](https://github.com/IndieCoderMM/chess-gui) - Chess GUI in Python
@@ -1456,6 +1462,7 @@
 
 ## Roff 
 
+- [autotools-mirror/autoconf](https://github.com/autotools-mirror/autoconf) - Mirror of git://git.savannah.gnu.org/autoconf.git
 - [WOA-Project/SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers) - Collection of driver binaries for Surface Duo devices
 - [RPi-Distro/chromium-browser](https://github.com/RPi-Distro/chromium-browser) - 
 
@@ -1569,6 +1576,10 @@
 
 ## Shell 
 
+- [NoozSBC/TwisterOS-imager](https://github.com/NoozSBC/TwisterOS-imager) - Fork of Raspberry Pi patcher with TwisterOS inside
+- [Itai-Nelken/Pi-Assistant](https://github.com/Itai-Nelken/Pi-Assistant) - Pi-Assistant is a simple terminal app made for the Raspberry Pi that makes updating the system, installing apps, viewing system information, and more easier than ever
+- [autotools-mirror/libtool](https://github.com/autotools-mirror/libtool) - Mirror of git://git.savannah.gnu.org/libtool.git
+- [autotools-mirror/automake](https://github.com/autotools-mirror/automake) - Mirror of git://git.savannah.gnu.org/automake.git
 - [Onelinerhub/shellhub](https://github.com/Onelinerhub/shellhub) - Shell utility to search onelinerhub directly from terminal (and executing commands if needed)
 - [Hinara/linux-vm-tools](https://github.com/Hinara/linux-vm-tools) - Hyper-V Linux Guest VM Enhancements
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
