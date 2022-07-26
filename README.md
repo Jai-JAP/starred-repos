@@ -83,6 +83,7 @@
 
 ## C 
 
+- [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [notaz/pcsx_rearmed](https://github.com/notaz/pcsx_rearmed) - ARM optimized PCSX fork
 - [FDOS/kernel](https://github.com/FDOS/kernel) - FreeDOS kernel - implements the core MS-DOS/PC-DOS (R) compatible operating system. It is derived from Pat Villani's DOS-C kernel and released under the GPL v2 or later. Please see http://www.freedos.
@@ -1925,6 +1926,7 @@
 
 ## Vala 
 
+- [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment.
 - [ErikReider/SwaySettings](https://github.com/ErikReider/SwaySettings) - 
 - [linuxmint/timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 - [monkaBlyat/ThemeTwister](https://github.com/monkaBlyat/ThemeTwister) - Buy me a Coffee https://www.paypal.me/krishenriksendk
