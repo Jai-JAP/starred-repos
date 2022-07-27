@@ -348,6 +348,7 @@
 
 ## C# # 
 
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
 - [dlrudie/Snip](https://github.com/dlrudie/Snip) - Snip will get the artist, track, and album information from Spotify and iTunes, and save the information to a text file.
 - [luandersonn/MyFTP](https://github.com/luandersonn/MyFTP) - A modern FTP client for Windows 11
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
@@ -403,6 +404,9 @@
 
 ## C++ 
 
+- [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
+- [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
+- [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio) - A very WIP custom discord client that supports streaming with audio on Linux.
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [pmj/virtio-net-osx](https://github.com/pmj/virtio-net-osx) - Mac OS X driver for a (virtualised) "virtio" network device. Virtio network devices are supported by KVM and VirtualBox. Fastest virtual network device for VirtualBox OSX Guests, allows kernel debuggi
 - [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
@@ -583,6 +587,7 @@
 
 ## CSS 
 
+- [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [purogamer/Fluent-for-Steam](https://github.com/purogamer/Fluent-for-Steam) - Fluent for Steam. A simple skin for steam to make it look like windows 11.
 - [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - Colloid gtk theme for linux
 - [discord-modifications/dark-discord](https://github.com/discord-modifications/dark-discord) - An actual dark mode for discord.
@@ -635,6 +640,8 @@
 
 ## Dockerfile 
 
+- [ponsfrilus/arch-novnc](https://github.com/ponsfrilus/arch-novnc) - Docker container running ArchLinux accessible through novnc in a browser
+- [DCsunset/docker-archlinux-vnc](https://github.com/DCsunset/docker-archlinux-vnc) - A docker image of Arch Linux with KDE desktop and VNC support.
 - [retrage/edk2-nightly](https://github.com/retrage/edk2-nightly) - Unofficial EDK2 nightly build
 - [steinruck/kali-xfce-novnc](https://github.com/steinruck/kali-xfce-novnc) - Kali GUI Docker Container via web browser
 - [knatnetwork/github-runner](https://github.com/knatnetwork/github-runner) - Simple Self-Hosted GitHub Actions Runner
@@ -647,6 +654,7 @@
 
 ## Go 
 
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [schollz/cowyo](https://github.com/schollz/cowyo) - A feature-rich wiki webserver for minimalists :cow: :speech_balloon:
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
@@ -748,6 +756,7 @@
 
 ## Java 
 
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [rom1v/sndcpy](https://github.com/rom1v/sndcpy) - Android audio forwarding (scrcpy, but for audio)
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [TeamMidnightDust/MidnightControls](https://github.com/TeamMidnightDust/MidnightControls) - A Minecraft mod adding controller support and enhanced controls overall.
@@ -781,6 +790,7 @@
 
 ## JavaScript 
 
+- [Babu8399/rainbow-roles](https://github.com/Babu8399/rainbow-roles) - Make Discord server roles change color!
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
@@ -1576,6 +1586,7 @@
 
 ## Shell 
 
+- [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
 - [NoozSBC/TwisterOS-imager](https://github.com/NoozSBC/TwisterOS-imager) - Fork of Raspberry Pi patcher with TwisterOS inside
 - [Itai-Nelken/Pi-Assistant](https://github.com/Itai-Nelken/Pi-Assistant) - Pi-Assistant is a simple terminal app made for the Raspberry Pi that makes updating the system, installing apps, viewing system information, and more easier than ever
 - [autotools-mirror/libtool](https://github.com/autotools-mirror/libtool) - Mirror of git://git.savannah.gnu.org/libtool.git
