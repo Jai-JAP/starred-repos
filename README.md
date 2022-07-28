@@ -701,6 +701,7 @@
 
 ## HTML 
 
+- [Maxhu787/scripts](https://github.com/Maxhu787/scripts) - 
 - [is-a-good-dev/Register](https://github.com/is-a-good-dev/Register) - Register for your *is-a-good-dev* domain!
 - [arm-university/Embedded-Linux-Education-Kit](https://github.com/arm-university/Embedded-Linux-Education-Kit) - Embedded Linux Education Kit
 - [arm-university/Introduction-to-Computer-Architecture-Education-Kit](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit) - Introduction-to-Computer-Architecture-Education-Kit
@@ -1215,7 +1216,6 @@
 
 ## Python 
 
-- [Maxhu787/scripts](https://github.com/Maxhu787/scripts) - 
 - [nsonaniya2010/SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) - A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github.
 - [fritzone/autocmake](https://github.com/fritzone/autocmake) - Convert an autotools project to CMake
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
