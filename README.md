@@ -1592,6 +1592,7 @@
 
 ## Shell 
 
+- [canonical/steam-snap](https://github.com/canonical/steam-snap) - Steam as a snap
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
 - [NoozSBC/TwisterOS-imager](https://github.com/NoozSBC/TwisterOS-imager) - Fork of Raspberry Pi patcher with TwisterOS inside
 - [Itai-Nelken/Pi-Assistant](https://github.com/Itai-Nelken/Pi-Assistant) - Pi-Assistant is a simple terminal app made for the Raspberry Pi that makes updating the system, installing apps, viewing system information, and more easier than ever
