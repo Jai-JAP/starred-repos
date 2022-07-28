@@ -83,6 +83,7 @@
 
 ## C 
 
+- [dimtpap/obs-pipewire-audio-capture](https://github.com/dimtpap/obs-pipewire-audio-capture) - 🔊 Audio device and application capture for OBS Studio using PipeWire
 - [gitGNU/gnu_wget](https://github.com/gitGNU/gnu_wget) - GNU Wget is a free utility for non-interactive download of files from the Web.  It supports HTTP, HTTPS, and FTP protocols, as well as retrieval through HTTP proxies.
 - [autotools-mirror/gettext](https://github.com/autotools-mirror/gettext) - Mirror of git://git.savannah.gnu.org/gettext.git
 - [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
@@ -997,6 +998,7 @@
 
 ## Others 
 
+- [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [autotools-mirror/m4](https://github.com/autotools-mirror/m4) - Mirror of git://git.savannah.gnu.org/m4.git
 - [JustJordanT/Windows_11_Emjois](https://github.com/JustJordanT/Windows_11_Emjois) - 😜☁️⛅⛈️🌪️ This is an ongoing collection of the new Windows 11 Emoji set. Please note that these are PNG images and not editable SVGs. The emojis list will be updated with time. I am not associated with
 - [ventoy/DeleteVentoySecureBootKey](https://github.com/ventoy/DeleteVentoySecureBootKey) - How to delete the secure boot key enrolled by Ventoy.
