@@ -83,6 +83,7 @@
 
 ## C 
 
+- [json-c/json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
 - [dimtpap/obs-pipewire-audio-capture](https://github.com/dimtpap/obs-pipewire-audio-capture) - 🔊 Audio device and application capture for OBS Studio using PipeWire
 - [gitGNU/gnu_wget](https://github.com/gitGNU/gnu_wget) - GNU Wget is a free utility for non-interactive download of files from the Web.  It supports HTTP, HTTPS, and FTP protocols, as well as retrieval through HTTP proxies.
 - [autotools-mirror/gettext](https://github.com/autotools-mirror/gettext) - Mirror of git://git.savannah.gnu.org/gettext.git
@@ -1203,6 +1204,7 @@
 
 ## PowerShell 
 
+- [codaamok/PSShlink](https://github.com/codaamok/PSShlink) - An unofficial PowerShell module for Shlink (https://shlink.io), an open-source self-hosted and PHP-based URL shortener application
 - [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell
 - [huben1337/winpfp](https://github.com/huben1337/winpfp) - Custom Windows 10 account picture
 - [JosephM101/Force-Windows-11-Install](https://github.com/JosephM101/Force-Windows-11-Install) - Modifies Windows 11 installation ISO to bypass compatibility checks both pre and post installation
