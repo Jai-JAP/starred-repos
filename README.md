@@ -83,6 +83,7 @@
 
 ## C 
 
+- [welljsjs/Config-Parser-C](https://github.com/welljsjs/Config-Parser-C) - Simple implemented Config-file parser written in C
 - [json-c/json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
 - [dimtpap/obs-pipewire-audio-capture](https://github.com/dimtpap/obs-pipewire-audio-capture) - 🔊 Audio device and application capture for OBS Studio using PipeWire
 - [gitGNU/gnu_wget](https://github.com/gitGNU/gnu_wget) - GNU Wget is a free utility for non-interactive download of files from the Web.  It supports HTTP, HTTPS, and FTP protocols, as well as retrieval through HTTP proxies.
@@ -589,6 +590,7 @@
 
 ## CSS 
 
+- [StylishThemes/StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [purogamer/Fluent-for-Steam](https://github.com/purogamer/Fluent-for-Steam) - Fluent for Steam. A simple skin for steam to make it look like windows 11.
 - [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - Colloid gtk theme for linux
@@ -794,6 +796,7 @@
 
 ## JavaScript 
 
+- [mdbootstrap/perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin. Get more free components with Material Design for Bootstrap UI Kit (link below)
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [Babu8399/rainbow-roles](https://github.com/Babu8399/rainbow-roles) - Make Discord server roles change color!
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
