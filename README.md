@@ -292,7 +292,7 @@
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [ryanfortner/Learning-C](https://github.com/ryanfortner/Learning-C) - Experiments and sample programs from my journey of learning C.
-- [mesa3d/mesa](https://github.com/mesa3d/mesa) - Mesa 3D graphics library (read-only mirror of https://gitlab.freedesktop.org/mesa/mesa/)
+- [Mesa3D/mesa](https://github.com/Mesa3D/mesa) - Mesa 3D graphics library (read-only mirror of https://gitlab.freedesktop.org/mesa/mesa/)
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
 - [Acry/flappy](https://github.com/Acry/flappy) - Flappy Birds - A rapid prototype implementation in SDL2-C
