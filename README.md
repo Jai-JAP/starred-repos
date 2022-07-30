@@ -67,6 +67,7 @@
 
 ## AutoIt 
 
+- [jschicht/RunAsTI](https://github.com/jschicht/RunAsTI) - Launch processes with TrustedInstaller privilege
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 - [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 
