@@ -316,7 +316,6 @@
 - [PacktPublishing/Learn-C-Programming-Second-Edition](https://github.com/PacktPublishing/Learn-C-Programming-Second-Edition) - Learn C Programming, Second Edition, published by Packt
 - [PacktPublishing/Learn-C-Programming](https://github.com/PacktPublishing/Learn-C-Programming) - Learn C Programming, published by Packt
 - [fenghaitao/xserver-with-gl-accelerated-xephyr](https://github.com/fenghaitao/xserver-with-gl-accelerated-xephyr) - Xephyr with GL acceleration by DRI2 forwarding
-- [openglonmetal/MGL](https://github.com/openglonmetal/MGL) - OpenGL 4.6 on Metal
 - [raspberrypi-ui/lxplug-updater](https://github.com/raspberrypi-ui/lxplug-updater) - 
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
@@ -567,6 +566,7 @@
 - [martynets/dialogbox](https://github.com/martynets/dialogbox) - GUI widgets for shell scripts. This is a scriptable engine which implements the idea of a GUI &lt;-&gt; text filter tool.
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [openglonmetal/MGL](https://github.com/openglonmetal/MGL) - OpenGL 4.6 on Metal
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [rwengine/openrw](https://github.com/rwengine/openrw) - OpenRW "Open ReWrite" is an un-official open source recreation of the classic Grand Theft Auto III game executable
