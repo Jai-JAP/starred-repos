@@ -83,6 +83,7 @@
 
 ## C 
 
+- [opuntiaOS-Project/opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) - opuntiaOS - an operating system targeting x86, ARMv7, Aarch64
 - [welljsjs/Config-Parser-C](https://github.com/welljsjs/Config-Parser-C) - Simple implemented Config-file parser written in C
 - [json-c/json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
 - [dimtpap/obs-pipewire-audio-capture](https://github.com/dimtpap/obs-pipewire-audio-capture) - 🔊 Audio device and application capture for OBS Studio using PipeWire
