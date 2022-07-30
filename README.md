@@ -707,7 +707,7 @@
 ## HTML 
 
 - [Maxhu787/scripts](https://github.com/Maxhu787/scripts) - Random scripts combined into one repo
-- [is-a-good-dev/Register](https://github.com/is-a-good-dev/Register) - Register for your *is-a-good-dev* domain!
+- [is-a-good-dev/register](https://github.com/is-a-good-dev/register) - Register for your *is-a-good-dev* domain!
 - [arm-university/Embedded-Linux-Education-Kit](https://github.com/arm-university/Embedded-Linux-Education-Kit) - Embedded Linux Education Kit
 - [arm-university/Introduction-to-Computer-Architecture-Education-Kit](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit) - Introduction-to-Computer-Architecture-Education-Kit
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
