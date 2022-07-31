@@ -408,6 +408,7 @@
 
 ## C++ 
 
+- [mozilla-mobile/mozilla-vpn-client](https://github.com/mozilla-mobile/mozilla-vpn-client) - A fast, secure and easy to use VPN. Built by the makers of Firefox.
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio) - A very WIP custom discord client that supports streaming with audio on Linux.
