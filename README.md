@@ -1177,6 +1177,7 @@
 
 ## PHP 
 
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener - the 𝑑𝑒 𝑓𝑎𝑐𝑡𝑜 standard self hosted URL shortener in PHP
 - [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole's lists from remote sources easily
 - [uup-dump/standalone](https://github.com/uup-dump/standalone) - PHP code for standalone command line version of UUP dump
 - [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE) - Paste is a project that started from the files pastebin.com used before it was bought.
@@ -1227,6 +1228,7 @@
 
 ## Python 
 
+- [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [nsonaniya2010/SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) - A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github.
 - [fritzone/autocmake](https://github.com/fritzone/autocmake) - Convert an autotools project to CMake
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1506,6 +1508,7 @@
 
 ## Rust 
 
+- [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [weclaw1/image-roll](https://github.com/weclaw1/image-roll) - Image Roll - simple and fast GTK image viewer with basic image manipulation tools. Written in Rust.
 - [pacstall/pacstall-gui](https://github.com/pacstall/pacstall-gui) - GUI for pacstall
@@ -1603,6 +1606,8 @@
 
 ## Shell 
 
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+- [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) - A Steam Big Picture based couch gaming OS
 - [canonical/steam-snap](https://github.com/canonical/steam-snap) - Steam as a snap
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
