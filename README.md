@@ -1032,7 +1032,7 @@
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [nihadenes/EzPass](https://github.com/nihadenes/EzPass) - EzPass is a project about storing your password securely on your disk and undecryptable unless you have a strong password.
 - [makedeb/status](https://github.com/makedeb/status) - Statuspage for makedeb's websites
-- [novialriptide/learnthebasicsfirst.com](https://github.com/novialriptide/learnthebasicsfirst.com) - 
+- [novialriptide/learnthebasicsfirst.com](https://github.com/novialriptide/learnthebasicsfirst.com) - Inspired by https://dontasktoask.com/
 - [novaspirit/piprox-arch](https://github.com/novaspirit/piprox-arch) - Install notes for installing arch linux on pi proxmox
 - [dair-ai/MLOPs-Primer](https://github.com/dair-ai/MLOPs-Primer) - A collection of resources to learn about MLOPs.
 - [edisionnano/Screenshare-with-audio-on-Discord-with-Linux](https://github.com/edisionnano/Screenshare-with-audio-on-Discord-with-Linux) - A repo trying to gather all info regarding proper screensharing on Discord with Desktop Audio for linux users
