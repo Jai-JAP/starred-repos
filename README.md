@@ -1018,6 +1018,7 @@
 
 ## Others 
 
+- [nsonaniya2010/SecretKeyWords](https://github.com/nsonaniya2010/SecretKeyWords) - Secret Keywords patterns - aggregated from different sources.
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [autotools-mirror/m4](https://github.com/autotools-mirror/m4) - Mirror of git://git.savannah.gnu.org/m4.git
 - [JustJordanT/Windows_11_Emjois](https://github.com/JustJordanT/Windows_11_Emjois) - 😜☁️⛅⛈️🌪️ This is an ongoing collection of the new Windows 11 Emoji set. Please note that these are PNG images and not editable SVGs. The emojis list will be updated with time. I am not associated with
