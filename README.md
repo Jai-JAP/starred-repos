@@ -352,6 +352,7 @@
 
 ## C# # 
 
+- [koush/UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver) - One size fits all Windows Drivers for Android Debug Bridge.
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [dlrudie/Snip](https://github.com/dlrudie/Snip) - Snip will get the artist, track, and album information from Spotify and iTunes, and save the information to a text file.
@@ -597,6 +598,7 @@
 
 ## CSS 
 
+- [koush/adb.clockworkmod.com](https://github.com/koush/adb.clockworkmod.com) - 
 - [StylishThemes/StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [purogamer/Fluent-for-Steam](https://github.com/purogamer/Fluent-for-Steam) - Fluent for Steam. A simple skin for steam to make it look like windows 11.
