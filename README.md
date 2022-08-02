@@ -413,7 +413,7 @@
 
 ## C++ 
 
-- [Bigjango13/MCPI-Competition](https://github.com/Bigjango13/MCPI-Competition) - My mod entries to the MCPI Competition
+- [Bigjango13/MCPI-Mods](https://github.com/Bigjango13/MCPI-Mods) - A collection of my mods for MCPI-Reborn.
 - [Omyyyy/pycom](https://github.com/Omyyyy/pycom) - A Python compiler, down to native code, using C++
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [mozilla-mobile/mozilla-vpn-client](https://github.com/mozilla-mobile/mozilla-vpn-client) - A fast, secure and easy to use VPN. Built by the makers of Firefox.
