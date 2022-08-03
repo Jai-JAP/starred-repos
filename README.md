@@ -1024,7 +1024,6 @@
 
 ## Others 
 
-- [flexiondotorg/slim-aios](https://github.com/flexiondotorg/slim-aios) - Optimised OS for the Raspberry Pi for creating and running containers 🐋
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH
 - [nsonaniya2010/SecretKeyWords](https://github.com/nsonaniya2010/SecretKeyWords) - Secret Keywords patterns - aggregated from different sources.
@@ -1622,6 +1621,7 @@
 
 ## Shell 
 
+- [flexiondotorg/slim-aios](https://github.com/flexiondotorg/slim-aios) - Optimised OS for the Raspberry Pi for creating and running containers 🐋
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
