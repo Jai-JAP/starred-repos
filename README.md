@@ -84,6 +84,7 @@
 
 ## C 
 
+- [PowerShell/openssh-portable](https://github.com/PowerShell/openssh-portable) - Portable OpenSSH, all Win32-OpenSSH releases and wiki are managed at https://github.com/powershell/Win32-OpenSSH
 - [mridgers/clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
 - [adoxa/ansicon](https://github.com/adoxa/ansicon) - Process ANSI escape sequences for Windows console programs.
 - [mattn/ansicolor-w32.c](https://github.com/mattn/ansicolor-w32.c) - 
@@ -1021,6 +1022,7 @@
 
 ## Others 
 
+- [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH
 - [nsonaniya2010/SecretKeyWords](https://github.com/nsonaniya2010/SecretKeyWords) - Secret Keywords patterns - aggregated from different sources.
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [autotools-mirror/m4](https://github.com/autotools-mirror/m4) - Mirror of git://git.savannah.gnu.org/m4.git
