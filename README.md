@@ -84,6 +84,10 @@
 
 ## C 
 
+- [driver1998/PiMon](https://github.com/driver1998/PiMon) - A simple hardware monitor for your Raspberry Pi running Windows.
+- [driver1998/VgaShim](https://github.com/driver1998/VgaShim) - VGAShim fork that fixes many issues faced on modern UEFI systems.
+- [davidcie/VgaShim](https://github.com/davidcie/VgaShim) - Enables some recent Apple computers to run Windows 7
+- [driver1998/qemu](https://github.com/driver1998/qemu) - QEMU with Windows ARM hacks. woa-kvm: ARM64 Build 18348- on KVM, winrt: Windows RT 8.1 on QEMU
 - [rswinkle/Craft](https://github.com/rswinkle/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [rswinkle/PortableGL](https://github.com/rswinkle/PortableGL) - An implementation of OpenGL 3.x-ish in clean C
 - [PowerShell/openssh-portable](https://github.com/PowerShell/openssh-portable) - Portable OpenSSH, all Win32-OpenSSH releases and wiki are managed at https://github.com/powershell/Win32-OpenSSH
@@ -2019,6 +2023,7 @@
 
 ## Visual Basic .NET 
 
+- [Jevil7452/Simple-GUID-Generator](https://github.com/Jevil7452/Simple-GUID-Generator) - 
 - [PeterStrick/ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) - Windows Feature Control GUI based on ViVe / ViVeTool
 - [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
 
