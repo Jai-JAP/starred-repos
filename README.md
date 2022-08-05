@@ -1278,7 +1278,7 @@
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [MehdiRtal/WinCleanstall](https://github.com/MehdiRtal/WinCleanstall) - Create an automated, clean and custom Windows installation
 - [martinet101/win32mica](https://github.com/martinet101/win32mica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
-- [witalihirsch/QTWin11](https://github.com/witalihirsch/QTWin11) - QT Theme (stylesheet) for Win32 apps on Windows 11
+- [witalihirsch/QTWin11](https://github.com/witalihirsch/QTWin11) - Fluent QT Theme (stylesheet) for Win32 apps on Windows 11
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
 - [pacstall/libpacstall](https://github.com/pacstall/libpacstall) - Backend API library for Pacstall
 - [makedeb/prebuilt-mpr](https://github.com/makedeb/prebuilt-mpr) - APT repository for prebuilt MPR packages
@@ -1633,6 +1633,7 @@
 
 ## Shell 
 
+- [tkreind/docker-gui-novnc](https://github.com/tkreind/docker-gui-novnc) - An extremely easy to use docker image to run any Linux GUI application on any host through docker and your browser.
 - [flexiondotorg/slim-aios](https://github.com/flexiondotorg/slim-aios) - Optimised OS for the Raspberry Pi for creating and running containers 🐋
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
