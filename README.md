@@ -84,6 +84,7 @@
 
 ## C 
 
+- [rpm-software-management/popt](https://github.com/rpm-software-management/popt) - C library for parsing command line parameters
 - [kjliew/qemu-3dfx](https://github.com/kjliew/qemu-3dfx) - MESA GL/3Dfx Glide pass-through for QEMU
 - [driver1998/PiMon](https://github.com/driver1998/PiMon) - A simple hardware monitor for your Raspberry Pi running Windows.
 - [driver1998/VgaShim](https://github.com/driver1998/VgaShim) - VGAShim fork that fixes many issues faced on modern UEFI systems.
