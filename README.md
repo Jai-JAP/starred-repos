@@ -422,6 +422,8 @@
 
 ## C++ 
 
+- [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
+- [krlvm/ContextMenuNormalizer](https://github.com/krlvm/ContextMenuNormalizer) - Normalize context menu highlight color in Windows 10 19H1+
 - [Bigjango13/MCPI-Addons](https://github.com/Bigjango13/MCPI-Addons) - Addons to the MCPI api.
 - [Bigjango13/MCPI-Mods](https://github.com/Bigjango13/MCPI-Mods) - A collection of my mods for MCPI-Reborn.
 - [Omyyyy/pycom](https://github.com/Omyyyy/pycom) - A Python compiler, down to native code, using C++
@@ -1101,7 +1103,7 @@
 - [cycool29/gwallc](https://github.com/cycool29/gwallc) - GUI Wallpaper Changer for Linux. (WIP)
 - [saiarcot895/chromium-ubuntu-build](https://github.com/saiarcot895/chromium-ubuntu-build) - Packaging files for building Chromium on Ubuntu
 - [dweeber/rpiwiggle](https://github.com/dweeber/rpiwiggle) - Script which expands a FS to the size of the SDcard minus a bit
-- [NoozSBC/calamity-texturepack](https://github.com/NoozSBC/calamity-texturepack) - Auto-pack updater for Calamity Realms MC server using GH acions
+- [NoozSBC/calamity-texturepack](https://github.com/NoozSBC/calamity-texturepack) - Auto-pack updater for Calamity Realms MC server using GH actions
 - [kingToolbox/WindEdit](https://github.com/kingToolbox/WindEdit) - A high performace text editor for huge file and long line.
 - [Xqua/pyAlienFX](https://github.com/Xqua/pyAlienFX) - This project is a multiplatform python software to control the AlienFX device of Alienware computers.  It intend to be easily upgradable for future updates of the AlienFX device, as it happened for th
 - [ProjectAfterBurner/apt](https://github.com/ProjectAfterBurner/apt) - Project package repository
