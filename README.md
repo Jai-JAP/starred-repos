@@ -68,7 +68,7 @@
 
 ## AutoHotkey 
 
-- [fffb/7zDT](https://github.com/fffb/7zDT) - Add "date / time" to 7-Zip's "Add to Archive" window
+- [fffb/7zDT](https://github.com/fffb/7zDT) - Add "date / time" to 7-Zip's "Add to Archive" window. 给 7-Zip 压缩界面添加“日期/时间命名”功能
 
 ## AutoIt 
 
