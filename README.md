@@ -89,6 +89,7 @@
 
 ## C 
 
+- [edk2-porting/edk2-rk3399](https://github.com/edk2-porting/edk2-rk3399) - Highly experimental port of edk2 for rk3399
 - [gnuplot/gnuplot](https://github.com/gnuplot/gnuplot) - Unofficial mirror of gnuplot's git repository. Please don't open pull requests here, go to https://sourceforge.net/p/gnuplot/gnuplot-main/merge-requests/ instead.
 - [rpm-software-management/popt](https://github.com/rpm-software-management/popt) - C library for parsing command line parameters
 - [kjliew/qemu-3dfx](https://github.com/kjliew/qemu-3dfx) - MESA GL/3Dfx Glide pass-through for QEMU
@@ -619,6 +620,8 @@
 
 ## CSS 
 
+- [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design
+- [williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent) - Spicetify theme inspired by Microsoft's Fluent Design
 - [koush/adb.clockworkmod.com](https://github.com/koush/adb.clockworkmod.com) - 
 - [StylishThemes/StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
@@ -688,6 +691,7 @@
 
 ## Go 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [schollz/cowyo](https://github.com/schollz/cowyo) - A feature-rich wiki webserver for minimalists :cow: :speech_balloon:
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
