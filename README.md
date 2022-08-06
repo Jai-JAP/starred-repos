@@ -1003,7 +1003,7 @@
 
 ## Lua 
 
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
+- [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
 
 ## Makefile 
 
