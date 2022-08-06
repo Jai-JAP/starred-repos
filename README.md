@@ -89,6 +89,7 @@
 
 ## C 
 
+- [gnuplot/gnuplot](https://github.com/gnuplot/gnuplot) - Unofficial mirror of gnuplot's git repository. Please don't open pull requests here, go to https://sourceforge.net/p/gnuplot/gnuplot-main/merge-requests/ instead.
 - [rpm-software-management/popt](https://github.com/rpm-software-management/popt) - C library for parsing command line parameters
 - [kjliew/qemu-3dfx](https://github.com/kjliew/qemu-3dfx) - MESA GL/3Dfx Glide pass-through for QEMU
 - [driver1998/PiMon](https://github.com/driver1998/PiMon) - A simple hardware monitor for your Raspberry Pi running Windows.
