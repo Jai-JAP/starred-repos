@@ -797,6 +797,7 @@
 
 ## Java 
 
+- [penfeizhou/APNG4Android](https://github.com/penfeizhou/APNG4Android) - Android animation support for APNG & Animated WebP & Gif,High performance
 - [francescotescari/XiaoMiToolV2](https://github.com/francescotescari/XiaoMiToolV2) - XiaomiTool V2 - Modding tool for xiaomi devices
 - [rom1v/sndcpy](https://github.com/rom1v/sndcpy) - Android audio forwarding (scrcpy, but for audio)
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
