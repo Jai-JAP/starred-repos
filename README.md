@@ -1268,6 +1268,7 @@
 
 ## Python 
 
+- [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
 - [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! trunk
 - [quint-t/Text-Translator](https://github.com/quint-t/Text-Translator) - Text Translator (GUI application)
 - [heartexlabs/labelImg](https://github.com/heartexlabs/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
@@ -1516,7 +1517,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-489-Stars](https://github.com/iBug/This-Repo-Has-489-Stars) - Yes, it's true :heartpulse: This repository has 489 stars.
+- [iBug/This-Repo-Has-490-Stars](https://github.com/iBug/This-Repo-Has-490-Stars) - Yes, it's true :heartpulse: This repository has 490 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1651,6 +1652,7 @@
 
 ## Shell 
 
+- [KaOS-Community-Packages/soulseekqt](https://github.com/KaOS-Community-Packages/soulseekqt) - A desktop client for the Soulseek peer-to-peer file sharing network
 - [tkreind/docker-gui-novnc](https://github.com/tkreind/docker-gui-novnc) - An extremely easy to use docker image to run any Linux GUI application on any host through docker and your browser.
 - [flexiondotorg/slim-aios](https://github.com/flexiondotorg/slim-aios) - Optimised OS for the Raspberry Pi for creating and running containers 🐋
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
