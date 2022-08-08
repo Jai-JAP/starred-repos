@@ -89,6 +89,7 @@
 
 ## C 
 
+- [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [edk2-porting/edk2-rk3399](https://github.com/edk2-porting/edk2-rk3399) - Highly experimental port of edk2 for rk3399
 - [gnuplot/gnuplot](https://github.com/gnuplot/gnuplot) - Unofficial mirror of gnuplot's git repository. Please don't open pull requests here, go to https://sourceforge.net/p/gnuplot/gnuplot-main/merge-requests/ instead.
 - [rpm-software-management/popt](https://github.com/rpm-software-management/popt) - C library for parsing command line parameters
@@ -1048,6 +1049,7 @@
 
 ## Others 
 
+- [TheTorProject/gettorbrowser](https://github.com/TheTorProject/gettorbrowser) - 
 - [notopsee/Microsoft-Segoe-UI-Emoji-SVG-Icons](https://github.com/notopsee/Microsoft-Segoe-UI-Emoji-SVG-Icons) - 3070 Vector based Emoji icons with the Windows 10 style in SVG & PNG
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -1269,6 +1271,7 @@
 
 ## Python 
 
+- [tor2web/Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers
 - [kennyh7279/shortcut-generator-simple](https://github.com/kennyh7279/shortcut-generator-simple) - Small and simple application to generate .desktop files for use on linux desktop environments
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
 - [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! trunk
