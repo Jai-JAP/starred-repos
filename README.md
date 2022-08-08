@@ -2031,6 +2031,7 @@
 
 ## Vala 
 
+- [hcsubser/hybridbar](https://github.com/hcsubser/hybridbar) - 
 - [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment.
 - [ErikReider/SwaySettings](https://github.com/ErikReider/SwaySettings) - 
 - [linuxmint/timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
