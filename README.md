@@ -326,7 +326,7 @@
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [xeyownt/xseticon](https://github.com/xeyownt/xseticon) - xseticon from Paul Evans -- http://www.leonerd.org.uk/
-- [Strawberry-Software-Industries/ledcontrol](https://github.com/Strawberry-Software-Industries/ledcontrol) - A simple program to control the status LEDs of your Raspberry Pi!
+- [Schmutz-Industries/ledcontrol](https://github.com/Schmutz-Industries/ledcontrol) - A simple program to control the status LEDs of your Raspberry Pi!
 - [iXit/wine-nine-standalone](https://github.com/iXit/wine-nine-standalone) - Build Gallium Nine support on top of an existing WINE installation
 - [coreboot/seabios](https://github.com/coreboot/seabios) - mirror of seabios
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
