@@ -691,6 +691,7 @@
 
 ## Go 
 
+- [zyedidia/crypt](https://github.com/zyedidia/crypt) - A tool for making password-protected files
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [schollz/cowyo](https://github.com/schollz/cowyo) - A feature-rich wiki webserver for minimalists :cow: :speech_balloon:
@@ -1268,6 +1269,7 @@
 
 ## Python 
 
+- [kennyh7279/shortcut-generator-simple](https://github.com/kennyh7279/shortcut-generator-simple) - Small and simple application to generate .desktop files for use on linux desktop environments
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
 - [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! trunk
 - [quint-t/Text-Translator](https://github.com/quint-t/Text-Translator) - Text Translator (GUI application)
