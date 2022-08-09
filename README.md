@@ -1761,7 +1761,7 @@
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux) - This is a project, where I give you a way to use Autodesk Fusion 360 on Linux!
-- [armbian/build](https://github.com/armbian/build) - Armbian Linux build framework
+- [armbian/build](https://github.com/armbian/build) - Armbian Linux Build Framework
 - [ThomasKaiser/sbc-bench](https://github.com/ThomasKaiser/sbc-bench) - Simple benchmark for single board computers
 - [codespell-project/actions-codespell](https://github.com/codespell-project/actions-codespell) - 
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
