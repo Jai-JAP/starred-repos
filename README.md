@@ -1273,6 +1273,9 @@
 
 ## Python 
 
+- [HuyHung1408/TimerX](https://github.com/HuyHung1408/TimerX) - A fluent Timer App, made completely in Python
+- [Futura-Py/FluxCalc](https://github.com/Futura-Py/FluxCalc) - A Python calculator with Fluent Design
+- [HuyHung1408/Mica-Run](https://github.com/HuyHung1408/Mica-Run) - Windows Run-but with Python and Mica
 - [tor2web/Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers
 - [kennyh7279/shortcut-generator-simple](https://github.com/kennyh7279/shortcut-generator-simple) - Small and simple application to generate .desktop files for use on linux desktop environments
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
