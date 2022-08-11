@@ -434,6 +434,7 @@
 
 ## C++ 
 
+- [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [krlvm/ContextMenuNormalizer](https://github.com/krlvm/ContextMenuNormalizer) - Normalize context menu highlight color in Windows 10 19H1+
@@ -839,6 +840,7 @@
 
 ## JavaScript 
 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [cslint/cslint](https://github.com/cslint/cslint) - code style lint
 - [leogx9r/DiscordCrypt](https://github.com/leogx9r/DiscordCrypt) - End-To-End File & Message Encryption For Discord
 - [mdbootstrap/perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin. Get more free components with Material Design for Bootstrap UI Kit (link below)
@@ -1054,6 +1056,7 @@
 
 ## Others 
 
+- [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [kmille36/scrcpy-audio-support](https://github.com/kmille36/scrcpy-audio-support) - Easy remote your Android device over wifi with scrcpy + audio support over vlc.
 - [TheTorProject/gettorbrowser](https://github.com/TheTorProject/gettorbrowser) - 
 - [notopsee/Microsoft-Segoe-UI-Emoji-SVG-Icons](https://github.com/notopsee/Microsoft-Segoe-UI-Emoji-SVG-Icons) - 3070 Vector based Emoji icons with the Windows 10 style in SVG & PNG
@@ -1531,7 +1534,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-490-Stars](https://github.com/iBug/This-Repo-Has-490-Stars) - Yes, it's true :heartpulse: This repository has 490 stars.
+- [iBug/This-Repo-Has-491-Stars](https://github.com/iBug/This-Repo-Has-491-Stars) - Yes, it's true :heart: This repository has 491 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1655,7 +1658,7 @@
 
 ## SVG 
 
-- [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners!
+- [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners (CSS & SMIL)!
 
 ## SWIG 
 
