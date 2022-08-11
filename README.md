@@ -373,6 +373,7 @@
 
 ## C# # 
 
+- [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
 - [ALIILAPRO/warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 - [koush/UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver) - One size fits all Windows Drivers for Android Debug Bridge.
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
@@ -1051,6 +1052,7 @@
 
 ## Others 
 
+- [kmille36/scrcpy-audio-support](https://github.com/kmille36/scrcpy-audio-support) - Easy remote your Android device over wifi with scrcpy + audio support over vlc.
 - [TheTorProject/gettorbrowser](https://github.com/TheTorProject/gettorbrowser) - 
 - [notopsee/Microsoft-Segoe-UI-Emoji-SVG-Icons](https://github.com/notopsee/Microsoft-Segoe-UI-Emoji-SVG-Icons) - 3070 Vector based Emoji icons with the Windows 10 style in SVG & PNG
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
