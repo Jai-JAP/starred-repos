@@ -89,6 +89,7 @@
 
 ## C 
 
+- [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
 - [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [edk2-porting/edk2-rk3399](https://github.com/edk2-porting/edk2-rk3399) - Highly experimental port of edk2 for rk3399
@@ -433,6 +434,7 @@
 
 ## C++ 
 
+- [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [krlvm/ContextMenuNormalizer](https://github.com/krlvm/ContextMenuNormalizer) - Normalize context menu highlight color in Windows 10 19H1+
 - [Bigjango13/MCPI-Addons](https://github.com/Bigjango13/MCPI-Addons) - Addons to the MCPI api.
@@ -960,7 +962,7 @@
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-- [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible communication platform
+- [fosscord/fosscord](https://github.com/fosscord/fosscord) - 📬 Fosscord is a free open source selfhostable discord compatible communication platform
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [EbookFoundation/free-programming-books-search](https://github.com/EbookFoundation/free-programming-books-search) - 
@@ -1968,6 +1970,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
@@ -2068,7 +2071,6 @@
 
 ## Vue 
 
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store) - A Cross-Platform App Store for Electron.js Apps
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [ek0t0v/minecraft-launcher](https://github.com/ek0t0v/minecraft-launcher) - Launcher for Minecraft written in Electron and Node.js
