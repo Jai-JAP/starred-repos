@@ -1056,6 +1056,7 @@
 
 ## Others 
 
+- [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - 
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [kmille36/scrcpy-audio-support](https://github.com/kmille36/scrcpy-audio-support) - Easy remote your Android device over wifi with scrcpy + audio support over vlc.
 - [TheTorProject/gettorbrowser](https://github.com/TheTorProject/gettorbrowser) - 
