@@ -1130,7 +1130,6 @@
 - [ryanfortner/WinXP](https://github.com/ryanfortner/WinXP) - 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [zdotsh/z.sh](https://github.com/zdotsh/z.sh) - https://z.sh/
-- [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [cycool29/gwallc](https://github.com/cycool29/gwallc) - GUI Wallpaper Changer for Linux. (WIP)
 - [saiarcot895/chromium-ubuntu-build](https://github.com/saiarcot895/chromium-ubuntu-build) - Packaging files for building Chromium on Ubuntu
