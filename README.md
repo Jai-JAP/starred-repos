@@ -6,6 +6,7 @@
 ## Contents
 
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [AutoIt](#autoit)
 - [Batchfile](#batchfile)
@@ -65,6 +66,10 @@
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [hermanhermitage/videocoreiv-qpu](https://github.com/hermanhermitage/videocoreiv-qpu) - Fun and Games with the Videocoreiv Quad Processor Units
 - [akatrevorjay/edid-generator](https://github.com/akatrevorjay/edid-generator) - Hackerswork to generate an EDID blob from given Xorg Modelines, complete with valid checksum.
+
+## Astro 
+
+- [Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng](https://github.com/Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng) - Lengthen your URLs: lo(x62).ng
 
 ## AutoHotkey 
 
@@ -1264,6 +1269,7 @@
 
 ## PowerShell 
 
+- [actions/python-versions](https://github.com/actions/python-versions) - Python builds for Actions Virtual Environments
 - [codaamok/PSShlink](https://github.com/codaamok/PSShlink) - An unofficial PowerShell module for Shlink (https://shlink.io), an open-source self-hosted and PHP-based URL shortener application
 - [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell
 - [huben1337/winpfp](https://github.com/huben1337/winpfp) - Custom Windows 10 account picture
@@ -1281,6 +1287,7 @@
 
 ## Python 
 
+- [Kicksecure/sdwdate](https://github.com/Kicksecure/sdwdate) - Secure Distributed Web Date; privacy, anonymity and Tor friendly; console time fetcher and daemon; optional graphical user interface etc. Website: https://www.kicksecure.com/wiki/sdwdate
 - [HuyHung1408/TimerX](https://github.com/HuyHung1408/TimerX) - A fluent Timer App, made completely in Python
 - [Futura-Py/FluxCalc](https://github.com/Futura-Py/FluxCalc) - A Python calculator with Fluent Design
 - [HuyHung1408/Mica-Run](https://github.com/HuyHung1408/Mica-Run) - Windows Run-but with Python and Mica
@@ -1672,6 +1679,10 @@
 
 ## Shell 
 
+- [Kicksecure/apparmor-profile-everything](https://github.com/Kicksecure/apparmor-profile-everything) - AppArmor for everything. APT, systemd, init, all systemd units, all applications. Mandatory Access Control. Security Hardening.
+- [Kicksecure/security-misc](https://github.com/Kicksecure/security-misc) - Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.kicksecure.co
+- [Kicksecure/open-link-confirmation](https://github.com/Kicksecure/open-link-confirmation) - Asks for confirmation before opening links - For better security. - Asks before a link is (accidentally) opened in a browser to avoid linking activities.
+- [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🖼️ 🏳️‍⚧️  Neofetch with LGBTQ pride flags!
 - [KaOS-Community-Packages/soulseekqt](https://github.com/KaOS-Community-Packages/soulseekqt) - A desktop client for the Soulseek peer-to-peer file sharing network
 - [tkreind/docker-gui-novnc](https://github.com/tkreind/docker-gui-novnc) - An extremely easy to use docker image to run any Linux GUI application on any host through docker and your browser.
 - [flexiondotorg/slim-aios](https://github.com/flexiondotorg/slim-aios) - Optimised OS for the Raspberry Pi for creating and running containers 🐋
