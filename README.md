@@ -1008,6 +1008,7 @@
 
 ## Kotlin 
 
+- [GetStream/whatsApp-clone-compose](https://github.com/GetStream/whatsApp-clone-compose) - 📱 WhatsApp clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat SDK for Compose.
 - [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
 - [gujjwal00/avnc](https://github.com/gujjwal00/avnc) - VNC Client for Android
 - [lcarsde/lcarswm](https://github.com/lcarsde/lcarswm) - lcarswm (LCARS Window Manager) is a window manager that is supposed to look like an LCARS interface. It's written in Kotlin and utilizing XLib.
