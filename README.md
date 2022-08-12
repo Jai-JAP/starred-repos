@@ -486,7 +486,7 @@
 - [krlvm/AccentColorizer](https://github.com/krlvm/AccentColorizer) - Colorize Windows with accent color of your choice without modifying system files
 - [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver) - Winver with mica for Rectify11
 - [benbuck/rbtray](https://github.com/benbuck/rbtray) - A fork of RBTray from http://sourceforge.net/p/rbtray/code/.
-- [Jax-Core/YourFlyouts](https://github.com/Jax-Core/YourFlyouts) - Windows Audio / Volume flyouts replacement
+- [Jax-Core/YourFlyouts](https://github.com/Jax-Core/YourFlyouts) - Fully customizable, multi-designed flyouts replacement for Windows
 - [ChrisAnd1998/TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) - An application written in C++ to modify the Windows 11 Taskbar.
 - [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
 - [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - 
@@ -1616,7 +1616,7 @@
 - [FauxFaux/apt-pkg-native-rs](https://github.com/FauxFaux/apt-pkg-native-rs) - Rust bindings for libapt-pkg
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [dmerejkowsky/rusync](https://github.com/dmerejkowsky/rusync) - Minimalist rsync implementation in Rust
+- [your-tools/rusync](https://github.com/your-tools/rusync) - Minimalist rsync implementation in Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [rust-lang/rustc_codegen_gcc](https://github.com/rust-lang/rustc_codegen_gcc) - libgccjit AOT codegen for rustc
