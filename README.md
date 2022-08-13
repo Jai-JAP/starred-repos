@@ -811,6 +811,7 @@
 
 ## Java 
 
+- [farmerbb/Taskbar](https://github.com/farmerbb/Taskbar) - PC-style productivity for Android
 - [penfeizhou/APNG4Android](https://github.com/penfeizhou/APNG4Android) - Android animation support for APNG & Animated WebP & Gif,High performance
 - [francescotescari/XiaoMiToolV2](https://github.com/francescotescari/XiaoMiToolV2) - XiaomiTool V2 - Modding tool for xiaomi devices
 - [rom1v/sndcpy](https://github.com/rom1v/sndcpy) - Android audio forwarding (scrcpy, but for audio)
@@ -846,6 +847,7 @@
 
 ## JavaScript 
 
+- [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [cslint/cslint](https://github.com/cslint/cslint) - code style lint
 - [leogx9r/DiscordCrypt](https://github.com/leogx9r/DiscordCrypt) - End-To-End File & Message Encryption For Discord
