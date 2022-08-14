@@ -180,7 +180,7 @@
 - [intel/media-driver](https://github.com/intel/media-driver) - 
 - [inikep/lizard](https://github.com/inikep/lizard) - Lizard (formerly LZ5) is an efficient compressor with very fast decompression. It achieves compression ratio that is comparable to zip/zlib and zstd/brotli (at low and medium compression levels) at de
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
-- [vilhalmer/oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors (WIP: https://github.com/vilhalmer/oguri/milestone/1)
+- [vilhalmer/oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors
 - [pygame/pygame](https://github.com/pygame/pygame) - pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 - [ProgerXP/SaneC](https://github.com/ProgerXP/SaneC) - A Library That Makes Programming in C Sane
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
@@ -1067,6 +1067,7 @@
 
 ## Others 
 
+- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC (supports most Intel CPU/GPU or AMD Ryzen / Stoney Ridge)
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - 
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [kmille36/scrcpy-audio-support](https://github.com/kmille36/scrcpy-audio-support) - Easy remote your Android device over wifi with scrcpy + audio support over vlc.
@@ -1573,6 +1574,7 @@
 
 ## Ruby 
 
+- [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) - Package manager for Chrome OS
 - [philnash/bitly](https://github.com/philnash/bitly) - A Ruby wrapper for the bit.ly API
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) - RetroArch joypad autoconfig files
 - [knazarov/homebrew-qemu-virgl](https://github.com/knazarov/homebrew-qemu-virgl) - A homebrew tap for qemu with support for 3d accelerated guests
