@@ -756,6 +756,7 @@
 
 ## HTML 
 
+- [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [Maxhu787/scripts](https://github.com/Maxhu787/scripts) - Random scripts combined into one repo
 - [is-a-good-dev/register](https://github.com/is-a-good-dev/register) - Register for your *is-a-good-dev* domain!
 - [arm-university/Embedded-Linux-Education-Kit](https://github.com/arm-university/Embedded-Linux-Education-Kit) - Embedded Linux Education Kit
@@ -1300,6 +1301,7 @@
 
 ## Python 
 
+- [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [Azure/WALinuxAgent](https://github.com/Azure/WALinuxAgent) - Microsoft Azure Linux Guest Agent
 - [Kicksecure/sdwdate](https://github.com/Kicksecure/sdwdate) - Secure Distributed Web Date; privacy, anonymity and Tor friendly; console time fetcher and daemon; optional graphical user interface etc. Website: https://www.kicksecure.com/wiki/sdwdate
 - [HuyHung1408/TimerX](https://github.com/HuyHung1408/TimerX) - A fluent Timer App, made completely in Python
@@ -1593,6 +1595,17 @@
 
 ## Rust 
 
+- [couchbaselabs/couchbase-shell](https://github.com/couchbaselabs/couchbase-shell) - Shell yeah!
+- [polyverse/rmesg](https://github.com/polyverse/rmesg) - A 'dmesg' implementation in Rust
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
+- [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
+- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [olix3001/Arclight](https://github.com/olix3001/Arclight) - Simple programming language
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
