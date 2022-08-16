@@ -382,6 +382,7 @@
 
 ## C# # 
 
+- [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Hofknecht/SystemTrayMenu](https://github.com/Hofknecht/SystemTrayMenu) - SystemTrayMenu - Browse and open your files easily
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
 - [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
@@ -1076,6 +1077,7 @@
 
 ## Others 
 
+- [MCPI-Revival/minecraft-pe-reborn](https://github.com/MCPI-Revival/minecraft-pe-reborn) - Minecraft Pocket Edition 0.6.1 in linux
 - [ninjaaron/replacing-bash-scripting-with-python](https://github.com/ninjaaron/replacing-bash-scripting-with-python) - Guide on using using python for administrative scripting
 - [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC (supports most Intel CPU/GPU or AMD Ryzen / Stoney Ridge)
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - 
