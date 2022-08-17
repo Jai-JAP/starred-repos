@@ -445,6 +445,7 @@
 
 ## C++ 
 
+- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [google/angle](https://github.com/google/angle) - A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
 - [M2Team/NanaGet](https://github.com/M2Team/NanaGet) - Lightweight file transfer utility based on aria2 and XAML Islands
 - [ViGEm/ViGEmBus](https://github.com/ViGEm/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
