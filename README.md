@@ -84,6 +84,7 @@
 
 ## Batchfile 
 
+- [myfreeer/7z-build-nsis](https://github.com/myfreeer/7z-build-nsis) - 7-zip build and package script with nsis script decompiling using ms visual studio
 - [MoneroOcean/xmrig_setup](https://github.com/MoneroOcean/xmrig_setup) - Auto setup scripts and pre-compiled xmr miner for moneroocean.stream pool
 - [HackerajOfficial/Activator](https://github.com/HackerajOfficial/Activator) - Activator is collection of Windows tools Activator.
 - [WSA-Community/WSAPackagingTool](https://github.com/WSA-Community/WSAPackagingTool) - Allows you to modify WSA's Msixbundle and redistribute it.
@@ -445,6 +446,9 @@
 
 ## C++ 
 
+- [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight out-of-box-experience oriented Hyper-V client based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands.
+- [M2Team/NSudo](https://github.com/M2Team/NSudo) - Series of System Administration Tools
+- [M2Team/Privexec](https://github.com/M2Team/Privexec) - Run the program with the specified permission level (C++20 required)
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [google/angle](https://github.com/google/angle) - A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
 - [M2Team/NanaGet](https://github.com/M2Team/NanaGet) - Lightweight file transfer utility based on aria2 and XAML Islands
