@@ -446,6 +446,7 @@
 
 ## C++ 
 
+- [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror) - This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.
 - [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight out-of-box-experience oriented Hyper-V client based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands.
 - [M2Team/NSudo](https://github.com/M2Team/NSudo) - Series of System Administration Tools
 - [M2Team/Privexec](https://github.com/M2Team/Privexec) - Run the program with the specified permission level (C++20 required)
