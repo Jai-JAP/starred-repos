@@ -972,7 +972,7 @@
 - [canucklegame/canuckle](https://github.com/canucklegame/canuckle) - Canuckle - A daily Canadian word game.
 - [k0mmsussert0d/wordlesolver](https://github.com/k0mmsussert0d/wordlesolver) - CLI tool for solving wordle riddles
 - [mozilla/qbrt](https://github.com/mozilla/qbrt) - CLI to a Gecko desktop app runtime
-- [LAX1DUDE/eaglercraft](https://github.com/LAX1DUDE/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it throu
+- [lax1dude/eaglercraft](https://github.com/lax1dude/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it throu
 - [retspen/webvirtmgr](https://github.com/retspen/webvirtmgr) - WebVirtMgr panel for manage virtual machine
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
