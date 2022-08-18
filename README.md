@@ -719,6 +719,8 @@
 
 ## Go 
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡
+- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [zyedidia/crypt](https://github.com/zyedidia/crypt) - A tool for making password-protected files
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -1086,6 +1088,7 @@
 
 ## Others 
 
+- [jeffmakes/pi-data-recovery](https://github.com/jeffmakes/pi-data-recovery) - Recovering data from a bricked Raspberry Pi CM4. Same method would work on other Pis / SBC's
 - [MCPI-Revival/minecraft-pe-reborn](https://github.com/MCPI-Revival/minecraft-pe-reborn) - Minecraft Pocket Edition 0.6.1 in linux
 - [ninjaaron/replacing-bash-scripting-with-python](https://github.com/ninjaaron/replacing-bash-scripting-with-python) - Guide on using using python for administrative scripting
 - [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC (supports most Intel CPU/GPU or AMD Ryzen / Stoney Ridge)
