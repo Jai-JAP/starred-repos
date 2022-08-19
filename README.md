@@ -96,6 +96,7 @@
 
 ## C 
 
+- [Itai-Nelken/configuration_parser](https://github.com/Itai-Nelken/configuration_parser) - A configuration parser that parses a subset of TOML.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [CollinChaffin/MPC-BE](https://github.com/CollinChaffin/MPC-BE) - 
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
@@ -1614,6 +1615,7 @@
 
 ## Rust 
 
+- [brxken128/dexios](https://github.com/brxken128/dexios) - A secure file encryption utility, written in Rust.
 - [couchbaselabs/couchbase-shell](https://github.com/couchbaselabs/couchbase-shell) - Shell yeah!
 - [polyverse/rmesg](https://github.com/polyverse/rmesg) - A 'dmesg' implementation in Rust
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
