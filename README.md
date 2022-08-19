@@ -176,7 +176,6 @@
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
-- [amarioguy/m1n1_windows](https://github.com/amarioguy/m1n1_windows) - m1n1, but adapted to run windows (aka with a GIC emulator)
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
@@ -1383,6 +1382,7 @@
 - [blender/blender-addons](https://github.com/blender/blender-addons) - This is an official read-only mirror.
 - [Crilum/pyqt5-weather-app](https://github.com/Crilum/pyqt5-weather-app) - A simple weather app written in PyQt5
 - [pygame-web/pygbag](https://github.com/pygame-web/pygbag) - PyGame wasm for everyone ( packager + test server )
+- [amarioguy/m1n1_windows](https://github.com/amarioguy/m1n1_windows) - m1n1, but adapted to run windows (aka with a GIC emulator)
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [pittcsc/Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) - Collection of Summer 2023 tech internships!
