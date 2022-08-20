@@ -870,6 +870,7 @@
 
 ## JavaScript 
 
+- [simple-icons/simple-icons-font](https://github.com/simple-icons/simple-icons-font) - SVG icon font for popular brands
 - [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
