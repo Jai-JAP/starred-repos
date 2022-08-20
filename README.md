@@ -96,6 +96,7 @@
 
 ## C 
 
+- [White-Tiger/T-Clock](https://github.com/White-Tiger/T-Clock) - Highly configurable Windows taskbar clock
 - [Itai-Nelken/configuration_parser](https://github.com/Itai-Nelken/configuration_parser) - A configuration parser that parses a subset of TOML.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [CollinChaffin/MPC-BE](https://github.com/CollinChaffin/MPC-BE) - 
