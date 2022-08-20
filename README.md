@@ -1363,7 +1363,7 @@
 - [pacstall/libpacstall](https://github.com/pacstall/libpacstall) - Backend API library for Pacstall
 - [makedeb/prebuilt-mpr](https://github.com/makedeb/prebuilt-mpr) - APT repository for prebuilt MPR packages
 - [Griphitor/Griph-pad](https://github.com/Griphitor/Griph-pad) - Griph-Pad is a simple text editor by @Advik-B
-- [leha-code/Claculator](https://github.com/leha-code/Claculator) - The very calculator
+- [cdtso/Claculator](https://github.com/cdtso/Claculator) - The very calculator
 - [xboxone08/making_mcpi_real](https://github.com/xboxone08/making_mcpi_real) - This plugin for Minecraft: Pi edition aims to "update" it to be more like newer versions of Minecraft Bedrock Edition
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
 - [ilstam/FF-Multi-Converter](https://github.com/ilstam/FF-Multi-Converter) - GUI File Format Converter
@@ -1412,7 +1412,7 @@
 - [HashLDash/Photon](https://github.com/HashLDash/Photon) - Lightning fast and portable programming language!
 - [wi99/mcpi_scripts](https://github.com/wi99/mcpi_scripts) - 
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
-- [leha-code/FallBlock](https://github.com/leha-code/FallBlock) - A game for Minecraft Pi! Can you escape the falling blocks?
+- [cdtso/FallBlock](https://github.com/cdtso/FallBlock) - A game for Minecraft Pi! Can you escape the falling blocks?
 - [eylles/pywal16](https://github.com/eylles/pywal16) - 16 colors fork of pywal
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
