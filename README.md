@@ -1518,7 +1518,7 @@
 - [kraibse/minecraft-art-generator](https://github.com/kraibse/minecraft-art-generator) - 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [TheBananaStore/BananaLord](https://github.com/TheBananaStore/BananaLord) - Discord.py bot for the Banana App Store server.
-- [mcpiscript/Planet](https://github.com/mcpiscript/Planet) - 🌍🍓 A better MCPi Launcher
+- [cdtso/Planet](https://github.com/cdtso/Planet) - 🌍🍓 A better MCPi Launcher
 - [qutip/qutip](https://github.com/qutip/qutip) - QuTiP: Quantum Toolbox in Python
 - [cycool29/pi-apps-gui](https://github.com/cycool29/pi-apps-gui) - A Python version of Pi-Apps GUI built with PySimpleGUI, with some unique features.
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
