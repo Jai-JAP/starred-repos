@@ -55,7 +55,7 @@
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vala](#vala)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 
@@ -454,6 +454,7 @@
 
 ## C++ 
 
+- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [krlvm/AcrylicMenus](https://github.com/krlvm/AcrylicMenus) - Acrylic effect for all existing Win32 context menus
 - [krlvm/ClassicSearch](https://github.com/krlvm/ClassicSearch) - Restore classic File Explorer search and shrink address bar on Windows 10 19H2+
 - [timsneath/notepad2](https://github.com/timsneath/notepad2) - Updated version of Florian Balmer's free Notepad2 replacement.
@@ -1336,6 +1337,7 @@
 
 ## Python 
 
+- [dennisbyington/wordle_gui](https://github.com/dennisbyington/wordle_gui) - GUI implementation of the Wordle game
 - [witalihirsch/qBitTorrent-fluent-theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) - Fluent theme for qBitTorrent
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [Azure/WALinuxAgent](https://github.com/Azure/WALinuxAgent) - Microsoft Azure Linux Guest Agent
@@ -1365,7 +1367,7 @@
 - [Askaniy/fits2png](https://github.com/Askaniy/fits2png) - A small GUI program for converting space images
 - [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
 - [Sven-Bo/advanced-gui-with-usersettings-and-menubar](https://github.com/Sven-Bo/advanced-gui-with-usersettings-and-menubar) - PySimpleGUI application with menu bar & settings (.ini) file to load/save user settings
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [0k/shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Opensource macOS Cursors.
 - [ptysko/nixver](https://github.com/ptysko/nixver) - Basically winver ripoff
@@ -2142,7 +2144,7 @@
 - [libredeb/slingscold](https://github.com/libredeb/slingscold) - Lightweight application launcher similar to Launchpad in macOS X
 - [phoenixbyrd/ThemeTwister](https://github.com/phoenixbyrd/ThemeTwister) - Buy me a Coffee https://www.paypal.me/krishenriksendk
 
-## Vim script 
+## Vim Script 
 
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
