@@ -1230,7 +1230,7 @@
 - [raspbian-addons/.github](https://github.com/raspbian-addons/.github) - 
 - [flathub/io.freetubeapp.FreeTube](https://github.com/flathub/io.freetubeapp.FreeTube) - 
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
-- [theofficialgman/lwjgl3-binaries-arm64](https://github.com/theofficialgman/lwjgl3-binaries-arm64) - Linux ARM64 LWJGL2/3 Backports Binaries
+- [theofficialgman/lwjgl3-binaries-arm64](https://github.com/theofficialgman/lwjgl3-binaries-arm64) - Linux ARM64 LWJGL2/3 Backports Binaries. Refer to https://github.com/theofficialgman/lwjgl3 https://github.com/theofficialgman/lwjgl for the source
 - [theofficialgman/lwjgl3-binaries-arm32](https://github.com/theofficialgman/lwjgl3-binaries-arm32) - Linux ARM32 LWJGL2/3 Backports Binaries
 - [theofficialgman/meta-multimc](https://github.com/theofficialgman/meta-multimc) - Auto Updating (cross-fingers) for MultiMC Minecraft package metadata for ARM64 and ARMhf Linux. Use the master-clean branch for ARM64 and master-clean-arm32 for ARMhf. A full project description and R
 - [procount/pinn-doc](https://github.com/procount/pinn-doc) - User Manual and other documentation for PINN
