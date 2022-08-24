@@ -1107,6 +1107,7 @@
 
 ## Others 
 
+- [marchmountain/-Windows-XP-High-Resolution-Icon-Pack](https://github.com/marchmountain/-Windows-XP-High-Resolution-Icon-Pack) - These are the source PSDs of my DeviantArt icon pack. The files themselves may be a little sloppy. Bad organization, silly layer names, etc. But they got the job done. It was suggested I release them 
 - [jeffmakes/pi-data-recovery](https://github.com/jeffmakes/pi-data-recovery) - Recovering data from a bricked Raspberry Pi CM4. Same method would work on other Pis / SBC's
 - [MCPI-Revival/minecraft-pe-reborn](https://github.com/MCPI-Revival/minecraft-pe-reborn) - Minecraft Pocket Edition 0.6.1 in linux
 - [ninjaaron/replacing-bash-scripting-with-python](https://github.com/ninjaaron/replacing-bash-scripting-with-python) - Guide on using using python for administrative scripting
