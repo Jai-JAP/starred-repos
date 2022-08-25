@@ -191,7 +191,7 @@
 - [inikep/lizard](https://github.com/inikep/lizard) - Lizard (formerly LZ5) is an efficient compressor with very fast decompression. It achieves compression ratio that is comparable to zip/zlib and zstd/brotli (at low and medium compression levels) at de
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [vilhalmer/oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors
-- [pygame/pygame](https://github.com/pygame/pygame) - pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
+- [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [ProgerXP/SaneC](https://github.com/ProgerXP/SaneC) - A Library That Makes Programming in C Sane
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [geerlingguy/linux](https://github.com/geerlingguy/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum
@@ -390,6 +390,7 @@
 
 ## C# # 
 
+- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [krlvm/MediaFlyout](https://github.com/krlvm/MediaFlyout) - Windows 10+ Media Control Taskbar Flyout
 - [krlvm/BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker
 - [chenjing1294/TinyGUI](https://github.com/chenjing1294/TinyGUI) - TinyGUI is a visual implementation of TinyPNG that helps you quickly compress images.
@@ -457,6 +458,7 @@
 
 ## C++ 
 
+- [decaf-emu/decaf-emu](https://github.com/decaf-emu/decaf-emu) - Researching Wii U emulation.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [krlvm/AcrylicMenus](https://github.com/krlvm/AcrylicMenus) - Acrylic effect for all existing Win32 context menus
 - [krlvm/ClassicSearch](https://github.com/krlvm/ClassicSearch) - Restore classic File Explorer search and shrink address bar on Windows 10 19H2+
