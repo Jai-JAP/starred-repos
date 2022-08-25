@@ -372,6 +372,7 @@
 - [TheMindVirus/pftf-rpi4](https://github.com/TheMindVirus/pftf-rpi4) - Customised fork of github.com/pftf/rpi4 with experimental dual monitor support
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
+- [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application. Still in early development.
@@ -654,7 +655,6 @@
 - [TheMindVirus/roscos](https://github.com/TheMindVirus/roscos) - Visual Studio 2019 Compiled Source Directories of Windows Render/Compute-Only-Sample Drivers (ROS/COS)
 - [AntiMicro/antimicro](https://github.com/AntiMicro/antimicro) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
 - [TheMindVirus/v3dqpu](https://github.com/TheMindVirus/v3dqpu) - Graphics Infrastructure Development of Full-Display-And-Render-Driver for Raspberry Pi 4 running Windows 10
-- [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [td512/re3](https://github.com/td512/re3) - GTA III, Vice City
 
