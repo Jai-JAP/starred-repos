@@ -97,6 +97,7 @@
 
 ## C 
 
+- [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [dorimanx/exfat-nofuse](https://github.com/dorimanx/exfat-nofuse) - Android ARM Linux non-fuse read/write kernel driver for exFat and VFat Android file systems
 - [onetrueawk/awk](https://github.com/onetrueawk/awk) - One true awk
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -390,6 +391,7 @@
 
 ## C# # 
 
+- [gus33000/UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [krlvm/MediaFlyout](https://github.com/krlvm/MediaFlyout) - Windows 10+ Media Control Taskbar Flyout
 - [krlvm/BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker
@@ -443,7 +445,6 @@
 - [dotnet/msbuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [WOA-Project/WOA-Deployer-Rpi](https://github.com/WOA-Project/WOA-Deployer-Rpi) - WOA Deployer for Raspberry Pi
-- [gus33000/UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
 - [opentk/opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you ever
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
@@ -791,6 +792,7 @@
 
 ## HTML 
 
+- [namdevel/jsid.dev](https://github.com/namdevel/jsid.dev) - A free subdomain for developers.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [Maxhu787/scripts](https://github.com/Maxhu787/scripts) - Random scripts combined into one repo
 - [is-a-good-dev/register](https://github.com/is-a-good-dev/register) - Register for your *is-a-good-dev* domain!
