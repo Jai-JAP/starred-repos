@@ -458,6 +458,7 @@
 
 ## C++ 
 
+- [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [decaf-emu/decaf-emu](https://github.com/decaf-emu/decaf-emu) - Researching Wii U emulation.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [krlvm/AcrylicMenus](https://github.com/krlvm/AcrylicMenus) - Acrylic effect for all existing Win32 context menus
