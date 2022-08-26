@@ -886,7 +886,7 @@
 - [Grima04/Win32droid](https://github.com/Grima04/Win32droid) - Experimental software based on the Wine and box86 projects to emulate Windows x86 32-Bit applications on rooted Android devices
 - [AllPlatform/Box86Launcher](https://github.com/AllPlatform/Box86Launcher) - 
 - [spocon/lovspotify](https://github.com/spocon/lovspotify) - Spotify GUI + Spotify Client for Raspberry PI , Ubuntu and Debian
-- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development
+- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development: https://openjdk.org/projects/jdk
 - [limboemu/limbo](https://github.com/limboemu/limbo) - Limbo is a QEMU-based emulator for Android. It currently supports x86, ARM, PowerPC, and Sparc emulation  for Intel x86 and ARM android devices. See wiki https://virtualmachinery.weebly.com for APK do
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
@@ -2031,7 +2031,7 @@
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [proprietary/chromium-widevine](https://github.com/proprietary/chromium-widevine) - How to install Widevine on Chromium on Linux; how to watch Netflix on Chromium Ubuntu or Debian
 - [dhruvvyas90/qemu-rpi-kernel](https://github.com/dhruvvyas90/qemu-rpi-kernel) - Qemu kernel for emulating Rpi on QEMU
-- [ryanfortner/rpi-zoom](https://github.com/ryanfortner/rpi-zoom) - Install Zoom on Arm with just one simple step. 32 and 64 bit.
+- [ryanfortner/rpi-zoom](https://github.com/ryanfortner/rpi-zoom) - Install Zoom on Arm with a simple script. 32 and 64 bit.
 - [phoenixbyrd/TwistUP-Lite](https://github.com/phoenixbyrd/TwistUP-Lite) - 
 - [phoenixbyrd/pibright-notification](https://github.com/phoenixbyrd/pibright-notification) - Notification Icon for pibright on Twister OS
 - [piware14/pi-ware](https://github.com/piware14/pi-ware) - Pi-Ware is an app store inspired by Botspots pi-apps for the Raspberry Pi that allows you to install apps that you generally can't get from the official repos and/or without an extra amount of work.
