@@ -89,7 +89,7 @@
 - [MoneroOcean/xmrig_setup](https://github.com/MoneroOcean/xmrig_setup) - Auto setup scripts and pre-compiled xmr miner for moneroocean.stream pool
 - [HackerajOfficial/Activator](https://github.com/HackerajOfficial/Activator) - Activator is collection of Windows tools Activator.
 - [WSA-Community/WSAPackagingTool](https://github.com/WSA-Community/WSAPackagingTool) - Allows you to modify WSA's Msixbundle and redistribute it.
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, fewer antivirus detections and user-friendliness.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
@@ -459,6 +459,7 @@
 
 ## C++ 
 
+- [SaschaWillems/glCapsViewer](https://github.com/SaschaWillems/glCapsViewer) - C++ port of the OpenGL hardware capability viewer
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [decaf-emu/decaf-emu](https://github.com/decaf-emu/decaf-emu) - Researching Wii U emulation.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
