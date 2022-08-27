@@ -391,6 +391,7 @@
 
 ## C# # 
 
+- [svenmauch/WinSlap](https://github.com/svenmauch/WinSlap) - Swiftly configure a fresh Windows 10 installation with useful tweaks and antispy settings.
 - [gus33000/UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [krlvm/MediaFlyout](https://github.com/krlvm/MediaFlyout) - Windows 10+ Media Control Taskbar Flyout
@@ -459,6 +460,9 @@
 
 ## C++ 
 
+- [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5
+- [linuxdeepin/deepin-font-manager](https://github.com/linuxdeepin/deepin-font-manager) - 
+- [hunar4321/life_code](https://github.com/hunar4321/life_code) - A simple program to simulate attraction/reuplsion forces between many particles
 - [SaschaWillems/glCapsViewer](https://github.com/SaschaWillems/glCapsViewer) - C++ port of the OpenGL hardware capability viewer
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [decaf-emu/decaf-emu](https://github.com/decaf-emu/decaf-emu) - Researching Wii U emulation.
@@ -2062,6 +2066,8 @@
 
 ## TypeScript 
 
+- [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
+- [tmigone/pulseaudio](https://github.com/tmigone/pulseaudio) - A TypeScript based client library for PulseAudio
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
