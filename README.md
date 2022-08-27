@@ -886,7 +886,7 @@
 - [Grima04/Win32droid](https://github.com/Grima04/Win32droid) - Experimental software based on the Wine and box86 projects to emulate Windows x86 32-Bit applications on rooted Android devices
 - [AllPlatform/Box86Launcher](https://github.com/AllPlatform/Box86Launcher) - 
 - [spocon/lovspotify](https://github.com/spocon/lovspotify) - Spotify GUI + Spotify Client for Raspberry PI , Ubuntu and Debian
-- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development: https://openjdk.org/projects/jdk
+- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
 - [limboemu/limbo](https://github.com/limboemu/limbo) - Limbo is a QEMU-based emulator for Android. It currently supports x86, ARM, PowerPC, and Sparc emulation  for Intel x86 and ARM android devices. See wiki https://virtualmachinery.weebly.com for APK do
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
@@ -1756,6 +1756,7 @@
 
 ## Shell 
 
+- [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [ROM-builders/mido-AospExtended-Apon77](https://github.com/ROM-builders/mido-AospExtended-Apon77) - 
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
