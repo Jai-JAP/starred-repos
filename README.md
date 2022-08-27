@@ -723,6 +723,7 @@
 
 ## Dart 
 
+- [Far-Se/tabame](https://github.com/Far-Se/tabame) - Tabame is an alternative to Windows Taskbar. It also contains great tools such as advanced Hotkeys, QuickRun, Trktivity and Wizardly.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - 
 - [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
