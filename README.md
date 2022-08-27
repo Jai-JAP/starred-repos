@@ -1121,7 +1121,7 @@
 - [jeffmakes/pi-data-recovery](https://github.com/jeffmakes/pi-data-recovery) - Recovering data from a bricked Raspberry Pi CM4. Same method would work on other Pis / SBC's
 - [MCPI-Revival/minecraft-pe-reborn](https://github.com/MCPI-Revival/minecraft-pe-reborn) - Minecraft Pocket Edition 0.6.1 in linux
 - [ninjaaron/replacing-bash-scripting-with-python](https://github.com/ninjaaron/replacing-bash-scripting-with-python) - Guide on using using python for administrative scripting
-- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC (supports most Intel CPU/GPU or AMD Ryzen / Stoney Ridge)
+- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 4th Gen (Haswell) or AMD Ryzen
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [kmille36/scrcpy-audio-support](https://github.com/kmille36/scrcpy-audio-support) - Easy remote your Android device over wifi with scrcpy + audio support over vlc.
