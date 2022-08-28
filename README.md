@@ -460,6 +460,7 @@
 
 ## C++ 
 
+- [rounk-ctrl/SecureUxHelper](https://github.com/rounk-ctrl/SecureUxHelper) - 
 - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5
 - [linuxdeepin/deepin-font-manager](https://github.com/linuxdeepin/deepin-font-manager) - 
 - [hunar4321/life_code](https://github.com/hunar4321/life_code) - A simple program to simulate attraction/reuplsion forces between many particles
@@ -1612,7 +1613,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-494-Stars](https://github.com/iBug/This-Repo-Has-494-Stars) - Yes, it's true :purple_heart: This repository has 494 stars.
+- [iBug/This-Repo-Has-495-Stars](https://github.com/iBug/This-Repo-Has-495-Stars) - Yes, it's true :gift_heart: This repository has 495 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
