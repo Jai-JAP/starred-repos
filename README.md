@@ -461,6 +461,7 @@
 
 ## C++ 
 
+- [aristocratos/btop4win](https://github.com/aristocratos/btop4win) - btop++ for windows
 - [GPUCode/citra](https://github.com/GPUCode/citra) - A Nintendo 3DS Emulator
 - [rounk-ctrl/SecureUxHelper](https://github.com/rounk-ctrl/SecureUxHelper) - 
 - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5
@@ -1354,6 +1355,7 @@
 
 ## Python 
 
+- [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [dennisbyington/wordle_gui](https://github.com/dennisbyington/wordle_gui) - GUI implementation of the Wordle game
 - [witalihirsch/qBitTorrent-fluent-theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) - Fluent theme for qBitTorrent
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
