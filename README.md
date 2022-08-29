@@ -461,6 +461,9 @@
 
 ## C++ 
 
+- [Jax-Core/JaxCore](https://github.com/Jax-Core/JaxCore) - A beautiful set of tools and widgets to spice up your desktop.
+- [Jax-Core/ValliStart](https://github.com/Jax-Core/ValliStart) - A start menu to replace the un-customizable one that you have right now.
+- [Jax-Core/YourMixer](https://github.com/Jax-Core/YourMixer) - Extremely customizable volume control for windows
 - [aristocratos/btop4win](https://github.com/aristocratos/btop4win) - btop++ for windows
 - [GPUCode/citra](https://github.com/GPUCode/citra) - A Nintendo 3DS Emulator
 - [rounk-ctrl/SecureUxHelper](https://github.com/rounk-ctrl/SecureUxHelper) - 
