@@ -460,6 +460,7 @@
 
 ## C++ 
 
+- [GPUCode/citra](https://github.com/GPUCode/citra) - A Nintendo 3DS Emulator
 - [rounk-ctrl/SecureUxHelper](https://github.com/rounk-ctrl/SecureUxHelper) - 
 - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5
 - [linuxdeepin/deepin-font-manager](https://github.com/linuxdeepin/deepin-font-manager) - 
