@@ -392,6 +392,9 @@
 
 ## C# # 
 
+- [BigFloppa404/To-Do_App](https://github.com/BigFloppa404/To-Do_App) - A UWP app designed with WinUI 2.x controls, the To-Do app stores and displays your tasks and supports beautiful color themes.
+- [FireCubeStudios/flowpad](https://github.com/FireCubeStudios/flowpad) - source code of drawing app. not accepting contributions just storing it on GitHub.
+- [FireCubeStudios/Fluentpad](https://github.com/FireCubeStudios/Fluentpad) - fluent uwp text editor for rich text, plaintext and markdown
 - [svenmauch/WinSlap](https://github.com/svenmauch/WinSlap) - Swiftly configure a fresh Windows 10 installation with useful tweaks and antispy settings.
 - [gus33000/UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
@@ -461,6 +464,7 @@
 
 ## C++ 
 
+- [FireCubeStudios/Regedit-Flunt](https://github.com/FireCubeStudios/Regedit-Flunt) - Regedit but with Mica, GlowUI, Search, Tabs, History, Editing and more
 - [Jax-Core/JaxCore](https://github.com/Jax-Core/JaxCore) - A beautiful set of tools and widgets to spice up your desktop.
 - [Jax-Core/ValliStart](https://github.com/Jax-Core/ValliStart) - A start menu to replace the un-customizable one that you have right now.
 - [Jax-Core/YourMixer](https://github.com/Jax-Core/YourMixer) - Extremely customizable volume control for windows
@@ -805,6 +809,7 @@
 
 ## HTML 
 
+- [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
 - [namdevel/jsid.dev](https://github.com/namdevel/jsid.dev) - A free subdomain for developers.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [Maxhu787/scripts](https://github.com/Maxhu787/scripts) - Random scripts combined into one repo
@@ -906,6 +911,7 @@
 
 ## JavaScript 
 
+- [Ceiridge/SimpleDiscordCrypt-Extended](https://github.com/Ceiridge/SimpleDiscordCrypt-Extended) - Extended Discord message end-to-end encryption plugin, supporting auto key exchange and encrypted file transfers
 - [zombieFox/hexagonTab](https://github.com/zombieFox/hexagonTab) - Hexagon bookmarks accented with a chosen colour. Customise the layout, style, background and bookmarks with hexagonTab.
 - [koraycoding/password-generator](https://github.com/koraycoding/password-generator) - Use this tool to instantly create secure and random passwords
 - [simple-icons/simple-icons-font](https://github.com/simple-icons/simple-icons-font) - SVG icon font for popular brands
@@ -1748,6 +1754,8 @@
 
 ## SCSS 
 
+- [Tropix126/wincss](https://github.com/Tropix126/wincss) - A SASS framework which emulates the styles of Fluent Design applications as seen in WinUI 2.4.
+- [FireCubeStudios/wincss](https://github.com/FireCubeStudios/wincss) - A SASS framework which emulates the styles of Fluent Design applications as seen in WinUI 2.4.
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [DiscordStyles/Fluent](https://github.com/DiscordStyles/Fluent) - Brings the look of Windows 11 to Discord.
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for Gnome desktops
