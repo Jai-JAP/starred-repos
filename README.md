@@ -99,6 +99,7 @@
 
 - [ToshioCP/Gtk4-tutorial](https://github.com/ToshioCP/Gtk4-tutorial) - A gtk4 tutorial for beginners
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
+- [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [dorimanx/exfat-nofuse](https://github.com/dorimanx/exfat-nofuse) - Android ARM Linux non-fuse read/write kernel driver for exFat and VFat Android file systems
 - [onetrueawk/awk](https://github.com/onetrueawk/awk) - One true awk
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -477,7 +478,6 @@
 - [linuxdeepin/deepin-font-manager](https://github.com/linuxdeepin/deepin-font-manager) - 
 - [hunar4321/life_code](https://github.com/hunar4321/life_code) - A simple program to simulate attraction/reuplsion forces between many particles
 - [SaschaWillems/glCapsViewer](https://github.com/SaschaWillems/glCapsViewer) - C++ port of the OpenGL hardware capability viewer
-- [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [decaf-emu/decaf-emu](https://github.com/decaf-emu/decaf-emu) - Researching Wii U emulation.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [krlvm/AcrylicMenus](https://github.com/krlvm/AcrylicMenus) - Acrylic effect for all existing Win32 context menus
