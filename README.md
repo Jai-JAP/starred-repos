@@ -695,7 +695,6 @@
 - [StylishThemes/StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [purogamer/Fluent-for-Steam](https://github.com/purogamer/Fluent-for-Steam) - Fluent for Steam. A simple skin for steam to make it look like windows 11.
-- [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - Colloid gtk theme for linux
 - [discord-modifications/dark-discord](https://github.com/discord-modifications/dark-discord) - An actual dark mode for discord.
 - [Elbullazul/Chicago95](https://github.com/Elbullazul/Chicago95) - 
 - [B00merang-Project/Windows-XP](https://github.com/B00merang-Project/Windows-XP) - Windows XP themes
@@ -1763,6 +1762,7 @@
 - [FireCubeStudios/wincss](https://github.com/FireCubeStudios/wincss) - A SASS framework which emulates the styles of Fluent Design applications as seen in WinUI 2.4.
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [DiscordStyles/Fluent](https://github.com/DiscordStyles/Fluent) - Brings the look of Windows 11 to Discord.
+- [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - Colloid gtk theme for linux
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for Gnome desktops
 - [Mojang/web-theme-bootstrap](https://github.com/Mojang/web-theme-bootstrap) - Contains the theme used on minecraft.net based on Boostrap 4
 - [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6) - Highly customizable theme for BetterDiscord.
