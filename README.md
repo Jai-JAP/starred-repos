@@ -464,6 +464,7 @@
 
 ## C++ 
 
+- [Joshua-Ashton/VPhysics-Jolt](https://github.com/Joshua-Ashton/VPhysics-Jolt) - Volt (VPhysics Jolt) is a replacement physics module for the Source Engine.
 - [FireCubeStudios/Regedit-Flunt](https://github.com/FireCubeStudios/Regedit-Flunt) - Regedit but with Mica, GlowUI, Search, Tabs, History, Editing and more
 - [Jax-Core/JaxCore](https://github.com/Jax-Core/JaxCore) - A beautiful set of tools and widgets to spice up your desktop.
 - [Jax-Core/ValliStart](https://github.com/Jax-Core/ValliStart) - A start menu to replace the un-customizable one that you have right now.
@@ -1079,6 +1080,7 @@
 
 ## Kotlin 
 
+- [tmo1/sms-ie](https://github.com/tmo1/sms-ie) - SMS Import / Export is a simple Android app that imports and exports SMS and MMS messages, call logs, and contacts from and to JSON files.
 - [GetStream/whatsApp-clone-compose](https://github.com/GetStream/whatsApp-clone-compose) - 📱 WhatsApp clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat SDK for Compose.
 - [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
 - [gujjwal00/avnc](https://github.com/gujjwal00/avnc) - VNC Client for Android
@@ -1364,6 +1366,7 @@
 
 ## Python 
 
+- [redicculus/arch2appimage](https://github.com/redicculus/arch2appimage) - This is a python script that downloads AUR source code, compiles and converts to an AppImage executable
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [dennisbyington/wordle_gui](https://github.com/dennisbyington/wordle_gui) - GUI implementation of the Wordle game
 - [witalihirsch/qBitTorrent-fluent-theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) - Fluent theme for qBitTorrent
