@@ -392,6 +392,7 @@
 
 ## C# # 
 
+- [G-Stas/Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system.
 - [BigFloppa404/To-Do_App](https://github.com/BigFloppa404/To-Do_App) - A UWP app designed with WinUI 2.x controls, the To-Do app stores and displays your tasks and supports beautiful color themes.
 - [FireCubeStudios/flowpad](https://github.com/FireCubeStudios/flowpad) - source code of drawing app. not accepting contributions just storing it on GitHub.
 - [FireCubeStudios/Fluentpad](https://github.com/FireCubeStudios/Fluentpad) - fluent uwp text editor for rich text, plaintext and markdown
@@ -1080,6 +1081,7 @@
 
 ## Kotlin 
 
+- [tytydraco/Buoy](https://github.com/tytydraco/Buoy) - An extension to the built in Android Battery Saver
 - [tmo1/sms-ie](https://github.com/tmo1/sms-ie) - SMS Import / Export is a simple Android app that imports and exports SMS and MMS messages, call logs, and contacts from and to JSON files.
 - [GetStream/whatsApp-clone-compose](https://github.com/GetStream/whatsApp-clone-compose) - 📱 WhatsApp clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat SDK for Compose.
 - [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
@@ -1783,6 +1785,7 @@
 
 ## Shell 
 
+- [tytydraco/ChArch](https://github.com/tytydraco/ChArch) - An Android and Linux compatible chroot container manager. Easy to use, advanced for power users.
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [ROM-builders/mido-AospExtended-Apon77](https://github.com/ROM-builders/mido-AospExtended-Apon77) - 
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
@@ -2087,6 +2090,7 @@
 
 ## TypeScript 
 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [tmigone/pulseaudio](https://github.com/tmigone/pulseaudio) - A TypeScript based client library for PulseAudio
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
