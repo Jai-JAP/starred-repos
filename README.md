@@ -810,6 +810,7 @@
 
 ## HTML 
 
+- [GameGenesis/Youtube-Video-Downloader](https://github.com/GameGenesis/Youtube-Video-Downloader) - Convert a YouTube video or playlist to an MP3 audio or MP4 video format. Includes conversion history when signed in.
 - [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
 - [namdevel/jsid.dev](https://github.com/namdevel/jsid.dev) - A free subdomain for developers.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -1367,6 +1368,7 @@
 
 ## Python 
 
+- [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
 - [redicculus/arch2appimage](https://github.com/redicculus/arch2appimage) - This is a python script that downloads AUR source code, compiles and converts to an AppImage executable
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [dennisbyington/wordle_gui](https://github.com/dennisbyington/wordle_gui) - GUI implementation of the Wordle game
