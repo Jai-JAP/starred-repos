@@ -760,6 +760,7 @@
 
 ## Go 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
@@ -811,6 +812,7 @@
 
 ## HTML 
 
+- [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [GameGenesis/Youtube-Video-Downloader](https://github.com/GameGenesis/Youtube-Video-Downloader) - Convert a YouTube video or playlist to an MP3 audio or MP4 video format. Includes conversion history when signed in.
 - [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
 - [namdevel/jsid.dev](https://github.com/namdevel/jsid.dev) - A free subdomain for developers.
@@ -1140,6 +1142,7 @@
 
 ## Others 
 
+- [glocore/country-list](https://github.com/glocore/country-list) - JSON list of all countries with their timezones, lat/long, capital cities, dial codes and flag emojis.
 - [marchmountain/-Windows-XP-High-Resolution-Icon-Pack](https://github.com/marchmountain/-Windows-XP-High-Resolution-Icon-Pack) - These are the source PSDs of my DeviantArt icon pack. The files themselves may be a little sloppy. Bad organization, silly layer names, etc. But they got the job done. It was suggested I release them 
 - [jeffmakes/pi-data-recovery](https://github.com/jeffmakes/pi-data-recovery) - Recovering data from a bricked Raspberry Pi CM4. Same method would work on other Pis / SBC's
 - [MCPI-Revival/minecraft-pe-reborn](https://github.com/MCPI-Revival/minecraft-pe-reborn) - Minecraft Pocket Edition 0.6.1 in linux
@@ -1788,6 +1791,11 @@
 
 ## Shell 
 
+- [mislav/gh-branch](https://github.com/mislav/gh-branch) - GitHub CLI extension for fuzzy finding, quickly switching between and deleting branches.
+- [redraw/gh-install](https://github.com/redraw/gh-install) - install GitHub release binaries from the CLI interactively
+- [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
+- [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars) - Displays an interactive and searchable list of your GitHub starred repositories
+- [sheepla/gh-userfetch](https://github.com/sheepla/gh-userfetch) - 👨‍💻 An extension for GitHub CLI to show user profile pretty like Neofetch
 - [tytydraco/ChArch](https://github.com/tytydraco/ChArch) - An Android and Linux compatible chroot container manager. Easy to use, advanced for power users.
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [ROM-builders/mido-AospExtended-Apon77](https://github.com/ROM-builders/mido-AospExtended-Apon77) - 
