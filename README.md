@@ -1373,7 +1373,7 @@
 ## Python 
 
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
-- [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) - This is a python script that downloads AUR source code, compiles and converts to an AppImage executable
+- [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) - This is a python script that downloads Arch Linux packages (Official/Chaotic AUR) and converts to an AppImage executable
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [dennisbyington/wordle_gui](https://github.com/dennisbyington/wordle_gui) - GUI implementation of the Wordle game
 - [witalihirsch/qBitTorrent-fluent-theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) - Fluent theme for qBitTorrent
