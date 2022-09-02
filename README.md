@@ -831,7 +831,7 @@
 - [bancika/diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
 - [lordelph/pastebin](https://github.com/lordelph/pastebin) - The original pastebin source, available under an AGPL licence
 - [ryanfortner/public-docs](https://github.com/ryanfortner/public-docs) - The repository for the new Fosshost documentation.
-- [fransallen/thedev.id](https://github.com/fransallen/thedev.id) - Identity for developers on the web.
+- [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [Mineshaft-game/mineshaft-game.github.io](https://github.com/Mineshaft-game/mineshaft-game.github.io) - 
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - A minimal, responsive and light theme for Hugo inspired by Linux console.
@@ -1174,7 +1174,7 @@
 - [B00merang-Artwork/Windows-10](https://github.com/B00merang-Artwork/Windows-10) - The Windows 10 Icon theme repository
 - [matafokka/PowerPointDarkThemeFix](https://github.com/matafokka/PowerPointDarkThemeFix) - When a custom (especially dark) theme is applied, default PowerPoint's color picker messes grey colors for fill, borders, shadow and glow. PowerPointDarkThemeFix does this simple task right.
 - [matafokka/ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fixes Microsoft Excel appearance when custom Windows theme is used
-- [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - All 3rd party clients will update as needed
+- [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [makedeb/status](https://github.com/makedeb/status) - Statuspage for makedeb's websites
 - [novialriptide/learnthebasicsfirst.com](https://github.com/novialriptide/learnthebasicsfirst.com) - Inspired by https://dontasktoask.com/
@@ -1373,7 +1373,7 @@
 ## Python 
 
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
-- [redicculus/arch2appimage](https://github.com/redicculus/arch2appimage) - This is a python script that downloads AUR source code, compiles and converts to an AppImage executable
+- [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) - This is a python script that downloads AUR source code, compiles and converts to an AppImage executable
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [dennisbyington/wordle_gui](https://github.com/dennisbyington/wordle_gui) - GUI implementation of the Wordle game
 - [witalihirsch/qBitTorrent-fluent-theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) - Fluent theme for qBitTorrent
