@@ -97,6 +97,7 @@
 
 ## C 
 
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [ToshioCP/Gtk4-tutorial](https://github.com/ToshioCP/Gtk4-tutorial) - A gtk4 tutorial for beginners
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
@@ -1206,7 +1207,6 @@
 - [AppImage/awesome-appimage](https://github.com/AppImage/awesome-appimage) - Lovingly crafted AppImage tools and resources
 - [DB-db-dron/weatherDB](https://github.com/DB-db-dron/weatherDB) - Get current weather, hourly forecast, daily forecast for 7 days, and 7 day weather icons for your city. No authentication or API key required... Simple and fast and free weather API
 - [ryanfortner/peazip-arm](https://github.com/ryanfortner/peazip-arm) - 
-- [kmille36/windows-11-cursors-concept-premium](https://github.com/kmille36/windows-11-cursors-concept-premium) - Windows 11 Cursors Concept v2 by  jepriCreations (PREMIUM)
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
 - [bottlesdevs/components](https://github.com/bottlesdevs/components) - Repository for Bottles components
@@ -1373,6 +1373,7 @@
 
 ## Python 
 
+- [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
 - [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) - This is a python script that downloads Arch Linux packages (Official/Chaotic AUR) and converts to an AppImage executable
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
