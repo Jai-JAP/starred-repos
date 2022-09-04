@@ -1739,7 +1739,7 @@
 - [uutils/platform-info](https://github.com/uutils/platform-info) - A cross-platform way to get information about your machine
 - [uutils/findutils](https://github.com/uutils/findutils) - Rust implementation of findutils
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
 - [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
