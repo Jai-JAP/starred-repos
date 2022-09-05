@@ -1700,7 +1700,7 @@
 - [pacstall/pacstall-gui](https://github.com/pacstall/pacstall-gui) - GUI for pacstall
 - [makedeb/mist](https://github.com/makedeb/mist) - The official command-line interface for the makedeb Package Repository
 - [antoyo/relm](https://github.com/antoyo/relm) - Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
-- [Relm4/Relm4](https://github.com/Relm4/Relm4) - An idiomatic GUI library inspired by Elm and based on gtk4-rs
+- [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
 - [songww/reovim](https://github.com/songww/reovim) - Neovim GUI written in Rust, using relm4(gtk4-rs).
 - [nushell/nana](https://github.com/nushell/nana) - Experimental GUI version of Nushell
 - [nushell/reedline](https://github.com/nushell/reedline) - A readline replacement written in Rust
