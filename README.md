@@ -399,7 +399,7 @@
 
 ## C# # 
 
-- [VOLKANOGEDAY/About](https://github.com/VOLKANOGEDAY/About) - About is improved and fluent version of Windows' classic winver dialog 💻
+- [VOLKANOGEDAY/FluentAbout](https://github.com/VOLKANOGEDAY/FluentAbout) - About is improved and fluent version of Windows' classic winver dialog 💻
 - [G-Stas/Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system.
 - [BigFloppa404/To-Do_App](https://github.com/BigFloppa404/To-Do_App) - A UWP app designed with WinUI 2.x controls, the To-Do app stores and displays your tasks and supports beautiful color themes.
 - [FireCubeStudios/flowpad](https://github.com/FireCubeStudios/flowpad) - source code of drawing app. not accepting contributions just storing it on GitHub.
