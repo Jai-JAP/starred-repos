@@ -925,7 +925,7 @@
 ## JavaScript 
 
 - [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io) - Nushell's main website, blog, book, and more
-- [The-PullRequest-Club/action-delete-release](https://github.com/The-PullRequest-Club/action-delete-release) - 
+- [Archaholic/action-delete-release](https://github.com/Archaholic/action-delete-release) - 
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [Ceiridge/SimpleDiscordCrypt-Extended](https://github.com/Ceiridge/SimpleDiscordCrypt-Extended) - Extended Discord message end-to-end encryption plugin, supporting auto key exchange and encrypted file transfers
 - [zombieFox/hexagonTab](https://github.com/zombieFox/hexagonTab) - Hexagon bookmarks accented with a chosen colour. Customise the layout, style, background and bookmarks with hexagonTab.
@@ -1384,7 +1384,6 @@
 
 ## Python 
 
-- [alibaba/EasyCV](https://github.com/alibaba/EasyCV) - An all-in-one toolkit for computer vision
 - [proskur1n/cmeson](https://github.com/proskur1n/cmeson) - TUI for the meson build system
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
@@ -1687,6 +1686,8 @@
 
 ## Rust 
 
+- [linebender/runebender](https://github.com/linebender/runebender) - A font editor written in Rust.
+- [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [brxken128/dexios](https://github.com/brxken128/dexios) - A secure file encryption utility, written in Rust.
 - [couchbaselabs/couchbase-shell](https://github.com/couchbaselabs/couchbase-shell) - Shell yeah!
 - [polyverse/rmesg](https://github.com/polyverse/rmesg) - A 'dmesg' implementation in Rust
