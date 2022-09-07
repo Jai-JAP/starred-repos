@@ -924,6 +924,8 @@
 
 ## JavaScript 
 
+- [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io) - Nushell's main website, blog, book, and more
+- [The-PullRequest-Club/action-delete-release](https://github.com/The-PullRequest-Club/action-delete-release) - 
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [Ceiridge/SimpleDiscordCrypt-Extended](https://github.com/Ceiridge/SimpleDiscordCrypt-Extended) - Extended Discord message end-to-end encryption plugin, supporting auto key exchange and encrypted file transfers
 - [zombieFox/hexagonTab](https://github.com/zombieFox/hexagonTab) - Hexagon bookmarks accented with a chosen colour. Customise the layout, style, background and bookmarks with hexagonTab.
