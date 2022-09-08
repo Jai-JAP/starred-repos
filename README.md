@@ -787,7 +787,7 @@
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [dingqiangliu/mhtml2html](https://github.com/dingqiangliu/mhtml2html) - Convert MHTM file to single html embedded all resources with base64 encoding
 - [electron-userland/electron-build-service](https://github.com/electron-userland/electron-build-service) - Package Electron applications in a distributable format on any platform for any platform
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
@@ -893,6 +893,7 @@
 
 ## Java 
 
+- [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
 - [farmerbb/Taskbar](https://github.com/farmerbb/Taskbar) - PC-style productivity for Android
 - [penfeizhou/APNG4Android](https://github.com/penfeizhou/APNG4Android) - Android animation support for APNG & Animated WebP & Gif,High performance
 - [francescotescari/XiaoMiToolV2](https://github.com/francescotescari/XiaoMiToolV2) - XiaomiTool V2 - Modding tool for xiaomi devices
