@@ -1676,7 +1676,7 @@
 ## Ruby 
 
 - [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) - Package manager for Chrome OS
-- [philnash/bitly](https://github.com/philnash/bitly) - A Ruby wrapper for the bit.ly API
+- [philnash/bitly](https://github.com/philnash/bitly) - 🗜 A Ruby wrapper for the bit.ly API
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) - RetroArch joypad autoconfig files
 - [knazarov/homebrew-qemu-virgl](https://github.com/knazarov/homebrew-qemu-virgl) - A homebrew tap for qemu with support for 3d accelerated guests
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
