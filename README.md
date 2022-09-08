@@ -475,6 +475,7 @@
 
 ## C++ 
 
+- [mmatyas/pegasus-frontend](https://github.com/mmatyas/pegasus-frontend) - A cross platform, customizable graphical frontend for launching emulators and managing your game collection.
 - [Joshua-Ashton/VPhysics-Jolt](https://github.com/Joshua-Ashton/VPhysics-Jolt) - Volt (VPhysics Jolt) is a replacement physics module for the Source Engine.
 - [FireCubeStudios/Regedit-Flunt](https://github.com/FireCubeStudios/Regedit-Flunt) - Regedit but with Mica, GlowUI, Search, Tabs, History, Editing and more
 - [Jax-Core/JaxCore](https://github.com/Jax-Core/JaxCore) - A beautiful set of tools and widgets to spice up your desktop.
@@ -768,6 +769,10 @@
 
 ## Go 
 
+- [gennaro-tedesco/element](https://github.com/gennaro-tedesco/element) - 🧪 periodic table on the command line
+- [gennaro-tedesco/stargazer](https://github.com/gennaro-tedesco/stargazer) - ⭐ github stats from the command line
+- [gennaro-tedesco/gh-i](https://github.com/gennaro-tedesco/gh-i) - 🔎 search your github issues interactively
+- [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively
 - [TwiN/go-color](https://github.com/TwiN/go-color) - A lightweight, simple and cross-platform package to colorize text in terminals
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -925,6 +930,9 @@
 
 ## JavaScript 
 
+- [gndx/javascript-challenges](https://github.com/gndx/javascript-challenges) - 
+- [JoelGMSec/EvilnoVNC](https://github.com/JoelGMSec/EvilnoVNC) - Ready to go Phishing Platform
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [sonnyp/Workbench](https://github.com/sonnyp/Workbench) - Learn and prototype with GNOME technologies 🛠️
 - [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io) - Nushell's main website, blog, book, and more
 - [Archaholic/action-delete-release](https://github.com/Archaholic/action-delete-release) - 
