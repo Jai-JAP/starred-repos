@@ -1164,6 +1164,7 @@
 
 ## Others 
 
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [LiaBooks/C-Programming](https://github.com/LiaBooks/C-Programming) - Interactive Port of the Wikibook C-Programming to LiaScript (english)
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [glocore/country-list](https://github.com/glocore/country-list) - JSON list of all countries with their timezones, lat/long, capital cities, dial codes and flag emojis.
