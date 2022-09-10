@@ -103,7 +103,6 @@
 
 ## C 
 
-- [HackerDaGreat57/bpp](https://github.com/HackerDaGreat57/bpp) - An application that will eventually be capable of anything
 - [rockdaboot/wget2](https://github.com/rockdaboot/wget2) - The successor of GNU Wget. Contributions preferred at https://gitlab.com/gnuwget/wget2. But accepted here as well 😍
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [ToshioCP/Gtk4-tutorial](https://github.com/ToshioCP/Gtk4-tutorial) - A gtk4 tutorial for beginners
@@ -1169,6 +1168,7 @@
 
 ## Others 
 
+- [HackerDaGreat57/bpp](https://github.com/HackerDaGreat57/bpp) - An application that will eventually be capable of anything
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A programming font based on the typeface used in Minecraft
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [LiaBooks/C-Programming](https://github.com/LiaBooks/C-Programming) - Interactive Port of the Wikibook C-Programming to LiaScript (english)
