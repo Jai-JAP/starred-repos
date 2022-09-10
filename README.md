@@ -478,7 +478,7 @@
 
 - [asherkin/vphysics](https://github.com/asherkin/vphysics) - 
 - [mmatyas/pegasus-frontend](https://github.com/mmatyas/pegasus-frontend) - A cross platform, customizable graphical frontend for launching emulators and managing your game collection.
-- [MCPI-Revival/Ninecraft](https://github.com/MCPI-Revival/Ninecraft) - 
+- [MCPI-Revival/Ninecraft](https://github.com/MCPI-Revival/Ninecraft) - A mcpe 0.6.x launcher for linux
 - [Joshua-Ashton/VPhysics-Jolt](https://github.com/Joshua-Ashton/VPhysics-Jolt) - Volt (VPhysics Jolt) is a replacement physics module for the Source Engine.
 - [FireCubeStudios/Regedit-Flunt](https://github.com/FireCubeStudios/Regedit-Flunt) - Regedit but with Mica, GlowUI, Search, Tabs, History, Editing and more
 - [Jax-Core/JaxCore](https://github.com/Jax-Core/JaxCore) - A beautiful set of tools and widgets to spice up your desktop.
