@@ -103,6 +103,7 @@
 
 ## C 
 
+- [i3/i3](https://github.com/i3/i3) - A tiling window manager
 - [rockdaboot/wget2](https://github.com/rockdaboot/wget2) - The successor of GNU Wget. Contributions preferred at https://gitlab.com/gnuwget/wget2. But accepted here as well 😍
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [ToshioCP/Gtk4-tutorial](https://github.com/ToshioCP/Gtk4-tutorial) - A gtk4 tutorial for beginners
@@ -936,6 +937,8 @@
 
 ## JavaScript 
 
+- [erkserkserks/h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [gndx/javascript-challenges](https://github.com/gndx/javascript-challenges) - 
 - [JoelGMSec/EvilnoVNC](https://github.com/JoelGMSec/EvilnoVNC) - Ready to go Phishing Platform
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -1168,6 +1171,8 @@
 
 ## Others 
 
+- [VernonGrant/gnu-c-language-manual](https://github.com/VernonGrant/gnu-c-language-manual) - This is a mirror of Richard Stallman's GNU C Language Intro and Reference, available in Markdown and PDF.
+- [chris1111/VoodooHDA-OC](https://github.com/chris1111/VoodooHDA-OC) - Visit BLOG : https://com-chris1111.github.io
 - [HackerDaGreat57/bpp](https://github.com/HackerDaGreat57/bpp) - An application that will eventually be capable of anything
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A programming font based on the typeface used in Minecraft
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
