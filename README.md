@@ -991,7 +991,6 @@
 - [tchx84/Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
-- [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [Crilum/websh](https://github.com/Crilum/websh) - Web-powered shell emulator
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
@@ -2177,6 +2176,7 @@
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
+- [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [Muhammed-Rahif/Notepad](https://github.com/Muhammed-Rahif/Notepad) - Windows notepad in web with additional features! Made with typescript and react.
 - [AH-dark/website-screenshot](https://github.com/AH-dark/website-screenshot) - Take screenshot for websites
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
