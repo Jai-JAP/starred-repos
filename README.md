@@ -103,6 +103,7 @@
 
 ## C 
 
+- [cesanta/frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++ with scanf/printf like interface. Targeting embedded systems.
 - [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a complete
 - [vxiiduu/VxKex](https://github.com/vxiiduu/VxKex) - Windows 7 API Extensions
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager
