@@ -1830,6 +1830,7 @@
 
 ## Shell 
 
+- [7oxicshadow/proton-standalone-script](https://github.com/7oxicshadow/proton-standalone-script) - Allows steam proton to be used without steam
 - [kmille36/Docker-Ubuntu-Desktop-NoMachine](https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine) - Ubuntu Desktop with NoMachine remote access and firefox, chrome (edge)
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io) - Nushell's main website, blog, book, and more
