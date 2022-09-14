@@ -941,6 +941,7 @@
 
 ## JavaScript 
 
+- [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [erkserkserks/h264ify-firefox](https://github.com/erkserkserks/h264ify-firefox) - A Firefox extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
 - [erkserkserks/h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
