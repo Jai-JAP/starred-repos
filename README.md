@@ -1175,6 +1175,7 @@
 
 ## Others 
 
+- [ryanfortner/disablechromeextensions-jsbookmark](https://github.com/ryanfortner/disablechromeextensions-jsbookmark) - disable a chrome extension with the click of a button
 - [VernonGrant/gnu-c-language-manual](https://github.com/VernonGrant/gnu-c-language-manual) - This is a mirror of Richard Stallman's GNU C Language Intro and Reference, available in Markdown and PDF.
 - [chris1111/VoodooHDA-OC](https://github.com/chris1111/VoodooHDA-OC) - Visit BLOG : https://com-chris1111.github.io
 - [HackerDaGreat57/bpp](https://github.com/HackerDaGreat57/bpp) - An application that will eventually be capable of anything
