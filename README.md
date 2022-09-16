@@ -236,7 +236,7 @@
 - [LoyieKing/X86PeRunner](https://github.com/LoyieKing/X86PeRunner) - Run X86 PE file on Windows 10 ARM32
 - [jinfeihan57/p7zip](https://github.com/jinfeihan57/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/sevenzip/ AND https://sourceforge.net/projects/p7zip/).
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
-- [PulpoBoy/Color-Flappy](https://github.com/PulpoBoy/Color-Flappy) - Flappy bird for colorful games console with arduino
+- [cdtso/Color-Flappy](https://github.com/cdtso/Color-Flappy) - Flappy bird for colorful games console with arduino
 - [Tix3Dev/KnutOS](https://github.com/Tix3Dev/KnutOS) - An x86_64 hobbyist OS written in C and Assembly
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
 - [tsoding/flag.h](https://github.com/tsoding/flag.h) - Command-line flag parsing in C
@@ -1459,7 +1459,7 @@
 - [MehdiRtal/WinCleanstall](https://github.com/MehdiRtal/WinCleanstall) - Create an automated, clean and custom Windows installation
 - [martinet101/win32mica](https://github.com/martinet101/win32mica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
 - [witalihirsch/QTWin11](https://github.com/witalihirsch/QTWin11) - Fluent QT Theme (stylesheet) for Win32 apps on Windows 11
-- [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
+- [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [pacstall/libpacstall](https://github.com/pacstall/libpacstall) - Backend API library for Pacstall
 - [makedeb/prebuilt-mpr](https://github.com/makedeb/prebuilt-mpr) - APT repository for prebuilt MPR packages
 - [Griphitor/Griph-pad](https://github.com/Griphitor/Griph-pad) - Griph-Pad is a simple text editor by @Advik-B
