@@ -406,6 +406,7 @@
 
 ## C# # 
 
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [VOLKANOGEDAY/FluentAbout](https://github.com/VOLKANOGEDAY/FluentAbout) - About is improved and fluent version of Windows' classic winver dialog 💻
 - [G-Stas/Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system.
 - [BigFloppa404/To-Do_App](https://github.com/BigFloppa404/To-Do_App) - A UWP app designed with WinUI 2.x controls, the To-Do app stores and displays your tasks and supports beautiful color themes.
@@ -1177,6 +1178,7 @@
 
 ## Others 
 
+- [CSMarckitus/Photoshop](https://github.com/CSMarckitus/Photoshop) - This program written in C will help you to automatically install everything you need and configure it so that you can run Photoshop on your Linux without problems.
 - [ryanfortner/disablechromeextensions-jsbookmark](https://github.com/ryanfortner/disablechromeextensions-jsbookmark) - disable a chrome extension with the click of a button
 - [VernonGrant/gnu-c-language-manual](https://github.com/VernonGrant/gnu-c-language-manual) - This is a mirror of Richard Stallman's GNU C Language Intro and Reference, available in Markdown and PDF.
 - [chris1111/VoodooHDA-OC](https://github.com/chris1111/VoodooHDA-OC) - Visit BLOG : https://com-chris1111.github.io
