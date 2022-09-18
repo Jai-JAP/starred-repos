@@ -943,6 +943,7 @@
 
 ## JavaScript 
 
+- [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [erkserkserks/h264ify-firefox](https://github.com/erkserkserks/h264ify-firefox) - A Firefox extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
 - [erkserkserks/h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
