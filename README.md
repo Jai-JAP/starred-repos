@@ -1416,6 +1416,7 @@
 
 ## Python 
 
+- [martinet101/WingetUI](https://github.com/martinet101/WingetUI) - WingetUI: a package manager for Winget and Scoop
 - [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - An easy-to-use Python CLI Minecraft launcher! Compatible with official Minecraft launcher and provides many official add-ons.
 - [mozillazg/pypy](https://github.com/mozillazg/pypy) - The unofficial GitHub mirror of PyPy
 - [proskur1n/cmeson](https://github.com/proskur1n/cmeson) - TUI for the meson build system
