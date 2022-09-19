@@ -238,7 +238,7 @@
 - [LoyieKing/X86PeRunner](https://github.com/LoyieKing/X86PeRunner) - Run X86 PE file on Windows 10 ARM32
 - [jinfeihan57/p7zip](https://github.com/jinfeihan57/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/sevenzip/ AND https://sourceforge.net/projects/p7zip/).
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
-- [cdtso/Color-Flappy](https://github.com/cdtso/Color-Flappy) - Flappy bird for colorful games console with arduino
+- [cdtso/FlappyBirdArduino](https://github.com/cdtso/FlappyBirdArduino) - Flappy bird for Arduino
 - [Tix3Dev/KnutOS](https://github.com/Tix3Dev/KnutOS) - An x86_64 hobbyist OS written in C and Assembly
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
 - [tsoding/flag.h](https://github.com/tsoding/flag.h) - Command-line flag parsing in C
@@ -1622,7 +1622,7 @@
 - [kraibse/minecraft-art-generator](https://github.com/kraibse/minecraft-art-generator) - 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [TheBananaStore/BananaLord](https://github.com/TheBananaStore/BananaLord) - Discord.py bot for the Banana App Store server.
-- [cdtso/Planet](https://github.com/cdtso/Planet) - A better MCPi Launcher. [NOT ARCHIVED, MOVED TO OSDN: https://planet.osdn.io]
+- [cdtso/Planet](https://github.com/cdtso/Planet) - Planet launcher mirror from OSDN. Pull requests are accepted.
 - [qutip/qutip](https://github.com/qutip/qutip) - QuTiP: Quantum Toolbox in Python
 - [cycool29/pi-apps-gui](https://github.com/cycool29/pi-apps-gui) - A Python version of Pi-Apps GUI built with PySimpleGUI, with some unique features.
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
