@@ -862,7 +862,6 @@
 - [ryanfortner/public-docs](https://github.com/ryanfortner/public-docs) - The repository for the new Fosshost documentation.
 - [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-- [Mineshaft-game/mineshaft-game.github.io](https://github.com/Mineshaft-game/mineshaft-game.github.io) - 
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - A minimal, responsive and light theme for Hugo inspired by Linux console.
 - [rollingrhinoremix/rollingrhinoremix.github.io](https://github.com/rollingrhinoremix/rollingrhinoremix.github.io) - This is the official repository for the Rolling Rhino Remix. Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu operating system into a rolling release Linux distribution b
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
@@ -1495,7 +1494,6 @@
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [pittcsc/Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) - Collection of Summer 2023 tech internships!
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [Mineshaft-game/Launcher](https://github.com/Mineshaft-game/Launcher) - The Mineshaft launcher
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [dsanson/termpdf.py](https://github.com/dsanson/termpdf.py) - A graphical pdf and epub reader that works inside the kitty terminal
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
@@ -1511,7 +1509,6 @@
 - [Soemonewho2/apocolyptic-fighter](https://github.com/Soemonewho2/apocolyptic-fighter) - A post apocalyptic game made with pygame
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [ppizarror/pygame-menu](https://github.com/ppizarror/pygame-menu) - A menu for pygame. Simple, and easy to use
-- [Mineshaft-game/RenderMite](https://github.com/Mineshaft-game/RenderMite) - The very rendering engine
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
@@ -1677,7 +1674,6 @@
 - [JezerM/web-greeter](https://github.com/JezerM/web-greeter) - A modern, visually appealing greeter for LightDM.
 - [hwittenborn/tap](https://github.com/hwittenborn/tap) - MPR in your pocket
 - [makedeb/mprweb](https://github.com/makedeb/mprweb) - Hosting platform for the makedeb Package Repository (MPR)
-- [Mineshaft-game/Mineshaft](https://github.com/Mineshaft-game/Mineshaft) - Minecraft WIP clone and template for similar games
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [TheMindVirus/UDF-Python](https://github.com/TheMindVirus/UDF-Python) - CPython running as an interpreter for a UMDFv2 Windows Driver!
