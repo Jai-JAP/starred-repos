@@ -1947,7 +1947,7 @@
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [lowspecman420/armhf-proot-for-aarch64-android](https://github.com/lowspecman420/armhf-proot-for-aarch64-android) - Anlinux armhf proot for aarch64 android using Termux.
 - [lowspecman420/AnBox86](https://github.com/lowspecman420/AnBox86) - 
-- [WheezyE/Winelink](https://github.com/WheezyE/Winelink) - Installation scripts for running Winlink on non-Windows platforms (currently just RPi 4)
+- [WheezyE/Winelink](https://github.com/WheezyE/Winelink) - Installation scripts for running Winlink (RMS Express & VARA) on non-Windows computers. Wine & Box86 make this project possible.
 - [WOA-Project/SurfaceDuo-Guides](https://github.com/WOA-Project/SurfaceDuo-Guides) - Guides for the Surface Duo
 - [89paradox/pimarket](https://github.com/89paradox/pimarket) - App Store For The Raspberry Pi.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
