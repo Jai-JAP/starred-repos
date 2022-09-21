@@ -407,6 +407,7 @@
 
 ## C# # 
 
+- [Blindside-Studios/Flooent-Calcoolator](https://github.com/Blindside-Studios/Flooent-Calcoolator) - Simple calculator with animations making it a pain to use but good for practise. Nice.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [VOLKANOGEDAY/FluentAbout](https://github.com/VOLKANOGEDAY/FluentAbout) - About is improved and fluent version of Windows' classic winver dialog 💻
 - [G-Stas/Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system.
@@ -1842,6 +1843,7 @@
 
 ## Shell 
 
+- [stevenshiau/clonezilla](https://github.com/stevenshiau/clonezilla) - Clonezilla is a partition or disk clone tool similar to Norton Ghost®. It saves and restores only used blocks in hard drive. Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (S
 - [G2-Games/welcome.sh](https://github.com/G2-Games/welcome.sh) - A nice welcome script for Bash and Zsh
 - [7oxicshadow/proton-standalone-script](https://github.com/7oxicshadow/proton-standalone-script) - Allows steam proton to be used without steam
 - [kmille36/Docker-Ubuntu-Desktop-NoMachine](https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine) - Ubuntu Desktop with NoMachine remote access and firefox, chrome (edge)
