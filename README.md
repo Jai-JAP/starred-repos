@@ -1866,7 +1866,7 @@
 - [Kicksecure/open-link-confirmation](https://github.com/Kicksecure/open-link-confirmation) - Asks for confirmation before opening links - For better security. - Asks before a link is (accidentally) opened in a browser to avoid linking activities.
 - [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🖼️ 🏳️‍⚧️  Neofetch with LGBTQ pride flags!
 - [KaOS-Community-Packages/soulseekqt](https://github.com/KaOS-Community-Packages/soulseekqt) - A desktop client for the Soulseek peer-to-peer file sharing network
-- [tkreind/docker-gui-novnc](https://github.com/tkreind/docker-gui-novnc) - An extremely easy to use docker image to run any Linux GUI application on any host through docker and your browser.
+- [tkreindler/docker-gui-novnc](https://github.com/tkreindler/docker-gui-novnc) - An extremely easy to use docker image to run any Linux GUI application on any host through docker and your browser.
 - [flexiondotorg/slim-aios](https://github.com/flexiondotorg/slim-aios) - Optimised OS for the Raspberry Pi for creating and running containers 🐋
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
