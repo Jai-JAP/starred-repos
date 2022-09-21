@@ -1595,6 +1595,7 @@
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [yktoo/indicator-sound-switcher](https://github.com/yktoo/indicator-sound-switcher) - Sound input/output selector indicator for Linux
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [GDWR/colours](https://github.com/GDWR/colours) - A webservice to serve images generated from colours passed in via request path.
@@ -1789,7 +1790,6 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
 - [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
