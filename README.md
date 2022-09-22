@@ -485,6 +485,8 @@
 
 ## C++ 
 
+- [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
+- [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
 - [asherkin/vphysics](https://github.com/asherkin/vphysics) - 
 - [mmatyas/pegasus-frontend](https://github.com/mmatyas/pegasus-frontend) - A cross platform, customizable graphical frontend for launching emulators and managing your game collection.
@@ -711,6 +713,7 @@
 
 ## CSS 
 
+- [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies" (WIP)
 - [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 - [sysce/chrome100](https://github.com/sysce/chrome100) - Collection of ChromeOS recovery images.
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always Updated!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
@@ -1420,6 +1423,8 @@
 
 ## Python 
 
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versi
 - [nwg-piotr/azote](https://github.com/nwg-piotr/azote) - Wallpaper and colour manager for Sway, i3 and some other WMs
 - [kozec/sc-controller](https://github.com/kozec/sc-controller) - User-mode driver and GTK3 based GUI for Steam Controller
 - [mstorsjo/msvc-wine](https://github.com/mstorsjo/msvc-wine) - Scripts for setting up and running MSVC in Wine on Linux
