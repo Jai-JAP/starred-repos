@@ -105,6 +105,7 @@
 
 ## C 
 
+- [P-p-H-d/mlib](https://github.com/P-p-H-d/mlib) - Library of generic and type safe containers in pure C language (C99 or C11) for a wide collection of container (comparable to the C++ STL).
 - [cesanta/frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++ with scanf/printf like interface. Targeting embedded systems.
 - [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a complete
 - [vxiiduu/VxKex](https://github.com/vxiiduu/VxKex) - Windows 7 API Extensions
@@ -1843,6 +1844,7 @@
 
 ## Shell 
 
+- [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
 - [stevenshiau/clonezilla](https://github.com/stevenshiau/clonezilla) - Clonezilla is a partition or disk clone tool similar to Norton Ghost®. It saves and restores only used blocks in hard drive. Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (S
 - [G2-Games/welcome.sh](https://github.com/G2-Games/welcome.sh) - A nice welcome script for Bash and Zsh
