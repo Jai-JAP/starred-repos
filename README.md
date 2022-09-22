@@ -1849,6 +1849,7 @@
 
 ## Shell 
 
+- [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
 - [stevenshiau/clonezilla](https://github.com/stevenshiau/clonezilla) - Clonezilla is a partition or disk clone tool similar to Norton Ghost®. It saves and restores only used blocks in hard drive. Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (S
