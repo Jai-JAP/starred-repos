@@ -1851,6 +1851,7 @@
 
 ## Shell 
 
+- [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - 
 - [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
