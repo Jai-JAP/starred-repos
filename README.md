@@ -604,7 +604,7 @@
 - [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio) - TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
-- [AppImage/AppImageUpdate](https://github.com/AppImage/AppImageUpdate) - AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.
+- [AppImageCommunity/AppImageUpdate](https://github.com/AppImageCommunity/AppImageUpdate) - AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.
 - [GNOME/gparted](https://github.com/GNOME/gparted) - Read-only mirror of https://gitlab.gnome.org/GNOME/gparted
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [saitoha/vte-sixel](https://github.com/saitoha/vte-sixel) - An experimental fork of GNOME/vte, includes SIXEL integration https://bugzilla.gnome.org/show_bug.cgi?id=729204
@@ -1102,6 +1102,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [railken/mc](https://github.com/railken/mc) - A Minecraft Launcher in electron
 - [dscalzi/HeliosLauncher](https://github.com/dscalzi/HeliosLauncher) - ☀ Custom launcher for modded minecraft written in Electron and Node.js
+- [gl91306/launcherpi](https://github.com/gl91306/launcherpi) - bascicly a mc launcher for the pi.
 - [jcv8000/Codex](https://github.com/jcv8000/Codex) - A free note-taking software for programmers and Computer Science students
 - [anschwa/typing-test](https://github.com/anschwa/typing-test) - An ES6 and HTML5 typing test.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -1255,7 +1256,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮  A collection of resources to learn mathematics for machine learning
 - [raspbian-addons/mirrors](https://github.com/raspbian-addons/mirrors) - repository mirrors for the Raspbian Addons repository
-- [AppImage/awesome-appimage](https://github.com/AppImage/awesome-appimage) - Lovingly crafted AppImage tools and resources
+- [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) - Lovingly crafted AppImage tools and resources
 - [DB-db-dron/weatherDB](https://github.com/DB-db-dron/weatherDB) - Get current weather, hourly forecast, daily forecast for 7 days, and 7 day weather icons for your city. No authentication or API key required... Simple and fast and free weather API
 - [ryanfortner/peazip-arm](https://github.com/ryanfortner/peazip-arm) - 
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
@@ -1678,7 +1679,6 @@
 - [220735540/WebAppMaker](https://github.com/220735540/WebAppMaker) - WebApp Maker make web apps (Duh). It is open source and make with python and shell. This app can take any website and turn it into an app. I highly recommend turning these few websites into webapps: -
 - [JeremyGrosser/repoman](https://github.com/JeremyGrosser/repoman) - A reprepro and pbuilder management API with a RESTful interface
 - [virtio-win/virtio-win-pkg-scripts](https://github.com/virtio-win/virtio-win-pkg-scripts) - Scripts for packaging virtio-win drivers
-- [gl91306/launcherpi](https://github.com/gl91306/launcherpi) - bascicly a mc launcher for the pi.
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with 
 - [MilhouseVH/bcmstat](https://github.com/MilhouseVH/bcmstat) - Simple Raspberry Pi monitoring tool
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
@@ -2096,7 +2096,7 @@
 - [raspbian-addons/autoupdate](https://github.com/raspbian-addons/autoupdate) - 
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [simoniz0r/deb2appimage](https://github.com/simoniz0r/deb2appimage) - Build AppImages from deb packages on any distro with simple json configuration
-- [AppImage/pkg2appimage](https://github.com/AppImage/pkg2appimage) - Tool and recipes to convert existing deb packages to AppImage
+- [AppImageCommunity/pkg2appimage](https://github.com/AppImageCommunity/pkg2appimage) - Tool and recipes to convert existing deb packages to AppImage
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
 - [wimpysworld/retro-home](https://github.com/wimpysworld/retro-home) - Retro Home; your home for retro-gaming 🕹
