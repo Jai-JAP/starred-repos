@@ -1853,6 +1853,7 @@
 
 ## Shell 
 
+- [anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier](https://github.com/anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier) - Block advertisements and trackers using pi-hole in Oracle Always Free tier
 - [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) - Apx is a wrapper around apt to make it works inside a container from outside, directly on the host.
 - [rabilrbl/WSA-Magisk](https://github.com/rabilrbl/WSA-Magisk) - 
 - [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - 
