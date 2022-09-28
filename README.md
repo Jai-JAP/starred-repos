@@ -409,6 +409,7 @@
 
 ## C# # 
 
+- [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [Blindside-Studios/Flooent-Calcoolator](https://github.com/Blindside-Studios/Flooent-Calcoolator) - Simple calculator with animations making it a pain to use but good for practise. Nice.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [VOLKANOGEDAY/FluentAbout](https://github.com/VOLKANOGEDAY/FluentAbout) - About is improved and fluent version of Windows' classic winver dialog 💻
@@ -625,7 +626,7 @@
 - [linuxdeepin/deepin-music](https://github.com/linuxdeepin/deepin-music) - Music player for deepin desktop environment.
 - [rexim/aids](https://github.com/rexim/aids) - std replacement for C++
 - [merryhime/dynarmic](https://github.com/merryhime/dynarmic) - An ARM dynamic recompiler.
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [linuxdeepin/qt5platform-plugins](https://github.com/linuxdeepin/qt5platform-plugins) - Qt platform integration plugin for DDE.
 - [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF) official mirror. A simple framework for embedding Chromium-based browsers in other applications.
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
@@ -767,6 +768,7 @@
 
 ## Dart 
 
+- [ymauray/deborah](https://github.com/ymauray/deborah) - A flutter front-end to deb-get
 - [gumbarros/DevToysLinux](https://github.com/gumbarros/DevToysLinux) - Linux version of DevToys, a Swiss Army knife for developers.
 - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 The official ReVanced Manager
 - [Far-Se/tabame](https://github.com/Far-Se/tabame) - Tabame is an alternative to Windows Taskbar. It also contains great tools such as advanced Hotkeys, QuickRun, Trktivity and Wizardly.
@@ -1189,6 +1191,7 @@
 
 ## Others 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [dortania/macOS-VMware-Guide](https://github.com/dortania/macOS-VMware-Guide) - Guide on making a AMD macOS virtual machine in VMware Player/Workstation
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
 - [CSMarckitus/Photoshop](https://github.com/CSMarckitus/Photoshop) - This program written in C will help you to automatically install everything you need and configure it so that you can run Photoshop on your Linux without problems.
@@ -1410,6 +1413,7 @@
 
 ## PowerShell 
 
+- [arcadesdude/BRU](https://github.com/arcadesdude/BRU) - Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatw
 - [actions/python-versions](https://github.com/actions/python-versions) - Python builds for Actions Virtual Environments
 - [codaamok/PSShlink](https://github.com/codaamok/PSShlink) - An unofficial PowerShell module for Shlink (https://shlink.io), an open-source self-hosted and PHP-based URL shortener application
 - [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell
@@ -1856,7 +1860,7 @@
 
 - [anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier](https://github.com/anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier) - Block advertisements and trackers using pi-hole in Oracle Always Free tier
 - [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) - Apx is a wrapper around apt to make it works inside a container from outside, directly on the host.
-- [rabilrbl/WSA-Magisk](https://github.com/rabilrbl/WSA-Magisk) - 
+- [creative-builds/WSA-Magisk](https://github.com/creative-builds/WSA-Magisk) - 
 - [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - 
 - [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
@@ -2288,6 +2292,7 @@
 
 ## Visual Basic .NET 
 
+- [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Colorizing Windows Accents
 - [Jevil7452/Simple-GUID-Generator](https://github.com/Jevil7452/Simple-GUID-Generator) - 
 - [PeterStrick/ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) - Windows Feature Control GUI based on ViVe / ViVeTool
 - [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
