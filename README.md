@@ -1337,7 +1337,7 @@
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
-- [AlfarexGuy2019/tweaks](https://github.com/AlfarexGuy2019/tweaks) - 💻 List of awesome programs and tweaks for Windows
+- [AlfarexGuy2019/tweaks](https://github.com/AlfarexGuy2019/tweaks) - 💻 List of awesome programs and tweaks for Windows, macOS and Linux.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
 - [ryanfortner/starred](https://github.com/ryanfortner/starred) - Curated list of my GitHub stars
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
