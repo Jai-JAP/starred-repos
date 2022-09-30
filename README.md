@@ -2183,6 +2183,7 @@
 
 ## TypeScript 
 
+- [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [brunnerh/insert-unicode](https://github.com/brunnerh/insert-unicode) - A Visual Studio Code extension which adds commands for inserting unicode characters/codes.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
