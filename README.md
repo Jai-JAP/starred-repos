@@ -715,7 +715,6 @@
 
 ## CSS 
 
-- [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies" (WIP)
 - [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 - [sysce/chrome100](https://github.com/sysce/chrome100) - Collection of ChromeOS recovery images.
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always Updated!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
@@ -954,6 +953,7 @@
 ## JavaScript 
 
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
+- [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies" (WIP)
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [erkserkserks/h264ify-firefox](https://github.com/erkserkserks/h264ify-firefox) - A Firefox extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
