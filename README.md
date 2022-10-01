@@ -1780,7 +1780,7 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [wizard-28/wealthy](https://github.com/wizard-28/wealthy) - https://github.com/Textualize/rich ported to Rust!
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
+- [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [Chadano/skyWM](https://github.com/Chadano/skyWM) - skyWM is an extensible tiling window manager written in Rust. skyWM has a clear and distinct focus adhering to the KISS and Unix philosophy.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
