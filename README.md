@@ -890,6 +890,7 @@
 - [Itai-Nelken/Webcord_debian-repo](https://github.com/Itai-Nelken/Webcord_debian-repo) - unofficial repo for electron-discord-webapp (https://github.com/SpacingBat3/WebCord) by @SpacingBat3
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [phoenixbyrd/webapps](https://github.com/phoenixbyrd/webapps) - Web Apps for Twister OS
+- [raspbian-addons/docs](https://github.com/raspbian-addons/docs) - Raspbian Addons project documentation
 - [Pi-Apps-Coders/website](https://github.com/Pi-Apps-Coders/website) - Pi-Apps project website
 - [raspbian-addons/apt.raspbian-addons.org](https://github.com/raspbian-addons/apt.raspbian-addons.org) - about page for raspbian-addons' main mirror
 - [piware14/piware14.github.io](https://github.com/piware14/piware14.github.io) - 
@@ -1362,7 +1363,6 @@
 - [dhanishgajjar/terminal-icons](https://github.com/dhanishgajjar/terminal-icons) - Beautiful icons for your favourite terminal apps like Hyper and iTerm2
 - [ryanfortner/Learning-Python](https://github.com/ryanfortner/Learning-Python) - Bits and pieces of beginners' Python code
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
-- [raspbian-addons/docs](https://github.com/raspbian-addons/docs) - Raspbian Addons project documentation
 - [ryanfortner/exagear-rpi](https://github.com/ryanfortner/exagear-rpi) - installing Exagear Desktop on the newer Raspberry Pies
 - [Pi-Apps-Coders/docs](https://github.com/Pi-Apps-Coders/docs) - [wip] documentation website for pi-apps
 - [TheMindVirus/universaldrivers](https://github.com/TheMindVirus/universaldrivers) - The beginnings of Universal Drivers on UEFI systems for the Windows on Raspberry Project
@@ -2017,7 +2017,6 @@
 - [RPi-Distro/raspi-gpio](https://github.com/RPi-Distro/raspi-gpio) - Dump the state of the BCM270x GPIOs
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
 - [oxmc/chromium-theme](https://github.com/oxmc/chromium-theme) - Set chromium's dark/light mode from terminal
-- [ALBINPRAVEEN/Free-vps](https://github.com/ALBINPRAVEEN/Free-vps) - 
 - [Jai-JAP/desktopify](https://github.com/Jai-JAP/desktopify) - Convert Ubuntu Server for Raspberry Pi into a Desktop
 - [Jai-JAP/neofetch](https://github.com/Jai-JAP/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [emojifreak/debian-rpi-image-script](https://github.com/emojifreak/debian-rpi-image-script) - Shell script to build Debian and Devuan SD card image booting the Raspberry Pi series
