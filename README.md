@@ -22,6 +22,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Hack](#hack)
 - [Haskell](#haskell)
@@ -847,6 +848,10 @@
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
+
+## HCL 
+
+- [Olivr/free-domain](https://github.com/Olivr/free-domain) - Get a cluster.ws & wip.la domain for free and instantly
 
 ## HTML 
 
