@@ -1726,6 +1726,7 @@
 
 ## QML 
 
+- [Prayag2/kde_controlcentre](https://github.com/Prayag2/kde_controlcentre) - A control centre for KDE inspired by MacOS!
 - [qewer33/Exquisite](https://github.com/qewer33/Exquisite) - Easy window layout management for KDE Plasma
 - [PapirusDevelopmentTeam/arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
 - [varlesh/plasma-deck](https://github.com/varlesh/plasma-deck) - Steam Deck UI on Plasma
