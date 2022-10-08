@@ -1587,7 +1587,6 @@
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [rsm-gh/akbl](https://github.com/rsm-gh/akbl) - Control the lights of Alienware computers under GNU/Linux systems.
 - [pindexis/qfc](https://github.com/pindexis/qfc) - Quick Command-line File Completion
-- [oxmc/itunes-rpi](https://github.com/oxmc/itunes-rpi) - 
 - [UN-GCPDS/qt-material](https://github.com/UN-GCPDS/qt-material) - Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6
 - [dmerejkowsky/pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progress bar
 - [jlevy/repren](https://github.com/jlevy/repren) - Rename anything
