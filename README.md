@@ -773,7 +773,7 @@
 ## Dart 
 
 - [ymauray/deborah](https://github.com/ymauray/deborah) - A flutter front-end to deb-get
-- [gumbarros/DevToysLinux](https://github.com/gumbarros/DevToysLinux) - Linux version of DevToys, a Swiss Army knife for developers.
+- [gumbarros/DevToysFlutter](https://github.com/gumbarros/DevToysFlutter) - Cross-platform version of DevToys, a Swiss Army knife for developers.
 - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 The official ReVanced Manager
 - [Far-Se/tabame](https://github.com/Far-Se/tabame) - Tabame is an alternative to Windows Taskbar. It also contains great tools such as advanced Hotkeys, QuickRun, Trktivity and Wizardly.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
