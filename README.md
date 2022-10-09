@@ -571,7 +571,7 @@
 - [ALTaleX531/TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Acrylic effect for most of the flyouts
 - [sovetskyfish/winver](https://github.com/sovetskyfish/winver) - A CLI version of winver
 - [dongle-the-gadget/WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - A UWP version of winver
-- [krlvm/AccentColorizer](https://github.com/krlvm/AccentColorizer) - Colorize Windows with accent color of your choice without modifying system files
+- [krlvm/AccentColorizer](https://github.com/krlvm/AccentColorizer) - Recolorize Win32 controls with accent color in-memory without patching theme
 - [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver) - Winver with mica for Rectify11
 - [benbuck/rbtray](https://github.com/benbuck/rbtray) - A fork of RBTray from http://sourceforge.net/p/rbtray/code/.
 - [Jax-Core/YourFlyouts](https://github.com/Jax-Core/YourFlyouts) - Fully customizable, multi-designed flyouts replacement for Windows
@@ -1802,7 +1802,7 @@
 - [wizard-28/wealthy](https://github.com/wizard-28/wealthy) - https://github.com/Textualize/rich ported to Rust!
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
-- [Chadano/skyWM](https://github.com/Chadano/skyWM) - skyWM is an extensible tiling window manager written in Rust. skyWM has a clear and distinct focus adhering to the KISS and Unix philosophy.
+- [httpllamaz/skyWM](https://github.com/httpllamaz/skyWM) - skyWM is an extensible tiling window manager written in Rust. skyWM has a clear and distinct focus adhering to the KISS and Unix philosophy.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [hopey-dishwasher/termpix](https://github.com/hopey-dishwasher/termpix) - Display images in an ANSI terminal
