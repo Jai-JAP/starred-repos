@@ -1880,6 +1880,7 @@
 
 ## Shell 
 
+- [M0Rf30/simonpi](https://github.com/M0Rf30/simonpi) - A quick & dirty script to emulate Raspberry PI family devices on your laptop.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier](https://github.com/anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier) - Block advertisements and trackers using pi-hole in Oracle Always Free tier
 - [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) - Apx is a wrapper around apt to make it works inside a container from outside, directly on the host.
