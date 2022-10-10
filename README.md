@@ -1451,6 +1451,7 @@
 
 ## Python 
 
+- [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms) - Easily manage Linux Chroot(s) and Containers with Atoms.
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [benbarth/hacktoberfest-swag](https://github.com/benbarth/hacktoberfest-swag) - Looking for hacktoberfest swag? You've come to the right place.
 - [Vanilla-OS/first-setup](https://github.com/Vanilla-OS/first-setup) - This utility is meant to be used in Ubuntu Vanilla GNOME as a first-setup wizard.
