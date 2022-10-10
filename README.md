@@ -414,6 +414,7 @@
 
 ## C# # 
 
+- [FireCubeStudios/FluentFlyouts3](https://github.com/FireCubeStudios/FluentFlyouts3) - Fluent Flyouts 3 WinUI 3 Edition
 - [WereDev/Wu10Man](https://github.com/WereDev/Wu10Man) - Enable/Disable Windows 10 Automatic Updates
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [Blindside-Studios/Flooent-Calcoolator](https://github.com/Blindside-Studios/Flooent-Calcoolator) - Simple calculator with animations making it a pain to use but good for practise. Nice.
@@ -1882,6 +1883,7 @@
 
 ## Shell 
 
+- [saeziae/pkgbuild-linux-phytium](https://github.com/saeziae/pkgbuild-linux-phytium) - Archlinux package for Linux kernel on Phytium 飞腾
 - [M0Rf30/simonpi](https://github.com/M0Rf30/simonpi) - A quick & dirty script to emulate Raspberry PI family devices on your laptop.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier](https://github.com/anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier) - Block advertisements and trackers using pi-hole in Oracle Always Free tier
