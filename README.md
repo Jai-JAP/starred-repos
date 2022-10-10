@@ -1883,6 +1883,7 @@
 
 ## Shell 
 
+- [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
 - [saeziae/pkgbuild-linux-phytium](https://github.com/saeziae/pkgbuild-linux-phytium) - Archlinux package for Linux kernel on Phytium 飞腾
 - [M0Rf30/simonpi](https://github.com/M0Rf30/simonpi) - A quick & dirty script to emulate Raspberry PI family devices on your laptop.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
@@ -2293,6 +2294,7 @@
 
 ## Vala 
 
+- [teejee2008/groot](https://github.com/teejee2008/groot) - Chroot helper utility for all Linux distributions
 - [hcsubser/hybridbar](https://github.com/hcsubser/hybridbar) - 
 - [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment.
 - [ErikReider/SwaySettings](https://github.com/ErikReider/SwaySettings) - 
