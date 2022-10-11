@@ -572,7 +572,7 @@
 - [ALTaleX531/TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Acrylic effect for most of the flyouts
 - [sovetskyfish/winver](https://github.com/sovetskyfish/winver) - A CLI version of winver
 - [dongle-the-gadget/WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - A UWP version of winver
-- [krlvm/AccentColorizer](https://github.com/krlvm/AccentColorizer) - Recolorize Win32 controls with accent color in-memory without patching theme
+- [krlvm/AccentColorizer](https://github.com/krlvm/AccentColorizer) - Recolorize Win32 controls in-memory with accent color without patching theme
 - [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver) - Winver with mica for Rectify11
 - [benbuck/rbtray](https://github.com/benbuck/rbtray) - A fork of RBTray from http://sourceforge.net/p/rbtray/code/.
 - [Jax-Core/YourFlyouts](https://github.com/Jax-Core/YourFlyouts) - Fully customizable, multi-designed flyouts replacement for Windows
@@ -1501,7 +1501,6 @@
 - [Sven-Bo/advanced-gui-with-usersettings-and-menubar](https://github.com/Sven-Bo/advanced-gui-with-usersettings-and-menubar) - PySimpleGUI application with menu bar & settings (.ini) file to load/save user settings
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [0k/shyaml](https://github.com/0k/shyaml) - YAML for command line
-- [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Opensource macOS Cursors.
 - [ptysko/nixver](https://github.com/ptysko/nixver) - Basically winver ripoff
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
@@ -1942,6 +1941,7 @@
 - [KhanhNguyen9872/Kali-Linux-aarch64-arm64-](https://github.com/KhanhNguyen9872/Kali-Linux-aarch64-arm64-) - Here is Server Kali-Linux (arm64) by KhanhNguyen9872
 - [KhanhNguyen9872/ubuntu-on-android](https://github.com/KhanhNguyen9872/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 - [yeyushengfan258/Win11-icon-theme](https://github.com/yeyushengfan258/Win11-icon-theme) - A colorful design icon theme for linux desktops
+- [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Open source macOS Cursors.
 - [vinceliuice/WhiteSur-icon-theme](https://github.com/vinceliuice/WhiteSur-icon-theme) - MacOS Big Sur style icon theme for linux desktops
 - [Har-Kuun/OneClickCDN](https://github.com/Har-Kuun/OneClickCDN) - A one-click shell script to set up a CDN node for your websites.
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
