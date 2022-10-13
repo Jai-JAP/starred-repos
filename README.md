@@ -496,6 +496,7 @@
 
 ## C++ 
 
+- [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
