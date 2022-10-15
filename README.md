@@ -248,7 +248,7 @@
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [leha-code/FlappyBirdArduino](https://github.com/leha-code/FlappyBirdArduino) - Flappy bird for Arduino
 - [Tix3Dev/KnutOS](https://github.com/Tix3Dev/KnutOS) - An x86_64 hobbyist OS written in C and Assembly
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD, Intel and NVIDIA GPUs process monitoring
 - [tsoding/flag.h](https://github.com/tsoding/flag.h) - Command-line flag parsing in C
 - [stefanberger/swtpm](https://github.com/stefanberger/swtpm) - Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
@@ -1439,6 +1439,7 @@
 
 ## PowerShell 
 
+- [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 and Windows 11 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 & 11 security and privacy script!
 - [AdamGrossTX/FU.WhyAmIBlocked](https://github.com/AdamGrossTX/FU.WhyAmIBlocked) - 
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) - Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatw
 - [actions/python-versions](https://github.com/actions/python-versions) - Python builds for Actions Virtual Environments
