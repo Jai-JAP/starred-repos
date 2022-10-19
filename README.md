@@ -1460,6 +1460,7 @@
 
 ## Python 
 
+- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms) - Easily manage Linux Chroot(s) and Containers with Atoms.
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
@@ -1893,6 +1894,7 @@
 
 ## Shell 
 
+- [appsmithorg/foundry](https://github.com/appsmithorg/foundry) - A collection of apps smithed in the foundry. Browse templates, sample apps, designs, and other resources, from Appsmith and the Appsmith community.
 - [TanmayPatil105/wifi-cli](https://github.com/TanmayPatil105/wifi-cli) - Wifi through command line
 - [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
 - [saeziae/pkgbuild-linux-phytium](https://github.com/saeziae/pkgbuild-linux-phytium) - Archlinux package for Linux kernel on Phytium 飞腾
