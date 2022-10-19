@@ -416,6 +416,7 @@
 
 ## C# # 
 
+- [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - A stylish yet powerful GitHub client.
 - [lepoco/wpfui](https://github.com/lepoco/wpfui) - A simple way to make your application written in WPF keep up with modern design trends. Library changes the base elements like Page, ToggleButton or List, and also includes additional controls like Na
 - [FireCubeStudios/Run](https://github.com/FireCubeStudios/Run) - WinUI 3 Run
 - [2fast-team/2fast](https://github.com/2fast-team/2fast) - Two-Factor Authenticator Supporting TOTP (Windows 10 & Android, iOS, Linux and macOS App)
