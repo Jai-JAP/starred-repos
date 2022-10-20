@@ -1896,6 +1896,7 @@
 
 ## Shell 
 
+- [wimpysworld/machinespawn](https://github.com/wimpysworld/machinespawn) - Wrapper for machinectl and systemd-nspawn for creating containers
 - [appsmithorg/foundry](https://github.com/appsmithorg/foundry) - A collection of apps smithed in the foundry. Browse templates, sample apps, designs, and other resources, from Appsmith and the Appsmith community.
 - [TanmayPatil105/wifi-cli](https://github.com/TanmayPatil105/wifi-cli) - Wifi through command line
 - [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
