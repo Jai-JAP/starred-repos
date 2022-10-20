@@ -868,6 +868,7 @@
 
 ## HTML 
 
+- [nfriedly/nodeunblocker.com](https://github.com/nfriedly/nodeunblocker.com) - Evade internet censorship!
 - [manjaro-arm/rpi4-images](https://github.com/manjaro-arm/rpi4-images) - 
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [GameGenesis/Youtube-Video-Downloader](https://github.com/GameGenesis/Youtube-Video-Downloader) - Convert a YouTube video or playlist to an MP3 audio or MP4 video format. Includes conversion history when signed in.
@@ -1896,6 +1897,7 @@
 
 ## Shell 
 
+- [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [wimpysworld/machinespawn](https://github.com/wimpysworld/machinespawn) - Wrapper for machinectl and systemd-nspawn for creating containers
 - [appsmithorg/foundry](https://github.com/appsmithorg/foundry) - A collection of apps smithed in the foundry. Browse templates, sample apps, designs, and other resources, from Appsmith and the Appsmith community.
 - [TanmayPatil105/wifi-cli](https://github.com/TanmayPatil105/wifi-cli) - Wifi through command line
