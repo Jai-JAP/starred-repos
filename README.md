@@ -1238,7 +1238,6 @@
 - [MCPI-Revival/minecraft-pe-reborn](https://github.com/MCPI-Revival/minecraft-pe-reborn) - Minecraft Pocket Edition 0.6.1 in linux
 - [ninjaaron/replacing-bash-scripting-with-python](https://github.com/ninjaaron/replacing-bash-scripting-with-python) - Guide on using using python for administrative scripting
 - [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 4th Gen (Haswell) or AMD Ryzen
-- [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [kmille36/scrcpy-audio-support](https://github.com/kmille36/scrcpy-audio-support) - Easy remote your Android device over wifi with scrcpy + audio support over vlc.
 - [TheTorProject/gettorbrowser](https://github.com/TheTorProject/gettorbrowser) - 
@@ -1487,6 +1486,7 @@
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [Azure/WALinuxAgent](https://github.com/Azure/WALinuxAgent) - Microsoft Azure Linux Guest Agent
 - [Kicksecure/sdwdate](https://github.com/Kicksecure/sdwdate) - Secure Distributed Web Date; privacy, anonymity and Tor friendly; console time fetcher and daemon; optional graphical user interface etc. Website: https://www.kicksecure.com/wiki/sdwdate
+- [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [HuyHung1408/TimerX](https://github.com/HuyHung1408/TimerX) - A fluent Timer App, made completely in Python
 - [Futura-Py/FluxCalc](https://github.com/Futura-Py/FluxCalc) - FluXCalc, a calculator with a tiny bit of Fluent design
 - [HuyHung1408/Mica-Run](https://github.com/HuyHung1408/Mica-Run) - Windows Run-but with Python and Mica
