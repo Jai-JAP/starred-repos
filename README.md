@@ -2115,7 +2115,7 @@
 - [NoozSBC/mcpi-reborn-extended](https://github.com/NoozSBC/mcpi-reborn-extended) - The next generation of Minecraft: Pi Edition
 - [TheBananaStore/TheBananaStore](https://github.com/TheBananaStore/TheBananaStore) - 🍌🐧 Content repository for the Banana Store
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
-- [q3aql/aria2-static-builds](https://github.com/q3aql/aria2-static-builds) - aria2 static builds for GNU/Linux & Windows (with OpenSSL).
+- [q3aql/aria2-static-builds](https://github.com/q3aql/aria2-static-builds) - MOVED: https://gitlab.com/q3aql/aria2-static-builds
 - [ShadityOS/exagear-rpi](https://github.com/ShadityOS/exagear-rpi) - Install Exagear on the Raspberry Pi using a simple setup script
 - [Crilum/styleprompt](https://github.com/Crilum/styleprompt) - Create and manage bash prompts
 - [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder
