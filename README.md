@@ -104,6 +104,7 @@
 
 ## C 
 
+- [zserge/jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
 - [manatails/uefiseven](https://github.com/manatails/uefiseven) - An EFI loader that emulates int10h interrupts needed for booting Windows 7 under UEFI Class 3 systems.
 - [X0rg/CPU-X](https://github.com/X0rg/CPU-X) - CPU-X is a Free software that gathers information on CPU, motherboard and more
 - [Linaro/vixl](https://github.com/Linaro/vixl) - AArch32 and AArch64 Runtime Code Generation Library
@@ -503,6 +504,8 @@
 
 ## C++ 
 
+- [taocpp/json](https://github.com/taocpp/json) - C++ header-only JSON library
+- [danielaparker/jsoncons](https://github.com/danielaparker/jsoncons) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSON Schema, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
