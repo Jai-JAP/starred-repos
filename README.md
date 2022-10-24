@@ -870,6 +870,7 @@
 
 ## HTML 
 
+- [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [nfriedly/nodeunblocker.com](https://github.com/nfriedly/nodeunblocker.com) - Evade internet censorship!
 - [manjaro-arm/rpi4-images](https://github.com/manjaro-arm/rpi4-images) - 
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
@@ -976,6 +977,7 @@
 
 ## JavaScript 
 
+- [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker) - Web proxy for evading internet censorship, and general-purpose Node.js library for proxying and rewriting remote webpages
 - [cra16/cake-core](https://github.com/cra16/cake-core) - 
 - [puf17640/git-badges](https://github.com/puf17640/git-badges) - An API serving useful badges for your GitHub Profile README 🚀🎉
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
@@ -1740,7 +1742,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-500-Stars](https://github.com/iBug/This-Repo-Has-500-Stars) - Yes, it's true :purple_heart: This repository has 500 stars.
+- [iBug/This-Repo-Has-500-Stars](https://github.com/iBug/This-Repo-Has-500-Stars) - Yes, it's true :two_hearts: This repository has 500 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
