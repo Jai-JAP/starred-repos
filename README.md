@@ -104,6 +104,7 @@
 
 ## C 
 
+- [manatails/uefiseven](https://github.com/manatails/uefiseven) - An EFI loader that emulates int10h interrupts needed for booting Windows 7 under UEFI Class 3 systems.
 - [X0rg/CPU-X](https://github.com/X0rg/CPU-X) - CPU-X is a Free software that gathers information on CPU, motherboard and more
 - [Linaro/vixl](https://github.com/Linaro/vixl) - AArch32 and AArch64 Runtime Code Generation Library
 - [armvixl/vixl](https://github.com/armvixl/vixl) - 
@@ -2235,6 +2236,7 @@
 
 ## TypeScript 
 
+- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [brunnerh/insert-unicode](https://github.com/brunnerh/insert-unicode) - A Visual Studio Code extension which adds commands for inserting unicode characters/codes.
