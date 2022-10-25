@@ -504,6 +504,7 @@
 
 ## C++ 
 
+- [amilaperera/clang-format-gui](https://github.com/amilaperera/clang-format-gui) - GUI Wrapper for clang-format
 - [taocpp/json](https://github.com/taocpp/json) - C++ header-only JSON library
 - [danielaparker/jsoncons](https://github.com/danielaparker/jsoncons) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSON Schema, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
@@ -980,6 +981,7 @@
 
 ## JavaScript 
 
+- [zed0/clang-format-configurator](https://github.com/zed0/clang-format-configurator) - Interactively view changes in clang-format configuration
 - [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker) - Web proxy for evading internet censorship, and general-purpose Node.js library for proxying and rewriting remote webpages
 - [cra16/cake-core](https://github.com/cra16/cake-core) - 
 - [puf17640/git-badges](https://github.com/puf17640/git-badges) - An API serving useful badges for your GitHub Profile README 🚀🎉
@@ -1961,7 +1963,7 @@
 - [autotools-mirror/automake](https://github.com/autotools-mirror/automake) - Mirror of git://git.savannah.gnu.org/automake.git
 - [Onelinerhub/shellhub](https://github.com/Onelinerhub/shellhub) - Shell utility to search onelinerhub directly from terminal (and executing commands if needed)
 - [Hinara/linux-vm-tools](https://github.com/Hinara/linux-vm-tools) - Hyper-V Linux Guest VM Enhancements
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4, Ubuntu/Debian homeserver, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [GYKgamer/Install-steamos-in-Ubuntu](https://github.com/GYKgamer/Install-steamos-in-Ubuntu) - New updated installation for steamos
 - [BashGui/easybashgui](https://github.com/BashGui/easybashgui) - EasyBashGUI  is a Bash functions library  for *BSD and GNU/Linux that aims to give simple GUI functions  using  yad, gtkdialog, kdialog, zenity, Xdialog, (c)dialog, whiptail or bash builtins   dependi
 - [Yisus7u7/termux-desktop-xfce](https://github.com/Yisus7u7/termux-desktop-xfce) - Set up a beautiful xfce desktop in termux
