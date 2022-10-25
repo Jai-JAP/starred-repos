@@ -1911,6 +1911,7 @@
 
 ## Shell 
 
+- [mrbvrz/segoe-ui-linux](https://github.com/mrbvrz/segoe-ui-linux) - :monkey: Install segoe-ui font on linux (ubuntu)
 - [NHDaly/tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) - A tmux plugin to better manage and configure the mouse.
 - [tmux-plugins/tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play battery percentage and icon indicator for Tmux.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
