@@ -788,7 +788,7 @@
 ## Dart 
 
 - [ymauray/deborah](https://github.com/ymauray/deborah) - A flutter front-end to deb-get
-- [gumbarros/dev_widgets](https://github.com/gumbarros/dev_widgets) - Cross-platform utilities for developers.
+- [gumbarros/DevWidgets](https://github.com/gumbarros/DevWidgets) - Cross-platform utilities for developers.
 - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 The official ReVanced Manager
 - [Far-Se/tabame](https://github.com/Far-Se/tabame) - Tabame is an alternative to Windows Taskbar. It also contains great tools such as advanced Hotkeys, QuickRun, Trktivity and Wizardly.
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - A Flutter frontend for quickget and quickemu.
