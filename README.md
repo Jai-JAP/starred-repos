@@ -504,6 +504,7 @@
 
 ## C++ 
 
+- [Maplespe/ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11
 - [amilaperera/clang-format-gui](https://github.com/amilaperera/clang-format-gui) - GUI Wrapper for clang-format
 - [taocpp/json](https://github.com/taocpp/json) - C++ header-only JSON library
 - [danielaparker/jsoncons](https://github.com/danielaparker/jsoncons) - A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSON Schema, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON
@@ -736,6 +737,7 @@
 
 ## CSS 
 
+- [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Flexible theme for manual customization.
 - [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 - [sysce/chrome100](https://github.com/sysce/chrome100) - Collection of ChromeOS recovery images.
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always Updated!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
