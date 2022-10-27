@@ -1787,6 +1787,7 @@
 
 ## Rust 
 
+- [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [alexcrichton/curl-rust](https://github.com/alexcrichton/curl-rust) - Rust bindings to libcurl
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
