@@ -876,6 +876,7 @@
 
 ## HTML 
 
+- [chadbaldwin/simple-blog-bootstrap](https://github.com/chadbaldwin/simple-blog-bootstrap) - This is a template repo you can use to set up a simple blog using GitHub Pages with SSMS Style T-SQL highlighting. Refer to the blog post below for more instructions.
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [nfriedly/nodeunblocker.com](https://github.com/nfriedly/nodeunblocker.com) - Evade internet censorship!
 - [manjaro-arm/rpi4-images](https://github.com/manjaro-arm/rpi4-images) - 
