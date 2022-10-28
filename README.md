@@ -104,6 +104,7 @@
 
 ## C 
 
+- [ahgamut/gnu-make-cosmopolitan](https://github.com/ahgamut/gnu-make-cosmopolitan) - GNU Make 4.3 source code, with modifications to compile with Cosmopolitan Libc
 - [leyyer/eokan](https://github.com/leyyer/eokan) - ext2/3/4 userspace filesystem on windows.
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab.
 - [zserge/jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
@@ -1790,6 +1791,7 @@
 
 ## Rust 
 
+- [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) - A simple example with Rust and Cosmopolitan Libc
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [alexcrichton/curl-rust](https://github.com/alexcrichton/curl-rust) - Rust bindings to libcurl
