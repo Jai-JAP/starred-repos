@@ -642,7 +642,7 @@
 - [linuxdeepin/dtkcore](https://github.com/linuxdeepin/dtkcore) - Deepin Toolkit, core module
 - [cfillion/reapack](https://github.com/cfillion/reapack) - 📦 Package manager for REAPER
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
-- [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++17.
+- [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [mcmilk/7-Zip](https://github.com/mcmilk/7-Zip) - 7-Zip source code repository
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [linuxdeepin/deepin-devicemanager](https://github.com/linuxdeepin/deepin-devicemanager) - 
@@ -876,6 +876,7 @@
 
 ## HTML 
 
+- [strongdan/js-analog-clock](https://github.com/strongdan/js-analog-clock) - 
 - [chadbaldwin/simple-blog-bootstrap](https://github.com/chadbaldwin/simple-blog-bootstrap) - This is a template repo you can use to set up a simple blog using GitHub Pages with SSMS Style T-SQL highlighting. Refer to the blog post below for more instructions.
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [nfriedly/nodeunblocker.com](https://github.com/nfriedly/nodeunblocker.com) - Evade internet censorship!
