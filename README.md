@@ -1794,6 +1794,7 @@
 
 ## Rust 
 
+- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) - A simple example with Rust and Cosmopolitan Libc
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
