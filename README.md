@@ -509,6 +509,7 @@
 
 ## C++ 
 
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
 - [Maplespe/ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11
 - [amilaperera/clang-format-gui](https://github.com/amilaperera/clang-format-gui) - GUI Wrapper for clang-format
 - [taocpp/json](https://github.com/taocpp/json) - C++ header-only JSON library
