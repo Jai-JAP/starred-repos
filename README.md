@@ -2141,7 +2141,7 @@
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
 - [hmsjy2017/n-debs](https://github.com/hmsjy2017/n-debs) - 
 - [tj/n](https://github.com/tj/n) - Node version management
-- [NoozSBC/mcpi-reborn-extended](https://github.com/NoozSBC/mcpi-reborn-extended) - The next generation of Minecraft: Pi Edition
+- [NoozSBC/mcpi-reborn-extended](https://github.com/NoozSBC/mcpi-reborn-extended) - The enthusiast's MCPI mod.
 - [TheBananaStore/TheBananaStore](https://github.com/TheBananaStore/TheBananaStore) - 🍌🐧 Content repository for the Banana Store
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [q3aql/aria2-static-builds](https://github.com/q3aql/aria2-static-builds) - MOVED: https://gitlab.com/q3aql/aria2-static-builds
