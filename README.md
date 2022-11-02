@@ -1759,7 +1759,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-501-Stars](https://github.com/iBug/This-Repo-Has-501-Stars) - Yes, it's true :heart: This repository has 501 stars.
+- [iBug/This-Repo-Has-502-Stars](https://github.com/iBug/This-Repo-Has-502-Stars) - Yes, it's true :heart: This repository has 502 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1924,6 +1924,7 @@
 
 ## Shell 
 
+- [DesktopContainers/base-debian](https://github.com/DesktopContainers/base-debian) - base image for Desktop / X11 Applications (ssh X11, vnc, http/https novnc) on debian [x86 + arm]
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [mrbvrz/segoe-ui-linux](https://github.com/mrbvrz/segoe-ui-linux) - :monkey: Install segoe-ui font on linux (ubuntu)
 - [NHDaly/tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) - A tmux plugin to better manage and configure the mouse.
