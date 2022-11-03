@@ -1320,7 +1320,7 @@
 - [bottlesdevs/components](https://github.com/bottlesdevs/components) - Repository for Bottles components
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
-- [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI.
+- [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing machine learning course / lecture notes.
 - [ryanfortner/WinXP](https://github.com/ryanfortner/WinXP) - 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [zdotsh/z.sh](https://github.com/zdotsh/z.sh) - https://z.sh/
