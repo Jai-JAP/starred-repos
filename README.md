@@ -991,6 +991,7 @@
 
 ## JavaScript 
 
+- [wisniewskit/google-search-fixer](https://github.com/wisniewskit/google-search-fixer) - 
 - [zed0/clang-format-configurator](https://github.com/zed0/clang-format-configurator) - Interactively view changes in clang-format configuration
 - [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker) - Web proxy for evading internet censorship, and general-purpose Node.js library for proxying and rewriting remote webpages
 - [cra16/cake-core](https://github.com/cra16/cake-core) - 
