@@ -92,6 +92,7 @@
 
 ## Batchfile 
 
+- [pal1000/mesa-dist-win](https://github.com/pal1000/mesa-dist-win) - Pre-built Mesa3D drivers for Windows
 - [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 - [myfreeer/7z-build-nsis](https://github.com/myfreeer/7z-build-nsis) - 7-zip build and package script with nsis script decompiling using ms visual studio
 - [MoneroOcean/xmrig_setup](https://github.com/MoneroOcean/xmrig_setup) - Auto setup scripts and pre-compiled xmr miner for moneroocean.stream pool
