@@ -278,7 +278,6 @@
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [mhsjlw/mcpilauncher](https://github.com/mhsjlw/mcpilauncher) - Launch Minecraft: PI Edition on non-ARM-based Linux systems
 - [npp-plugins/mimetools](https://github.com/npp-plugins/mimetools) - 
-- [npp-plugins/converter](https://github.com/npp-plugins/converter) - 
 - [gup4win/wingup](https://github.com/gup4win/wingup) - WinGup - Generic Updater for Windows
 - [Coreforge/linux](https://github.com/Coreforge/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum
 - [Mashpoe/c-vector](https://github.com/Mashpoe/c-vector) - a simple vector library written in C. Can store any type
@@ -661,6 +660,7 @@
 - [linuxdeepin/qt5platform-plugins](https://github.com/linuxdeepin/qt5platform-plugins) - Qt platform integration plugin for DDE.
 - [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF) official mirror. A simple framework for embedding Chromium-based browsers in other applications.
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
+- [npp-plugins/converter](https://github.com/npp-plugins/converter) - 
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
