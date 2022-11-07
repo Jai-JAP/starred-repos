@@ -105,6 +105,7 @@
 
 ## C 
 
+- [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [sheredom/subprocess.h](https://github.com/sheredom/subprocess.h) - 🐜 single header process launching solution for C and C++
 - [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
 - [ahgamut/gnu-make-cosmopolitan](https://github.com/ahgamut/gnu-make-cosmopolitan) - GNU Make 4.3 source code, with modifications to compile with Cosmopolitan Libc
