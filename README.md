@@ -1005,7 +1005,6 @@
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [erkserkserks/h264ify-firefox](https://github.com/erkserkserks/h264ify-firefox) - A Firefox extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
 - [erkserkserks/h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
-- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [gndx/javascript-challenges](https://github.com/gndx/javascript-challenges) - 
 - [JoelGMSec/EvilnoVNC](https://github.com/JoelGMSec/EvilnoVNC) - Ready to go Phishing Platform
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -2271,6 +2270,7 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [e9x/chrome100](https://github.com/e9x/chrome100) - Collection of ChromeOS recovery images.
 - [brunnerh/insert-unicode](https://github.com/brunnerh/insert-unicode) - A Visual Studio Code extension which adds commands for inserting unicode characters/codes.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
