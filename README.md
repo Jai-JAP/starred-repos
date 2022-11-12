@@ -472,7 +472,7 @@
 - [MaxtorCoder/MultiConverter](https://github.com/MaxtorCoder/MultiConverter) - Official WoW Model Converter (Originially written by Adspartan)
 - [HarshalKudale/NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge) - 
 - [builtbybel/LoveWindowsAgain](https://github.com/builtbybel/LoveWindowsAgain) - Fall in love with Windows 11
-- [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - a tool to enable backdrop effect on titlebar of win32 apps on Windows 11
+- [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - A tool to enable backdrop effects on the title bars of Win32 apps on Windows 11
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 - [driver1998/VMGuide](https://github.com/driver1998/VMGuide) - Virtual Machine utility, turn back BIOS date, disable ACPI and more.
 - [nachmore/toastify](https://github.com/nachmore/toastify) - Toastify adds global hotkeys and toast notifications to Spotify
@@ -1763,7 +1763,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-503-Stars](https://github.com/iBug/This-Repo-Has-503-Stars) - Yes, it's true :gift_heart: This repository has 503 stars.
+- [iBug/This-Repo-Has-504-Stars](https://github.com/iBug/This-Repo-Has-504-Stars) - Yes, it's true :yellow_heart: This repository has 504 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
