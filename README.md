@@ -1240,7 +1240,7 @@
 ## Others 
 
 - [mytestatoz/Books](https://github.com/mytestatoz/Books) - All books
-- [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands
+- [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
 - [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [kmille36/Azure-Virtual-Machine-For-Developer](https://github.com/kmille36/Azure-Virtual-Machine-For-Developer) - Free 8 core 32 GB with nested virtualization Azure VM.
