@@ -472,7 +472,7 @@
 - [MaxtorCoder/MultiConverter](https://github.com/MaxtorCoder/MultiConverter) - Official WoW Model Converter (Originially written by Adspartan)
 - [HarshalKudale/NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge) - 
 - [builtbybel/LoveWindowsAgain](https://github.com/builtbybel/LoveWindowsAgain) - Fall in love with Windows 11
-- [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - A tool to enable backdrop effects on the title bars of Win32 apps on Windows 11
+- [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 - [driver1998/VMGuide](https://github.com/driver1998/VMGuide) - Virtual Machine utility, turn back BIOS date, disable ACPI and more.
 - [nachmore/toastify](https://github.com/nachmore/toastify) - Toastify adds global hotkeys and toast notifications to Spotify
