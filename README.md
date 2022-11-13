@@ -428,7 +428,7 @@
 
 - [veler/notepad-based-calculator](https://github.com/veler/notepad-based-calculator) - A smart calculator using natural language processing
 - [itsWindows11/TowPad](https://github.com/itsWindows11/TowPad) - A UWP version of... WordPad!
-- [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - A stylish yet powerful GitHub client.
+- [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - A stylish yet powerful GitHub client. (Not active for a while, sorry! but come back soon!)
 - [lepoco/wpfui](https://github.com/lepoco/wpfui) - WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.
 - [FireCubeStudios/Run](https://github.com/FireCubeStudios/Run) - WinUI 3 Run
 - [2fast-team/2fast](https://github.com/2fast-team/2fast) - Two-Factor Authenticator Supporting TOTP (Windows 10 & Android, iOS, Linux and macOS App)
