@@ -512,6 +512,7 @@
 
 ## C++ 
 
+- [afbjorklund/lima-gui](https://github.com/afbjorklund/lima-gui) - Making a GUI for lima VM
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) - 
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
 - [Maplespe/ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11
@@ -826,6 +827,7 @@
 
 ## Go 
 
+- [lima-vm/sshocker](https://github.com/lima-vm/sshocker) - ssh + reverse sshfs + port forwarder, in Docker-like CLI (predecessor of Lima)
 - [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) - apx is the Vanilla OS package manager. It’s meant to be simple to use, but also powerful with support to installing packages from multiple sources without altering the root filesystem.
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [gennaro-tedesco/element](https://github.com/gennaro-tedesco/element) - 🧪 periodic table on the command line
