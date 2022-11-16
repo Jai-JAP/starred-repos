@@ -996,6 +996,7 @@
 
 ## JavaScript 
 
+- [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations) - Firefox Translations is a webextension that enables client side translations for web browsers.
 - [hitman249/wine-launcher](https://github.com/hitman249/wine-launcher) - Wine Launcher - Running Windows games under Linux
 - [wisniewskit/google-search-fixer](https://github.com/wisniewskit/google-search-fixer) - 
 - [zed0/clang-format-configurator](https://github.com/zed0/clang-format-configurator) - Interactively view changes in clang-format configuration
