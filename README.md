@@ -807,7 +807,7 @@
 
 - [ymauray/deborah](https://github.com/ymauray/deborah) - A flutter front-end to deb-get
 - [gumbarros/DevWidgets](https://github.com/gumbarros/DevWidgets) - DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys.
-- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 The official ReVanced Manager
+- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Android application to use ReVanced
 - [Far-Se/tabame](https://github.com/Far-Se/tabame) - Tabame is an alternative to Windows Taskbar. It also contains great tools such as advanced Hotkeys, QuickRun, Trktivity and Wizardly.
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - A Flutter frontend for quickget and quickemu.
 - [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
@@ -999,6 +999,7 @@
 
 ## JavaScript 
 
+- [klokantech/jekylledit](https://github.com/klokantech/jekylledit) - Jekyll Visual Content Editor for Customers  - WYSIWYG web administration / CMS for GitHub Pages website
 - [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations) - Firefox Translations is a webextension that enables client side translations for web browsers.
 - [hitman249/wine-launcher](https://github.com/hitman249/wine-launcher) - Wine Launcher - Running Windows games under Linux
 - [wisniewskit/google-search-fixer](https://github.com/wisniewskit/google-search-fixer) - 
