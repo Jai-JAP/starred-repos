@@ -106,6 +106,7 @@
 
 ## C 
 
+- [pbatard/efifs](https://github.com/pbatard/efifs) - EFI FileSystem drivers
 - [maharmstone/quibble](https://github.com/maharmstone/quibble) - Quibble - the custom Windows bootloader
 - [ebiggers/ntfs-3g-system-compression](https://github.com/ebiggers/ntfs-3g-system-compression) - NTFS-3G plugin for reading "system compressed" files
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
@@ -1245,6 +1246,7 @@
 
 ## Others 
 
+- [skills/github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 - [mytestatoz/Books](https://github.com/mytestatoz/Books) - All books
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
 - [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
@@ -1769,7 +1771,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [robotprobot/github-stats](https://github.com/robotprobot/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-506-Stars](https://github.com/iBug/This-Repo-Has-506-Stars) - Yes, it's true :yellow_heart: This repository has 506 stars.
+- [iBug/This-Repo-Has-506-Stars](https://github.com/iBug/This-Repo-Has-506-Stars) - Yes, it's true :gift_heart: This repository has 506 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
