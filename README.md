@@ -1253,6 +1253,7 @@
 
 ## Others 
 
+- [Upinel/localhost.direct](https://github.com/Upinel/localhost.direct) - localhost with public CA signed SSL certificate
 - [ancient-empires/Java-emulators](https://github.com/ancient-empires/Java-emulators) - Java Emulators: KEmulator (Windows) & microemulator (Windows / Linux / macOS)
 - [skills/github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 - [mytestatoz/Books](https://github.com/mytestatoz/Books) - All books
