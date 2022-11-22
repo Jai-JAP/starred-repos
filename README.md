@@ -924,7 +924,7 @@
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - A minimal, responsive and light theme for Hugo inspired by Linux console.
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
-- [NeraWoowty/nerawoowty.github.io](https://github.com/NeraWoowty/nerawoowty.github.io) - my minecraft packs website :)
+- [nera-w/nera-w.github.io](https://github.com/nera-w/nera-w.github.io) - my minecraft packs website :)
 - [appwrite/playground-for-web](https://github.com/appwrite/playground-for-web) - Simple examples that help you get started with Appwrite + Web (=❤️)
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
