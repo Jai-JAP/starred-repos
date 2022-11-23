@@ -1973,7 +1973,7 @@
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier](https://github.com/anbuchelva/Pi-hole-and-Wireguard-on-Oracle-Cloud-always-free-tier) - Block advertisements and trackers using pi-hole in Oracle Always Free tier
 - [creative-builds/WSA-Magisk](https://github.com/creative-builds/WSA-Magisk) - 
-- [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - 
+- [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
 - [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
