@@ -129,7 +129,7 @@
 - [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a complete
 - [vxiiduu/VxKex](https://github.com/vxiiduu/VxKex) - Windows 7 API Extensions
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager
-- [HackerDaGreat57/bpp](https://github.com/HackerDaGreat57/bpp) - An application that will eventually be capable of anything
+- [HackerDaGreat57/bpp](https://github.com/HackerDaGreat57/bpp) - Abandoned project
 - [rockdaboot/wget2](https://github.com/rockdaboot/wget2) - The successor of GNU Wget. Contributions preferred at https://gitlab.com/gnuwget/wget2. But accepted here as well 😍
 - [MCPI-Revival/Ninecraft](https://github.com/MCPI-Revival/Ninecraft) - A mcpe 0.6.x launcher for linux
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
