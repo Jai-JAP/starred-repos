@@ -814,6 +814,7 @@
 
 ## Dockerfile 
 
+- [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [ponsfrilus/arch-novnc](https://github.com/ponsfrilus/arch-novnc) - Docker container running ArchLinux accessible through novnc in a browser
 - [DCsunset/docker-archlinux-vnc](https://github.com/DCsunset/docker-archlinux-vnc) - A docker image of Arch Linux with KDE desktop and VNC support.
 - [retrage/edk2-nightly](https://github.com/retrage/edk2-nightly) - Unofficial EDK2 nightly build
@@ -1952,6 +1953,8 @@
 
 ## Shell 
 
+- [sickcodes/anbox-modules-dkms](https://github.com/sickcodes/anbox-modules-dkms) - anbox-modules-dkms for kernel - resurrected aur.archlinux.org/anbox-modules-dkms for ongoing maintaining. Next Generation Box Modules DKMS (ngbox). WayDroid, Anbox Halium, Droid Native, Dock Droid + B
+- [sickcodes/droid-native](https://github.com/sickcodes/droid-native) - Next Generation Android x86 Desktop - Anbox, Lineage, WayDroid, BlissOS, Dock-Droid
 - [butterfly-garden/ubuntu-butterfly-settings](https://github.com/butterfly-garden/ubuntu-butterfly-settings) - Ubuntu Butterfly default settings 🎛
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [ryanfortner/box86-debs](https://github.com/ryanfortner/box86-debs) - box86 debian/apt repository
