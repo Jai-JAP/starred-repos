@@ -564,7 +564,6 @@
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [krlvm/ContextMenuNormalizer](https://github.com/krlvm/ContextMenuNormalizer) - Normalize context menu highlight color in Windows 10 19H1+
-- [Bigjango13/MCPI-Addons](https://github.com/Bigjango13/MCPI-Addons) - Addons to the MCPI api.
 - [Bigjango13/MCPI-Mods](https://github.com/Bigjango13/MCPI-Mods) - A collection of my mods for MCPI-Reborn.
 - [Omyyyy/pycom](https://github.com/Omyyyy/pycom) - A Python compiler, down to native code, using C++
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -1540,6 +1539,7 @@
 - [heartexlabs/labelImg](https://github.com/heartexlabs/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 - [Kharacternyk/barva](https://github.com/Kharacternyk/barva) - An audio visualizer that pulses the background of your terminal (or anything else).
+- [Bigjango13/MCPI-Addons](https://github.com/Bigjango13/MCPI-Addons) - Addons to the MCPI api.
 - [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls` for the pros.
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [nsonaniya2010/SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) - A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github.
