@@ -262,7 +262,6 @@
 - [LoyieKing/X86PeRunner](https://github.com/LoyieKing/X86PeRunner) - Run X86 PE file on Windows 10 ARM32
 - [jinfeihan57/p7zip](https://github.com/jinfeihan57/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/sevenzip/ AND https://sourceforge.net/projects/p7zip/).
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
-- [leha-code/FlappyBirdArduino](https://github.com/leha-code/FlappyBirdArduino) - Flappy bird for Arduino
 - [Tix3Dev/KnutOS](https://github.com/Tix3Dev/KnutOS) - An x86_64 hobbyist OS written in C and Assembly
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
 - [tsoding/flag.h](https://github.com/tsoding/flag.h) - Command-line flag parsing in C
@@ -1569,7 +1568,6 @@
 - [pacstall/libpacstall](https://github.com/pacstall/libpacstall) - Backend API library for Pacstall
 - [makedeb/prebuilt-mpr](https://github.com/makedeb/prebuilt-mpr) - APT repository for prebuilt MPR packages
 - [Griphitor/Griph-pad](https://github.com/Griphitor/Griph-pad) - Griph-Pad is a simple text editor by @Advik-B
-- [leha-code/Claculator](https://github.com/leha-code/Claculator) - The very calculator
 - [xboxone08/making_mcpi_real](https://github.com/xboxone08/making_mcpi_real) - This plugin for Minecraft: Pi edition aims to "update" it to be more like newer versions of Minecraft Bedrock Edition
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [ilstam/FF-Multi-Converter](https://github.com/ilstam/FF-Multi-Converter) - GUI File Format Converter
@@ -1616,7 +1614,6 @@
 - [saitoha/PySixel](https://github.com/saitoha/PySixel) - View full-pixel color graphics on SIXEL-supported terminals(xterm/mlterm/DECterm/Reflection/kermit/RLogin/tanasinn/yaft)
 - [HashLDash/Photon](https://github.com/HashLDash/Photon) - Lightning fast and portable programming language!
 - [wi99/mcpi_scripts](https://github.com/wi99/mcpi_scripts) - 
-- [leha-code/FallBlock](https://github.com/leha-code/FallBlock) - A game for Minecraft Pi! Can you escape the falling blocks?
 - [eylles/pywal16](https://github.com/eylles/pywal16) - 16 colors fork of pywal
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
