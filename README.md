@@ -2128,7 +2128,7 @@
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 - [manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them
 - [imperador/chromefy](https://github.com/imperador/chromefy) - Project Croissant: Install Chrome OS on any Computer - Transforming Chromium to Chrome
-- [akuker/rascsi-pi-gen](https://github.com/akuker/rascsi-pi-gen) - Tool used to create the raspberrypi.org Raspbian images
+- [PiSCSI/piscsi-pi-gen](https://github.com/PiSCSI/piscsi-pi-gen) - Tool used to create the raspberrypi.org Raspbian images
 - [RPi-Distro/raspi-gpio](https://github.com/RPi-Distro/raspi-gpio) - Dump the state of the BCM270x GPIOs
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
 - [oxmc/chromium-theme](https://github.com/oxmc/chromium-theme) - Set chromium's dark/light mode from terminal
