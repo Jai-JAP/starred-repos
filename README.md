@@ -281,7 +281,6 @@
 - [Itai-Nelken/itai-lang](https://github.com/Itai-Nelken/itai-lang) - 
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
-- [pulkomandy/grafx2](https://github.com/pulkomandy/grafx2) - Mirror of GrafX2. Official repo is on gitlab.
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [mhsjlw/mcpilauncher](https://github.com/mhsjlw/mcpilauncher) - Launch Minecraft: PI Edition on non-ARM-based Linux systems
 - [npp-plugins/mimetools](https://github.com/npp-plugins/mimetools) - 
@@ -964,6 +963,7 @@
 
 ## Java 
 
+- [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [hex007/freej2me](https://github.com/hex007/freej2me) - A free J2ME emulator with libretro, awt and sdl2 frontends.
 - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
 - [farmerbb/Taskbar](https://github.com/farmerbb/Taskbar) - PC-style productivity for Android
@@ -1954,6 +1954,7 @@
 
 ## Shell 
 
+- [kakathic/YT-AT](https://github.com/kakathic/YT-AT) - Tool to build YouTube ReVanced online automatically.
 - [TheFreePenguin/tfpstore](https://github.com/TheFreePenguin/tfpstore) - A CLI frontend to your favorite package managers! Supports all Debian-based, Arch-based, and RHEL-based distros!
 - [sickcodes/anbox-modules-dkms](https://github.com/sickcodes/anbox-modules-dkms) - anbox-modules-dkms for kernel - resurrected aur.archlinux.org/anbox-modules-dkms for ongoing maintaining. Next Generation Box Modules DKMS (ngbox). WayDroid, Anbox Halium, Droid Native, Dock Droid + B
 - [sickcodes/droid-native](https://github.com/sickcodes/droid-native) - Next Generation Android x86 Desktop - Anbox, Lineage, WayDroid, BlissOS, Dock-Droid
