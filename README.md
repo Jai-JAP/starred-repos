@@ -468,7 +468,7 @@
 - [thisismalindu/SymbolPicker](https://github.com/thisismalindu/SymbolPicker) - A Simple Symbol Picker app like the Windows Emoji Picker to search and copy symbols to the clipboard.
 - [randyrants/winverex](https://github.com/randyrants/winverex) - Command prompt utility that returns a "fully qualified" version of Windows 10
 - [krlvm/AccentColorizer-E11](https://github.com/krlvm/AccentColorizer-E11) - Accent Colorization for Windows 11 File Explorer Icon Glyphs
-- [MishaTY/Rectify11Installer](https://github.com/MishaTY/Rectify11Installer) - Official Rectify11 installer source code. Note: not completed
+- [MishaTY/Rectify11Installer](https://github.com/MishaTY/Rectify11Installer) - A Windows 11 modification to make Windows more consistent.
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 - [AlexanderPro/SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
 - [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
