@@ -739,7 +739,7 @@
 - [TheMindVirus/pi4bdd](https://github.com/TheMindVirus/pi4bdd) - Second Monitor Support for Pi4 running Windows 10 for ARM Insider Build 21322
 - [TheMindVirus/ioctl](https://github.com/TheMindVirus/ioctl) - Example Implementation of Device I/O Control (IOCTL) in Windows 10 running on a Raspberry Pi 4
 - [TheMindVirus/roscos](https://github.com/TheMindVirus/roscos) - Visual Studio 2019 Compiled Source Directories of Windows Render/Compute-Only-Sample Drivers (ROS/COS)
-- [AntiMicro/antimicro](https://github.com/AntiMicro/antimicro) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
+- [AntiMicro/antimicro](https://github.com/AntiMicro/antimicro) - [NOT maintained anymore] Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
 - [TheMindVirus/v3dqpu](https://github.com/TheMindVirus/v3dqpu) - Graphics Infrastructure Development of Full-Display-And-Render-Driver for Raspberry Pi 4 running Windows 10
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [td512/re3](https://github.com/td512/re3) - GTA III, Vice City
