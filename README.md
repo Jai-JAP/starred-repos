@@ -1532,7 +1532,6 @@
 - [Futura-Py/FluxCalc](https://github.com/Futura-Py/FluxCalc) - FluXCalc, a calculator with a tiny bit of Fluent design
 - [HuyHung1408/Mica-Run](https://github.com/HuyHung1408/Mica-Run) - Windows Run-but with Python and Mica
 - [tor2web/Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers
-- [kennyh7279/shortcut-generator-simple](https://github.com/kennyh7279/shortcut-generator-simple) - Small and simple application to generate .desktop files for use on linux desktop environments
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
 - [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! trunk
 - [quint-t/Text-Translator](https://github.com/quint-t/Text-Translator) - Text Translator (GUI application)
