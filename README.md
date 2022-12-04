@@ -106,6 +106,8 @@
 
 ## C 
 
+- [rhboot/efibootmgr](https://github.com/rhboot/efibootmgr) - efibootmgr development tree
+- [tezc/sc](https://github.com/tezc/sc) - Common libraries and data structures for C.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 - [PietJankbal/powershell-wrapper-for-wine](https://github.com/PietJankbal/powershell-wrapper-for-wine) - pwsh
@@ -516,6 +518,7 @@
 
 ## C++ 
 
+- [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [afbjorklund/lima-gui](https://github.com/afbjorklund/lima-gui) - Making a GUI for lima VM
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) - 
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
