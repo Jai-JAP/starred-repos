@@ -957,6 +957,7 @@
 
 ## Haskell 
 
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
@@ -1254,6 +1255,7 @@
 
 ## Others 
 
+- [canadaduane/vscode-kmonad](https://github.com/canadaduane/vscode-kmonad) - Kmonad kbd config file language support for Visual Studio Code
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [Upinel/localhost.direct](https://github.com/Upinel/localhost.direct) - localhost with public CA signed SSL certificate
 - [ancient-empires/Java-emulators](https://github.com/ancient-empires/Java-emulators) - Java Emulators: KEmulator (Windows) & microemulator (Windows / Linux / macOS)
