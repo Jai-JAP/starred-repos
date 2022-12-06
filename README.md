@@ -462,7 +462,7 @@
 - [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
 - [ALIILAPRO/warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 - [koush/UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver) - One size fits all Windows Drivers for Android Debug Bridge.
-- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [dlrudie/Snip](https://github.com/dlrudie/Snip) - Snip will get the artist, track, and album information from Spotify and iTunes, and save the information to a text file.
 - [luandersonn/MyFTP](https://github.com/luandersonn/MyFTP) - A modern FTP client for Windows 11
