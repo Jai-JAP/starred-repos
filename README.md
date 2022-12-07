@@ -1508,6 +1508,7 @@
 
 ## Python 
 
+- [Vanilla-OS/vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer) - A frontend in GTK 4 and Libadwaita for distinst.
 - [FelipeeM/color-picker-on-the-screen](https://github.com/FelipeeM/color-picker-on-the-screen) - Identify hexadecimal and rgb codes of images on your screen with just a few clicks
 - [kivy/buildozer](https://github.com/kivy/buildozer) - Generic Python packager for Android and iOS
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
