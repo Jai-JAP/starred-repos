@@ -106,6 +106,7 @@
 
 ## C 
 
+- [csdvrx/sixel-tmux](https://github.com/csdvrx/sixel-tmux) - sixel-tmux is a fork of tmux, with just one goal: having the most reliable support of graphics
 - [rhboot/efibootmgr](https://github.com/rhboot/efibootmgr) - efibootmgr development tree
 - [tezc/sc](https://github.com/tezc/sc) - Common libraries and data structures for C.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -431,6 +432,7 @@
 
 ## C# # 
 
+- [FrozenAssassine/TextControlBox-UWP](https://github.com/FrozenAssassine/TextControlBox-UWP) - A UWP based textbox with Syntaxhighlighting and support for very large amounts of text
 - [Rise-Software/Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) - One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 - [veler/notepad-based-calculator](https://github.com/veler/notepad-based-calculator) - A smart calculator using natural language processing
 - [itsWindows11/TowPad](https://github.com/itsWindows11/TowPad) - A UWP version of... WordPad!
@@ -518,6 +520,7 @@
 
 ## C++ 
 
+- [BreeceW/WinUIEdit](https://github.com/BreeceW/WinUIEdit) - Code editor control for UWP and WinUI 3 based on Scintilla
 - [0xbadfca11/miniwsl](https://github.com/0xbadfca11/miniwsl) - Mini Windows Subsystem for Linux Distribution
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [afbjorklund/lima-gui](https://github.com/afbjorklund/lima-gui) - Making a GUI for lima VM
