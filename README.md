@@ -1259,6 +1259,7 @@
 
 ## Others 
 
+- [Vyshnav2255/Windows-11-Emojis-on-Linux](https://github.com/Vyshnav2255/Windows-11-Emojis-on-Linux) - Emoji Font
 - [canadaduane/vscode-kmonad](https://github.com/canadaduane/vscode-kmonad) - Kmonad kbd config file language support for Visual Studio Code
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [Upinel/localhost.direct](https://github.com/Upinel/localhost.direct) - localhost with public CA signed SSL certificate
