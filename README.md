@@ -106,6 +106,7 @@
 
 ## C 
 
+- [rounk-ctrl/niceos](https://github.com/rounk-ctrl/niceos) - funny os
 - [csdvrx/sixel-tmux](https://github.com/csdvrx/sixel-tmux) - sixel-tmux is a fork of tmux, with just one goal: having the most reliable support of graphics
 - [rhboot/efibootmgr](https://github.com/rhboot/efibootmgr) - efibootmgr development tree
 - [tezc/sc](https://github.com/tezc/sc) - Common libraries and data structures for C.
@@ -520,6 +521,7 @@
 
 ## C++ 
 
+- [rounk-ctrl/AccentApplicator](https://github.com/rounk-ctrl/AccentApplicator) - A tool to apply accent color to win32 controls.
 - [BreeceW/WinUIEdit](https://github.com/BreeceW/WinUIEdit) - Code editor control for UWP and WinUI 3 based on Scintilla
 - [0xbadfca11/miniwsl](https://github.com/0xbadfca11/miniwsl) - Mini Windows Subsystem for Linux Distribution
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
@@ -1513,6 +1515,7 @@
 
 ## Python 
 
+- [techwithtim/OpenCV-Tutorials](https://github.com/techwithtim/OpenCV-Tutorials) - All the code for the Tech With Tim Python OpenCV Tutorials.
 - [Vanilla-OS/vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer) - A frontend in GTK 4 and Libadwaita for distinst.
 - [FelipeeM/color-picker-on-the-screen](https://github.com/FelipeeM/color-picker-on-the-screen) - Identify hexadecimal and rgb codes of images on your screen with just a few clicks
 - [kivy/buildozer](https://github.com/kivy/buildozer) - Generic Python packager for Android and iOS
@@ -2014,7 +2017,7 @@
 - [Kicksecure/apparmor-profile-everything](https://github.com/Kicksecure/apparmor-profile-everything) - AppArmor for everything. APT, systemd, init, all systemd units, all applications. Mandatory Access Control. Security Hardening.
 - [Kicksecure/security-misc](https://github.com/Kicksecure/security-misc) - Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.kicksecure.co
 - [Kicksecure/open-link-confirmation](https://github.com/Kicksecure/open-link-confirmation) - Asks for confirmation before opening links - For better security. - Asks before a link is (accidentally) opened in a browser to avoid linking activities.
-- [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🖼️ 🏳️‍⚧️  Neofetch with LGBTQ pride flags!
+- [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
 - [KaOS-Community-Packages/soulseekqt](https://github.com/KaOS-Community-Packages/soulseekqt) - A desktop client for the Soulseek peer-to-peer file sharing network
 - [tkreindler/docker-gui-novnc](https://github.com/tkreindler/docker-gui-novnc) - An extremely easy to use docker image to run any Linux GUI application on any host through docker and your browser.
 - [flexiondotorg/slim-aios](https://github.com/flexiondotorg/slim-aios) - Optimised OS for the Raspberry Pi for creating and running containers 🐋
@@ -2432,6 +2435,7 @@
 
 ## Visual Basic .NET 
 
+- [mcdenis/AccentApplicator](https://github.com/mcdenis/AccentApplicator) - A Windows utility that applies the accent color in desktop applications.
 - [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Colorizing Windows Accents
 - [Jevil7452/Simple-GUID-Generator](https://github.com/Jevil7452/Simple-GUID-Generator) - 
 - [PeterStrick/ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) - Windows Feature Control GUI based on ViVe / ViVeTool
