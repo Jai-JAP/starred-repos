@@ -1037,7 +1037,7 @@
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [Ceiridge/SimpleDiscordCrypt-Extended](https://github.com/Ceiridge/SimpleDiscordCrypt-Extended) - Extended Discord message end-to-end encryption plugin, supporting auto key exchange and encrypted file transfers
 - [zombieFox/hexagonTab](https://github.com/zombieFox/hexagonTab) - Hexagon bookmarks accented with a chosen colour. Customise the layout, style, background and bookmarks with hexagonTab.
-- [koraycoding/password-generator](https://github.com/koraycoding/password-generator) - Use this tool to instantly create secure and random passwords
+- [expatjedi/password-generator](https://github.com/expatjedi/password-generator) - Use this tool to instantly create secure and random passwords
 - [simple-icons/simple-icons-font](https://github.com/simple-icons/simple-icons-font) - SVG icon font for popular brands
 - [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
