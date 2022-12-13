@@ -521,6 +521,7 @@
 
 ## C++ 
 
+- [seq-lang/seq](https://github.com/seq-lang/seq) - A high-performance, Pythonic language for bioinformatics
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [rounk-ctrl/AccentApplicator](https://github.com/rounk-ctrl/AccentApplicator) - A tool to apply accent color to win32 controls.
 - [BreeceW/WinUIEdit](https://github.com/BreeceW/WinUIEdit) - Code editor control for UWP and WinUI 3 based on Scintilla
