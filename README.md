@@ -1267,6 +1267,7 @@
 
 ## Others 
 
+- [icy/bash-coding-style](https://github.com/icy/bash-coding-style) - A Bash coding style
 - [Vyshnav2255/Windows-11-Emojis-on-Linux](https://github.com/Vyshnav2255/Windows-11-Emojis-on-Linux) - Emoji Font
 - [canadaduane/vscode-kmonad](https://github.com/canadaduane/vscode-kmonad) - Kmonad kbd config file language support for Visual Studio Code
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
