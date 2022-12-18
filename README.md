@@ -2442,6 +2442,7 @@
 
 ## Visual Basic .NET 
 
+- [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Transparently compress active games and programs using Windows 10/11 APIs
 - [mcdenis/AccentApplicator](https://github.com/mcdenis/AccentApplicator) - A Windows utility that applies the accent color in desktop applications.
 - [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Colorizing Windows Accents
 - [Jevil7452/Simple-GUID-Generator](https://github.com/Jevil7452/Simple-GUID-Generator) - 
