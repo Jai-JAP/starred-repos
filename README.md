@@ -585,8 +585,8 @@
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [pmj/virtio-net-osx](https://github.com/pmj/virtio-net-osx) - Mac OS X driver for a (virtualised) "virtio" network device. Virtio network devices are supported by KVM and VirtualBox. Fastest virtual network device for VirtualBox OSX Guests, allows kernel debuggi
 - [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
-- [Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-- [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey is a powerful and easy to use scripting language for desktop automation on Windows.
+- [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+- [AutoHotkey/AutoHotkey-v1.0](https://github.com/AutoHotkey/AutoHotkey-v1.0) - AutoHotkey is a powerful and easy to use scripting language for desktop automation on Windows.
 - [elishacloud/dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10 by wrapping DirectX dlls.  Also allows loading custom libraries with the file extension .asi into game processes.
 - [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a free cooperative platformer game
 - [pmachapman/unrar](https://github.com/pmachapman/unrar) - Unrar source code from rarlab.com
