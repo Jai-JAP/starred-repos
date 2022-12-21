@@ -1522,6 +1522,7 @@
 
 ## Python 
 
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018.
 - [techwithtim/OpenCV-Tutorials](https://github.com/techwithtim/OpenCV-Tutorials) - All the code for the Tech With Tim Python OpenCV Tutorials.
 - [Vanilla-OS/vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer) - A frontend in GTK 4 and Libadwaita for distinst.
 - [FelipeeM/color-picker-on-the-screen](https://github.com/FelipeeM/color-picker-on-the-screen) - Identify hexadecimal and rgb codes of images on your screen with just a few clicks
@@ -1975,6 +1976,7 @@
 
 ## Shell 
 
+- [pi-extras/autoupdate](https://github.com/pi-extras/autoupdate) - Script to update the packages automatically
 - [kakathic/YT-AT](https://github.com/kakathic/YT-AT) - Tool to build YouTube ReVanced online automatically.
 - [TheFreePenguin/tfpstore](https://github.com/TheFreePenguin/tfpstore) - A CLI frontend to your favorite package managers! Supports all Debian-based, Arch-based, and RHEL-based distros!
 - [sickcodes/anbox-modules-dkms](https://github.com/sickcodes/anbox-modules-dkms) - anbox-modules-dkms for kernel - resurrected aur.archlinux.org/anbox-modules-dkms for ongoing maintaining. Next Generation Box Modules DKMS (ngbox). WayDroid, Anbox Halium, Droid Native, Dock Droid + B
