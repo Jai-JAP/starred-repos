@@ -1505,7 +1505,7 @@
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 and Windows 11 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 & 11 security and privacy script!
 - [AdamGrossTX/FU.WhyAmIBlocked](https://github.com/AdamGrossTX/FU.WhyAmIBlocked) - 
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) - Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatw
-- [actions/python-versions](https://github.com/actions/python-versions) - Python builds for Actions Virtual Environments
+- [actions/python-versions](https://github.com/actions/python-versions) - Python builds for Actions Runner Images
 - [codaamok/PSShlink](https://github.com/codaamok/PSShlink) - An unofficial PowerShell module for Shlink (https://shlink.io), an open-source self-hosted and PHP-based URL shortener application
 - [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell
 - [huben1337/winpfp](https://github.com/huben1337/winpfp) - Custom Windows 10 account picture
