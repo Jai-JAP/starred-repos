@@ -1085,7 +1085,7 @@
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If
 - [tchx84/Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [rollingrhinoremix/rollingrhinoremix.github.io](https://github.com/rollingrhinoremix/rollingrhinoremix.github.io) - This is the official repository for the Rolling Rhino Remix. Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu operating system into a rolling release Linux distribution b
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [Crilum/websh](https://github.com/Crilum/websh) - Web-powered shell emulator
