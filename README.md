@@ -1017,6 +1017,7 @@
 
 ## JavaScript 
 
+- [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
 - [krishenriksen/HDD-Sound](https://github.com/krishenriksen/HDD-Sound) - HDD Sound Simulator
 - [imreyesjorge/root-startpage](https://github.com/imreyesjorge/root-startpage) - A simple and clean startpage 🌟
@@ -1978,6 +1979,7 @@
 
 ## Shell 
 
+- [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [pi-extras/autoupdate](https://github.com/pi-extras/autoupdate) - Script to update the packages automatically
 - [kakathic/YT-AT](https://github.com/kakathic/YT-AT) - Tool to build YouTube ReVanced online automatically.
 - [TheFreePenguin/tfpstore](https://github.com/TheFreePenguin/tfpstore) - A CLI frontend to your favorite package managers! Supports all Debian-based, Arch-based, and RHEL-based distros!
