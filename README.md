@@ -1544,7 +1544,7 @@
 - [nwg-piotr/azote](https://github.com/nwg-piotr/azote) - Wallpaper and colour manager for Sway, i3 and some other WMs
 - [kozec/sc-controller](https://github.com/kozec/sc-controller) - User-mode driver and GTK3 based GUI for Steam Controller
 - [mstorsjo/msvc-wine](https://github.com/mstorsjo/msvc-wine) - Scripts for setting up and running MSVC in Wine on Linux
-- [martinet101/WingetUI](https://github.com/martinet101/WingetUI) - WingetUI: a package manager for Winget and Scoop
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a package manager for Winget and Scoop
 - [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - An easy-to-use Python CLI Minecraft launcher! Compatible with official Minecraft launcher and provides many official add-ons.
 - [mozillazg/pypy](https://github.com/mozillazg/pypy) - The unofficial GitHub mirror of PyPy
 - [proskur1n/cmeson](https://github.com/proskur1n/cmeson) - TUI for the meson build system
@@ -1589,7 +1589,7 @@
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [MehdiRtal/WinCleanstall](https://github.com/MehdiRtal/WinCleanstall) - Create an automated, clean and custom Windows installation
-- [martinet101/win32mica](https://github.com/martinet101/win32mica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
+- [marticliment/win32mica](https://github.com/marticliment/win32mica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
 - [witalihirsch/QTWin11](https://github.com/witalihirsch/QTWin11) - Fluent QT Theme (stylesheet) for Win32 apps on Windows 11
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
@@ -1605,7 +1605,7 @@
 - [naddurkostia/LinuxTools](https://github.com/naddurkostia/LinuxTools) - LinuxTools - a set of necessary scripts for using Linux
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [tianocore/edk2-pytool-extensions](https://github.com/tianocore/edk2-pytool-extensions) - Extensions to the edk2 build system allowing for a more robust and plugin based build system and tool execution environment
-- [martinet101/ElevenClock](https://github.com/martinet101/ElevenClock) - ElevenClock: Customize Windows 11 taskbar clock
+- [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) - ElevenClock: Customize Windows 11 taskbar clock
 - [hugsy/cemu](https://github.com/hugsy/cemu) - Cheap EMUlator: lightweight multi-architecture assembly playground
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
