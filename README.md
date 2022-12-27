@@ -524,6 +524,7 @@
 
 ## C++ 
 
+- [bluewhalesystems/sold](https://github.com/bluewhalesystems/sold) - The sold linker
 - [seq-lang/seq](https://github.com/seq-lang/seq) - A high-performance, Pythonic language for bioinformatics
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [rounk-ctrl/AccentApplicator](https://github.com/rounk-ctrl/AccentApplicator) - A tool to apply accent color to win32 controls.
@@ -1275,6 +1276,7 @@
 
 ## Others 
 
+- [techcode1001/replit_root](https://github.com/techcode1001/replit_root) - This is how to get root permissions in replit.
 - [icy/bash-coding-style](https://github.com/icy/bash-coding-style) - A Bash coding style
 - [Vyshnav2255/Windows-11-Emojis-on-Linux](https://github.com/Vyshnav2255/Windows-11-Emojis-on-Linux) - Emoji Font
 - [canadaduane/vscode-kmonad](https://github.com/canadaduane/vscode-kmonad) - Kmonad kbd config file language support for Visual Studio Code
