@@ -982,6 +982,7 @@
 
 ## Java 
 
+- [M66B/XPrivacy](https://github.com/M66B/XPrivacy) - XPrivacy - The ultimate, yet easy to use, privacy manager
 - [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [hex007/freej2me](https://github.com/hex007/freej2me) - A free J2ME emulator with libretro, awt and sdl2 frontends.
 - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
