@@ -1300,7 +1300,6 @@
 - [ryanfortner/disablechromeextensions-jsbookmark](https://github.com/ryanfortner/disablechromeextensions-jsbookmark) - disable a chrome extension with the click of a button
 - [VernonGrant/gnu-c-language-manual](https://github.com/VernonGrant/gnu-c-language-manual) - This is a mirror of Richard Stallman's GNU C Language Intro and Reference, available in Markdown and PDF.
 - [chris1111/VoodooHDA-OC](https://github.com/chris1111/VoodooHDA-OC) - Visit BLOG : https://com-chris1111.github.io
-- [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A programming font based on the typeface used in Minecraft
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [LiaBooks/C-Programming](https://github.com/LiaBooks/C-Programming) - Interactive Port of the Wikibook C-Programming to LiaScript (english)
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
@@ -1548,6 +1547,7 @@
 - [kozec/sc-controller](https://github.com/kozec/sc-controller) - User-mode driver and GTK3 based GUI for Steam Controller
 - [mstorsjo/msvc-wine](https://github.com/mstorsjo/msvc-wine) - Scripts for setting up and running MSVC in Wine on Linux
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a package manager for Winget and Scoop
+- [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A programming font based on the typeface used in Minecraft
 - [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - An easy-to-use Python CLI Minecraft launcher! Compatible with official Minecraft launcher and provides many official add-ons.
 - [mozillazg/pypy](https://github.com/mozillazg/pypy) - The unofficial GitHub mirror of PyPy
 - [proskur1n/cmeson](https://github.com/proskur1n/cmeson) - TUI for the meson build system
