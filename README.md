@@ -1908,7 +1908,7 @@
 - [kyoheiu/felix](https://github.com/kyoheiu/felix) - tui file manager with vim-like key mapping
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
-- [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
+- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [wizard-28/wealthy](https://github.com/wizard-28/wealthy) - https://github.com/Textualize/rich ported to Rust!
