@@ -1168,7 +1168,7 @@
 - [vincelwt/RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
 - [stefanXO/firebug-lite](https://github.com/stefanXO/firebug-lite) - Firebug Lite for Chrome - an extension of the popular Firebug Firefox functionality
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
-- [simpleicons/simpleicons.now.sh](https://github.com/simpleicons/simpleicons.now.sh) - Serve simpleicons with options (and CDN).
+- [simpleicons/simpleicons.vercel.app](https://github.com/simpleicons/simpleicons.vercel.app) - Serve simpleicons with options (and CDN).
 - [doctolib/windows-binary-architecture](https://github.com/doctolib/windows-binary-architecture) - Find the target CPU architecture of Windows binaries (DLLs, EXEs and others).
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
