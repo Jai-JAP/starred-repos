@@ -436,6 +436,8 @@
 
 ## C# # 
 
+- [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
+- [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [Pdawg-bytes/GyroShell](https://github.com/Pdawg-bytes/GyroShell) - A shell for Windows 11 (and maybe 10) that aims to create a much nicer and more functional taskbar. Fully written in C# and WASDK.
 - [FrozenAssassine/TextControlBox-UWP](https://github.com/FrozenAssassine/TextControlBox-UWP) - A UWP based textbox with Syntaxhighlighting and support for very large amounts of text
 - [Rise-Software/Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) - One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
@@ -1811,7 +1813,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-511-Stars](https://github.com/iBug/This-Repo-Has-511-Stars) - Yes, it's true :heartpulse: This repository has 511 stars.
+- [iBug/This-Repo-Has-512-Stars](https://github.com/iBug/This-Repo-Has-512-Stars) - Yes, it's true :heartbeat: This repository has 512 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
