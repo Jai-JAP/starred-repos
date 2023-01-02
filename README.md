@@ -107,6 +107,7 @@
 
 ## C 
 
+- [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [orsonteodoro/nano-ycmd](https://github.com/orsonteodoro/nano-ycmd) - Modded GNU Nano using ycmd code completion and IntelliSense.  The ycmd code completion support for nano is found in the ymcd-code-completion branch.
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [rounk-ctrl/niceos](https://github.com/rounk-ctrl/niceos) - funny os
@@ -436,6 +437,7 @@
 
 ## C# # 
 
+- [WinUICommunity/SettingsUI](https://github.com/WinUICommunity/SettingsUI) - Windows 11 settings page in WinUI 3 applications ported from Powertoys with some custom controls and styles
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [Pdawg-bytes/GyroShell](https://github.com/Pdawg-bytes/GyroShell) - A shell for Windows 11 (and maybe 10) that aims to create a much nicer and more functional taskbar. Fully written in C# and WASDK.
@@ -526,6 +528,7 @@
 
 ## C++ 
 
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [Chrinkus/advent-of-code](https://github.com/Chrinkus/advent-of-code) - My (incomplete) solutions to the Advent of Code yearly challenges.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [bluewhalesystems/sold](https://github.com/bluewhalesystems/sold) - The sold linker
