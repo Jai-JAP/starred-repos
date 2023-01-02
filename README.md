@@ -2489,7 +2489,7 @@
 
 ## Vue 
 
-- [ViewTube/viewtube-vue](https://github.com/ViewTube/viewtube-vue) - ▶️ ViewTube is an alternative YouTube frontend.
+- [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube is an alternative YouTube frontend.
 - [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store) - A Cross-Platform App Store for Electron.js Apps
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [ek0t0v/minecraft-launcher](https://github.com/ek0t0v/minecraft-launcher) - Launcher for Minecraft written in Electron and Node.js
