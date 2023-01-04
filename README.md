@@ -786,7 +786,6 @@
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [purogamer/Fluent-for-Steam](https://github.com/purogamer/Fluent-for-Steam) - Fluent for Steam. A simple skin for steam to make it look like windows 11.
 - [discord-modifications/dark-discord](https://github.com/discord-modifications/dark-discord) - An actual dark mode for discord.
-- [Elbullazul/Chicago95](https://github.com/Elbullazul/Chicago95) - 
 - [B00merang-Project/Windows-XP](https://github.com/B00merang-Project/Windows-XP) - Windows XP themes
 - [B00merang-Project/Windows-8.1-Metro](https://github.com/B00merang-Project/Windows-8.1-Metro) - GTK theme taking styles & colors from Windows 8.1 Metro apps
 - [B00merang-Project/Windows-95](https://github.com/B00merang-Project/Windows-95) - GTK theme based on the classic appearance of Windows 95 and Windows Server 2003
