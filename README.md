@@ -1480,7 +1480,7 @@
 
 ## PHP 
 
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener - the 𝑑𝑒 𝑓𝑎𝑐𝑡𝑜 standard self hosted URL shortener in PHP
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
 - [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole's lists from remote sources easily
 - [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE) - Paste is a project that started from the files pastebin.com used before it was bought.
 - [fuzzyfox/shlink-cli](https://github.com/fuzzyfox/shlink-cli) - An unofficial Shlink cli rest client.
@@ -1815,7 +1815,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-512-Stars](https://github.com/iBug/This-Repo-Has-512-Stars) - Yes, it's true :heartbeat: This repository has 512 stars.
+- [iBug/This-Repo-Has-512-Stars](https://github.com/iBug/This-Repo-Has-512-Stars) - Yes, it's true :yellow_heart: This repository has 512 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
