@@ -528,6 +528,7 @@
 
 ## C++ 
 
+- [MicaForEveryone/ExplorerFrame](https://github.com/MicaForEveryone/ExplorerFrame) - ExplorerFrame is a program that resolves some improper behaviors caused by File Explorer regarding extending DWM frames into its client area.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [Chrinkus/advent-of-code](https://github.com/Chrinkus/advent-of-code) - My (incomplete) solutions to the Advent of Code yearly challenges.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
