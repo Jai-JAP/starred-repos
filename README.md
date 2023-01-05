@@ -2002,6 +2002,7 @@
 
 ## Shell 
 
+- [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [pi-extras/autoupdate](https://github.com/pi-extras/autoupdate) - Script to update the packages automatically
 - [kakathic/YT-AT](https://github.com/kakathic/YT-AT) - Tool to build YouTube ReVanced online automatically.
