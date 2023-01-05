@@ -437,6 +437,7 @@
 
 ## C# # 
 
+- [ojask/Rectify11ControlCenter](https://github.com/ojask/Rectify11ControlCenter) - 
 - [WinUICommunity/SettingsUI](https://github.com/WinUICommunity/SettingsUI) - Windows 11 settings page in WinUI 3 applications ported from Powertoys with some custom controls and styles
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
