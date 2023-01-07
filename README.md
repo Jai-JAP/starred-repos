@@ -529,6 +529,8 @@
 
 ## C++ 
 
+- [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
+- [theofficialgman/PrusaSlicer](https://github.com/theofficialgman/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 - [MicaForEveryone/ExplorerFrame](https://github.com/MicaForEveryone/ExplorerFrame) - ExplorerFrame is a program that resolves some improper behaviors caused by File Explorer regarding extending DWM frames into its client area.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [Chrinkus/advent-of-code](https://github.com/Chrinkus/advent-of-code) - My (incomplete) solutions to the Advent of Code yearly challenges.
@@ -1817,7 +1819,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-512-Stars](https://github.com/iBug/This-Repo-Has-512-Stars) - Yes, it's true :purple_heart: This repository has 512 stars.
+- [iBug/This-Repo-Has-513-Stars](https://github.com/iBug/This-Repo-Has-513-Stars) - Yes, it's true :yellow_heart: This repository has 513 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1856,6 +1858,7 @@
 
 ## Rust 
 
+- [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
@@ -2004,6 +2007,9 @@
 
 ## Shell 
 
+- [theofficialgman/arm-runner-action](https://github.com/theofficialgman/arm-runner-action) - Run tests natively and build images directly from GitHub Actions using a chroot-based virtualized Raspberry Pi (raspios/raspbian) environment
+- [theofficialgman/neofetch](https://github.com/theofficialgman/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+- [theofficialgman/gmans-retropie-scripts](https://github.com/theofficialgman/gmans-retropie-scripts) - a repo hosting more scripts that can be installed through the retropie setup
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [pi-extras/autoupdate](https://github.com/pi-extras/autoupdate) - Script to update the packages automatically
