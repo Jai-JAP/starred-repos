@@ -362,7 +362,7 @@
 - [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple Win64/Win32 applications on arm64/ppc64le/x86_64 Linux and x86_64 Mac
 - [petzval/btferret](https://github.com/petzval/btferret) - Bluetooth Interface for Raspberry Pi
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
-- [mborgerson/xemu](https://github.com/mborgerson/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
+- [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 - [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines based on PCem.
 - [lgblgblgb/xemu](https://github.com/lgblgblgb/xemu) - Emulations (running on Linux/Unix/Windows/macOS, utilizing SDL2) of some - mainly - 8 bit machines, including the Commodore LCD, Commodore 65, and the MEGA65 as well.
 - [CleanMachine1/C-Code](https://github.com/CleanMachine1/C-Code) - 
