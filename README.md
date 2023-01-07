@@ -1286,6 +1286,7 @@
 
 ## Others 
 
+- [M-P-P-C/Signing-an-Ubuntu-Kernel-for-Secure-Boot](https://github.com/M-P-P-C/Signing-an-Ubuntu-Kernel-for-Secure-Boot) - A step-by-step guide on how to install and sign a linux kernel to boot with Secure Boot, because it shouldn't be so hard to have the latest drivers for your machine
 - [techcode1001/replit_root](https://github.com/techcode1001/replit_root) - This is how to get root permissions in replit.
 - [icy/bash-coding-style](https://github.com/icy/bash-coding-style) - A Bash coding style
 - [Vyshnav2255/Windows-11-Emojis-on-Linux](https://github.com/Vyshnav2255/Windows-11-Emojis-on-Linux) - Emoji Font
@@ -2007,6 +2008,7 @@
 
 ## Shell 
 
+- [akinomyoga/blesh-contrib](https://github.com/akinomyoga/blesh-contrib) - Settings for Bash Line Editor https://github.com/akinomyoga/ble.sh
 - [theofficialgman/arm-runner-action](https://github.com/theofficialgman/arm-runner-action) - Run tests natively and build images directly from GitHub Actions using a chroot-based virtualized Raspberry Pi (raspios/raspbian) environment
 - [theofficialgman/neofetch](https://github.com/theofficialgman/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [theofficialgman/gmans-retropie-scripts](https://github.com/theofficialgman/gmans-retropie-scripts) - a repo hosting more scripts that can be installed through the retropie setup
@@ -2464,6 +2466,8 @@
 
 ## Vala 
 
+- [bkw777/mainline](https://github.com/bkw777/mainline) - A continuation of the free version of ukuu.
+- [teejee2008/ukuu](https://github.com/teejee2008/ukuu) - A paid version of Ukuu is now available with more features. https://teejeetech.in/2019/01/20/ukuu-v19-01/                 Kernel Update Utility for Ubuntu-based distributions. Provides desktop notific
 - [teejee2008/groot](https://github.com/teejee2008/groot) - Chroot helper utility for all Linux distributions
 - [hcsubser/hybridbar](https://github.com/hcsubser/hybridbar) - 
 - [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment.
