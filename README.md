@@ -1286,6 +1286,8 @@
 
 ## Others 
 
+- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [M-P-P-C/Signing-an-Ubuntu-Kernel-for-Secure-Boot](https://github.com/M-P-P-C/Signing-an-Ubuntu-Kernel-for-Secure-Boot) - A step-by-step guide on how to install and sign a linux kernel to boot with Secure Boot, because it shouldn't be so hard to have the latest drivers for your machine
 - [techcode1001/replit_root](https://github.com/techcode1001/replit_root) - This is how to get root permissions in replit.
 - [icy/bash-coding-style](https://github.com/icy/bash-coding-style) - A Bash coding style
@@ -2365,6 +2367,8 @@
 
 ## TypeScript 
 
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [guilyx/guilyx](https://github.com/guilyx/guilyx) - Dynamic Profile with github statistics, coding info (time and languages) with WakaTime and music status with the spotify API, leave a ⭐ if you like it
 - [felixfbecker/svg-screenshots](https://github.com/felixfbecker/svg-screenshots) - 📸🧩 Browser extension to take scalable, semantic, accessible screenshots of websites in SVG format.
