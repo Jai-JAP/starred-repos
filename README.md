@@ -1677,7 +1677,6 @@
 - [PySimpleGUI/psgtray](https://github.com/PySimpleGUI/psgtray) - System Tray Icon for PySimpleGUI (the tkinter version). Adds a system tray icon by using pystray and PIL
 - [CoolCat467/fix-lwjgl](https://github.com/CoolCat467/fix-lwjgl) - Fix LWJGL (Light Weight Java Game Library) java classpath data for ARM devices
 - [DrGFreeman/pdfmerge](https://github.com/DrGFreeman/pdfmerge) - Merge scanned pdf documents of odd and even pages into a single pdf document
-- [AbysssDevelopment/hMCPIL](https://github.com/AbysssDevelopment/hMCPIL) - Hacks launcher for MCPI-Reborn
 - [Will-777/spawn_mobs_mcpi](https://github.com/Will-777/spawn_mobs_mcpi) - Python script to spawn some mobs in your Minecraft Pi world, Raspberry Pi version
 - [chbrown/pi](https://github.com/chbrown/pi) - Simpler python package installation
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
