@@ -805,7 +805,7 @@
 - [B00merang-Project/macOS-Dark](https://github.com/B00merang-Project/macOS-Dark) - Dark version of macOS theme
 - [B00merang-Project/macOS](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops
 - [USBA/macOS11-theme](https://github.com/USBA/macOS11-theme) - macOS11 concept design GTK+ and GNOME-Shell theme for Linux
-- [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - MDL2 + Sun Valley Theme for Firefox
+- [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
 - [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
