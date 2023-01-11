@@ -55,6 +55,7 @@
 - [Shell](#shell)
 - [Smali](#smali)
 - [Swift](#swift)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
 - [VBScript](#vbscript)
@@ -2363,6 +2364,10 @@
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [ming900518/macOS-Virtual-Machine](https://github.com/ming900518/macOS-Virtual-Machine) - A ARM macOS Virtual Machine.
+
+## TeX 
+
+- [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 
 ## TypeScript 
 
