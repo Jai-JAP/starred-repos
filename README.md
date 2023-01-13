@@ -108,6 +108,7 @@
 
 ## C 
 
+- [tyfkda/xcc](https://github.com/tyfkda/xcc) - Toy C compiler for x86-64/aarch64/wasm
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [orsonteodoro/nano-ycmd](https://github.com/orsonteodoro/nano-ycmd) - Modded GNU Nano using ycmd code completion and IntelliSense.  The ycmd code completion support for nano is found in the ymcd-code-completion branch.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
