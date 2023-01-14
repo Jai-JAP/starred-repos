@@ -2263,7 +2263,7 @@
 - [PlayOnLinux/Dosbox-PlayOnLinux-Wrapper](https://github.com/PlayOnLinux/Dosbox-PlayOnLinux-Wrapper) - 
 - [exe-thumbnailer/exe-thumbnailer](https://github.com/exe-thumbnailer/exe-thumbnailer) - Thumbnailer for .exe/.dll/.msi/.lnk files on Linux systems.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [ZhymabekRoman/proot-static](https://github.com/ZhymabekRoman/proot-static) - Statically compiled proot binary repository with patches applied to work better under Termux.
+- [ZhymabekRoman/proot-static](https://github.com/ZhymabekRoman/proot-static) - Statically compiled proot binary repository with patches applied to work under Termux.
 - [WheezyE/AnBox86](https://github.com/WheezyE/AnBox86) - 
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
 - [qt/qt5](https://github.com/qt/qt5) - Qt5 super module
