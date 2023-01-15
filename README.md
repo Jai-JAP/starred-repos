@@ -109,6 +109,7 @@
 
 ## C 
 
+- [embeddedartistry/arduino-printf](https://github.com/embeddedartistry/arduino-printf) - Add printf support to the Arduino SDK
 - [tyfkda/xcc](https://github.com/tyfkda/xcc) - Toy C compiler for x86-64/aarch64/wasm
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [orsonteodoro/nano-ycmd](https://github.com/orsonteodoro/nano-ycmd) - Modded GNU Nano using ycmd code completion and IntelliSense.  The ycmd code completion support for nano is found in the ymcd-code-completion branch.
