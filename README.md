@@ -532,6 +532,7 @@
 
 ## C++ 
 
+- [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
 - [theofficialgman/PrusaSlicer](https://github.com/theofficialgman/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 - [MicaForEveryone/ExplorerFrame](https://github.com/MicaForEveryone/ExplorerFrame) - ExplorerFrame is a program that resolves some improper behaviors caused by File Explorer regarding extending DWM frames into its client area.
@@ -1862,6 +1863,7 @@
 
 ## Rust 
 
+- [Lem/asar_extract](https://github.com/Lem/asar_extract) - Extract asar archives without the need of nodejs
 - [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
