@@ -1035,6 +1035,7 @@
 
 ## JavaScript 
 
+- [tusindfryd/share-liked-songs](https://github.com/tusindfryd/share-liked-songs) - Create a shareable copy of your Liked Songs playlist
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [patrikx3/ramdisk](https://github.com/patrikx3/ramdisk) - 💾 Linux Persistent RAM disk
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
