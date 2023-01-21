@@ -1673,7 +1673,7 @@
 - [wi99/mcpi_scripts](https://github.com/wi99/mcpi_scripts) - 
 - [eylles/pywal16](https://github.com/eylles/pywal16) - 16 colors fork of pywal
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
-- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
+- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [Red-exe-Engineer/MCPI-slash-commands](https://github.com/Red-exe-Engineer/MCPI-slash-commands) - Adds a few slash commands to MCPI such as /tp and /kill as well as has plugin support :p
 - [Red-exe-Engineer/MCPI-slash-commands-plugins](https://github.com/Red-exe-Engineer/MCPI-slash-commands-plugins) - Plugins for https://github.com/Red-exe-Engineer/MCPI-slash-commands
 - [MatthiasSchinzel/sysmon](https://github.com/MatthiasSchinzel/sysmon) - Graphical system monitor for linux, including information about CPU, GPU, Memory, HDD/SDD and your network connections. Similar to windows task manager.
