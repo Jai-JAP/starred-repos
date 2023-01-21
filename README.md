@@ -1533,7 +1533,7 @@
 
 ## PowerShell 
 
-- [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
+- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
 - [Marvin700/Windows_Optimisation_Pack](https://github.com/Marvin700/Windows_Optimisation_Pack) - Debloat & Optimize your Windows
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 and Windows 11 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. The ultimate Windows 10 & 11 security and privacy script!
 - [AdamGrossTX/FU.WhyAmIBlocked](https://github.com/AdamGrossTX/FU.WhyAmIBlocked) - 
