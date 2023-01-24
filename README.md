@@ -478,7 +478,6 @@
 - [Hofknecht/SystemTrayMenu](https://github.com/Hofknecht/SystemTrayMenu) - SystemTrayMenu - Browse and open your files easily
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
 - [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
-- [ALIILAPRO/warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 - [koush/UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver) - One size fits all Windows Drivers for Android Debug Bridge.
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
