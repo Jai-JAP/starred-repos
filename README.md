@@ -1645,7 +1645,7 @@
 - [blender/blender-addons-contrib](https://github.com/blender/blender-addons-contrib) - This is an official read-only mirror.
 - [blender/blender-addons](https://github.com/blender/blender-addons) - This is an official read-only mirror.
 - [Crilum/pyqt5-weather-app](https://github.com/Crilum/pyqt5-weather-app) - A simple weather app written in PyQt5
-- [pygame-web/pygbag](https://github.com/pygame-web/pygbag) - PyGame wasm for everyone ( packager + test server )
+- [pygame-web/pygbag](https://github.com/pygame-web/pygbag) - pygame wasm for everyone ( packager + test server + simulator )
 - [amarioguy/m1n1_windows](https://github.com/amarioguy/m1n1_windows) - m1n1, but adapted to run windows (aka with a GIC emulator)
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
