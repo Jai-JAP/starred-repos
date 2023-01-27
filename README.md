@@ -1719,7 +1719,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [pytest-dev/pytest-qt](https://github.com/pytest-dev/pytest-qt) - pytest plugin for Qt (PyQt5/PyQt6 and PySide2/PySide6) application testing
 - [actionschnitzel/sudo_passer](https://github.com/actionschnitzel/sudo_passer) - Sudo Password GUI to CLI
-- [novialriptide/Gravity](https://github.com/novialriptide/Gravity) - A puzzle game where you can control the gravity in the room you're in.
+- [novialriptide/gravity](https://github.com/novialriptide/gravity) - A puzzle game where you can control the gravity in the room you're in.
 - [AppImageCrafters/appimage-builder-docs](https://github.com/AppImageCrafters/appimage-builder-docs) - appimage-builder project documetnation
 - [Red-exe-Engineer/CPP-GUI-Compiler](https://github.com/Red-exe-Engineer/CPP-GUI-Compiler) - A simple GUI for compiling C++ programs
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
