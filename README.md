@@ -1621,7 +1621,7 @@
 - [0k/shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [ptysko/nixver](https://github.com/ptysko/nixver) - Basically winver ripoff
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
-- [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, formerly mps-youtube, is a Terminal based YouTube player and downloader.
+- [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 - [MehdiRtal/WinCleanstall](https://github.com/MehdiRtal/WinCleanstall) - Create an automated, clean and custom Windows installation
 - [marticliment/win32mica](https://github.com/marticliment/win32mica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
 - [witalihirsch/QTWin11](https://github.com/witalihirsch/QTWin11) - Fluent QT Theme (stylesheet) for Win32 apps on Windows 11
