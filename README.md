@@ -1564,6 +1564,7 @@
 
 ## Python 
 
+- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018.
 - [techwithtim/OpenCV-Tutorials](https://github.com/techwithtim/OpenCV-Tutorials) - All the code for the Tech With Tim Python OpenCV Tutorials.
 - [Vanilla-OS/vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer) - A frontend in GTK 4 and Libadwaita for distinst.
