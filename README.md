@@ -535,6 +535,8 @@
 
 ## C++ 
 
+- [brookmiles/windows-heic-thumbnails](https://github.com/brookmiles/windows-heic-thumbnails) - Enable Windows Explorer to display thumbnails for HEIC files
+- [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [gphalkes/tilde](https://github.com/gphalkes/tilde) - The Tilde text editor
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
@@ -1302,6 +1304,7 @@
 
 ## Others 
 
+- [DKCTC/windows-terminal-admin-shortcuts-registry](https://github.com/DKCTC/windows-terminal-admin-shortcuts-registry) - Windows Registry files for adding Explorer context-menu options for opening regular and elevated shells for Command Prompt, Windows PowerShell, and Ubuntu (or other distros)
 - [geerlingguy/sbc-reviews](https://github.com/geerlingguy/sbc-reviews) - Jeff Geerling's SBC review data - Raspberry Pi, Radxa, Orange Pi, etc.
 - [ryanfortner/debrepo](https://github.com/ryanfortner/debrepo) - debian.ryanfortner.dev
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
