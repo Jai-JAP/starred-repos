@@ -98,6 +98,7 @@
 
 ## Batchfile 
 
+- [semazurek/ET-All-in-One-Optimizer](https://github.com/semazurek/ET-All-in-One-Optimizer) - ET is a Batch/PowerShell GUI script to improve performance, debloat, optimize and enhance privacy for Windows 10/11.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent Windows operating system, designed to optimize performance and latency.
 - [massgravel/MAS-Legacy-Methods](https://github.com/massgravel/MAS-Legacy-Methods) - 
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
@@ -575,7 +576,7 @@
 - [brookmiles/windows-heic-thumbnails](https://github.com/brookmiles/windows-heic-thumbnails) - Enable Windows Explorer to display thumbnails for HEIC files
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [gphalkes/tilde](https://github.com/gphalkes/tilde) - The Tilde text editor
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝗿𝗶𝗱𝗼𝗻𝗸𝘂𝗹𝗼𝘂𝘀𝗹𝘆 easy! :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝗿𝗶𝗱𝗼𝗻𝗸𝘂𝗹𝗼𝘂𝘀𝗹𝘆 easy. :rocket:
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
 - [theofficialgman/PrusaSlicer](https://github.com/theofficialgman/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
@@ -822,6 +823,8 @@
 
 ## CSS 
 
+- [Goose-Nest/GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) - GT theme to revert Discord's 2021 rebrand.
+- [ImSwordKing/DiscordModifiCSSations](https://github.com/ImSwordKing/DiscordModifiCSSations) - Some CSS mods i did j
 - [Bullrich/Reddit-App-Ads-Blocker](https://github.com/Bullrich/Reddit-App-Ads-Blocker) - Hide all of reddit's annoying SEE IN APP buttons
 - [zuzumi-f/Discord-11](https://github.com/zuzumi-f/Discord-11) - Theme based in windows 11 new UI | Support server: https://discord.gg/PsNtzGeHuW
 - [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Flexible theme for manual customization.
@@ -1627,6 +1630,7 @@
 
 ## Python 
 
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
 - [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 156+ Windows 10/11 optimization and tweaking apps!
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
@@ -1963,6 +1967,7 @@
 
 ## Rust 
 
+- [Spydr06/logicrs](https://github.com/Spydr06/logicrs) - An easy-to-use simulator for logical circuits
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwardi
@@ -2119,6 +2124,7 @@
 
 ## Shell 
 
+- [bb010g/betterdiscordctl](https://github.com/bb010g/betterdiscordctl) - A utility for managing BetterDiscord on Linux.
 - [ne0YT/Linux-Subsystem-for-Windows_Seamless_windows_apps_on_Linux](https://github.com/ne0YT/Linux-Subsystem-for-Windows_Seamless_windows_apps_on_Linux) - Run any Windows App seamlessly on Linux
 - [buddyjojo/workli](https://github.com/buddyjojo/workli) - simple windows on rockchip installer for linux
 - [tiny-pilot/pi-expand](https://github.com/tiny-pilot/pi-expand) - Expands a Raspberry Pi microSD image to match the disk size, the inverse of PiShrink
