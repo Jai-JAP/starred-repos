@@ -731,7 +731,6 @@
 - [mcmilk/7-Zip](https://github.com/mcmilk/7-Zip) - 7-Zip source code repository
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [linuxdeepin/deepin-devicemanager](https://github.com/linuxdeepin/deepin-devicemanager) - 
-- [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [rexim/aids](https://github.com/rexim/aids) - std replacement for C++
 - [merryhime/dynarmic](https://github.com/merryhime/dynarmic) - An ARM dynamic recompiler.
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
@@ -1112,7 +1111,7 @@
 - [zed0/clang-format-configurator](https://github.com/zed0/clang-format-configurator) - Interactively view changes in clang-format configuration
 - [nfriedly/node-unblocker](https://github.com/nfriedly/node-unblocker) - Web proxy for evading internet censorship, and general-purpose Node.js library for proxying and rewriting remote webpages
 - [cra16/cake-core](https://github.com/cra16/cake-core) - 
-- [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉
+- [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
@@ -1967,6 +1966,8 @@
 
 ## Rust 
 
+- [birbe/jvm](https://github.com/birbe/jvm) - Pure Rust implementation of the JVM 7 specification
+- [wgpu-mc/wgpu-mc](https://github.com/wgpu-mc/wgpu-mc) - Rust-based replacement for the default Minecraft renderer
 - [Spydr06/logicrs](https://github.com/Spydr06/logicrs) - An easy-to-use simulator for logical circuits
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
@@ -2124,6 +2125,7 @@
 
 ## Shell 
 
+- [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [bb010g/betterdiscordctl](https://github.com/bb010g/betterdiscordctl) - A utility for managing BetterDiscord on Linux.
 - [ne0YT/Linux-Subsystem-for-Windows_Seamless_windows_apps_on_Linux](https://github.com/ne0YT/Linux-Subsystem-for-Windows_Seamless_windows_apps_on_Linux) - Run any Windows App seamlessly on Linux
 - [buddyjojo/workli](https://github.com/buddyjojo/workli) - simple windows on rockchip installer for linux
@@ -2499,6 +2501,7 @@
 
 ## TypeScript 
 
+- [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - The first on-chain and open-source blogging platform for everyone.
 - [wokwi/avr8js](https://github.com/wokwi/avr8js) - Arduino (8-bit AVR) simulator, written in JavaScript and runs in the browser / Node.js
 - [wokwi/rp2040js](https://github.com/wokwi/rp2040js) - A Raspberry Pi Pico Emulator in JavaScript
