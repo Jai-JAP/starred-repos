@@ -576,7 +576,7 @@
 - [brookmiles/windows-heic-thumbnails](https://github.com/brookmiles/windows-heic-thumbnails) - Enable Windows Explorer to display thumbnails for HEIC files
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [gphalkes/tilde](https://github.com/gphalkes/tilde) - The Tilde text editor
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life ridonkulously easy 🪄🌟
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life ridonkulously easy :rocket:
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
 - [theofficialgman/PrusaSlicer](https://github.com/theofficialgman/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
@@ -823,7 +823,6 @@
 ## CSS 
 
 - [Goose-Nest/GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) - GT theme to revert Discord's 2021 rebrand.
-- [ImSwordKing/DiscordModifiCSSations](https://github.com/ImSwordKing/DiscordModifiCSSations) - Some CSS mods i did j
 - [Bullrich/Reddit-App-Ads-Blocker](https://github.com/Bullrich/Reddit-App-Ads-Blocker) - Hide all of reddit's annoying SEE IN APP buttons
 - [zuzumi-f/Discord-11](https://github.com/zuzumi-f/Discord-11) - Theme based in windows 11 new UI | Support server: https://discord.gg/PsNtzGeHuW
 - [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Flexible theme for manual customization.
@@ -888,6 +887,7 @@
 
 ## Dockerfile 
 
+- [ms-jpq/kde-in-docker](https://github.com/ms-jpq/kde-in-docker) - So you can run KDE inside a browser
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [ponsfrilus/arch-novnc](https://github.com/ponsfrilus/arch-novnc) - Docker container running ArchLinux accessible through novnc in a browser
@@ -1084,6 +1084,7 @@
 
 ## JavaScript 
 
+- [kimchi-project/kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
 - [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse) - A Playground for HTML/CSS/JavaScript
 - [maxogden/nugget](https://github.com/maxogden/nugget) - minimalist wget clone written in node. HTTP GET files and downloads them into the current directory
@@ -2502,7 +2503,7 @@
 ## TypeScript 
 
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
-- [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - The first on-chain and open-source blogging platform for everyone.
+- [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - The first on-chain and open-source blogging community for everyone.
 - [wokwi/avr8js](https://github.com/wokwi/avr8js) - Arduino (8-bit AVR) simulator, written in JavaScript and runs in the browser / Node.js
 - [wokwi/rp2040js](https://github.com/wokwi/rp2040js) - A Raspberry Pi Pico Emulator in JavaScript
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
