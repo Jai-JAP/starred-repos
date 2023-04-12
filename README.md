@@ -576,7 +576,7 @@
 - [brookmiles/windows-heic-thumbnails](https://github.com/brookmiles/windows-heic-thumbnails) - Enable Windows Explorer to display thumbnails for HEIC files
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [gphalkes/tilde](https://github.com/gphalkes/tilde) - The Tilde text editor
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life ridonkulously easy :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚘𝚞𝚜𝚕𝚢 easy :rocket:
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
 - [theofficialgman/PrusaSlicer](https://github.com/theofficialgman/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
@@ -988,7 +988,7 @@
 - [arm-university/Introduction-to-Computer-Architecture-Education-Kit](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit) - Introduction-to-Computer-Architecture-Education-Kit
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [nestoris/Win98SE](https://github.com/nestoris/Win98SE) - SE98 icon theme for GNU/Linux based on Windows 98 SE style and grassmunk/Chicago95 theme.
-- [AmineDjeghri/BetterWindows11](https://github.com/AmineDjeghri/BetterWindows11) - Some windows tips to improve your UX experience when using windows
+- [AmineDjeghri/AwesomeWindows11](https://github.com/AmineDjeghri/AwesomeWindows11) - Some windows tips to improve your UX experience when using windows 11 (including development tools)
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [ubuntu/ubuntu-make](https://github.com/ubuntu/ubuntu-make) - Easy setup of common tools for developers on Ubuntu.
 - [maunium/dontasktoask.com](https://github.com/maunium/dontasktoask.com) - An informational website about why you should ask questions directly instead of asking to ask
@@ -1360,6 +1360,7 @@
 
 ## Others 
 
+- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [mmtrt/box86-64_AppImage](https://github.com/mmtrt/box86-64_AppImage) - 
 - [sonnyp/awesome-gnome](https://github.com/sonnyp/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 - [sonnyp/awesome-gtk](https://github.com/sonnyp/awesome-gtk) - List of awesome GTK (3/4) applications
@@ -1652,7 +1653,7 @@
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018.
 - [techwithtim/OpenCV-Tutorials](https://github.com/techwithtim/OpenCV-Tutorials) - All the code for the Tech With Tim Python OpenCV Tutorials.
-- [Vanilla-OS/vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer) - A frontend in GTK 4 and Libadwaita for distinst.
+- [Vanilla-OS/vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer) - A frontend in GTK 4 and Libadwaita for Albius.
 - [FelipeeM/color-picker-on-the-screen](https://github.com/FelipeeM/color-picker-on-the-screen) - Identify hexadecimal and rgb codes of images on your screen with just a few clicks
 - [kivy/buildozer](https://github.com/kivy/buildozer) - Generic Python packager for Android and iOS
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
@@ -2283,7 +2284,7 @@
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [lowspecman420/armhf-proot-for-aarch64-android](https://github.com/lowspecman420/armhf-proot-for-aarch64-android) - Anlinux armhf proot for aarch64 android using Termux.
 - [lowspecman420/AnBox86](https://github.com/lowspecman420/AnBox86) - 
-- [WheezyE/Winelink](https://github.com/WheezyE/Winelink) - Installation scripts for running Winlink (RMS Express & VARA) on non-Windows computers. Wine & Box86 make this project possible.
+- [WheezyE/Winelink](https://github.com/WheezyE/Winelink) - Installation scripts for running Winlink (RMS Express/Trimode & VARA) on non-Windows computers. Wine & Box86 make this project possible.
 - [heyimocto/pimarket](https://github.com/heyimocto/pimarket) - App Store For The Raspberry Pi.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [Crilum/apttools](https://github.com/Crilum/apttools) - make apt easier to use
