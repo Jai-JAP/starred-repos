@@ -822,6 +822,7 @@
 
 ## CSS 
 
+- [KillYoy/DiscordNight](https://github.com/KillYoy/DiscordNight) - An actual Dark/Nightmode Theme for Discord/BetterDiscord
 - [Goose-Nest/GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) - GT theme to revert Discord's 2021 rebrand.
 - [Bullrich/Reddit-App-Ads-Blocker](https://github.com/Bullrich/Reddit-App-Ads-Blocker) - Hide all of reddit's annoying SEE IN APP buttons
 - [zuzumi-f/Discord-11](https://github.com/zuzumi-f/Discord-11) - Theme based in windows 11 new UI | Support server: https://discord.gg/PsNtzGeHuW
@@ -1495,6 +1496,7 @@
 - [android-rpi/local_manifests](https://github.com/android-rpi/local_manifests) - Android on Raspberry Pi : Entry-Point
 - [jay0lee/CPython-Windows-ARM64](https://github.com/jay0lee/CPython-Windows-ARM64) - Unofficial Python 3 binaries for Windows on ARM devices like the Surface Pro X
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+- [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [lfit/itpol](https://github.com/lfit/itpol) - Useful IT policies
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
@@ -1632,6 +1634,8 @@
 
 ## Python 
 
+- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
+- [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
 - [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 156+ Windows 10/11 optimization and tweaking apps!
@@ -1930,7 +1934,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-525-Stars](https://github.com/iBug/This-Repo-Has-525-Stars) - Yes, it's true :sparkling_heart: This repository has 525 stars.
+- [iBug/This-Repo-Has-525-Stars](https://github.com/iBug/This-Repo-Has-525-Stars) - Yes, it's true :heartbeat: This repository has 525 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2334,7 +2338,6 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [appnjoy/dosbian](https://github.com/appnjoy/dosbian) - A Raspberry Pi distro that boots straightly to Dosbox emulator
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
-- [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [willfarrell/docker-crontab](https://github.com/willfarrell/docker-crontab) - A docker job scheduler (aka. crontab for docker)
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
 - [pi-hosted/pi-hosted](https://github.com/pi-hosted/pi-hosted) - Pi-Hosted is a collection of tutorials for hosting a variety of server applications using Docker and Portainer on the Raspberry Pi.
@@ -2504,6 +2507,7 @@
 
 ## TypeScript 
 
+- [Venthe/vscode-fauxpilot](https://github.com/Venthe/vscode-fauxpilot) - 
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - The first on-chain and open-source blogging community for everyone.
 - [wokwi/avr8js](https://github.com/wokwi/avr8js) - Arduino (8-bit AVR) simulator, written in JavaScript and runs in the browser / Node.js
