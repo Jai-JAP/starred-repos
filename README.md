@@ -115,6 +115,7 @@
 
 ## C 
 
+- [modz2014/IDA-patcher](https://github.com/modz2014/IDA-patcher) - generates ida pro license keys
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them.
 - [raspberrypi/utils](https://github.com/raspberrypi/utils) - A collection of scripts and simple applications
@@ -561,6 +562,11 @@
 
 ## C++ 
 
+- [jasonacox/TM1637TinyDisplay](https://github.com/jasonacox/TM1637TinyDisplay) - Arduino library to display numbers and text on a 4 and 6 digit 7-segment TM1637 display modules.
+- [RobTillaart/TM1637_RT](https://github.com/RobTillaart/TM1637_RT) - TM1637 library for Arduino
+- [avishorp/TM1637](https://github.com/avishorp/TM1637) - Arduino library for TM1637 (LED Driver)
+- [DeanIsMe/SevSeg](https://github.com/DeanIsMe/SevSeg) - Seven segment display controller library for Arduino
+- [bridystone/SevSegShift](https://github.com/bridystone/SevSegShift) - Seven segment display controller library for Arduino
 - [M2Team/NanaRun](https://github.com/M2Team/NanaRun) - Application runtime environment customization utility
 - [Chuyu-Team/VC-LTL5](https://github.com/Chuyu-Team/VC-LTL5) - Shared to msvcrt.dll or ucrtbase.dll and optimize the C/C++ application file size.
 - [firebuild/firebuild](https://github.com/firebuild/firebuild) - Automatic build accelerator cache for Linux
@@ -626,7 +632,7 @@
 - [XhmikosR/notepad2-mod](https://github.com/XhmikosR/notepad2-mod) - LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting
 - [simonsteele/pn](https://github.com/simonsteele/pn) - Programmer's Notepad
 - [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror) - This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.
-- [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight out-of-box-experience oriented Hyper-V client based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands.
+- [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands.
 - [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - [Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
 - [M2Team/Privexec](https://github.com/M2Team/Privexec) - Run the program with the specified permission level (C++20 required)
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
@@ -2342,7 +2348,7 @@
 - [appnjoy/dosbian](https://github.com/appnjoy/dosbian) - A Raspberry Pi distro that boots straightly to Dosbox emulator
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [willfarrell/docker-crontab](https://github.com/willfarrell/docker-crontab) - A docker job scheduler (aka. crontab for docker)
-- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [pi-hosted/pi-hosted](https://github.com/pi-hosted/pi-hosted) - Pi-Hosted is a collection of tutorials for hosting a variety of server applications using Docker and Portainer on the Raspberry Pi.
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
 - [ofirgall/tmux-browser](https://github.com/ofirgall/tmux-browser) - Web browser sessions attached to tmux sessions
