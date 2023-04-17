@@ -980,6 +980,7 @@
 
 ## HTML 
 
+- [Parcoil/nativegames.net](https://github.com/Parcoil/nativegames.net) - Nativegames - Free Unblocked Games - Opensource
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [strongdan/js-analog-clock](https://github.com/strongdan/js-analog-clock) - 
@@ -1093,6 +1094,7 @@
 
 ## JavaScript 
 
+- [holepunchto/hypershell](https://github.com/holepunchto/hypershell) - Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted
 - [PurePro4561/PurePro4561.github.io](https://github.com/PurePro4561/PurePro4561.github.io) - All Your Favorite Games In One Place
 - [kimchi-project/kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
@@ -2141,6 +2143,7 @@
 
 ## Shell 
 
+- [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [bb010g/betterdiscordctl](https://github.com/bb010g/betterdiscordctl) - A utility for managing BetterDiscord on Linux.
 - [ne0YT/Linux-Subsystem-for-Windows_Seamless_windows_apps_on_Linux](https://github.com/ne0YT/Linux-Subsystem-for-Windows_Seamless_windows_apps_on_Linux) - Run any Windows App seamlessly on Linux
@@ -2600,7 +2603,7 @@
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 - [hmsjy2017/tabby](https://github.com/hmsjy2017/tabby) - A terminal for a more modern age (formerly Terminus)
 - [oznu/node-pty-prebuilt-multiarch](https://github.com/oznu/node-pty-prebuilt-multiarch) - A parallel fork of node-pty providing ia32, amd64, arm, and aarch64 prebuilt packages for macOS, Windows and Linux (glibc and musl libc).
