@@ -994,8 +994,8 @@
 - [namdevel/jsid.dev](https://github.com/namdevel/jsid.dev) - A free subdomain for developers.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
-- [arm-university/Embedded-Linux-Education-Kit](https://github.com/arm-university/Embedded-Linux-Education-Kit) - develop an embedded Linux system on low-cost Arm based platforms
-- [arm-university/Introduction-to-Computer-Architecture-Education-Kit](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit) - know the fundamental topics and concepts of computer architecture including the application of these with modern Arm processors
+- [arm-university/Embedded-Linux-Education-Kit](https://github.com/arm-university/Embedded-Linux-Education-Kit) - Develop an embedded Linux system on low-cost Arm based platforms
+- [arm-university/Introduction-to-Computer-Architecture-Education-Kit](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit) - Gain an understanding of the fundamental topics and concepts of computer architecture including the application of these with modern Arm processors
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 - [nestoris/Win98SE](https://github.com/nestoris/Win98SE) - SE98 icon theme for GNU/Linux based on Windows 98 SE style and grassmunk/Chicago95 theme.
 - [AmineDjeghri/AwesomeWindows11](https://github.com/AmineDjeghri/AwesomeWindows11) - Some windows tips to improve your UX experience when using windows 11 (including WSL2 & development tools)
@@ -1398,6 +1398,7 @@
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
 - [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+- [appsmithorg/foundry](https://github.com/appsmithorg/foundry) - A collection of apps smithed in the foundry. Browse templates, sample apps, designs, and other resources, from Appsmith and the Appsmith community.
 - [kmille36/Azure-Virtual-Machine-For-Developer](https://github.com/kmille36/Azure-Virtual-Machine-For-Developer) - Free 8 core 32 GB with nested virtualization Azure VM.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [helloSystem/hello](https://github.com/helloSystem/hello) - Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
@@ -1944,7 +1945,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-525-Stars](https://github.com/iBug/This-Repo-Has-525-Stars) - Yes, it's true :heartbeat: This repository has 525 stars.
+- [iBug/This-Repo-Has-526-Stars](https://github.com/iBug/This-Repo-Has-526-Stars) - Yes, it's true :orange_heart: This repository has 526 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2181,7 +2182,6 @@
 - [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [wimpysworld/machinespawn](https://github.com/wimpysworld/machinespawn) - Wrapper for machinectl and systemd-nspawn for creating containers
-- [appsmithorg/foundry](https://github.com/appsmithorg/foundry) - A collection of apps smithed in the foundry. Browse templates, sample apps, designs, and other resources, from Appsmith and the Appsmith community.
 - [TanmayPatil105/wifi-cli](https://github.com/TanmayPatil105/wifi-cli) - 📶 Wifi through command line
 - [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
 - [saeziae/pkgbuild-linux-phytium](https://github.com/saeziae/pkgbuild-linux-phytium) - Archlinux package for Linux kernel on Phytium 飞腾
