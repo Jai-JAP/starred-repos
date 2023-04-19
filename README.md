@@ -470,7 +470,7 @@
 - [GTA-ASM/SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
 - [krlvm/BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker
 - [Icepenguins101/charms-bar-port](https://github.com/Icepenguins101/charms-bar-port) - The brand new solution for bringing back the Windows 8.x Charms bar to Windows 10 and Windows 11
-- [Lixkote/Rectify11Installer-vNextLixkote](https://github.com/Lixkote/Rectify11Installer-vNextLixkote) - A Windows 11 modification to make Windows more consistent. Edited by me to add gadgets and some other prototype crap which might end up in v4.
+- [Lixkote/OpenRekt-Installer](https://github.com/Lixkote/OpenRekt-Installer) - The Rectify11-installer based openly forkable Windows transformation pack backend
 - [Pdawg-bytes/factoryos-10x-shell](https://github.com/Pdawg-bytes/factoryos-10x-shell) - A Windows 10X shell recreation to run in place of the default FactoryOS shell.
 - [FrozenAssassine/Fastedit](https://github.com/FrozenAssassine/Fastedit) - Fastedit is a lightweight and fluent Texteditor for Windows
 - [ojask/Rectify11ControlCenter](https://github.com/ojask/Rectify11ControlCenter) - 
@@ -1052,6 +1052,7 @@
 
 ## Java 
 
+- [sugoidogo/GroupBot](https://github.com/sugoidogo/GroupBot) - A discord bot for server members to create and join their own non-admin roles
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [M66B/XPrivacy](https://github.com/M66B/XPrivacy) - XPrivacy - The ultimate, yet easy to use, privacy manager
 - [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
@@ -1197,7 +1198,6 @@
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [janosgyerik/bashoneliners](https://github.com/janosgyerik/bashoneliners) - A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborative system, user friendly, with functions to contribu
 - [michaljaz/webmc](https://github.com/michaljaz/webmc) - Minecraft client written in Javascript (1.16.5 offline mode working)
-- [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
 - [EmDev21/Dollar](https://github.com/EmDev21/Dollar) - A startpage looking like a terminal
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
