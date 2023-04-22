@@ -115,6 +115,7 @@
 
 ## C 
 
+- [edk2-porting/edk2-rk35xx](https://github.com/edk2-porting/edk2-rk35xx) - EDK2 UEFI firmware for Rockchip RK35xx platforms
 - [modz2014/IDA-patcher](https://github.com/modz2014/IDA-patcher) - generates ida pro license keys
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them.
@@ -562,6 +563,7 @@
 
 ## C++ 
 
+- [FlightGear/flightgear](https://github.com/FlightGear/flightgear) - Mirror: FlightGear - Open source flight sim
 - [jasonacox/TM1637TinyDisplay](https://github.com/jasonacox/TM1637TinyDisplay) - Arduino library to display numbers and text on a 4 and 6 digit 7-segment TM1637 display modules.
 - [RobTillaart/TM1637_RT](https://github.com/RobTillaart/TM1637_RT) - TM1637 library for Arduino
 - [avishorp/TM1637](https://github.com/avishorp/TM1637) - Arduino library for TM1637 (LED Driver)
@@ -583,7 +585,7 @@
 - [brookmiles/windows-heic-thumbnails](https://github.com/brookmiles/windows-heic-thumbnails) - Enable Windows Explorer to display thumbnails for HEIC files
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [gphalkes/tilde](https://github.com/gphalkes/tilde) - The Tilde text editor
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚘𝚞𝚜𝚕𝚢 easy :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 easy :rocket:
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
 - [theofficialgman/PrusaSlicer](https://github.com/theofficialgman/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
@@ -1632,7 +1634,7 @@
 - [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows or UEFI Shell ISOs
 - [huben1337/winpfp](https://github.com/huben1337/winpfp) - Custom Windows 10 account picture
 - [JosephM101/Force-Windows-11-Install](https://github.com/JosephM101/Force-Windows-11-Install) - Modifies Windows 11 installation ISO to bypass compatibility checks both pre and post installation
-- [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption,  Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
+- [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 - [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice makes setting up a new Windows device a child's play. Lay back and relax while it does some of the most common things that people usually do to setup a brand new device. It's all automatic ✨
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
@@ -1946,7 +1948,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-526-Stars](https://github.com/iBug/This-Repo-Has-526-Stars) - Yes, it's true :orange_heart: This repository has 526 stars.
+- [iBug/This-Repo-Has-526-Stars](https://github.com/iBug/This-Repo-Has-526-Stars) - Yes, it's true :purple_heart: This repository has 526 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2145,6 +2147,7 @@
 
 ## Shell 
 
+- [E85Addict/revanced-extended-builds](https://github.com/E85Addict/revanced-extended-builds) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [bb010g/betterdiscordctl](https://github.com/bb010g/betterdiscordctl) - A utility for managing BetterDiscord on Linux.
@@ -2435,7 +2438,7 @@
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [simoniz0r/deb2appimage](https://github.com/simoniz0r/deb2appimage) - Build AppImages from deb packages on any distro with simple json configuration
 - [AppImageCommunity/pkg2appimage](https://github.com/AppImageCommunity/pkg2appimage) - Tool and recipes to convert existing deb packages to AppImage
-- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
+- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
 - [wimpysworld/retro-home](https://github.com/wimpysworld/retro-home) - Retro Home; your home for retro-gaming 🕹
 - [transcode-open/apt-cyg](https://github.com/transcode-open/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
