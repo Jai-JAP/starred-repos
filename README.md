@@ -517,7 +517,7 @@
 - [randyrants/winverex](https://github.com/randyrants/winverex) - Command prompt utility that returns a "fully qualified" version of Windows 10
 - [dongle-the-gadget/WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - A UWP version of winver
 - [krlvm/AccentColorizer-E11](https://github.com/krlvm/AccentColorizer-E11) - Accent Colorization for Windows 11 File Explorer Icon Glyphs
-- [MishaTy/Rectify11Installer](https://github.com/MishaTy/Rectify11Installer) - A Windows 11 modification to make Windows more consistent.
+- [MishaProductions/Rectify11Installer](https://github.com/MishaProductions/Rectify11Installer) - A Windows 11 modification to make Windows more consistent.
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 - [AlexanderPro/SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
@@ -1097,6 +1097,8 @@
 
 ## JavaScript 
 
+- [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Lightweight full-featured typescript/javascript WhatsApp Web API
+- [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [holepunchto/hypershell](https://github.com/holepunchto/hypershell) - Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted
 - [PurePro4561/PurePro4561.github.io](https://github.com/PurePro4561/PurePro4561.github.io) - All Your Favorite Games In One Place
 - [kimchi-project/kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
@@ -1301,6 +1303,7 @@
 
 ## Kotlin 
 
+- [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 - [mozilla-mobile/firefox-android](https://github.com/mozilla-mobile/firefox-android) - This repository hosts the Firefox for Android (Fenix), Focus for Android, and Mozilla Android Components projects.
 - [Tobi823/ffupdater](https://github.com/Tobi823/ffupdater) - FFUpdater: Updater for privacy friendly browser
@@ -1374,6 +1377,7 @@
 
 ## Others 
 
+- [givinghawk/pihole-block-list](https://github.com/givinghawk/pihole-block-list) - 
 - [TrickJoker312/Unblocked-Sites](https://github.com/TrickJoker312/Unblocked-Sites) - This is  your go-to place for unblocked game sites! I'd also appreciate a star :D https://trickjoker-com.cms.webnode.page/
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [mmtrt/box86-64_AppImage](https://github.com/mmtrt/box86-64_AppImage) - 
@@ -1590,6 +1594,7 @@
 
 ## PHP 
 
+- [AndrewPaglusch/FlashPaper](https://github.com/AndrewPaglusch/FlashPaper) - One-time encrypted password/secret sharing
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
 - [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole's lists from remote sources easily
@@ -2147,6 +2152,7 @@
 
 ## Shell 
 
+- [E85Addict/revanced-magisk-module](https://github.com/E85Addict/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [E85Addict/revanced-extended-builds](https://github.com/E85Addict/revanced-extended-builds) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
