@@ -448,7 +448,7 @@
 - [TheMindVirus/KMDF-X](https://github.com/TheMindVirus/KMDF-X) - Windows Diagnostic Drivers for Raspberry Pi 4 in Low Peripheral Mode (no operation, text file output only)
 - [TheMindVirus/VC4WDDM2](https://github.com/TheMindVirus/VC4WDDM2) - Skeleton DXGK Driver on top of ACPI\VC4 for developing Broadcom VideoCoreIV/VI GPU in Windows
 - [TheMindVirus/pftf-rpi4](https://github.com/TheMindVirus/pftf-rpi4) - Customised fork of github.com/pftf/rpi4 with experimental dual monitor support
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
 - [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -566,6 +566,7 @@
 
 ## C++ 
 
+- [alula/998tools](https://github.com/alula/998tools) - Toolkit for manipulating Microsoft's 998 image files.
 - [FlightGear/flightgear](https://github.com/FlightGear/flightgear) - Mirror: FlightGear - Open source flight sim
 - [jasonacox/TM1637TinyDisplay](https://github.com/jasonacox/TM1637TinyDisplay) - Arduino library to display numbers and text on a 4 and 6 digit 7-segment TM1637 display modules.
 - [RobTillaart/TM1637_RT](https://github.com/RobTillaart/TM1637_RT) - TM1637 library for Arduino
@@ -1657,6 +1658,7 @@
 
 ## Python 
 
+- [Tristan296/FileManager](https://github.com/Tristan296/FileManager) - GUI & CLI File-Manager made in Python using PySimpleGUI
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -1996,6 +1998,7 @@
 
 ## Rust 
 
+- [uutils/humantime_to_duration](https://github.com/uutils/humantime_to_duration) - Parses a relative time string and returns a `Duration`
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [birbe/jvm](https://github.com/birbe/jvm) - Pure Rust implementation of the JVM 7 specification
 - [wgpu-mc/wgpu-mc](https://github.com/wgpu-mc/wgpu-mc) - Rust-based replacement for the default Minecraft renderer
@@ -2668,6 +2671,7 @@
 
 ## Vim Script 
 
+- [wolandark/wim](https://github.com/wolandark/wim) - This is a Vim configuration that gets you a similar experience as a full-featured IDE. This is accomplished using native vim features with the help of some plugins.
 - [tpope/vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
