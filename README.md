@@ -996,7 +996,7 @@
 
 ## HTML 
 
-- [Tristan296/FileManager](https://github.com/Tristan296/FileManager) - File-Manager | GUI Desktop Application made in Python using PySimpleGUI
+- [Tristan296/FileManager](https://github.com/Tristan296/FileManager) - File-Manager | GUI Desktop Application made in Python using PyQt5
 - [Parcoil/nativegames.net](https://github.com/Parcoil/nativegames.net) - Nativegames - Free Unblocked Games - Opensource
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - [Service is DOWN now] A badge generator service to count visitors of your markdown file.
 - [oxmc/browser-logos-css](https://github.com/oxmc/browser-logos-css) - 
@@ -1069,6 +1069,7 @@
 
 ## Java 
 
+- [OxrxL/mMicroG](https://github.com/OxrxL/mMicroG) - 
 - [sugoidogo/GroupBot](https://github.com/sugoidogo/GroupBot) - A discord bot for server members to create and join their own non-admin roles
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [M66B/XPrivacy](https://github.com/M66B/XPrivacy) - XPrivacy - The ultimate, yet easy to use, privacy manager
@@ -1121,7 +1122,7 @@
 - [PurePro4561/PurePro4561.github.io](https://github.com/PurePro4561/PurePro4561.github.io) - All Your Favorite Games In One Place
 - [kimchi-project/kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
-- [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse) - A Playground for HTML/CSS/JavaScript
+- [sonnyp/Playhouse](https://github.com/sonnyp/Playhouse) - Playground for HTML/CSS/JavaScript
 - [maxogden/nugget](https://github.com/maxogden/nugget) - minimalist wget clone written in node. HTTP GET files and downloads them into the current directory
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - 
@@ -1247,7 +1248,7 @@
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [FreeTubeApp/freetube-redirect](https://github.com/FreeTubeApp/freetube-redirect) - Browser extension to open YouTube links into FreeTube
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [khlam/discord-sandboxed](https://github.com/khlam/discord-sandboxed) - Alternative electron-based Discord client with custom telemetry blocker and privacy-focused push-to-talk.
 - [hmanzur/actions-set-secret](https://github.com/hmanzur/actions-set-secret) - Create or update secrets in github repository
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
@@ -1678,6 +1679,7 @@
 
 ## Python 
 
+- [sebaubuntu-python/dumpyara](https://github.com/sebaubuntu-python/dumpyara) - Android firmware dumper, rewritten in Python
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
@@ -2591,7 +2593,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [e9x/chrome100](https://github.com/e9x/chrome100) - Collection of ChromeOS recovery images.
 - [brunnerh/insert-unicode](https://github.com/brunnerh/insert-unicode) - A Visual Studio Code extension which adds commands for inserting unicode characters/codes.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [tmigone/pulseaudio](https://github.com/tmigone/pulseaudio) - A TypeScript based client library for PulseAudio
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
