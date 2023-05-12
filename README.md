@@ -572,6 +572,9 @@
 
 ## C++ 
 
+- [contour-terminal/libunicode](https://github.com/contour-terminal/libunicode) - Modern C++17 Unicode library
+- [MengRao/fmtlog](https://github.com/MengRao/fmtlog) - fmtlog is a performant fmtlib-style logging library with latency in nanoseconds.
+- [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
 - [ramensoftware/windhawk-mods](https://github.com/ramensoftware/windhawk-mods) - The official collection of Windhawk mods
 - [st3w/neo](https://github.com/st3w/neo) - Simulates the digital rain from "The Matrix" (CMatrix clone with 32-bit color and Unicode support)
 - [alula/998tools](https://github.com/alula/998tools) - Toolkit for manipulating Microsoft's 998 image files.
@@ -597,7 +600,7 @@
 - [brookmiles/windows-heic-thumbnails](https://github.com/brookmiles/windows-heic-thumbnails) - Enable Windows Explorer to display thumbnails for HEIC files
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [gphalkes/tilde](https://github.com/gphalkes/tilde) - The Tilde text editor
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎  𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously smart second brain :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously smart clipboard manager:rocket:
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
 - [theofficialgman/PrusaSlicer](https://github.com/theofficialgman/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
@@ -1400,6 +1403,7 @@
 
 ## Others 
 
+- [mikecrowe/clang-tidy-fmt](https://github.com/mikecrowe/clang-tidy-fmt) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
 - [Pi-Apps-Coders/GitHub-Markdown](https://github.com/Pi-Apps-Coders/GitHub-Markdown) - Additional Markdown for GitHub
 - [givinghawk/pihole-block-list](https://github.com/givinghawk/pihole-block-list) - 
@@ -2194,7 +2198,6 @@
 - [mathiasbynens/evil.sh](https://github.com/mathiasbynens/evil.sh) - :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 - [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended YT and YT-M for both root and non-root users.
 - [E85Addict/revanced-magisk-module](https://github.com/E85Addict/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
-- [E85Addict/revanced-extended-builds](https://github.com/E85Addict/revanced-extended-builds) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [bb010g/betterdiscordctl](https://github.com/bb010g/betterdiscordctl) - A utility for managing BetterDiscord on Linux.
