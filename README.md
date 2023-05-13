@@ -471,6 +471,7 @@
 
 ## C# # 
 
+- [goranalkovic/WinGetGui](https://github.com/goranalkovic/WinGetGui) - A very basic GUI for installing apps through WinGet
 - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
 - [nerocui/JitHubV2](https://github.com/nerocui/JitHubV2) - GitHub WinUI Client
 - [MarkHopper24/barcodrod.io](https://github.com/MarkHopper24/barcodrod.io) - A free, modern barcode and QR code toolkit for Windows.
@@ -1030,6 +1031,7 @@
 - [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - A minimal, responsive and light theme for Hugo inspired by Linux console.
+- [rollingrhinoremix/rollingrhinoremix.github.io](https://github.com/rollingrhinoremix/rollingrhinoremix.github.io) - This is the official repository for the Rolling Rhino Remix. Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu operating system into a rolling release Linux distribution b
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [nera-w/nera-w.github.io](https://github.com/nera-w/nera-w.github.io) - my minecraft packs website :)
 - [appwrite/playground-for-web](https://github.com/appwrite/playground-for-web) - Simple examples that help you get started with Appwrite + Web (=❤️)
@@ -1206,7 +1208,6 @@
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [tchx84/Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-- [rollingrhinoremix/rollingrhinoremix.github.io](https://github.com/rollingrhinoremix/rollingrhinoremix.github.io) - This is the official repository for the Rolling Rhino Remix. Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu operating system into a rolling release Linux distribution b
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [Crilum/websh](https://github.com/Crilum/websh) - Web-powered shell emulator
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -1982,7 +1983,6 @@
 - [hwittenborn/tap](https://github.com/hwittenborn/tap) - MPR in your pocket
 - [makedeb/mprweb](https://github.com/makedeb/mprweb) - Hosting platform for the makedeb Package Repository (MPR)
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [TheMindVirus/UDF-Python](https://github.com/TheMindVirus/UDF-Python) - CPython running as an interpreter for a UMDFv2 Windows Driver!
 - [TheMindVirus/rpigpad](https://github.com/TheMindVirus/rpigpad) - Raspberry Pi Gamepad - Linux Service connecting 2x USB HID Mice into 1x XAC Virtual Joystick for Windows
 - [techcoder20/PiAppsTerminalAdvanced](https://github.com/techcoder20/PiAppsTerminalAdvanced) - This is a prototype of PiAppsPackageManager terminal commands
@@ -2579,7 +2579,7 @@
 - [wokwi/avr8js](https://github.com/wokwi/avr8js) - Arduino (8-bit AVR) simulator, written in JavaScript and runs in the browser / Node.js
 - [wokwi/rp2040js](https://github.com/wokwi/rp2040js) - A Raspberry Pi Pico Emulator in JavaScript
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - ✅ A simple extension that enables Bing ChatGPT on Chrome and Firefox
+- [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Enable Bing ChatGPT on Chrome and Firefox
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 - [darky/ytdl-tui](https://github.com/darky/ytdl-tui) - TUI for downloading Youtube videos
