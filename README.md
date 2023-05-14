@@ -106,7 +106,7 @@
 - [SyXo/offlineinsiderenroll](https://github.com/SyXo/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
 - [abbodi1406/offlineinsiderenroll](https://github.com/abbodi1406/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
 - [semazurek/ET-Optimizer](https://github.com/semazurek/ET-Optimizer) - ET is a Batch/PowerShell GUI script to improve performance, debloat, optimize and enhance privacy for Windows 10/11.
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent Windows operating system, designed to optimize performance and latency.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
 - [massgravel/MAS-Legacy-Methods](https://github.com/massgravel/MAS-Legacy-Methods) - 
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [pal1000/mesa-dist-win](https://github.com/pal1000/mesa-dist-win) - Pre-built Mesa3D drivers for Windows
@@ -601,7 +601,7 @@
 - [brookmiles/windows-heic-thumbnails](https://github.com/brookmiles/windows-heic-thumbnails) - Enable Windows Explorer to display thumbnails for HEIC files
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [gphalkes/tilde](https://github.com/gphalkes/tilde) - The Tilde text editor
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously smart clipboard manager:rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously cool clipboard manager:rocket:
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
 - [theofficialgman/PrusaSlicer](https://github.com/theofficialgman/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
@@ -1404,6 +1404,7 @@
 
 ## Others 
 
+- [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [mikecrowe/clang-tidy-fmt](https://github.com/mikecrowe/clang-tidy-fmt) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
 - [Pi-Apps-Coders/GitHub-Markdown](https://github.com/Pi-Apps-Coders/GitHub-Markdown) - Additional Markdown for GitHub
@@ -2030,6 +2031,8 @@
 
 ## Rust 
 
+- [Rahix/avr-device](https://github.com/Rahix/avr-device) - Register access crate for AVR microcontrollers
+- [Rahix/avr-hal](https://github.com/Rahix/avr-hal) - embedded-hal abstractions for AVR microcontrollers
 - [MarcGuiselin/wedge](https://github.com/MarcGuiselin/wedge) - A Simple, Open-Source Edge Redirector
 - [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
