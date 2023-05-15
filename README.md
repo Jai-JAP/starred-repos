@@ -122,6 +122,7 @@
 
 ## C 
 
+- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [orangeduck/tgc](https://github.com/orangeduck/tgc) - A Tiny Garbage Collector for C
 - [edk2-porting/edk2-rk35xx](https://github.com/edk2-porting/edk2-rk35xx) - EDK2 UEFI firmware for Rockchip RK35xx platforms
 - [modz2014/IDA-patcher](https://github.com/modz2014/IDA-patcher) - generates ida pro license keys
@@ -471,6 +472,7 @@
 
 ## C# # 
 
+- [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows 11 device's battery life. A WinUI 3 GUI for https://github.com/imbushuo/EnergyStar.
 - [goranalkovic/WinGetGui](https://github.com/goranalkovic/WinGetGui) - A very basic GUI for installing apps through WinGet
 - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
 - [nerocui/JitHubV2](https://github.com/nerocui/JitHubV2) - GitHub WinUI Client
@@ -501,7 +503,6 @@
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [Blindside-Studios/Flooent-Calcoolator](https://github.com/Blindside-Studios/Flooent-Calcoolator) - Simple calculator with animations making it a pain to use but good for practise. Nice.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
-- [iridescentkiwi/FluentAbout](https://github.com/iridescentkiwi/FluentAbout) - About is improved and fluent version of Windows' classic winver dialog 💻
 - [G-Stas/Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system.
 - [SyedAounHaiderNaqvi/To-Do_App](https://github.com/SyedAounHaiderNaqvi/To-Do_App) - A UWP app designed with WinUI 2.x controls, the To-Do app stores and displays your tasks and supports beautiful color themes.
 - [FireCubeStudios/flowpad](https://github.com/FireCubeStudios/flowpad) - source code of drawing app. not accepting contributions just storing it on GitHub.
@@ -573,6 +574,7 @@
 
 ## C++ 
 
+- [ahmed605/10Mica](https://github.com/ahmed605/10Mica) - Mica but for Windows 10
 - [contour-terminal/libunicode](https://github.com/contour-terminal/libunicode) - Modern C++17 Unicode library
 - [MengRao/fmtlog](https://github.com/MengRao/fmtlog) - fmtlog is a performant fmtlib-style logging library with latency in nanoseconds.
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
@@ -601,7 +603,7 @@
 - [brookmiles/windows-heic-thumbnails](https://github.com/brookmiles/windows-heic-thumbnails) - Enable Windows Explorer to display thumbnails for HEIC files
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [gphalkes/tilde](https://github.com/gphalkes/tilde) - The Tilde text editor
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously cool clipboard manager:rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously smart clipboard manager:rocket:
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
 - [theofficialgman/PrusaSlicer](https://github.com/theofficialgman/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
@@ -1118,6 +1120,7 @@
 
 ## JavaScript 
 
+- [whos-evan/kazwire](https://github.com/whos-evan/kazwire) - An unblocked games site that allows you to also browse the web freely!
 - [kitcambridge/evil.js](https://github.com/kitcambridge/evil.js) - 
 - [ading2210/quickview](https://github.com/ading2210/quickview) - QuickView is a universal Chrome OS webview exploit which utilizes the QuickOffice component extension.
 - [Sv443/JokeAPI](https://github.com/Sv443/JokeAPI) - REST API that serves uniformly and well formatted jokes in JSON, XML, YAML or plain text format that also offers a great variety of filtering methods
@@ -1685,6 +1688,7 @@
 
 ## Python 
 
+- [SputnikRocket/PyThOS-V2](https://github.com/SputnikRocket/PyThOS-V2) - PyThOS system simulation rewritten from scratch
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [sebaubuntu-python/dumpyara](https://github.com/sebaubuntu-python/dumpyara) - Android firmware dumper, rewritten in Python
@@ -1732,7 +1736,7 @@
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - An easy-to-use Python CLI Minecraft launcher! Compatible with official Minecraft launcher and provides many official add-ons.
-- [mozillazg/pypy](https://github.com/mozillazg/pypy) - The unofficial GitHub mirror of PyPy
+- [mozillazg/pypy](https://github.com/mozillazg/pypy) - The unofficial GitHub mirror of PyPy (mirrored via https://github.com/mozillazg/job-mirror-hg-repos)
 - [proskur1n/cmeson](https://github.com/proskur1n/cmeson) - TUI for the meson build system
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
@@ -2196,6 +2200,7 @@
 
 ## Shell 
 
+- [VulpoTheDev/Linux-Stuff](https://github.com/VulpoTheDev/Linux-Stuff) - Scripts I use for Arch Linux, this will include the installation script and possibly in the future will grow into a repo full of my configurations for linux
 - [j-hc/mindetach-magisk](https://github.com/j-hc/mindetach-magisk) - Simpler and better Magisk module to detach apps from Play Store
 - [FydeOS-ArcHero/project-archero](https://github.com/FydeOS-ArcHero/project-archero) - 
 - [mathiasbynens/evil.sh](https://github.com/mathiasbynens/evil.sh) - :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
