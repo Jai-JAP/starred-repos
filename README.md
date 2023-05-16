@@ -574,6 +574,7 @@
 
 ## C++ 
 
+- [yuzu-emu/yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline) - 
 - [ahmed605/10Mica](https://github.com/ahmed605/10Mica) - Mica but for Windows 10
 - [contour-terminal/libunicode](https://github.com/contour-terminal/libunicode) - Modern C++17 Unicode library
 - [MengRao/fmtlog](https://github.com/MengRao/fmtlog) - fmtlog is a performant fmtlib-style logging library with latency in nanoseconds.
@@ -1120,6 +1121,10 @@
 
 ## JavaScript 
 
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
+- [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
+- [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server.Powered by web llm
+- [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable
 - [whos-evan/kazwire](https://github.com/whos-evan/kazwire) - An unblocked games site that allows you to also browse the web freely!
 - [kitcambridge/evil.js](https://github.com/kitcambridge/evil.js) - 
 - [ading2210/quickview](https://github.com/ading2210/quickview) - QuickView is a universal Chrome OS webview exploit which utilizes the QuickOffice component extension.
@@ -1407,6 +1412,8 @@
 
 ## Others 
 
+- [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
+- [BreeceW/Oxidized](https://github.com/BreeceW/Oxidized) - Windows 11 and 10 chat app
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [mikecrowe/clang-tidy-fmt](https://github.com/mikecrowe/clang-tidy-fmt) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
@@ -1514,7 +1521,7 @@
 - [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) - Lovingly crafted AppImage tools and resources
 - [DB-db-dron/weatherDB](https://github.com/DB-db-dron/weatherDB) - Get current weather, hourly forecast, daily forecast for 7 days, and 7 day weather icons for your city. No authentication or API key required... Simple and fast and free weather API
 - [ryanfortner/peazip-arm](https://github.com/ryanfortner/peazip-arm) - 
-- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
@@ -1688,6 +1695,11 @@
 
 ## Python 
 
+- [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI brain and chat with it
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [discordtehe/Bard](https://github.com/discordtehe/Bard) - Reverse engineering of Google's Bard API
+- [acheong08/Bard](https://github.com/acheong08/Bard) - Reverse engineering of Google's Bard API
 - [SputnikRocket/PyThOS-V2](https://github.com/SputnikRocket/PyThOS-V2) - PyThOS system simulation rewritten from scratch
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
@@ -1996,7 +2008,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-526-Stars](https://github.com/iBug/This-Repo-Has-526-Stars) - Yes, it's true :heart: This repository has 526 stars.
+- [iBug/This-Repo-Has-527-Stars](https://github.com/iBug/This-Repo-Has-527-Stars) - Yes, it's true :yellow_heart: This repository has 527 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2035,6 +2047,9 @@
 
 ## Rust 
 
+- [knurling-rs/defmt](https://github.com/knurling-rs/defmt) - Efficient, deferred formatting for logging on embedded systems
+- [RazrFalcon/rustybuzz](https://github.com/RazrFalcon/rustybuzz) - A complete harfbuzz's shaping algorithm port to Rust
+- [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - An SVG rendering library.
 - [Rahix/avr-device](https://github.com/Rahix/avr-device) - Register access crate for AVR microcontrollers
 - [Rahix/avr-hal](https://github.com/Rahix/avr-hal) - embedded-hal abstractions for AVR microcontrollers
 - [MarcGuiselin/wedge](https://github.com/MarcGuiselin/wedge) - A Simple, Open-Source Edge Redirector
