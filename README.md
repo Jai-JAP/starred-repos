@@ -419,7 +419,7 @@
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
 - [Acry/flappy](https://github.com/Acry/flappy) - Flappy Birds - A rapid prototype implementation in SDL2-C
 - [mmhobi7/xwinwrap](https://github.com/mmhobi7/xwinwrap) - X11 Window in desktop enviroment background
-- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-report
+- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [cutiepi-io/cutiepi-drivers](https://github.com/cutiepi-io/cutiepi-drivers) - Drivers for the CutiePi tablet
@@ -576,6 +576,7 @@
 
 ## C++ 
 
+- [worproject/Rockchip-Windows-Drivers](https://github.com/worproject/Rockchip-Windows-Drivers) - Windows on Arm drivers for RK35xx platforms.
 - [blackhole89/notekit](https://github.com/blackhole89/notekit) - A GTK3 hierarchical markdown notetaking application with tablet support.
 - [yuzu-emu/yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline) - 
 - [ahmed605/10Mica](https://github.com/ahmed605/10Mica) - Mica but for Windows 10
@@ -607,7 +608,7 @@
 - [brookmiles/windows-heic-thumbnails](https://github.com/brookmiles/windows-heic-thumbnails) - Enable Windows Explorer to display thumbnails for HEIC files
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [gphalkes/tilde](https://github.com/gphalkes/tilde) - The Tilde text editor
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart productivity tool :brain:
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
 - [theofficialgman/PrusaSlicer](https://github.com/theofficialgman/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
@@ -853,6 +854,7 @@
 
 ## CSS 
 
+- [defaultnamehere/verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [tlrobinson/evil.css](https://github.com/tlrobinson/evil.css) - Because CSS isn't evil enough already.
 - [libredeb/patch-ubuntu-dock](https://github.com/libredeb/patch-ubuntu-dock) - What Ubuntu Dock should have been
@@ -1131,7 +1133,7 @@
 - [schollz/offlinenotepad](https://github.com/schollz/offlinenotepad) - An offline-first, secure, private notepad. :notebook_with_decorative_cover: :pencil2:
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
-- [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server.Powered by web llm
+- [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server.Powered by web llm.
 - [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable
 - [whos-evan/kazwire](https://github.com/whos-evan/kazwire) - An unblocked games site that allows you to also browse the web freely!
 - [kitcambridge/evil.js](https://github.com/kitcambridge/evil.js) - 
@@ -1706,6 +1708,7 @@
 
 ## Python 
 
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [pyauth/pyotp](https://github.com/pyauth/pyotp) - Python One-Time Password Library
 - [distrochooser/distrochooser](https://github.com/distrochooser/distrochooser) - An orientation guide for Linux newbies
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
@@ -2014,6 +2017,7 @@
 - [hwittenborn/tap](https://github.com/hwittenborn/tap) - MPR in your pocket
 - [makedeb/mprweb](https://github.com/makedeb/mprweb) - Hosting platform for the makedeb Package Repository (MPR)
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [TheMindVirus/UDF-Python](https://github.com/TheMindVirus/UDF-Python) - CPython running as an interpreter for a UMDFv2 Windows Driver!
 - [TheMindVirus/rpigpad](https://github.com/TheMindVirus/rpigpad) - Raspberry Pi Gamepad - Linux Service connecting 2x USB HID Mice into 1x XAC Virtual Joystick for Windows
 - [techcoder20/PiAppsTerminalAdvanced](https://github.com/techcoder20/PiAppsTerminalAdvanced) - This is a prototype of PiAppsPackageManager terminal commands
@@ -2061,6 +2065,7 @@
 
 ## Rust 
 
+- [makedeb/prebuilt-mpr-gh-actions](https://github.com/makedeb/prebuilt-mpr-gh-actions) - The new Prebuilt-MPR, powered by GitHub Actions
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
@@ -2233,6 +2238,9 @@
 
 ## Shell 
 
+- [sebanc/brioche](https://github.com/sebanc/brioche) - An alternative to Crostini / Crouton for devices running brunch
+- [sebanc/brunch-toolchain](https://github.com/sebanc/brunch-toolchain) - x86_64 toolchain for ChromeOS
+- [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [VulpoTheDev/Linux-Stuff](https://github.com/VulpoTheDev/Linux-Stuff) - Scripts I use for Arch Linux, this will include the installation script and possibly in the future will grow into a repo full of my configurations for linux
 - [j-hc/mindetach-magisk](https://github.com/j-hc/mindetach-magisk) - Simpler and better Magisk module to detach apps from Play Store
 - [FydeOS-ArcHero/project-archero](https://github.com/FydeOS-ArcHero/project-archero) - 
