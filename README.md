@@ -1088,6 +1088,8 @@
 
 ## Java 
 
+- [geogebra/geogebra](https://github.com/geogebra/geogebra) - GeoGebra apps (mirror)
+- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [pfalstad/circuitjs1](https://github.com/pfalstad/circuitjs1) - Electronic Circuit Simulator in the Browser
 - [OxrxL/mMicroG](https://github.com/OxrxL/mMicroG) - 
 - [sugoidogo/GroupBot](https://github.com/sugoidogo/GroupBot) - A discord bot for server members to create and join their own non-admin roles
@@ -1132,6 +1134,7 @@
 
 ## JavaScript 
 
+- [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [schollz/offlinenotepad](https://github.com/schollz/offlinenotepad) - An offline-first, secure, private notepad. :notebook_with_decorative_cover: :pencil2:
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
@@ -1718,7 +1721,6 @@
 - [distrochooser/distrochooser](https://github.com/distrochooser/distrochooser) - An orientation guide for Linux newbies
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [acheong08/Bard](https://github.com/acheong08/Bard) - Python SDK/API for reverse engineered Google Bard
 - [SputnikRocket/PyThOS-V2](https://github.com/SputnikRocket/PyThOS-V2) - PyThOS system simulation rewritten from scratch
@@ -2627,6 +2629,7 @@
 
 - [SHSGames/shsgames.github.io](https://github.com/SHSGames/shsgames.github.io) - Unblocked Games
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [Venthe/vscode-fauxpilot](https://github.com/Venthe/vscode-fauxpilot) - 
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
