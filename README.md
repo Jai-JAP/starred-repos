@@ -1424,11 +1424,13 @@
 
 ## Objective-C 
 
+- [jcsalterego/pngpaste](https://github.com/jcsalterego/pngpaste) - Paste PNG into files, much like pbpaste does for text.
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 
 ## Others 
 
+- [cpredef/predef](https://github.com/cpredef/predef) - Pre-defined Compiler Macros wiki
 - [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows Vista (extended kernel), 7 and 8.x
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [BreeceW/Oxidized](https://github.com/BreeceW/Oxidized) - Windows 11 and 10 chat app
@@ -2071,6 +2073,7 @@
 
 ## Rust 
 
+- [sotanakamura/winui-rust](https://github.com/sotanakamura/winui-rust) - 
 - [makedeb/prebuilt-mpr-gh-actions](https://github.com/makedeb/prebuilt-mpr-gh-actions) - The new Prebuilt-MPR, powered by GitHub Actions
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
