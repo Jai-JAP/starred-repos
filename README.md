@@ -328,11 +328,10 @@
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [eteran/c-vector](https://github.com/eteran/c-vector) - A dynamic array implementation in C similar to the one found in standard C++
 - [Itai-Nelken/itai-lang](https://github.com/Itai-Nelken/itai-lang) - 
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [mhsjlw/mcpilauncher](https://github.com/mhsjlw/mcpilauncher) - Launch Minecraft: PI Edition on non-ARM-based Linux systems
-- [npp-plugins/mimetools](https://github.com/npp-plugins/mimetools) - 
 - [gup4win/wingup](https://github.com/gup4win/wingup) - WinGup - Generic Updater for Windows
 - [Coreforge/linux](https://github.com/Coreforge/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum
 - [Mashpoe/c-vector](https://github.com/Mashpoe/c-vector) - a simple vector library written in C. Can store any type
@@ -476,6 +475,7 @@
 
 ## C# # 
 
+- [jimkoutso2008/QEMUWF](https://github.com/jimkoutso2008/QEMUWF) - A very work in progress QEMU GUI.
 - [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows 11 device's battery life. A WinUI 3 GUI for https://github.com/imbushuo/EnergyStar.
 - [goranalkovic/WinGetGui](https://github.com/goranalkovic/WinGetGui) - A very basic GUI for installing apps through WinGet
 - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
@@ -578,6 +578,8 @@
 
 ## C++ 
 
+- [rounk-ctrl/W95PCHealthCheck](https://github.com/rounk-ctrl/W95PCHealthCheck) - funny clone of windows 11 pc health check app
+- [rounk-ctrl/TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM) - A lightweight utility that makes the Windows Start Menu translucent/transparent.
 - [worproject/Rockchip-Windows-Drivers](https://github.com/worproject/Rockchip-Windows-Drivers) - Windows on Arm drivers for RK35xx platforms.
 - [blackhole89/notekit](https://github.com/blackhole89/notekit) - A GTK3 hierarchical markdown notetaking application with tablet support.
 - [yuzu-emu/yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline) - 
@@ -770,6 +772,7 @@
 - [linuxdeepin/qt5platform-plugins](https://github.com/linuxdeepin/qt5platform-plugins) - Qt platform integration plugin for DDE.
 - [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
+- [npp-plugins/mimetools](https://github.com/npp-plugins/mimetools) - 
 - [npp-plugins/converter](https://github.com/npp-plugins/converter) - 
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
@@ -1430,6 +1433,7 @@
 
 ## Others 
 
+- [smartmaster/opennt](https://github.com/smartmaster/opennt) - The vanished OpenNT project
 - [cpredef/predef](https://github.com/cpredef/predef) - Pre-defined Compiler Macros wiki
 - [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows Vista (extended kernel), 7 and 8.x
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
@@ -1735,7 +1739,6 @@
 - [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
 - [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 156+ Windows 10/11 optimization and tweaking apps!
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
@@ -2034,7 +2037,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-527-Stars](https://github.com/iBug/This-Repo-Has-527-Stars) - Yes, it's true :yellow_heart: This repository has 527 stars.
+- [iBug/This-Repo-Has-528-Stars](https://github.com/iBug/This-Repo-Has-528-Stars) - Yes, it's true :heartpulse: This repository has 528 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2247,6 +2250,7 @@
 
 ## Shell 
 
+- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Automatic Repository build Revanced and Revanced Extended non-root version
 - [topjohnwu/ondk](https://github.com/topjohnwu/ondk) - Oxidized NDK - NDK repackaged with Rust toolchain
 - [sebanc/brioche](https://github.com/sebanc/brioche) - An alternative to Crostini / Crouton for devices running brunch
 - [sebanc/brunch-toolchain](https://github.com/sebanc/brunch-toolchain) - x86_64 toolchain for ChromeOS
@@ -2636,6 +2640,7 @@
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [Venthe/vscode-fauxpilot](https://github.com/Venthe/vscode-fauxpilot) - 
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 The best on-chain and open-source blogging community for everyone.
 - [wokwi/avr8js](https://github.com/wokwi/avr8js) - Arduino (8-bit AVR) simulator, written in JavaScript and runs in the browser / Node.js
 - [wokwi/rp2040js](https://github.com/wokwi/rp2040js) - A Raspberry Pi Pico Emulator in JavaScript
