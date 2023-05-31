@@ -1422,7 +1422,7 @@
 
 - [takov751/rpi-nixos-PoC](https://github.com/takov751/rpi-nixos-PoC) - PoC nixos image builder for rpi4
 - [Tow-Boot/Tow-Boot](https://github.com/Tow-Boot/Tow-Boot) - An opinionated distribution of U-Boot. — https://matrix.to/#/#Tow-Boot:matrix.org?via=matrix.org
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## Nu 
 
@@ -1828,7 +1828,7 @@
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [pacstall/libpacstall](https://github.com/pacstall/libpacstall) - Backend API library for Pacstall
-- [makedeb/prebuilt-mpr](https://github.com/makedeb/prebuilt-mpr) - APT repository for prebuilt MPR packages
+- [makedeb/prebuilt-mpr-old-v2](https://github.com/makedeb/prebuilt-mpr-old-v2) - APT repository for prebuilt MPR packages
 - [Griphitor/Griph-pad](https://github.com/Griphitor/Griph-pad) - Griph-Pad is a simple text editor by @Advik-B
 - [xboxone08/making_mcpi_real](https://github.com/xboxone08/making_mcpi_real) - This plugin for Minecraft: Pi edition aims to "update" it to be more like newer versions of Minecraft Bedrock Edition
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
@@ -2081,7 +2081,7 @@
 
 - [funbiscuit/spacedisplay-rs](https://github.com/funbiscuit/spacedisplay-rs) - Fast and lightweight tool to scan your disk space
 - [sotanakamura/winui-rust](https://github.com/sotanakamura/winui-rust) - 
-- [makedeb/prebuilt-mpr-gh-actions](https://github.com/makedeb/prebuilt-mpr-gh-actions) - The new Prebuilt-MPR, powered by GitHub Actions
+- [makedeb/prebuilt-mpr](https://github.com/makedeb/prebuilt-mpr) - The backend system powering the Prebuilt-MPR
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
@@ -2346,7 +2346,7 @@
 - [autotools-mirror/automake](https://github.com/autotools-mirror/automake) - GNU Automake. Mirror of git://git.savannah.gnu.org/automake.git
 - [Onelinerhub/shellhub](https://github.com/Onelinerhub/shellhub) - Shell utility to search onelinerhub directly from terminal (and executing commands if needed)
 - [Hinara/linux-vm-tools](https://github.com/Hinara/linux-vm-tools) - Hyper-V Linux Guest VM Enhancements
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [GYKgamer/Install-steamos-in-Ubuntu](https://github.com/GYKgamer/Install-steamos-in-Ubuntu) - New updated installation for steamos
 - [BashGui/easybashgui](https://github.com/BashGui/easybashgui) - EasyBashGUI  is a Bash functions library  for *BSD and GNU/Linux that aims to give simple GUI functions  using  yad, gtkdialog, kdialog, zenity, Xdialog, (c)dialog, whiptail or bash builtins   dependi
 - [Yisus7u7/termux-desktop-xfce](https://github.com/Yisus7u7/termux-desktop-xfce) - Set up a beautiful xfce desktop in termux
