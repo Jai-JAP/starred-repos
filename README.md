@@ -2040,7 +2040,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-529-Stars](https://github.com/iBug/This-Repo-Has-529-Stars) - Yes, it's true :heart: This repository has 529 stars.
+- [iBug/This-Repo-Has-529-Stars](https://github.com/iBug/This-Repo-Has-529-Stars) - Yes, it's true :revolving_hearts: This repository has 529 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2254,6 +2254,8 @@
 
 ## Shell 
 
+- [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
+- [micha/jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Automatic Repository build Revanced and Revanced Extended non-root version
 - [topjohnwu/ondk](https://github.com/topjohnwu/ondk) - Oxidized NDK - NDK repackaged with Rust toolchain
 - [sebanc/brioche](https://github.com/sebanc/brioche) - An alternative to Crostini / Crouton for devices running brunch
