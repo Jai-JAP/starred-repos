@@ -579,6 +579,7 @@
 
 ## C++ 
 
+- [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
 - [OpenLoco/OpenLoco](https://github.com/OpenLoco/OpenLoco) - An open source re-implementation of Chris Sawyer's Locomotion
 - [pmachapman/WordPad](https://github.com/pmachapman/WordPad) - WordPad for Windows
 - [Lixkote/10StartModenizer](https://github.com/Lixkote/10StartModenizer) - A Simple XamlDiagnostics demo that tweaks the Valinet's ExplorerPatcher's Windows 10 Start Menu acrylic. Also makes some controls rounded.
@@ -998,7 +999,7 @@
 - [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 - [codeyourweb/fastfinder](https://github.com/codeyourweb/fastfinder) - Incident Response - Fast suspicious file finder
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -1643,7 +1644,7 @@
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [30-seconds/30-seconds-of-git](https://github.com/30-seconds/30-seconds-of-git) - Short git snippets for all your development needs
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
-- [stken2050/wayland-desktop-container](https://github.com/stken2050/wayland-desktop-container) - How to set up your nested Wayland Desktop Environment with systemd-nspawn container, like VirtualBox
+- [ken-okabe/wayland-desktop-container](https://github.com/ken-okabe/wayland-desktop-container) - How to set up your nested Wayland Desktop Environment with systemd-nspawn container, like VirtualBox
 - [Botspot/pi-apps-analytics](https://github.com/Botspot/pi-apps-analytics) - 
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [alexroyce315/KMS-Keys](https://github.com/alexroyce315/KMS-Keys) - KMS Keys, Windows & Windows Server & Office.
@@ -1734,6 +1735,7 @@
 
 ## Python 
 
+- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [Linbreux/wikmd](https://github.com/Linbreux/wikmd) - A file based wiki that uses markdown
 - [PythOS-App/PythOS](https://github.com/PythOS-App/PythOS) - The newest way to use Python!
@@ -2051,7 +2053,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-530-Stars](https://github.com/iBug/This-Repo-Has-530-Stars) - Yes, it's true :purple_heart: This repository has 530 stars.
+- [iBug/This-Repo-Has-531-Stars](https://github.com/iBug/This-Repo-Has-531-Stars) - Yes, it's true :yellow_heart: This repository has 531 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
