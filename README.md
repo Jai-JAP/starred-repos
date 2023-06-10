@@ -122,6 +122,9 @@
 
 ## C 
 
+- [nholstein/OpenDoas](https://github.com/nholstein/OpenDoas) - A portable version of the OpenBSD `doas` command
+- [iglunix/oslo](https://github.com/iglunix/oslo) - Operating System LOader
+- [kukrimate/yaub](https://github.com/kukrimate/yaub) - UEFI boot manager (using libefi).
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [orangeduck/tgc](https://github.com/orangeduck/tgc) - A Tiny Garbage Collector for C
@@ -1261,6 +1264,7 @@
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [janosgyerik/bashoneliners](https://github.com/janosgyerik/bashoneliners) - A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborative system, user friendly, with functions to contribu
 - [michaljaz/webmc](https://github.com/michaljaz/webmc) - Minecraft client written in Javascript (1.16.5 offline mode working)
+- [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
 - [EmDev21/Dollar](https://github.com/EmDev21/Dollar) - A startpage looking like a terminal
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -2053,7 +2057,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-531-Stars](https://github.com/iBug/This-Repo-Has-531-Stars) - Yes, it's true :yellow_heart: This repository has 531 stars.
+- [iBug/This-Repo-Has-533-Stars](https://github.com/iBug/This-Repo-Has-533-Stars) - Yes, it's true :revolving_hearts: This repository has 533 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2092,6 +2096,9 @@
 
 ## Rust 
 
+- [jeaye/ncurses-rs](https://github.com/jeaye/ncurses-rs) - A low-level ncurses wrapper for Rust
+- [tari/llvm-sys.rs](https://github.com/tari/llvm-sys.rs) - Rust bindings to LLVM. (Mirror of https://gitlab.com/taricorp/llvm-sys.rs/)
+- [ihalila/pancurses](https://github.com/ihalila/pancurses) - A Rust curses library, supports Unix platforms and Windows
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [funbiscuit/spacedisplay-rs](https://github.com/funbiscuit/spacedisplay-rs) - Fast and lightweight tool to scan your disk space
 - [sotanakamura/winui-rust](https://github.com/sotanakamura/winui-rust) - 
@@ -2108,7 +2115,7 @@
 - [MarcGuiselin/wedge](https://github.com/MarcGuiselin/wedge) - A Simple, Open-Source Edge Redirector
 - [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
-- [uutils/humantime_to_duration](https://github.com/uutils/humantime_to_duration) - Parses a relative time string and returns a `Duration`
+- [uutils/parse_datetime](https://github.com/uutils/parse_datetime) - Parses a relative time string and returns a `Duration`
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [birbe/jvm](https://github.com/birbe/jvm) - Pure Rust implementation of the JVM 7 specification
 - [wgpu-mc/wgpu-mc](https://github.com/wgpu-mc/wgpu-mc) - Rust-based replacement for the default Minecraft renderer
@@ -2138,7 +2145,7 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
-- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
@@ -2268,6 +2275,8 @@
 
 ## Shell 
 
+- [anoraktrend/bash-passgen](https://github.com/anoraktrend/bash-passgen) - 
+- [iglunix/iglunix](https://github.com/iglunix/iglunix) - Linux (and other kernels) distro with no GNU components
 - [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - A custom Revanced Patcher but with TUI
 - [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
 - [micha/jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
