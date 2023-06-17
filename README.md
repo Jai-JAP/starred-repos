@@ -103,6 +103,7 @@
 
 ## Batchfile 
 
+- [swagkarna/Defeat-Defender-V1.2.0](https://github.com/swagkarna/Defeat-Defender-V1.2.0) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC
 - [Typical0/Windows11-Debloat-Guide](https://github.com/Typical0/Windows11-Debloat-Guide) - 
 - [SyXo/offlineinsiderenroll](https://github.com/SyXo/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
 - [abbodi1406/offlineinsiderenroll](https://github.com/abbodi1406/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
@@ -582,12 +583,13 @@
 
 ## C++ 
 
+- [nspire-emus/firebird](https://github.com/nspire-emus/firebird) - Multi-platform emulator of TI Nspire calculators
 - [stefankueng/BowPad](https://github.com/stefankueng/BowPad) - A simple and fast text editor with a ribbon UI
 - [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
 - [OpenLoco/OpenLoco](https://github.com/OpenLoco/OpenLoco) - An open source re-implementation of Chris Sawyer's Locomotion
 - [pmachapman/WordPad](https://github.com/pmachapman/WordPad) - WordPad for Windows
 - [Lixkote/10StartModenizer](https://github.com/Lixkote/10StartModenizer) - A Simple XamlDiagnostics demo that tweaks the Valinet's ExplorerPatcher's Windows 10 Start Menu acrylic. Also makes some controls rounded.
-- [Neo-Desktop/WindowsXPKg](https://github.com/Neo-Desktop/WindowsXPKg) - Keygen for Windows XP
+- [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - Universal MS Key Toolkit
 - [funbiscuit/spacedisplay](https://github.com/funbiscuit/spacedisplay) - Almost cross-platform way to analyze used disk space
 - [rounk-ctrl/W95PCHealthCheck](https://github.com/rounk-ctrl/W95PCHealthCheck) - funny clone of windows 11 pc health check app
 - [rounk-ctrl/TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM) - A lightweight utility that makes the Windows Start Menu translucent/transparent.
@@ -1640,7 +1642,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
-- [AlfarexGuy2019/tweaks](https://github.com/AlfarexGuy2019/tweaks) - 💻 List of awesome programs and tweaks for Windows, macOS and Linux.
+- [AlfarexGuy2019/awesome-tweaks](https://github.com/AlfarexGuy2019/awesome-tweaks) - 💻 List of awesome programs and tweaks for Windows, macOS and Linux.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
 - [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs simple (Win64/)Win32 applications on arm64/(ppc64le)/x86_64 Linux and x86_64 Mac
 - [ryanfortner/starred](https://github.com/ryanfortner/starred) - Curated list of my GitHub stars
@@ -2283,6 +2285,8 @@
 
 ## Shell 
 
+- [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - velvet os - simple script framework to build ubuntu 20.04/22.04 lts (focal/jammy) and debian 11/12 (bullseye/bookworm) bootable sd card images for some arm and intel devices - lots of prebuilt images 
+- [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot) - Auto check and build apk non-root from revanced/inotia00
 - [HooverHigh/hhos](https://github.com/HooverHigh/hhos) - Tool used to create the official Raspberry Pi OS images
 - [anoraktrend/bash-passgen](https://github.com/anoraktrend/bash-passgen) - 
 - [iglunix/iglunix](https://github.com/iglunix/iglunix) - Linux (and other kernels) distro with no GNU components
@@ -2376,7 +2380,6 @@
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) - A Steam Big Picture based couch gaming OS
 - [canonical/steam-snap](https://github.com/canonical/steam-snap) - Steam as a snap
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
-- [NoozSBC/TwisterOS-imager](https://github.com/NoozSBC/TwisterOS-imager) - Fork of Raspberry Pi patcher with TwisterOS inside
 - [Itai-Nelken/Pi-Assistant](https://github.com/Itai-Nelken/Pi-Assistant) - Pi-Assistant is a simple terminal app made for the Raspberry Pi that makes updating the system, installing apps, viewing system information, and more easier than ever
 - [autotools-mirror/libtool](https://github.com/autotools-mirror/libtool) - GNU Libtool. Mirror of git://git.savannah.gnu.org/libtool.git
 - [autotools-mirror/automake](https://github.com/autotools-mirror/automake) - GNU Automake. Mirror of git://git.savannah.gnu.org/automake.git
