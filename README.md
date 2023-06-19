@@ -510,7 +510,6 @@
 - [FireCubeStudios/FluentFlyouts3](https://github.com/FireCubeStudios/FluentFlyouts3) - Fluent Flyouts 3 WinUI 3 Edition
 - [WereDev/Wu10Man](https://github.com/WereDev/Wu10Man) - Enable/Disable Windows 10 Automatic Updates
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-- [Blindside-Studios/Flooent-Calcoolator](https://github.com/Blindside-Studios/Flooent-Calcoolator) - Simple calculator with animations making it a pain to use but good for practise. Nice.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [G-Stas/Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system.
 - [SyedAounHaiderNaqvi/To-Do_App](https://github.com/SyedAounHaiderNaqvi/To-Do_App) - A UWP app designed with WinUI 2.x controls, the To-Do app stores and displays your tasks and supports beautiful color themes.
@@ -625,7 +624,7 @@
 - [brookmiles/windows-heic-thumbnails](https://github.com/brookmiles/windows-heic-thumbnails) - Enable Windows Explorer to display thumbnails for HEIC files
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [gphalkes/tilde](https://github.com/gphalkes/tilde) - The Tilde text editor
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 🍹😎🏖️ Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
 - [theofficialgman/PrusaSlicer](https://github.com/theofficialgman/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
