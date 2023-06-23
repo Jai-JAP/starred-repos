@@ -479,6 +479,7 @@
 
 ## C# # 
 
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [Lixkote/WritePad](https://github.com/Lixkote/WritePad) - Modern recreation of wordpad
 - [SebLague/Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
 - [jimkoutso2008/QEMUWF](https://github.com/jimkoutso2008/QEMUWF) - A very work in progress QEMU GUI.
@@ -1429,7 +1430,7 @@
 ## NSIS 
 
 - [kirb/LegacyUpdate](https://github.com/kirb/LegacyUpdate) - Fix Windows Update on Windows XP, Vista, Server 2008, 2003, and 2000
-- [kaylh/RetroBat](https://github.com/kaylh/RetroBat) - RetroBat is the best way to play your ROMs collection on Windows !
+- [kaylh/old-RetroBat-obsolete](https://github.com/kaylh/old-RetroBat-obsolete) - RetroBat is the best way to play your ROMs collection on Windows !
 - [da2x/EdgeDeflector](https://github.com/da2x/EdgeDeflector) - A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.
 
 ## NWScript 
@@ -1458,6 +1459,7 @@
 
 ## Others 
 
+- [prepkg/opencv-raspberrypi](https://github.com/prepkg/opencv-raspberrypi) - Precompiled OpenCV 4.7.0 binaries for Raspberry Pi 3 & 4
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
@@ -1727,6 +1729,7 @@
 
 ## PowerShell 
 
+- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [semazurek/ET-Optimizer](https://github.com/semazurek/ET-Optimizer) - ET is a Batch/PowerShell GUI script to improve performance, debloat, optimize and enhance privacy for Windows 10/11.
@@ -2135,7 +2138,6 @@
 - [birbe/jvm-old](https://github.com/birbe/jvm-old) - Pure Rust implementation of the JVM 7 specification
 - [wgpu-mc/wgpu-mc](https://github.com/wgpu-mc/wgpu-mc) - Rust-based replacement for the default Minecraft renderer
 - [Spydr06/logicrs](https://github.com/Spydr06/logicrs) - An easy-to-use simulator for logical circuits
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwardi
@@ -2690,6 +2692,7 @@
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [Venthe/vscode-fauxpilot](https://github.com/Venthe/vscode-fauxpilot) - 
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 The best on-chain and open-source blogging community for everyone.
 - [wokwi/avr8js](https://github.com/wokwi/avr8js) - Arduino (8-bit AVR) simulator, written in JavaScript and runs in the browser / Node.js
 - [wokwi/rp2040js](https://github.com/wokwi/rp2040js) - A Raspberry Pi Pico Emulator in JavaScript
