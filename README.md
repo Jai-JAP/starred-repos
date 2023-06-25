@@ -1756,6 +1756,7 @@
 
 ## Python 
 
+- [echnobas/destroyer_of_sxs](https://github.com/echnobas/destroyer_of_sxs) - 
 - [labapart/cross_sysroot](https://github.com/labapart/cross_sysroot) - `cross-tool` is a utility to generate `sysroot` tree for cross-compilation.
 - [jncraton/languagemodels](https://github.com/jncraton/languagemodels) - Explore large language models on any computer with 512MB of RAM
 - [lord63/tldr.py](https://github.com/lord63/tldr.py) - A python client for tldr: simplified and community-driven man pages.
@@ -1777,7 +1778,7 @@
 - [sebaubuntu-python/dumpyara](https://github.com/sebaubuntu-python/dumpyara) - Android firmware dumper, rewritten in Python
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
