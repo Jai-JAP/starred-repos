@@ -966,6 +966,7 @@
 
 ## Go 
 
+- [audstanley/NodeJs-Raspberry-Pi](https://github.com/audstanley/NodeJs-Raspberry-Pi) - Install NodeJs on your Raspberry Pi 1, 2, 3, 4, zero, and zero w
 - [spddl/disableDWMactivitys](https://github.com/spddl/disableDWMactivitys) - 
 - [arukateru/BasicThemer5](https://github.com/arukateru/BasicThemer5) - The most lightweight basic themer yet.
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools. Still experimental
@@ -1465,7 +1466,7 @@
 ## Others 
 
 - [ThePBone/awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Awesome list of Android apps making use of Shizuku
-- [prepkg/opencv-raspberrypi](https://github.com/prepkg/opencv-raspberrypi) - Precompiled OpenCV 4.7.0 binaries for Raspberry Pi 3 & 4
+- [prepkg/opencv-raspberrypi](https://github.com/prepkg/opencv-raspberrypi) - Precompiled OpenCV 4.8.0 binaries for Raspberry Pi 3 & 4
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
@@ -1761,6 +1762,7 @@
 
 ## Python 
 
+- [simonmonk/raspberrypi_cookbook](https://github.com/simonmonk/raspberrypi_cookbook) - The source code from the book 'The Raspberry Pi Cookbook' by Simon Monk.
 - [Painadath/PyEncrypter](https://github.com/Painadath/PyEncrypter) - 
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
@@ -2704,7 +2706,7 @@
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [SHSGames/shsgames.github.io](https://github.com/SHSGames/shsgames.github.io) - Unblocked Games
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files into your private Generative AI Second Brain and chat with it using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Chat with your files, audio, video, csv with your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [Venthe/vscode-fauxpilot](https://github.com/Venthe/vscode-fauxpilot) - 
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
