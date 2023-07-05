@@ -1023,7 +1023,7 @@
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [Rawnly/splash-cli](https://github.com/Rawnly/splash-cli) - A simple, CLI to download Unsplash wallpapers. Nothing fancy — it just works.
+- [rawnly/splash-cli](https://github.com/rawnly/splash-cli) - A simple, CLI to download Unsplash wallpapers. Nothing fancy — it just works.
 - [mkaczanowski/packer-builder-arm](https://github.com/mkaczanowski/packer-builder-arm) - Packer plugin to build ARM images
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
@@ -1256,6 +1256,7 @@
 - [Griphitor/Griphitor-ChromeOS](https://github.com/Griphitor/Griphitor-ChromeOS) - 
 - [Griphitor/Packages](https://github.com/Griphitor/Packages) - Packages and Plugins that can be added to Griphitor via The CLI
 - [electron/releases](https://github.com/electron/releases) - 📦 Complete and up-to-date info about every release of Electron
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [maoschanz/emoji-selector-for-gnome](https://github.com/maoschanz/emoji-selector-for-gnome) - This extension provide a popup menu with some emojis ; clicking on an emoji copies it to the clipboard.
 - [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
@@ -1378,6 +1379,7 @@
 
 ## Jupyter Notebook 
 
+- [ishfulthinking/Python-Hand-Gesture-Recognition](https://github.com/ishfulthinking/Python-Hand-Gesture-Recognition) - A guide to using Python and OpenCV2 to create an application that can recognize hand gestures/movements.
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [jgmarquesm/Python](https://github.com/jgmarquesm/Python) - To upload my codes, solved exercises and advances while learning and studying Python.
@@ -1772,6 +1774,7 @@
 
 ## Python 
 
+- [xenon-19/Gesture-Controlled-Virtual-Mouse](https://github.com/xenon-19/Gesture-Controlled-Virtual-Mouse) - Virtually controlling computer using hand-gestures and voice commands. Using MediaPipe, OpenCV Python.
 - [Py-KMS-Organization/py-kms](https://github.com/Py-KMS-Organization/py-kms) - KMS Server Emulator written in Python
 - [simonmonk/raspberrypi_cookbook](https://github.com/simonmonk/raspberrypi_cookbook) - The source code from the book 'The Raspberry Pi Cookbook' by Simon Monk.
 - [Painadath/PyEncrypter](https://github.com/Painadath/PyEncrypter) - 
@@ -2318,6 +2321,7 @@
 
 ## Shell 
 
+- [lemniskett/archbox](https://github.com/lemniskett/archbox) - Easy to use Arch Linux chroot environment with some functionalities to integrate it with your existing Linux installation.
 - [techcoder20/RPIJetBrainIDEsInstaller](https://github.com/techcoder20/RPIJetBrainIDEsInstaller) - This repository contains the installation script for installing majority of the jetbrain IDEs that can run on the raspberry pi
 - [techcoder20/RPI-PowerlineShell-Installer](https://github.com/techcoder20/RPI-PowerlineShell-Installer) - This Github Repository contains the install and uninstall script required for Installing and uninstalling the Powerline Shell on the Raspberry Pi
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
@@ -2760,7 +2764,6 @@
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [OhMyMndy/bin-get](https://github.com/OhMyMndy/bin-get) - Script to easily and safely fetch binaries from Github Releases/tags
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [MarshallOfSound/electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer) - An easy way to ensure Chrome DevTools extensions into Electron
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
