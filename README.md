@@ -1256,7 +1256,6 @@
 - [Griphitor/Griphitor-ChromeOS](https://github.com/Griphitor/Griphitor-ChromeOS) - 
 - [Griphitor/Packages](https://github.com/Griphitor/Packages) - Packages and Plugins that can be added to Griphitor via The CLI
 - [electron/releases](https://github.com/electron/releases) - 📦 Complete and up-to-date info about every release of Electron
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [maoschanz/emoji-selector-for-gnome](https://github.com/maoschanz/emoji-selector-for-gnome) - This extension provide a popup menu with some emojis ; clicking on an emoji copies it to the clipboard.
 - [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
@@ -1609,7 +1608,7 @@
 - [cycool29/gwallc](https://github.com/cycool29/gwallc) - GUI Wallpaper Changer for Linux. (WIP)
 - [saiarcot895/chromium-ubuntu-build](https://github.com/saiarcot895/chromium-ubuntu-build) - Packaging files for building Chromium on Ubuntu
 - [dweeber/rpiwiggle](https://github.com/dweeber/rpiwiggle) - Script which expands a FS to the size of the SDcard minus a bit
-- [NoozSBC/calamity-texturepack](https://github.com/NoozSBC/calamity-texturepack) - Auto-pack updater for Calamity Realms MC server using GH actions
+- [NoozAbooz/calamity-texturepack](https://github.com/NoozAbooz/calamity-texturepack) - Auto-pack updater for Calamity Realms MC server using GH actions
 - [kingToolbox/WindEdit](https://github.com/kingToolbox/WindEdit) - A high performace text editor for huge file and long line.
 - [Xqua/pyAlienFX](https://github.com/Xqua/pyAlienFX) - This project is a multiplatform python software to control the AlienFX device of Alienware computers.  It intend to be easily upgradable for future updates of the AlienFX device, as it happened for th
 - [ProjectAfterBurner/apt](https://github.com/ProjectAfterBurner/apt) - Project package repository
@@ -1779,7 +1778,6 @@
 - [simonmonk/raspberrypi_cookbook](https://github.com/simonmonk/raspberrypi_cookbook) - The source code from the book 'The Raspberry Pi Cookbook' by Simon Monk.
 - [Painadath/PyEncrypter](https://github.com/Painadath/PyEncrypter) - 
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [echnobas/destroyer_of_sxs](https://github.com/echnobas/destroyer_of_sxs) - 
@@ -2587,7 +2585,7 @@
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
 - [hmsjy2017/n-debs](https://github.com/hmsjy2017/n-debs) - 
 - [tj/n](https://github.com/tj/n) - Node version management
-- [NoozSBC/mcpi-reborn-extended](https://github.com/NoozSBC/mcpi-reborn-extended) - The enthusiast's MCPI mod.
+- [NoozAbooz/mcpi-reborn-extended](https://github.com/NoozAbooz/mcpi-reborn-extended) - The enthusiast's MCPI mod.
 - [TheBananaStore/TheBananaStore](https://github.com/TheBananaStore/TheBananaStore) - 🍌🐧 Content repository for the Banana Store
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [q3aql/aria2-static-builds](https://github.com/q3aql/aria2-static-builds) - MOVED: https://gitlab.com/q3aql/aria2-static-builds
@@ -2719,6 +2717,7 @@
 
 ## TypeScript 
 
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [SHSGames/shsgames.github.io](https://github.com/SHSGames/shsgames.github.io) - Unblocked Games
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -2764,6 +2763,7 @@
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [OhMyMndy/bin-get](https://github.com/OhMyMndy/bin-get) - Script to easily and safely fetch binaries from Github Releases/tags
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [MarshallOfSound/electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer) - An easy way to ensure Chrome DevTools extensions into Electron
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
