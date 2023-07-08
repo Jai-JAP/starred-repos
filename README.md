@@ -104,6 +104,7 @@
 
 ## Batchfile 
 
+- [echnobas/sxs_offender](https://github.com/echnobas/sxs_offender) - 
 - [arturolegovich/BypassESU-v9-AIO](https://github.com/arturolegovich/BypassESU-v9-AIO) - BypassESU-v9-AIO for Windows 7 x64 & x86
 - [swagkarna/Defeat-Defender-V1.2.0](https://github.com/swagkarna/Defeat-Defender-V1.2.0) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC
 - [Typical0/Windows11-Debloat-Guide](https://github.com/Typical0/Windows11-Debloat-Guide) - 
@@ -1043,6 +1044,7 @@
 
 ## HTML 
 
+- [matthew-asuncion/Fast-YouTube-to-MP3-Converter-API](https://github.com/matthew-asuncion/Fast-YouTube-to-MP3-Converter-API) - Very Fast YouTube to MP3 & MP4 Converter API JSON, Python, JavaScript, iFrame, PHP, Android & iOS Video Downloader API
 - [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life) - A massive list including a huge amount of products and services that are completely free!
 - [OutRed/outred-site](https://github.com/OutRed/outred-site) - Play unblocked games and unblock your favorite websites.
 - [OutRed/outredgames](https://github.com/OutRed/outredgames) - One of the most professional and best game websites there is out there.
@@ -1169,6 +1171,7 @@
 
 ## JavaScript 
 
+- [Lixkote/FluentVistaGadgetPack](https://github.com/Lixkote/FluentVistaGadgetPack) - Classic Windows 7/Vista style gadgets modernized with fluent style for use in  Windows 11.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [idank/showthedocs](https://github.com/idank/showthedocs) - 
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
@@ -1780,7 +1783,7 @@
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
-- [echnobas/destroyer_of_sxs](https://github.com/echnobas/destroyer_of_sxs) - 
+- [echnobas/sxsc](https://github.com/echnobas/sxsc) - 
 - [labapart/cross_sysroot](https://github.com/labapart/cross_sysroot) - `cross-tool` is a utility to generate `sysroot` tree for cross-compilation.
 - [jncraton/languagemodels](https://github.com/jncraton/languagemodels) - Explore large language models on any computer with 512MB of RAM
 - [lord63/tldr.py](https://github.com/lord63/tldr.py) - A python client for tldr: simplified and community-driven man pages.
