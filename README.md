@@ -2322,6 +2322,9 @@
 
 ## Shell 
 
+- [tuanpham-dev/termux-ubuntu](https://github.com/tuanpham-dev/termux-ubuntu) - This helps you install Ubuntu 20 + XFCE4 desktop on Termux with ease.
+- [SUFandom/proot-distro-tui](https://github.com/SUFandom/proot-distro-tui) - A TUI for Termux's Proot-Distro
+- [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 - [lemniskett/archbox](https://github.com/lemniskett/archbox) - Easy to use Arch Linux chroot environment with some functionalities to integrate it with your existing Linux installation.
 - [techcoder20/RPIJetBrainIDEsInstaller](https://github.com/techcoder20/RPIJetBrainIDEsInstaller) - This repository contains the installation script for installing majority of the jetbrain IDEs that can run on the raspberry pi
 - [techcoder20/RPI-PowerlineShell-Installer](https://github.com/techcoder20/RPI-PowerlineShell-Installer) - This Github Repository contains the install and uninstall script required for Installing and uninstalling the Powerline Shell on the Raspberry Pi
