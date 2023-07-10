@@ -24,7 +24,6 @@
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
-- [Hack](#hack)
 - [Haskell](#haskell)
 - [Inno Setup](#inno-setup)
 - [Java](#java)
@@ -267,7 +266,7 @@
 - [Googulator/dwusb](https://github.com/Googulator/dwusb) - Windows driver for the DesignWare USB 2.0 HS OTG Controller as used in the Raspberry Pi 3.
 - [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 - [GNOME/zenity](https://github.com/GNOME/zenity) - Read-only mirror of https://gitlab.gnome.org/GNOME/zenity
-- [ujjwal96/xwinwrap](https://github.com/ujjwal96/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
+- [r00tdaemon/xwinwrap](https://github.com/r00tdaemon/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
 - [Xubuntu/lightdm-gtk-greeter](https://github.com/Xubuntu/lightdm-gtk-greeter) - A GTK greeter for LightDM
 - [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
 - [GPUOpen-Effects/FidelityFX-FSR2](https://github.com/GPUOpen-Effects/FidelityFX-FSR2) - FidelityFX Super Resolution 2
@@ -1044,6 +1043,7 @@
 
 ## HTML 
 
+- [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [matthew-asuncion/Fast-YouTube-to-MP3-Converter-API](https://github.com/matthew-asuncion/Fast-YouTube-to-MP3-Converter-API) - Very Fast YouTube to MP3 & MP4 Converter API JSON, Python, JavaScript, iFrame, PHP, Android & iOS Video Downloader API
 - [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life) - A massive list including a huge amount of products and services that are completely free!
 - [OutRed/outred-site](https://github.com/OutRed/outred-site) - Play unblocked games and unblock your favorite websites.
@@ -1106,10 +1106,6 @@
 - [phoenixbyrd/TwisterWebApps](https://github.com/phoenixbyrd/TwisterWebApps) - 
 - [raspbian-addons/raspbian-addons](https://github.com/raspbian-addons/raspbian-addons) - Install automatically-updated extra open-source software on your Raspberry Pi, using Debian APT
 - [phoenixbyrd/TwisterOS](https://github.com/phoenixbyrd/TwisterOS) - Twister OS Website
-
-## Hack 
-
-- [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
 
 ## Haskell 
 
@@ -1776,6 +1772,7 @@
 
 ## Python 
 
+- [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) - Maintain Android Verified Boot using a custom key while rooted with Magisk
 - [xenon-19/Gesture-Controlled-Virtual-Mouse](https://github.com/xenon-19/Gesture-Controlled-Virtual-Mouse) - Virtually controlling computer using hand-gestures and voice commands. Using MediaPipe, OpenCV Python.
 - [Py-KMS-Organization/py-kms](https://github.com/Py-KMS-Organization/py-kms) - KMS Server Emulator written in Python
 - [simonmonk/raspberrypi_cookbook](https://github.com/simonmonk/raspberrypi_cookbook) - The source code from the book 'The Raspberry Pi Cookbook' by Simon Monk.
@@ -2452,6 +2449,7 @@
 - [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) - Raspberry Pi Guide. Learn all about the Raspberry Pi and other cool tools such as WireGuard, Home Assistant, Homebridge, ESPHome, and Watchdog timer.
 - [knatnetwork/github-runner](https://github.com/knatnetwork/github-runner) - Simple Self-Hosted GitHub Actions Runner
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
+- [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
 - [rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash)
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [wimpysworld/ubuntu-pi-image](https://github.com/wimpysworld/ubuntu-pi-image) - Raspberry Pi 🥧 image creator for Ubuntu MATE 🧉
@@ -2723,6 +2721,7 @@
 
 ## TypeScript 
 
+- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [SHSGames/shsgames.github.io](https://github.com/SHSGames/shsgames.github.io) - Unblocked Games
