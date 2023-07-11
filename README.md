@@ -484,11 +484,13 @@
 
 ## C# # 
 
+- [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) - A modern VLC based media player for the Universal Windows Platform
+- [FireCubeStudios/Clippy](https://github.com/FireCubeStudios/Clippy) - Bring back Clippy on Windows 10/11!
 - [ahmed605/DuiTool](https://github.com/ahmed605/DuiTool) - The ultimate DirectUI tool
 - [securefolderfs-community/SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS) - Powerful, secure, modern way to keep your files protected.
 - [jpbandroid/UltraTextEdit-UWP-22H2](https://github.com/jpbandroid/UltraTextEdit-UWP-22H2) - My UWP text editor
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-- [Lixkote/WritePad](https://github.com/Lixkote/WritePad) - Modern recreation of wordpad
+- [Lixkote/RectifyPad](https://github.com/Lixkote/RectifyPad) - Modern recreation of wordpad
 - [SebLague/Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
 - [jimkoutso2008/QEMUWF](https://github.com/jimkoutso2008/QEMUWF) - A very work in progress QEMU GUI.
 - [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows 11 device's battery life. A WinUI 3 GUI for https://github.com/imbushuo/EnergyStar.
@@ -1167,7 +1169,8 @@
 
 ## JavaScript 
 
-- [Lixkote/FluentVistaGadgetPack](https://github.com/Lixkote/FluentVistaGadgetPack) - Classic Windows 7/Vista style gadgets modernized with fluent style for use in  Windows 11.
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
+- [Lixkote/RectifyGadgetPack](https://github.com/Lixkote/RectifyGadgetPack) - Classic Windows 7/Vista style gadgets modernized with fluent style for use in Rectify11.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [idank/showthedocs](https://github.com/idank/showthedocs) - 
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
@@ -1387,6 +1390,7 @@
 
 ## Kotlin 
 
+- [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [revanced/revanced-manager-compose](https://github.com/revanced/revanced-manager-compose) - 💊 Android application to use ReVanced (Jetpack Compose)
 - [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
@@ -1897,7 +1901,7 @@
 - [ilstam/FF-Multi-Converter](https://github.com/ilstam/FF-Multi-Converter) - GUI File Format Converter
 - [jerrylususu/PySimpleGUI-Demo-LangSelect](https://github.com/jerrylususu/PySimpleGUI-Demo-LangSelect) - PySimpleGUI Language Selection Demo
 - [volitank/volian](https://github.com/volitank/volian) - volian is an installer for Debian or Ubuntu.
-- [heyimocto/hakkly](https://github.com/heyimocto/hakkly) - a "hack" client for mcpi.
+- [vividcolorss/hakkly](https://github.com/vividcolorss/hakkly) - a "hack" client for mcpi.
 - [rendick/LinuxTools](https://github.com/rendick/LinuxTools) - LinuxTools - a set of necessary scripts for using Linux
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [tianocore/edk2-pytool-extensions](https://github.com/tianocore/edk2-pytool-extensions) - Extensions to the edk2 build system allowing for a more robust and plugin based build system and tool execution environment
@@ -2319,6 +2323,7 @@
 
 ## Shell 
 
+- [Ilya114/Box64Droid](https://github.com/Ilya114/Box64Droid) - Running x86_64 applications on Android
 - [tuanpham-dev/termux-ubuntu](https://github.com/tuanpham-dev/termux-ubuntu) - This helps you install Ubuntu 20 + XFCE4 desktop on Termux with ease.
 - [SUFandom/proot-distro-tui](https://github.com/SUFandom/proot-distro-tui) - A TUI for Termux's Proot-Distro
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
@@ -2502,7 +2507,7 @@
 - [lowspecman420/armhf-proot-for-aarch64-android](https://github.com/lowspecman420/armhf-proot-for-aarch64-android) - Anlinux armhf proot for aarch64 android using Termux.
 - [lowspecman420/AnBox86](https://github.com/lowspecman420/AnBox86) - 
 - [WheezyE/Winelink](https://github.com/WheezyE/Winelink) - Installation scripts for running Winlink (RMS Express/Trimode & VARA) on non-Windows computers. Wine & Box86 make this project possible.
-- [heyimocto/pimarket](https://github.com/heyimocto/pimarket) - App Store For The Raspberry Pi.
+- [vividcolorss/pimarket](https://github.com/vividcolorss/pimarket) - App Store For The Raspberry Pi.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [Crilum/apttools](https://github.com/Crilum/apttools) - make apt easier to use
 - [ProjectAfterBurner/update-scripts](https://github.com/ProjectAfterBurner/update-scripts) - package update scripts for our apt repository
