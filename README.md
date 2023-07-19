@@ -1483,6 +1483,7 @@
 
 ## Others 
 
+- [Priyanka488/100DaysOfSystemDesign](https://github.com/Priyanka488/100DaysOfSystemDesign) - Documenting resources and notes for learning system design.
 - [yaronelh/False-Positive-Center](https://github.com/yaronelh/False-Positive-Center) - Repository to help security vendors deal with false positives
 - [michalleptuch/fluent-emoji-gallery](https://github.com/michalleptuch/fluent-emoji-gallery) - Official issue-only repo for Fluent Emoji Gallery
 - [DesignLipsx/WinUI-3-Apps-List](https://github.com/DesignLipsx/WinUI-3-Apps-List) - A collection of apps that support the WinUI 3 Design
@@ -2152,6 +2153,8 @@
 
 ## Rust 
 
+- [rust-cv/cv](https://github.com/rust-cv/cv) - Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs.
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
 - [jeaye/ncurses-rs](https://github.com/jeaye/ncurses-rs) - A low-level ncurses wrapper for Rust
 - [tari/llvm-sys.rs](https://github.com/tari/llvm-sys.rs) - Rust bindings to LLVM. (Mirror of https://gitlab.com/taricorp/llvm-sys.rs/)
 - [ihalila/pancurses](https://github.com/ihalila/pancurses) - A Rust curses library, supports Unix platforms and Windows
@@ -2332,6 +2335,7 @@
 
 ## Shell 
 
+- [neofeo/BOX86-BOX64-WINEx86-TUTORIAL](https://github.com/neofeo/BOX86-BOX64-WINEx86-TUTORIAL) - 
 - [Ilya114/Box64Droid](https://github.com/Ilya114/Box64Droid) - Running x86_64 applications on Android
 - [tuanpham-dev/termux-ubuntu](https://github.com/tuanpham-dev/termux-ubuntu) - This helps you install Ubuntu 20 + XFCE4 desktop on Termux with ease.
 - [SUFandom/proot-distro-tui](https://github.com/SUFandom/proot-distro-tui) - A TUI for Termux's Proot-Distro
