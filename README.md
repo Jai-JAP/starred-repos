@@ -1173,6 +1173,8 @@
 
 ## JavaScript 
 
+- [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
+- [StefanLobbenmeier/youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [typpo/textbelt](https://github.com/typpo/textbelt) - Free API for outgoing SMS
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [Lixkote/RectifyGadgetPack](https://github.com/Lixkote/RectifyGadgetPack) - Classic Windows 7/Vista style gadgets modernized with fluent style for use in Rectify11.
@@ -2337,6 +2339,7 @@
 
 ## Shell 
 
+- [Shock-OS/Flashy](https://github.com/Shock-OS/Flashy) - Flashy is a frontend for Adobe Flash Player runtimes and emulators that automates the process of installing the emulators/runtimes and creating desktop shortcuts for Flash games.
 - [nodejs/unofficial-builds](https://github.com/nodejs/unofficial-builds) - Unofficial binaries for Node.js
 - [neofeo/BOX86-BOX64-WINEx86-TUTORIAL](https://github.com/neofeo/BOX86-BOX64-WINEx86-TUTORIAL) - 
 - [Ilya114/Box64Droid](https://github.com/Ilya114/Box64Droid) - Running x86_64 applications on Android
