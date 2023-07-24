@@ -195,7 +195,7 @@
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [HackerDaGreat57/bpp](https://github.com/HackerDaGreat57/bpp) - Abandoned project
 - [rockdaboot/wget2](https://github.com/rockdaboot/wget2) - The successor of GNU Wget. Contributions preferred at https://gitlab.com/gnuwget/wget2. But accepted here as well 😍
-- [MCPI-Revival/Ninecraft](https://github.com/MCPI-Revival/Ninecraft) - A mcpe 0.1.0-0.8.1 launcher for linux
+- [MCPI-Revival/Ninecraft](https://github.com/MCPI-Revival/Ninecraft) - A mcpe 0.1.0-0.9.0 launcher for linux
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [ToshioCP/Gtk4-tutorial](https://github.com/ToshioCP/Gtk4-tutorial) - GTK 4 tutorial for beginners
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -599,6 +599,7 @@
 
 ## C++ 
 
+- [rvagg/rpi-newer-crosstools](https://github.com/rvagg/rpi-newer-crosstools) - Newer cross-compiler toolchains than are available @ https://github.com/raspberrypi/tools
 - [jupyter-xeus/xeus-cling](https://github.com/jupyter-xeus/xeus-cling) - Jupyter kernel for the C++ programming language
 - [asvitkine/ccons](https://github.com/asvitkine/ccons) - Interactive Console for the C Programming Language
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
@@ -889,6 +890,7 @@
 
 ## CSS 
 
+- [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby!
 - [NYRI4/Couve](https://github.com/NYRI4/Couve) - A new look to discord
 - [CapnKitten/Spotify-Discord](https://github.com/CapnKitten/Spotify-Discord) - Combine Discord and Spotify into one
 - [defaultnamehere/verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
@@ -1881,7 +1883,7 @@
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
 - [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! trunk
 - [quint-t/Text-Translator](https://github.com/quint-t/Text-Translator) - Text Translator (GUI application)
-- [heartexlabs/labelImg](https://github.com/heartexlabs/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
+- [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [Kharacternyk/barva](https://github.com/Kharacternyk/barva) - An audio visualizer that pulses the background of your terminal (or anything else).
 - [Bigjango13/MCPI-Addons](https://github.com/Bigjango13/MCPI-Addons) - Addons to the MCPI api.
@@ -2747,6 +2749,7 @@
 
 ## TypeScript 
 
+- [replugged-org/replugged](https://github.com/replugged-org/replugged) - A lightweight Discord client mod focused on simplicity and performance.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
