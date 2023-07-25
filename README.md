@@ -195,7 +195,7 @@
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [HackerDaGreat57/bpp](https://github.com/HackerDaGreat57/bpp) - Abandoned project
 - [rockdaboot/wget2](https://github.com/rockdaboot/wget2) - The successor of GNU Wget. Contributions preferred at https://gitlab.com/gnuwget/wget2. But accepted here as well 😍
-- [MCPI-Revival/Ninecraft](https://github.com/MCPI-Revival/Ninecraft) - A mcpe 0.1.0-0.9.0 launcher for linux
+- [MCPI-Revival/Ninecraft](https://github.com/MCPI-Revival/Ninecraft) - A mcpe 0.1.0-0.9.2 launcher for linux
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [ToshioCP/Gtk4-tutorial](https://github.com/ToshioCP/Gtk4-tutorial) - GTK 4 tutorial for beginners
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -561,7 +561,7 @@
 - [unoplatform/calculator](https://github.com/unoplatform/calculator) - Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
 - [MaxtorCoder/MultiConverter](https://github.com/MaxtorCoder/MultiConverter) - Official WoW Model Converter (Originially written by Adspartan)
-- [HarshalKudale/NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge) - 
+- [KodeByWrath/NoMoreEdge](https://github.com/KodeByWrath/NoMoreEdge) - 
 - [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 - [driver1998/VMGuide](https://github.com/driver1998/VMGuide) - Virtual Machine utility, turn back BIOS date, disable ACPI and more.
@@ -2121,7 +2121,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-539-Stars](https://github.com/iBug/This-Repo-Has-539-Stars) - Yes, it's true :heartpulse: This repository has 539 stars.
+- [iBug/This-Repo-Has-539-Stars](https://github.com/iBug/This-Repo-Has-539-Stars) - Yes, it's true :yellow_heart: This repository has 539 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
