@@ -197,7 +197,7 @@
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [HackerDaGreat57/bpp](https://github.com/HackerDaGreat57/bpp) - Abandoned project
 - [rockdaboot/wget2](https://github.com/rockdaboot/wget2) - The successor of GNU Wget. Contributions preferred at https://gitlab.com/gnuwget/wget2. But accepted here as well 😍
-- [MCPI-Revival/Ninecraft](https://github.com/MCPI-Revival/Ninecraft) - A mcpe 0.1.0-0.10.0 launcher for linux
+- [MCPI-Revival/Ninecraft](https://github.com/MCPI-Revival/Ninecraft) - A mcpe 0.1.0-0.10.5 launcher for linux
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [ToshioCP/Gtk4-tutorial](https://github.com/ToshioCP/Gtk4-tutorial) - GTK 4 tutorial for beginners
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -1792,6 +1792,7 @@
 
 ## Python 
 
+- [Aparicio99/conkyrc](https://github.com/Aparicio99/conkyrc) - Conky config and scripts
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [putkoff/Python-Tools](https://github.com/putkoff/Python-Tools) - A repository for python functions that can help make things a little easier
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
@@ -2364,7 +2365,6 @@
 - [HooverHigh/hhos](https://github.com/HooverHigh/hhos) - Tool used to create the official Raspberry Pi OS images
 - [anoraktrend/bash-passgen](https://github.com/anoraktrend/bash-passgen) - 
 - [iglunix/iglunix](https://github.com/iglunix/iglunix) - Linux (and other kernels) distro with no GNU components
-- [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - A custom Revanced Patcher but with TUI
 - [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
 - [micha/jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Automatic Repository build Revanced and Revanced Extended non-root version
@@ -2753,6 +2753,7 @@
 
 ## TypeScript 
 
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
 - [replugged-org/replugged](https://github.com/replugged-org/replugged) - A lightweight Discord client mod focused on simplicity and performance.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
