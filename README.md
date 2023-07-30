@@ -103,7 +103,7 @@
 
 ## Batchfile 
 
-- [he3als/destroy-winsxs-online](https://github.com/he3als/destroy-winsxs-online) - An extension to sxsc to install CBS packages on a live installation of Windows.
+- [he3als/online-sxs](https://github.com/he3als/online-sxs) - An extension to sxsc to install CBS packages on a live installation of Windows.
 - [echnobas/sxs_offender](https://github.com/echnobas/sxs_offender) - 
 - [arturolegovich/BypassESU-v9-AIO](https://github.com/arturolegovich/BypassESU-v9-AIO) - BypassESU-v9-AIO for Windows 7 x64 & x86
 - [swagkarna/Defeat-Defender-V1.2.0](https://github.com/swagkarna/Defeat-Defender-V1.2.0) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC
@@ -127,6 +127,7 @@
 
 ## C 
 
+- [alexvorxx/mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22) - Most stable version of Mesa Zink from 11.06.22
 - [CloverHackyColor/CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written in C.
 - [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) - Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 13
@@ -600,6 +601,7 @@
 
 ## C++ 
 
+- [AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk) - Direct3D 8 to Vulkan translation for DXVK!
 - [itsfolf/Discord-Screenshare-Linux](https://github.com/itsfolf/Discord-Screenshare-Linux) - Updating Discord's shit because they won't do it themselves 2: Electric Boogaloo
 - [rvagg/rpi-newer-crosstools](https://github.com/rvagg/rpi-newer-crosstools) - Newer cross-compiler toolchains than are available @ https://github.com/raspberrypi/tools
 - [jupyter-xeus/xeus-cling](https://github.com/jupyter-xeus/xeus-cling) - Jupyter kernel for the C++ programming language
@@ -1178,6 +1180,7 @@
 
 ## JavaScript 
 
+- [mafgwo/stackedit-plus](https://github.com/mafgwo/stackedit-plus) - In-browser Online Notebook
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [StefanLobbenmeier/youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [typpo/textbelt](https://github.com/typpo/textbelt) - Free API for outgoing SMS
@@ -1797,7 +1800,7 @@
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [sebaubuntu-python/aospdtgen](https://github.com/sebaubuntu-python/aospdtgen) - LineageOS device tree generator
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) - Maintain Android Verified Boot using a custom key while rooted with Magisk
+- [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) - Maintain Android Verified Boot using a custom key while rooted
 - [xenon-19/Gesture-Controlled-Virtual-Mouse](https://github.com/xenon-19/Gesture-Controlled-Virtual-Mouse) - Virtually controlling computer using hand-gestures and voice commands. Using MediaPipe, OpenCV Python.
 - [Py-KMS-Organization/py-kms](https://github.com/Py-KMS-Organization/py-kms) - KMS Server Emulator written in Python
 - [simonmonk/raspberrypi_cookbook](https://github.com/simonmonk/raspberrypi_cookbook) - The source code from the book 'The Raspberry Pi Cookbook' by Simon Monk.
@@ -2347,6 +2350,7 @@
 
 ## Shell 
 
+- [olegos2/termux-box](https://github.com/olegos2/termux-box) - 
 - [Shock-OS/Flashy](https://github.com/Shock-OS/Flashy) - Flashy is a frontend for Adobe Flash Player runtimes and emulators that automates the process of installing the emulators/runtimes and creating desktop shortcuts for Flash games.
 - [nodejs/unofficial-builds](https://github.com/nodejs/unofficial-builds) - Unofficial binaries for Node.js
 - [neofeo/BOX86-BOX64-WINEx86-TUTORIAL](https://github.com/neofeo/BOX86-BOX64-WINEx86-TUTORIAL) - 
