@@ -160,7 +160,7 @@
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine
 - [noloader/SHA-Intrinsics](https://github.com/noloader/SHA-Intrinsics) - SHA-1, SHA-256 and SHA-512 compression functions using Intel, ARMv8 and Power8 SHA intrinsics
 - [ArtsyMacaw/wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
-- [jserv/shecc](https://github.com/jserv/shecc) - A self-hosting and educational C compiler
+- [sysprog21/shecc](https://github.com/sysprog21/shecc) - A self-hosting and educational C compiler
 - [mpmendespt/Ext4Fsd](https://github.com/mpmendespt/Ext4Fsd) - Ext4 file system driver for Windows
 - [emukidid/pcsxgc](https://github.com/emukidid/pcsxgc) - A port of the PS1 emulator, PCSX, to the Nintendo GC/Wii
 - [Battelle/movfuscator](https://github.com/Battelle/movfuscator) - The single instruction C compiler
@@ -1808,6 +1808,7 @@
 
 ## Python 
 
+- [jackh2002/Wordle-clone](https://github.com/jackh2002/Wordle-clone) - A basic wordle clone built using PySimpleGUI
 - [TonyLHansen/raspberry-pi-safe-off-switch](https://github.com/TonyLHansen/raspberry-pi-safe-off-switch) - A set of scripts that can be used to provide a "safe power off switch" for a Raspberry Pi.
 - [0ut0flin3/dalle43](https://github.com/0ut0flin3/dalle43) - Use OpenAI's DALL-E for free
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -2260,7 +2261,7 @@
 - [olix3001/Arclight](https://github.com/olix3001/Arclight) - Simple programming language
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls` for the pros.
+- [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [weclaw1/image-roll](https://github.com/weclaw1/image-roll) - Image Roll - simple and fast GTK image viewer with basic image manipulation tools. Written in Rust.
