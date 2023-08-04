@@ -1192,6 +1192,7 @@
 
 ## JavaScript 
 
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [szatkus/js2me](https://github.com/szatkus/js2me) - J2ME implementation in JavaScript
 - [forwardemail/custom-fonts-in-emails](https://github.com/forwardemail/custom-fonts-in-emails) - An extremely easy way to use custom fonts in emails without having to use art software.
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译软件 | A cross-platform software for text translation.
@@ -1391,7 +1392,6 @@
 - [railken/mc](https://github.com/railken/mc) - A Minecraft Launcher in electron
 - [dscalzi/HeliosLauncher](https://github.com/dscalzi/HeliosLauncher) - ☀ Custom launcher for modded minecraft written in Electron and Node.js
 - [gl91306/launcherpi](https://github.com/gl91306/launcherpi) - bascicly a mc launcher for the pi.
-- [jcv8000/Codex](https://github.com/jcv8000/Codex) - A free note-taking software for programmers and Computer Science students
 - [anschwa/typing-test](https://github.com/anschwa/typing-test) - An ES6 and HTML5 typing test.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -1508,6 +1508,7 @@
 
 ## Others 
 
+- [Android-PowerUser/Windroid_11](https://github.com/Android-PowerUser/Windroid_11) - Windroid 11 is a Windows 11 equivalent for Android.
 - [Priyanka488/100DaysOfSystemDesign](https://github.com/Priyanka488/100DaysOfSystemDesign) - Documenting resources and notes for learning system design.
 - [yaronelh/False-Positive-Center](https://github.com/yaronelh/False-Positive-Center) - Repository to help security vendors deal with false positives
 - [michalleptuch/fluent-emoji-gallery](https://github.com/michalleptuch/fluent-emoji-gallery) - Official issue-only repo for Fluent Emoji Gallery
@@ -1728,7 +1729,6 @@
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [dhanishgajjar/terminal-icons](https://github.com/dhanishgajjar/terminal-icons) - Beautiful icons for your favourite terminal apps like Hyper and iTerm2
 - [ryanfortner/Learning-Python](https://github.com/ryanfortner/Learning-Python) - Bits and pieces of beginners' Python code
-- [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [ryanfortner/exagear-rpi](https://github.com/ryanfortner/exagear-rpi) - installing Exagear Desktop on the newer Raspberry Pies
 - [Pi-Apps-Coders/docs](https://github.com/Pi-Apps-Coders/docs) - [wip] documentation website for pi-apps
 - [TheMindVirus/universaldrivers](https://github.com/TheMindVirus/universaldrivers) - The beginnings of Universal Drivers on UEFI systems for the Windows on Raspberry Project
@@ -2148,7 +2148,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :revolving_hearts: This repository has 542 stars.
+- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :heartbeat: This repository has 542 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2886,6 +2886,7 @@
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
+- [jcv8000/Codex](https://github.com/jcv8000/Codex) - A free note-taking software for programmers and Computer Science students
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [mkrl/ttty](https://github.com/mkrl/ttty) - A very simple pure JS lightweight terminal "emulator"
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
@@ -2927,7 +2928,6 @@
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [josethz00/neovim-like-vscode](https://github.com/josethz00/neovim-like-vscode) - This is a public repo, that contains some settings and plugins that allows you to use NeoVim like Visual Studio Code.
-- [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 
 ## Visual Basic .NET 
 
