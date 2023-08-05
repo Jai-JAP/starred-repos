@@ -1671,7 +1671,6 @@
 - [lfit/itpol](https://github.com/lfit/itpol) - Useful IT policies
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
-- [lorien/the-art-of-command-line](https://github.com/lorien/the-art-of-command-line) - Master the command line, in one page
 - [divory100/tasty-grubs](https://github.com/divory100/tasty-grubs) - A collection of GRUB2 themes.
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) - Educational resources to learn to program (Foundation in Web Development)
@@ -2369,6 +2368,7 @@
 
 ## Shell 
 
+- [alexchmykhalo/superconsole](https://github.com/alexchmykhalo/superconsole) - SuperConsole is a software collection based on ConEmu, MSYS2, Mintty, Zsh, Git for Windows, grml-zsh-config, Antigen and agkozak-zsh-theme projects, customized and configured for everyday use.
 - [TuxVinyards/quickemu-mod](https://github.com/TuxVinyards/quickemu-mod) - Virtual Machine Launcher & VM Tool Set -  Quickemu / Quickget wrapping script - A powerful text based alternative to QuickGUI for more advanced users
 - [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [olegos2/termux-box](https://github.com/olegos2/termux-box) - 
