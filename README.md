@@ -21,6 +21,7 @@
 - [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Earthly](#earthly)
 - [Elixir](#elixir)
 - [Go](#go)
 - [HCL](#hcl)
@@ -519,7 +520,6 @@
 - [Lixkote/OpenRekt-Installer](https://github.com/Lixkote/OpenRekt-Installer) - The Rectify11-installer based openly forkable Windows transformation pack backend
 - [Pdawg-bytes/factoryos-10x-shell](https://github.com/Pdawg-bytes/factoryos-10x-shell) - A Windows 10X shell recreation to run in place of the default FactoryOS shell.
 - [FrozenAssassine/Fastedit](https://github.com/FrozenAssassine/Fastedit) - Fastedit is a lightweight and fluent Texteditor for Windows
-- [ojask/Rectify11ControlCenter](https://github.com/ojask/Rectify11ControlCenter) - 
 - [WinUICommunity/SettingsUI](https://github.com/WinUICommunity/SettingsUI) - Windows 11 settings page in WinUI 3 applications ported from Powertoys with some custom controls and styles
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
@@ -606,6 +606,8 @@
 
 ## C++ 
 
+- [ReMinecraftPE/mcped](https://github.com/ReMinecraftPE/mcped) - The Minecraft PE (mcpe01_canada.apk) Decompilation Project
+- [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer) - Free Media Player for Windows, Linux and Mac OS with YouTube support.
 - [ReMinecraftPE/mcpe](https://github.com/ReMinecraftPE/mcpe) - The Minecraft PE (mcpe01_canada.apk) Reverse Engineering Project
 - [AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk) - Direct3D 8 to Vulkan translation for DXVK!
 - [itsfolf/Discord-Screenshare-Linux](https://github.com/itsfolf/Discord-Screenshare-Linux) - Updating Discord's shit because they won't do it themselves 2: Electric Boogaloo
@@ -986,6 +988,10 @@
 - [retrage/edk2-nightly](https://github.com/retrage/edk2-nightly) - Unofficial EDK2 nightly build
 - [steinruck/kali-xfce-novnc](https://github.com/steinruck/kali-xfce-novnc) - Kali GUI Docker Container via web browser
 - [hmsjy2017/debian-arm-build-env](https://github.com/hmsjy2017/debian-arm-build-env) - Build Linux arm software in Docker
+
+## Earthly 
+
+- [niklas-heer/speed-comparison](https://github.com/niklas-heer/speed-comparison) - A repo which compares the speed of different programming languages.
 
 ## Elixir 
 
@@ -1892,7 +1898,7 @@
 - [kozec/sc-controller](https://github.com/kozec/sc-controller) - User-mode driver and GTK3 based GUI for Steam Controller
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
-- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - An easy-to-use Python CLI Minecraft launcher! Compatible with official Minecraft launcher and provides many official add-ons. (Still active! Working on rewrite-v4 branch)
+- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - An easy-to-use Python CLI Minecraft launcher! Compatible with official Minecraft launcher and provides many official add-ons.
 - [mozillazg/pypy](https://github.com/mozillazg/pypy) - The unofficial GitHub mirror of PyPy (mirrored via https://github.com/mozillazg/job-mirror-hg-repos)
 - [proskur1n/cmeson](https://github.com/proskur1n/cmeson) - TUI for the meson build system
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
@@ -2684,7 +2690,7 @@
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [sickcodes/anbox-halium](https://github.com/sickcodes/anbox-halium) - 
 - [layquack/Twister-UI](https://github.com/layquack/Twister-UI) - Twister UI for Debian / Ubuntu aarch64
-- [specious/check-bitly](https://github.com/specious/check-bitly) - :ok_hand: Check domains to find out if they are bitly.com domains
+- [specious/check-bitly](https://github.com/specious/check-bitly) - :ok_hand: Check web domains to find out if they are bitly.com domains
 - [abhiTronix/raspberry-pi-cross-compilers](https://github.com/abhiTronix/raspberry-pi-cross-compilers) - Latest GCC Cross Compiler & Native (ARM & ARM64) CI generated precompiled standalone toolchains for all Raspberry Pis. 🍇
 - [lyderic/piutils](https://github.com/lyderic/piutils) - Utilities for Raspberry Pi (and GL-Inet) micro machines
 - [andreiw/lampone](https://github.com/andreiw/lampone) - wip 3/4 stuff
