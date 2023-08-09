@@ -607,7 +607,7 @@
 
 - [ReMinecraftPE/mcped](https://github.com/ReMinecraftPE/mcped) - The Minecraft PE (mcpe01_canada.apk) Decompilation Project
 - [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer) - Free Media Player for Windows, Linux and Mac OS with YouTube support.
-- [ReMinecraftPE/mcpe](https://github.com/ReMinecraftPE/mcpe) - The Minecraft PE (mcpe01_canada.apk) Reverse Engineering Project
+- [ReMinecraftPE/mcpe](https://github.com/ReMinecraftPE/mcpe) - ReMinecraftPE - A custom experience based on Minecraft PE as of 2011.
 - [AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk) - Direct3D 8 to Vulkan translation for DXVK!
 - [itsfolf/Discord-Screenshare-Linux](https://github.com/itsfolf/Discord-Screenshare-Linux) - Updating Discord's shit because they won't do it themselves 2: Electric Boogaloo
 - [rvagg/rpi-newer-crosstools](https://github.com/rvagg/rpi-newer-crosstools) - Newer cross-compiler toolchains than are available @ https://github.com/raspberrypi/tools
@@ -1898,11 +1898,11 @@
 - [kozec/sc-controller](https://github.com/kozec/sc-controller) - User-mode driver and GTK3 based GUI for Steam Controller
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
-- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - An easy-to-use Python CLI Minecraft launcher! Compatible with official Minecraft launcher and provides many official add-ons.
+- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. This launcher is compatible with the official Minecraft launcher's version specification.
 - [mozillazg/pypy](https://github.com/mozillazg/pypy) - The unofficial GitHub mirror of PyPy (mirrored via https://github.com/mozillazg/job-mirror-hg-repos)
 - [proskur1n/cmeson](https://github.com/proskur1n/cmeson) - TUI for the meson build system
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-- [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
+- [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
 - [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) - This is a python script that downloads Arch Linux packages (Official/Chaotic AUR) and converts to an AppImage executable
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [dennisbyington/wordle_gui](https://github.com/dennisbyington/wordle_gui) - GUI implementation of the Wordle game
@@ -2376,6 +2376,7 @@
 
 ## Shell 
 
+- [miaobuao/winapps](https://github.com/miaobuao/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [alexchmykhalo/superconsole](https://github.com/alexchmykhalo/superconsole) - SuperConsole is a software collection based on ConEmu, MSYS2, Mintty, Zsh, Git for Windows, grml-zsh-config, Antigen and agkozak-zsh-theme projects, customized and configured for everyday use.
 - [TuxVinyards/quickemu-mod](https://github.com/TuxVinyards/quickemu-mod) - Virtual Machine Launcher & VM Tool Set -  Quickemu / Quickget wrapping script - A powerful text based alternative to QuickGUI for more advanced users
 - [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
