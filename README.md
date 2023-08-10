@@ -1003,7 +1003,7 @@
 - [spddl/disableDWMactivitys](https://github.com/spddl/disableDWMactivitys) - 
 - [arukateru/BasicThemer5](https://github.com/arukateru/BasicThemer5) - The most lightweight basic themer yet.
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools. Still experimental
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [huydx/hget](https://github.com/huydx/hget) - interruptable, resumable download accelerator written in golang
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) - The fastest, resumable file download client
