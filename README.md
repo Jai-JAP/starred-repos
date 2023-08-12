@@ -186,7 +186,7 @@
 - [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
 - [ahgamut/gnu-make-cosmopolitan](https://github.com/ahgamut/gnu-make-cosmopolitan) - GNU Make 4.3 source code, with modifications to compile with Cosmopolitan Libc
 - [leyyer/eokan](https://github.com/leyyer/eokan) - ext2/3/4 userspace filesystem on windows.
-- [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab.
+- [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
 - [zserge/jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
 - [manatails/uefiseven](https://github.com/manatails/uefiseven) - An EFI loader that emulates int10h interrupts needed for booting Windows 7 under UEFI Class 3 systems.
 - [TheTumultuousUnicornOfDarkness/CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) - CPU-X is a Free software that gathers information on CPU, motherboard and more
@@ -503,7 +503,7 @@
 - [securefolderfs-community/SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS) - Powerful, secure, modern way to keep your files protected.
 - [jpbandroid/UltraTextEdit-UWP-22H2](https://github.com/jpbandroid/UltraTextEdit-UWP-22H2) - My UWP text editor
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-- [Lixkote/RectifyPad](https://github.com/Lixkote/RectifyPad) - Modern recreation of wordpad
+- [Lixkote/RectifyPad](https://github.com/Lixkote/RectifyPad) - RectifyPad is a lightweight word processor that supports the RTF format. It is more advanced than windows notepad, and less advanced than word. It is a more modern alternative to Windows Wordpad. In t
 - [SebLague/Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
 - [jimkoutso2008/QEMUWF](https://github.com/jimkoutso2008/QEMUWF) - A very work in progress QEMU GUI.
 - [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows 11 device's battery life. A WinUI 3 GUI for https://github.com/imbushuo/EnergyStar.
@@ -621,7 +621,7 @@
 - [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
 - [OpenLoco/OpenLoco](https://github.com/OpenLoco/OpenLoco) - An open source re-implementation of Chris Sawyer's Locomotion
 - [pmachapman/WordPad](https://github.com/pmachapman/WordPad) - WordPad for Windows
-- [Lixkote/10StartModenizer](https://github.com/Lixkote/10StartModenizer) - A Simple XamlDiagnostics demo that tweaks the Valinet's ExplorerPatcher's Windows 10 Start Menu acrylic. Also makes some controls rounded.
+- [Lixkote/halalstart](https://github.com/Lixkote/halalstart) - A Simple XamlDiagnostics demo that tweaks the Valinet's ExplorerPatcher's Windows 10 Start Menu acrylic. Also makes some controls rounded.
 - [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - Universal MS Key Toolkit
 - [funbiscuit/spacedisplay](https://github.com/funbiscuit/spacedisplay) - Almost cross-platform way to analyze used disk space
 - [rounk-ctrl/W95PCHealthCheck](https://github.com/rounk-ctrl/W95PCHealthCheck) - funny clone of windows 11 pc health check app
@@ -889,7 +889,7 @@
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [ErnyTech/p7zip](https://github.com/ErnyTech/p7zip) - 
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
-- [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform Multicast-enabled VNC viewer based on LibVNCClient. The desktop version uses wxWidgets and runs on Unix, Mac OS X and Windows. There also is an Android version.
+- [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform Multicast-enabled VNC viewer based on LibVNCClient. The desktop version runs on Unix, Mac OS X and Windows. There also is an Android version.
 - [TheMindVirus/pi4bdd](https://github.com/TheMindVirus/pi4bdd) - Second Monitor Support for Pi4 running Windows 10 for ARM Insider Build 21322
 - [TheMindVirus/ioctl](https://github.com/TheMindVirus/ioctl) - Example Implementation of Device I/O Control (IOCTL) in Windows 10 running on a Raspberry Pi 4
 - [TheMindVirus/roscos](https://github.com/TheMindVirus/roscos) - Visual Studio 2019 Compiled Source Directories of Windows Render/Compute-Only-Sample Drivers (ROS/COS)
@@ -1210,7 +1210,6 @@
 - [StefanLobbenmeier/youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [typpo/textbelt](https://github.com/typpo/textbelt) - Free API for outgoing SMS
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [Lixkote/11GadgetPack](https://github.com/Lixkote/11GadgetPack) - Classic Windows 7/Vista style gadgets modernized with fluent style for use in Rectify11.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [idank/showthedocs](https://github.com/idank/showthedocs) - 
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
@@ -2101,7 +2100,7 @@
 - [TheBananaStore/BananaLord](https://github.com/TheBananaStore/BananaLord) - Discord.py bot for the Banana App Store server.
 - [qutip/qutip](https://github.com/qutip/qutip) - QuTiP: Quantum Toolbox in Python
 - [cycool29/pi-apps-gui](https://github.com/cycool29/pi-apps-gui) - A Python version of Pi-Apps GUI built with PySimpleGUI, with some unique features.
-- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [termux/termux-create-package](https://github.com/termux/termux-create-package) - Python script to create Termux packages easily.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
@@ -2956,7 +2955,7 @@
 ## Vue 
 
 - [juhaku/loginized](https://github.com/juhaku/loginized) - Gnome GDM Login Theme Manager. Easy and Fast Login Theme Manipulation
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store) - A Cross-Platform App Store for Electron.js Apps
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
