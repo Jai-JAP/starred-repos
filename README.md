@@ -276,7 +276,6 @@
 - [MlgmXyysd/kernel-assisted-superuser](https://github.com/MlgmXyysd/kernel-assisted-superuser) - Mirror of Kernel-Assisted Superuser
 - [gurnec/HashCheck](https://github.com/gurnec/HashCheck) - HashCheck Shell Extension for Windows with added SHA2, SHA3, and multithreading; originally from code.kliu.org
 - [drh/cii](https://github.com/drh/cii) - C Interfaces and Implementations
-- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [novialriptide/wordle.gb](https://github.com/novialriptide/wordle.gb) - A work-in-progress variant of Wordle for the GameBoy implemented using GBDK-2020 in C.
 - [GNOME/glade](https://github.com/GNOME/glade) - Read-only mirror of https://gitlab.gnome.org/GNOME/glade
 - [GNOME/gnome-builder](https://github.com/GNOME/gnome-builder) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-builder
@@ -611,6 +610,7 @@
 
 ## C++ 
 
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [Audio4Linux/Viper4Linux-GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) - Official UI for Viper4Linux2
 - [RPCSX/rpcsx](https://github.com/RPCSX/rpcsx) - 
 - [m417z/UWPSpy](https://github.com/m417z/UWPSpy) - An inspection tool for UWP applications. Seamlessly view and manipulate UI elements and their properties in real time.
@@ -773,6 +773,7 @@
 - [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - 
 - [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK+ UI
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [kjliew/qemu-xtra](https://github.com/kjliew/qemu-xtra) - Old PC Games Addons for QEMU
 - [schellingb/dosbox-pure](https://github.com/schellingb/dosbox-pure) - DOSBox Pure is a new fork of DOSBox built for RetroArch/Libretro aiming for simplicity and ease of use.
 - [Electronicks/JoyShockMapper](https://github.com/Electronicks/JoyShockMapper) - A tool for PC gamers to play games with DualShock 4s, JoyCons, and Pro Controllers. Gyro aiming, flick stick.
@@ -1434,6 +1435,7 @@
 
 ## Kotlin 
 
+- [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches) - 🧩 Patches for ReVanced
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [ReVanced/revanced-manager-compose](https://github.com/ReVanced/revanced-manager-compose) - 💊 Android application to use ReVanced (Jetpack Compose)
@@ -1863,7 +1865,7 @@
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [acheong08/Bard](https://github.com/acheong08/Bard) - Python SDK/API for reverse engineered Google Bard
 - [SputnikRocket/PyThOS-V2](https://github.com/SputnikRocket/PyThOS-V2) - PyThOS system simulation rewritten from scratch
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models.
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [sebaubuntu-python/dumpyara](https://github.com/sebaubuntu-python/dumpyara) - Android firmware dumper, rewritten in Python
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
