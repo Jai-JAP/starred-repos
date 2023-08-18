@@ -134,6 +134,7 @@
 
 ## C 
 
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - 
 - [ThePBone/RootlessJamesDSP](https://github.com/ThePBone/RootlessJamesDSP) - An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices
 - [james34602/JamesDSPManager](https://github.com/james34602/JamesDSPManager) - Audio DSP effects build on Android system framework layer. This is a repository contains a pack of high quality DSP algorithms specialized for audio processing.
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
@@ -1208,6 +1209,7 @@
 
 ## JavaScript 
 
+- [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [szatkus/js2me](https://github.com/szatkus/js2me) - J2ME implementation in JavaScript
@@ -1525,6 +1527,7 @@
 
 ## Others 
 
+- [NovaOSS/free-ai-apis](https://github.com/NovaOSS/free-ai-apis) - This repository contains a list of free to use AI APIs. We are NOT endorsing ANY of the listed services!
 - [21Z/Microsoft-Office-2021](https://github.com/21Z/Microsoft-Office-2021) - Download and Activate Microsoft Office 2021 (Latest) for free. (Legal)
 - [MustardChef/WSAPackages](https://github.com/MustardChef/WSAPackages) - Ongoing archive of all of the public Windows Subsystem For Android™ Build packages (.msix) from the Microsoft Store
 - [Android-PowerUser/Windroid_11](https://github.com/Android-PowerUser/Windroid_11) - Windroid 11 is a Windows 11 equivalent for Android.
@@ -1933,6 +1936,7 @@
 - [Kharacternyk/barva](https://github.com/Kharacternyk/barva) - An audio visualizer that pulses the background of your terminal (or anything else).
 - [Bigjango13/MCPI-Addons](https://github.com/Bigjango13/MCPI-Addons) - Addons to the MCPI api.
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
+- [canonical/steam-snap](https://github.com/canonical/steam-snap) - Steam as a snap
 - [nsonaniya2010/SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) - A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github.
 - [fritzone/autocmake](https://github.com/fritzone/autocmake) - Convert an autotools project to CMake
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1941,7 +1945,7 @@
 - [IndieCoderMM/chess-gui](https://github.com/IndieCoderMM/chess-gui) - 2-player Chess game in a beautiful GUI with legal moves highlighting. Created using Python Chess & PySimpleGUI.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [MFDGaming/mcpe-0.6.1-patcher](https://github.com/MFDGaming/mcpe-0.6.1-patcher) - Applies pocket tool .mod patches on libminecraftpe.so
-- [Askaniy/TrueColorTools](https://github.com/Askaniy/TrueColorTools) - A set of Python tools for calculating human-visible colors of celestial bodies from their spectra or color indices
+- [Askaniy/TrueColorTools](https://github.com/Askaniy/TrueColorTools) - GUI application for calculating human-visible colors of celestial bodies from their photometry data
 - [Askaniy/fits2png](https://github.com/Askaniy/fits2png) - A small GUI program for converting space images
 - [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
 - [Sven-Bo/advanced-gui-with-usersettings-and-menubar](https://github.com/Sven-Bo/advanced-gui-with-usersettings-and-menubar) - PySimpleGUI application with menu bar & settings (.ini) file to load/save user settings
@@ -2037,7 +2041,7 @@
 - [rsm-gh/akbl](https://github.com/rsm-gh/akbl) - Control the lights of Alienware computers under GNU/Linux systems.
 - [pindexis/qfc](https://github.com/pindexis/qfc) - Quick Command-line File Completion
 - [UN-GCPDS/qt-material](https://github.com/UN-GCPDS/qt-material) - Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6
-- [dmerejkowsky/pycp](https://github.com/dmerejkowsky/pycp) - cp and mv with a progress bar
+- [your-tools/pycp](https://github.com/your-tools/pycp) - cp and mv with a progress bar
 - [jlevy/repren](https://github.com/jlevy/repren) - Rename anything
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
 - [mooz/percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
@@ -2166,7 +2170,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :gift_heart: This repository has 542 stars.
+- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :heart: This repository has 542 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2497,7 +2501,6 @@
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) - A Steam Big Picture based couch gaming OS
-- [canonical/steam-snap](https://github.com/canonical/steam-snap) - Steam as a snap
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
 - [Itai-Nelken/Pi-Assistant](https://github.com/Itai-Nelken/Pi-Assistant) - Pi-Assistant is a simple terminal app made for the Raspberry Pi that makes updating the system, installing apps, viewing system information, and more easier than ever
 - [autotools-mirror/libtool](https://github.com/autotools-mirror/libtool) - GNU Libtool. Mirror of git://git.savannah.gnu.org/libtool.git
