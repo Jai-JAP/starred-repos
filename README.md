@@ -629,7 +629,6 @@
 - [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
 - [OpenLoco/OpenLoco](https://github.com/OpenLoco/OpenLoco) - An open source re-implementation of Chris Sawyer's Locomotion
 - [pmachapman/WordPad](https://github.com/pmachapman/WordPad) - WordPad for Windows
-- [Lixkote/halalstart](https://github.com/Lixkote/halalstart) - A Simple XamlDiagnostics demo that tweaks the Valinet's ExplorerPatcher's Windows 10 Start Menu acrylic. Also makes some controls rounded.
 - [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - Universal MS Key Toolkit
 - [funbiscuit/spacedisplay](https://github.com/funbiscuit/spacedisplay) - Almost cross-platform way to analyze used disk space
 - [rounk-ctrl/W95PCHealthCheck](https://github.com/rounk-ctrl/W95PCHealthCheck) - funny clone of windows 11 pc health check app
@@ -1462,6 +1461,8 @@
 
 ## Lua 
 
+- [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
+- [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [AndCake/micro-plugin-lsp](https://github.com/AndCake/micro-plugin-lsp) - An LSP Client implementation for the Micro Editor
 - [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
 
