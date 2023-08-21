@@ -611,6 +611,7 @@
 
 ## C++ 
 
+- [seven-mile/dui70](https://github.com/seven-mile/dui70) - A reserved repo for R.E. undocumented Windows UI library dui70.dll.
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [Audio4Linux/Viper4Linux-GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) - Official UI for Viper4Linux2
 - [RPCSX/rpcsx](https://github.com/RPCSX/rpcsx) - 
@@ -742,7 +743,6 @@
 - [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a free cooperative platformer game
 - [pmachapman/unrar](https://github.com/pmachapman/unrar) - Unrar source code from rarlab.com
 - [rounk-ctrl/MicaForEveryone-win32](https://github.com/rounk-ctrl/MicaForEveryone-win32) - 
-- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [bsnes-emu/bsnes](https://github.com/bsnes-emu/bsnes) - bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
 - [scummvm/scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository
 - [inolen/redream](https://github.com/inolen/redream) - Work In Progress SEGA Dreamcast emulator
@@ -1833,6 +1833,7 @@
 
 ## Python 
 
+- [slashtechno/cloudflare-gateway-adblocking](https://github.com/slashtechno/cloudflare-gateway-adblocking) - Serverless ad blocking via Cloudflare Zero Trust gateway
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
 - [jackh2002/Wordle-clone](https://github.com/jackh2002/Wordle-clone) - A basic wordle clone built using PySimpleGUI
 - [TonyLHansen/raspberry-pi-safe-off-switch](https://github.com/TonyLHansen/raspberry-pi-safe-off-switch) - A set of scripts that can be used to provide a "safe power off switch" for a Raspberry Pi.
@@ -2211,6 +2212,7 @@
 
 ## Rust 
 
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
 - [rust-cv/cv](https://github.com/rust-cv/cv) - Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs.
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
