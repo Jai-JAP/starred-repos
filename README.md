@@ -134,6 +134,8 @@
 
 ## C 
 
+- [Gcenx/winecx](https://github.com/Gcenx/winecx) - Codeweavers modified wine version. This repository is just a mirror of https://media.codeweavers.com/pub/crossover/source/
+- [varmd/wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - 
 - [ThePBone/RootlessJamesDSP](https://github.com/ThePBone/RootlessJamesDSP) - An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices
 - [james34602/JamesDSPManager](https://github.com/james34602/JamesDSPManager) - Audio DSP effects build on Android system framework layer. This is a repository contains a pack of high quality DSP algorithms specialized for audio processing.
