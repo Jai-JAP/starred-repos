@@ -471,7 +471,7 @@
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [CleanMachine1/DollarSkip](https://github.com/CleanMachine1/DollarSkip) - A simple c program to skip $ when copying shell commands
-- [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized
+- [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized drivers for QEMU\KVM
 - [michaelg29/cmathematics](https://github.com/michaelg29/cmathematics) - Mathematics library for C and C++
 - [ionos-cloud/reprepro](https://github.com/ionos-cloud/reprepro) - Debian package repository producer
 - [raspberrypi/windows-drivers](https://github.com/raspberrypi/windows-drivers) - Windows IOT drivers
@@ -1243,7 +1243,6 @@
 - [maxogden/nugget](https://github.com/maxogden/nugget) - minimalist wget clone written in node. HTTP GET files and downloads them into the current directory
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - 
-- [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [ave9858/msdl](https://github.com/ave9858/msdl) - Microsoft Software Download Listing
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
@@ -1483,7 +1482,6 @@
 - [ProjectAfterBurner/afver](https://github.com/ProjectAfterBurner/afver) - Displays the afterburner version
 - [android-rpi/device_arpi_rpi4](https://github.com/android-rpi/device_arpi_rpi4) - Device build-config for Raspberry Pi 4
 - [dmlls/whatsapp-emoji-linux](https://github.com/dmlls/whatsapp-emoji-linux) - WhatsApp Emoji for GNU/Linux 🐧
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ipxe/pipxe](https://github.com/ipxe/pipxe) - iPXE for the Raspberry Pi
 - [turquoise-hexagon/fonts](https://github.com/turquoise-hexagon/fonts) - another bitmap fonts repo
 - [lineage-rpi/proprietary_vendor_brcm](https://github.com/lineage-rpi/proprietary_vendor_brcm) - 
@@ -1694,6 +1692,7 @@
 - [jay0lee/CPython-Windows-ARM64](https://github.com/jay0lee/CPython-Windows-ARM64) - Unofficial Python 3 binaries for Windows on ARM devices like the Surface Pro X
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [lfit/itpol](https://github.com/lfit/itpol) - Useful IT policies
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
@@ -2626,7 +2625,7 @@
 - [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 - [PiSCSI/piscsi-pi-gen](https://github.com/PiSCSI/piscsi-pi-gen) - Tool used to create the raspberrypi.org Raspbian images
 - [RPi-Distro/raspi-gpio](https://github.com/RPi-Distro/raspi-gpio) - Dump the state of the BCM270x GPIOs
-- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
+- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [oxmc/chromium-theme](https://github.com/oxmc/chromium-theme) - Set chromium's dark/light mode from terminal
 - [Jai-JAP/desktopify](https://github.com/Jai-JAP/desktopify) - Convert Ubuntu Server for Raspberry Pi into a Desktop
 - [Jai-JAP/neofetch](https://github.com/Jai-JAP/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
@@ -2808,6 +2807,7 @@
 
 ## TypeScript 
 
+- [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
 - [replugged-org/replugged](https://github.com/replugged-org/replugged) - A lightweight Discord client mod focused on simplicity and performance.
@@ -2825,6 +2825,7 @@
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
 - [wokwi/avr8js](https://github.com/wokwi/avr8js) - Arduino (8-bit AVR) simulator, written in JavaScript and runs in the browser / Node.js
 - [wokwi/rp2040js](https://github.com/wokwi/rp2040js) - A Raspberry Pi Pico Emulator in JavaScript
+- [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Enable Bing ChatGPT on Chrome and Firefox
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
