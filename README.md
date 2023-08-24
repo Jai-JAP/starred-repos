@@ -525,7 +525,7 @@
 - [GTA-ASM/SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
 - [krlvm/BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker
 - [Icepenguins101/charms-bar-port](https://github.com/Icepenguins101/charms-bar-port) - The solution for restoring the Windows 8.x Charms Bar to Windows 10 and Windows 11
-- [Pdawg-bytes/factoryos-10x-shell](https://github.com/Pdawg-bytes/factoryos-10x-shell) - A Windows 10X shell recreation to run in place of the default FactoryOS shell.
+- [Pdawg-bytes/factoryos-10x-shell](https://github.com/Pdawg-bytes/factoryos-10x-shell) - A Win10x shell recreation to run in place of the default FactoryOS shell.
 - [FrozenAssassine/Fastedit](https://github.com/FrozenAssassine/Fastedit) - Fastedit is a lightweight and fluent Texteditor for Windows
 - [WinUICommunity/SettingsUI](https://github.com/WinUICommunity/SettingsUI) - Windows 11 settings page in WinUI 3 applications ported from Powertoys with some custom controls and styles
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
@@ -668,7 +668,7 @@
 - [brookmiles/windows-heic-thumbnails](https://github.com/brookmiles/windows-heic-thumbnails) - Enable Windows Explorer to display thumbnails for HEIC files
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [gphalkes/tilde](https://github.com/gphalkes/tilde) - The Tilde text editor
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
 - [theofficialgman/PrusaSlicer](https://github.com/theofficialgman/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
@@ -1011,6 +1011,7 @@
 
 ## Go 
 
+- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [audstanley/NodeJs-Raspberry-Pi](https://github.com/audstanley/NodeJs-Raspberry-Pi) - Install NodeJs on your Raspberry Pi 1, 2, 3, 4, zero, and zero w
 - [spddl/disableDWMactivitys](https://github.com/spddl/disableDWMactivitys) - 
 - [arukateru/BasicThemer5](https://github.com/arukateru/BasicThemer5) - The most lightweight basic themer yet.
@@ -1594,7 +1595,7 @@
 - [CSMarckitus/Photoshop](https://github.com/CSMarckitus/Photoshop) - This program written in C will help you to automatically install everything you need and configure it so that you can run Photoshop on your Linux without problems.
 - [ryanfortner/disablechromeextensions-jsbookmark](https://github.com/ryanfortner/disablechromeextensions-jsbookmark) - disable a chrome extension with the click of a button
 - [VernonGrant/gnu-c-language-manual](https://github.com/VernonGrant/gnu-c-language-manual) - This is a mirror of Richard Stallman's GNU C Language Intro and Reference, available in Markdown and PDF.
-- [chris1111/VoodooHDA-OC](https://github.com/chris1111/VoodooHDA-OC) - Visit BLOG : https://com-chris1111.github.io
+- [chris1111/VoodooHDA-OC](https://github.com/chris1111/VoodooHDA-OC) - 
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [LiaBooks/C-Programming](https://github.com/LiaBooks/C-Programming) - Interactive Port of the Wikibook C-Programming to LiaScript (english)
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
