@@ -613,6 +613,9 @@
 
 ## C++ 
 
+- [FedoraQt/QAdwaitaDecorations](https://github.com/FedoraQt/QAdwaitaDecorations) - Qt decoration plugin implementing Adwaita-like client-side decorations
+- [FedoraQt/QGnomePlatform](https://github.com/FedoraQt/QGnomePlatform) - QPlatformTheme for a better Qt application inclusion in GNOME
+- [leidav/adwaita-qt-decoration](https://github.com/leidav/adwaita-qt-decoration) - Adwaita themed wayland decorations for qt
 - [seven-mile/dui70](https://github.com/seven-mile/dui70) - A reserved repo for R.E. undocumented Windows UI library dui70.dll.
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [Audio4Linux/Viper4Linux-GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) - Official UI for Viper4Linux2
@@ -2280,7 +2283,7 @@
 - [brxken128/dexios](https://github.com/brxken128/dexios) - A secure file encryption utility, written in Rust.
 - [couchbaselabs/couchbase-shell](https://github.com/couchbaselabs/couchbase-shell) - Shell yeah!
 - [polyverse/rmesg](https://github.com/polyverse/rmesg) - A 'dmesg' implementation in Rust
-- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -2397,6 +2400,7 @@
 
 ## Shell 
 
+- [cheadrian/termux-chroot-proot-wine-box86_64](https://github.com/cheadrian/termux-chroot-proot-wine-box86_64) - Repo with instruction about how you can setup Proot / Chroot using Termux and GPU acceleration for Box86, Wine, etc.
 - [Audio4Linux/Viper4Linux](https://github.com/Audio4Linux/Viper4Linux) - Second iteration of Viper4Linux including smarter volume management and more to come... maybe.
 - [miaobuao/winapps](https://github.com/miaobuao/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [alexchmykhalo/superconsole](https://github.com/alexchmykhalo/superconsole) - SuperConsole is a software collection based on ConEmu, MSYS2, Mintty, Zsh, Git for Windows, grml-zsh-config, Antigen and agkozak-zsh-theme projects, customized and configured for everyday use.
