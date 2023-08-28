@@ -1879,7 +1879,7 @@
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [acheong08/Bard](https://github.com/acheong08/Bard) - Python SDK/API for reverse engineered Google Bard
 - [SputnikRocket/PyThOS-V2](https://github.com/SputnikRocket/PyThOS-V2) - PyThOS system simulation rewritten from scratch
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [sebaubuntu-python/dumpyara](https://github.com/sebaubuntu-python/dumpyara) - Android firmware dumper, rewritten in Python
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
@@ -2181,7 +2181,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-542-Stars](https://github.com/iBug/This-Repo-Has-542-Stars) - Yes, it's true :yellow_heart: This repository has 542 stars.
+- [iBug/This-Repo-Has-543-Stars](https://github.com/iBug/This-Repo-Has-543-Stars) - Yes, it's true :orange_heart: This repository has 543 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2239,6 +2239,7 @@
 - [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - An SVG rendering library.
 - [Rahix/avr-device](https://github.com/Rahix/avr-device) - Register access crate for AVR microcontrollers
 - [Rahix/avr-hal](https://github.com/Rahix/avr-hal) - embedded-hal abstractions for AVR microcontrollers
+- [j-hc/mindetach-magisk](https://github.com/j-hc/mindetach-magisk) - Simpler and better Magisk module to detach apps from Play Store
 - [MarcGuiselin/wedge](https://github.com/MarcGuiselin/wedge) - A Simple, Open-Source Edge Redirector
 - [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
@@ -2403,6 +2404,7 @@
 
 ## Shell 
 
+- [TuxVinyards/qqX](https://github.com/TuxVinyards/qqX) - qqX - Virtual Machine Launcher  -  A powerful desktop integrated quickemu interface for more advanced users
 - [cheadrian/termux-chroot-proot-wine-box86_64](https://github.com/cheadrian/termux-chroot-proot-wine-box86_64) - Repo with instruction about how you can setup Proot / Chroot using Termux and GPU acceleration for Box86, Wine, etc.
 - [Audio4Linux/Viper4Linux](https://github.com/Audio4Linux/Viper4Linux) - Second iteration of Viper4Linux including smarter volume management and more to come... maybe.
 - [miaobuao/winapps](https://github.com/miaobuao/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
@@ -2435,7 +2437,6 @@
 - [sebanc/brunch-toolchain](https://github.com/sebanc/brunch-toolchain) - x86_64 toolchain for ChromeOS
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [VulpoTheDev/Linux-Stuff](https://github.com/VulpoTheDev/Linux-Stuff) - Scripts I use for Arch Linux, this will include the installation script and possibly in the future will grow into a repo full of my configurations for linux
-- [j-hc/mindetach-magisk](https://github.com/j-hc/mindetach-magisk) - Simpler and better Magisk module to detach apps from Play Store
 - [FydeOS-ArcHero/project-archero](https://github.com/FydeOS-ArcHero/project-archero) - 
 - [mathiasbynens/evil.sh](https://github.com/mathiasbynens/evil.sh) - :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 - [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended YT and YT-M for both root and non-root users.
@@ -2815,7 +2816,7 @@
 
 ## TypeScript 
 
-- [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device.
+- [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
 - [replugged-org/replugged](https://github.com/replugged-org/replugged) - A lightweight Discord client mod focused on simplicity and performance.
