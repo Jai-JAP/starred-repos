@@ -2410,6 +2410,7 @@
 
 ## Shell 
 
+- [Jai-JAP/pi-apps](https://github.com/Jai-JAP/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [scotch-io/All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons) - A repo of every emoji icon as a separate file and commit.
 - [TuxVinyards/qqX](https://github.com/TuxVinyards/qqX) - qqX - Quickemu Virtual Machine Manager  -  A powerful desktop integrated interface for more advanced users
