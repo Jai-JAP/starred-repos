@@ -512,7 +512,7 @@
 - [securefolderfs-community/SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS) - Powerful, secure, modern way to keep your files protected.
 - [jpbandroid/UltraTextEdit-UWP-22H2](https://github.com/jpbandroid/UltraTextEdit-UWP-22H2) - My UWP text editor
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-- [Lixkote/RectifyPad](https://github.com/Lixkote/RectifyPad) - RectifyPad is a lightweight word processor that supports the RTF format. It is more advanced than windows notepad, and less advanced than word. It is a more modern alternative to Windows Wordpad. In t
+- [Lixkote/RectifyPad](https://github.com/Lixkote/RectifyPad) - RectifyPad is a word processor application that supports rich text format (RTF). It is designed to be a modern and consistent alternative to Wordpad, which was discontinued by Microsoft. Its a part of
 - [SebLague/Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
 - [jimkoutso2008/QEMUWF](https://github.com/jimkoutso2008/QEMUWF) - A very work in progress QEMU GUI.
 - [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows 11 device's battery life. A WinUI 3 GUI for https://github.com/imbushuo/EnergyStar.
@@ -2307,7 +2307,7 @@
 - [olix3001/Arclight](https://github.com/olix3001/Arclight) - Simple programming language
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
+- [pls-rs/pls](https://github.com/pls-rs/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [weclaw1/image-roll](https://github.com/weclaw1/image-roll) - Image Roll - simple and fast GTK image viewer with basic image manipulation tools. Written in Rust.
