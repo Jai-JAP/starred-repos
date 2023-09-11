@@ -166,7 +166,6 @@
 - [sgraham/dyibicc](https://github.com/sgraham/dyibicc) - A small C compiler
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
-- [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine
 - [noloader/SHA-Intrinsics](https://github.com/noloader/SHA-Intrinsics) - SHA-1, SHA-256 and SHA-512 compression functions using Intel, ARMv8 and Power8 SHA intrinsics
 - [ArtsyMacaw/wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
@@ -523,6 +522,7 @@
 - [MarkHopper24/barcodrod.io](https://github.com/MarkHopper24/barcodrod.io) - A free, modern barcode and QR code toolkit for Windows.
 - [RTFTR/AccentColorizer-E11-ForWASDK](https://github.com/RTFTR/AccentColorizer-E11-ForWASDK) - Accent Colorization for Windows 11 File Explorer Icon Glyphs
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
+- [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
 - [clashbyte/openvice](https://github.com/clashbyte/openvice) - Grand Theft Auto: Vice City Open Source port to C#
 - [GTA-ASM/SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
 - [krlvm/BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker
@@ -1342,7 +1342,6 @@
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [Iku/Google-Forms-to-Discord](https://github.com/Iku/Google-Forms-to-Discord) - A quick way to automatically send Google Form responses to a Discord channel
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
-- [janosgyerik/bashoneliners](https://github.com/janosgyerik/bashoneliners) - A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborative system, user friendly, with functions to contribu
 - [michaljaz/webmc](https://github.com/michaljaz/webmc) - Minecraft client written in Javascript (1.16.5 offline mode working)
 - [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
 - [EmDev21/Dollar](https://github.com/EmDev21/Dollar) - A startpage looking like a terminal
@@ -1536,6 +1535,7 @@
 
 ## Others 
 
+- [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [YT-Advanced/Crystal-Clear-Premium-by-BIueGuy](https://github.com/YT-Advanced/Crystal-Clear-Premium-by-BIueGuy) - 
 - [YT-Advanced/Windows-11-Cursor-by-rosea92](https://github.com/YT-Advanced/Windows-11-Cursor-by-rosea92) - Windows 11 Cursor Premium
 - [YT-Advanced/Windows-11-Cursor-Tail-by-rosea92](https://github.com/YT-Advanced/Windows-11-Cursor-Tail-by-rosea92) - Windows 11 Cursor Tail Version Premium
@@ -2059,6 +2059,7 @@
 - [altendky/pyqt-tools](https://github.com/altendky/pyqt-tools) - Qt tools including PyQt Designer and QML plugins
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [rsm-gh/akbl](https://github.com/rsm-gh/akbl) - Control the lights of Alienware computers under GNU/Linux systems.
+- [janosgyerik/bashoneliners](https://github.com/janosgyerik/bashoneliners) - A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborative system, user friendly, with functions to contribu
 - [pindexis/qfc](https://github.com/pindexis/qfc) - Quick Command-line File Completion
 - [UN-GCPDS/qt-material](https://github.com/UN-GCPDS/qt-material) - Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6
 - [your-tools/pycp](https://github.com/your-tools/pycp) - cp and mv with a progress bar
