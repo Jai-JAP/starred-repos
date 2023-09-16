@@ -1848,6 +1848,7 @@
 
 ## Python 
 
+- [boyueluzhipeng/GPT_CodeInterpreter](https://github.com/boyueluzhipeng/GPT_CodeInterpreter) - Ultimate and FREE OpenAI Provider implemented with Python code interpreter & other multiple functions, powered by ChatGPT & GPT-4!
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [pwwang/toml-bench](https://github.com/pwwang/toml-bench) - Which toml package to use in python?
