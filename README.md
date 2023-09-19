@@ -155,7 +155,6 @@
 - [nholstein/OpenDoas](https://github.com/nholstein/OpenDoas) - A portable version of the OpenBSD `doas` command
 - [iglunix/oslo](https://github.com/iglunix/oslo) - Operating System LOader
 - [kukrimate/yaub](https://github.com/kukrimate/yaub) - UEFI boot manager (using libefi).
-- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [ahmed605/10Mica](https://github.com/ahmed605/10Mica) - Mica but for Windows 10
 - [orangeduck/tgc](https://github.com/orangeduck/tgc) - A Tiny Garbage Collector for C
 - [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588) - EDK2 UEFI firmware for Rockchip RK3588 platforms
@@ -2291,7 +2290,6 @@
 - [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
-- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) - A simple example with Rust and Cosmopolitan Libc
