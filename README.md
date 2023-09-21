@@ -1537,6 +1537,7 @@
 
 ## Others 
 
+- [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters) - My personal and very opinionated uBlock Origin filters
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [YT-Advanced/Crystal-Clear-Premium-by-BIueGuy](https://github.com/YT-Advanced/Crystal-Clear-Premium-by-BIueGuy) - 
@@ -2157,7 +2158,7 @@
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
-- [natorsc/gui-python-pygobject-gtk](https://github.com/natorsc/gui-python-pygobject-gtk) - Repositório criado para documentar dicas, tutoriais e exemplos de código sobre a construção de interfaces gráficas com a linguagem de programação Python (PyGObject) e o toolkit gráfico GTK.
+- [natorsc/gui-python-pygobject-gtk](https://github.com/natorsc/gui-python-pygobject-gtk) - Repository created to document tips, tutorials and code examples on building graphical interfaces with the Python programming language (PyGObject) and the GTK graphics toolkit.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -2195,7 +2196,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-544-Stars](https://github.com/iBug/This-Repo-Has-544-Stars) - Yes, it's true :heartpulse: This repository has 544 stars.
+- [iBug/This-Repo-Has-544-Stars](https://github.com/iBug/This-Repo-Has-544-Stars) - Yes, it's true :orange_heart: This repository has 544 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2936,7 +2937,7 @@
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 - [hmsjy2017/tabby](https://github.com/hmsjy2017/tabby) - A terminal for a more modern age (formerly Terminus)
-- [oznu/node-pty-prebuilt-multiarch](https://github.com/oznu/node-pty-prebuilt-multiarch) - A parallel fork of node-pty providing ia32, amd64, arm, and aarch64 prebuilt packages for macOS, Windows and Linux (glibc and musl libc).
+- [homebridge/node-pty-prebuilt-multiarch](https://github.com/homebridge/node-pty-prebuilt-multiarch) - A parallel fork of node-pty providing ia32, amd64, arm, and aarch64 prebuilt packages for macOS, Windows and Linux (glibc and musl libc).
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
