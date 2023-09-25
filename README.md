@@ -1443,7 +1443,7 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [jgmarquesm/Python](https://github.com/jgmarquesm/Python) - To upload my codes, solved exercises and advances while learning and studying Python.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
-- [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) - The code from the Machine Learning Bookcamp book and a free course based on the book
+- [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) - Learn ML engineering for free in 4 months!
 - [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
 
 ## Kotlin 
@@ -1922,7 +1922,7 @@
 - [shubhamc183/way2sms](https://github.com/shubhamc183/way2sms) - Send upto 100 free SMS within 10 seconds in India daily, unofficial API.
 - [mfr-fr/sms-sender](https://github.com/mfr-fr/sms-sender) - This script in python allows to send messages anonymously
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018.
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
 - [techwithtim/OpenCV-Tutorials](https://github.com/techwithtim/OpenCV-Tutorials) - All the code for the Tech With Tim Python OpenCV Tutorials.
 - [Vanilla-OS/vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer) - A frontend in GTK 4 and Libadwaita for Albius.
 - [FelipeeM/color-picker-on-the-screen](https://github.com/FelipeeM/color-picker-on-the-screen) - Identify hexadecimal and rgb codes of images on your screen with just a few clicks
