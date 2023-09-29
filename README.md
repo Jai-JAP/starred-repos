@@ -1853,6 +1853,7 @@
 
 ## Python 
 
+- [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
 - [boyueluzhipeng/GPT_CodeInterpreter](https://github.com/boyueluzhipeng/GPT_CodeInterpreter) - Ultimate and FREE OpenAI Provider implemented with Python code interpreter & other multiple functions, powered by ChatGPT & GPT-4!
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
@@ -2199,7 +2200,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-544-Stars](https://github.com/iBug/This-Repo-Has-544-Stars) - Yes, it's true :heartbeat: This repository has 544 stars.
+- [iBug/This-Repo-Has-543-Stars](https://github.com/iBug/This-Repo-Has-543-Stars) - Yes, it's true :yellow_heart: This repository has 543 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2327,7 +2328,7 @@
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
 - [songww/reovim](https://github.com/songww/reovim) - Neovim GUI written in Rust, using relm4(gtk4-rs).
 - [nushell/nana](https://github.com/nushell/nana) - Experimental GUI version of Nushell
-- [nushell/reedline](https://github.com/nushell/reedline) - A readline replacement written in Rust
+- [nushell/reedline](https://github.com/nushell/reedline) - A feature-rich line editor - powering Nushell
 - [rust-lang-nursery/lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
