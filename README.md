@@ -543,6 +543,7 @@
 - [2fast-team/2fast](https://github.com/2fast-team/2fast) - Two-Factor Authenticator Supporting TOTP (Windows 10 & Android, iOS, Linux and macOS App)
 - [FireCubeStudios/FluentFlyouts3](https://github.com/FireCubeStudios/FluentFlyouts3) - Fluent Flyouts 3 WinUI 3 Edition
 - [WereDev/Wu10Man](https://github.com/WereDev/Wu10Man) - Enable/Disable Windows 10 Automatic Updates
+- [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [G-Stas/Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system.
@@ -1092,6 +1093,7 @@
 
 ## HTML 
 
+- [Parcoil/nativegames.net](https://github.com/Parcoil/nativegames.net) - Nativegames - Free Unblocked Games - Opensource
 - [D3ch/hell](https://github.com/D3ch/hell) - 260+ unblocked games and ultraviolet. star this repo thx !
 - [Red-exe-Engineer/The-Hello-World-Archive](https://github.com/Red-exe-Engineer/The-Hello-World-Archive) - A group of hello world programs written in various programming languages.
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
@@ -1168,6 +1170,7 @@
 
 ## Java 
 
+- [HardcodedCat/termux-monet](https://github.com/HardcodedCat/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
 - [tisoft/microemu](https://github.com/tisoft/microemu) - Microemulator
 - [eiroca/microemu](https://github.com/eiroca/microemu) - Microemulator is pure Java implementation of J2ME in J2SE
@@ -1860,6 +1863,7 @@
 
 ## Python 
 
+- [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web) - Tabby Web - an SSH/Telnet/Serial client in your browser.
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
@@ -3009,7 +3013,6 @@
 - [CodingWonders/DISMTools](https://github.com/CodingWonders/DISMTools) - The project-driven GUI front-end and automation tool for DISM operations
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Transparently compress active games and programs using Windows 10/11 APIs
 - [mcdenis/AccentApplicator](https://github.com/mcdenis/AccentApplicator) - A Windows utility that applies the accent color in desktop applications.
-- [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
 - [Jevil7452/Simple-GUID-Generator](https://github.com/Jevil7452/Simple-GUID-Generator) - 
 - [PeterStrick/ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) - Windows Feature Control GUI based on ViVe / ViVeTool
 - [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
