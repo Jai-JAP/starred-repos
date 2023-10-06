@@ -1446,6 +1446,9 @@
 
 ## Jupyter Notebook 
 
+- [soyarizaedgar/Flat-Full-NotTire_CNN](https://github.com/soyarizaedgar/Flat-Full-NotTire_CNN) - Convolutional Neural Network (CNN) Model to classificate flat tire / full tire / not tire
+- [SerdarHelli/The-Classification-of-Thyroid-Tumors-on-UltraSound-Images-using-Deep-Learning-Methods](https://github.com/SerdarHelli/The-Classification-of-Thyroid-Tumors-on-UltraSound-Images-using-Deep-Learning-Methods) - The Basic Classification
+- [kritikaparmar-programmer/HealthCheck](https://github.com/kritikaparmar-programmer/HealthCheck) - Health Check ✔ is a Machine Learning Web Application made using Flask that can predict mainly three diseases i.e. Diabetes, Heart Disease, and Cancer.
 - [ishfulthinking/Python-Hand-Gesture-Recognition](https://github.com/ishfulthinking/Python-Hand-Gesture-Recognition) - A guide to using Python and OpenCV2 to create an application that can recognize hand gestures/movements.
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -1910,7 +1913,7 @@
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [acheong08/Bard](https://github.com/acheong08/Bard) - Python SDK/API for reverse engineered Google Bard
 - [SputnikRocket/PyThOS-V2](https://github.com/SputnikRocket/PyThOS-V2) - PyThOS system simulation rewritten from scratch
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, llama.cpp (GGUF), Llama models.
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [sebaubuntu-python/dumpyara](https://github.com/sebaubuntu-python/dumpyara) - Android firmware dumper, rewritten in Python
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
