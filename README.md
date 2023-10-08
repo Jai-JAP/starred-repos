@@ -877,7 +877,7 @@
 - [rexdex/recompiler](https://github.com/rexdex/recompiler) - Xbox360 -&gt; Windows executable converter
 - [coddec/Classic-Shell](https://github.com/coddec/Classic-Shell) - Original code of Classic Shell (v4.3.1), original author Ivo Beltchev
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
-- [KDE/plasma-framework](https://github.com/KDE/plasma-framework) - Plasma library and runtime components based upon KF5 and Qt5
+- [KDE/plasma-framework](https://github.com/KDE/plasma-framework) - Plasma library and runtime components
 - [KDE/plasma-desktop](https://github.com/KDE/plasma-desktop) - Plasma for the Desktop
 - [KDE/kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, X Window Manager and Wayland Compositor
 - [codenamecpp/carnage3d](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto 1 [GTA1]
