@@ -1560,7 +1560,6 @@
 - [hyperio546/ladb-builds](https://github.com/hyperio546/ladb-builds) - Compiled builds for LADB for free instead of paying in the Play Store
 - [NovaOSS/free-ai-apis](https://github.com/NovaOSS/free-ai-apis) - This repository contains a list of free to use AI APIs. We are NOT endorsing ANY of the listed services!
 - [21Z/Microsoft-Office-2021](https://github.com/21Z/Microsoft-Office-2021) - Download and Activate Microsoft Office 2021 (Latest) for free. (Legal)
-- [MustardChef/WSAPackages](https://github.com/MustardChef/WSAPackages) - Ongoing archive of all of the public Windows Subsystem For Android™ Build packages (.msix) from the Microsoft Store
 - [Android-PowerUser/Windroid_11](https://github.com/Android-PowerUser/Windroid_11) - Windroid 11 is a Windows 11 equivalent for Android.
 - [Priyanka488/100DaysOfSystemDesign](https://github.com/Priyanka488/100DaysOfSystemDesign) - Documenting resources and notes for learning system design.
 - [yaronelh/False-Positive-Center](https://github.com/yaronelh/False-Positive-Center) - Repository to help security vendors deal with false positives
@@ -1878,6 +1877,7 @@
 - [zhiyiYo/QMaterialWidgets](https://github.com/zhiyiYo/QMaterialWidgets) - A material design widgets library based on PyQt/PySide.
 - [slashtechno/cloudflare-gateway-adblocking](https://github.com/slashtechno/cloudflare-gateway-adblocking) - Serverless ad blocking via Cloudflare Zero Trust gateway
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
+- [MustardChef/WSAPackages](https://github.com/MustardChef/WSAPackages) - Ongoing archive of all of the public Windows Subsystem For Android™ Build packages (.msix) from the Microsoft Store
 - [jackh2002/Wordle-clone](https://github.com/jackh2002/Wordle-clone) - A basic wordle clone built using PySimpleGUI
 - [TonyLHansen/raspberry-pi-safe-off-switch](https://github.com/TonyLHansen/raspberry-pi-safe-off-switch) - A set of scripts that can be used to provide a "safe power off switch" for a Raspberry Pi.
 - [0ut0flin3/dalle43](https://github.com/0ut0flin3/dalle43) - Use OpenAI's DALL-E for free
@@ -1955,7 +1955,7 @@
 - [kozec/sc-controller](https://github.com/kozec/sc-controller) - User-mode driver and GTK3 based GUI for Steam Controller
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
-- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. This launcher is compatible with the official Minecraft launcher's version specification.
+- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - A fast, reliable and cross-platform command-line Minecraft launcher and API for developers. Compatible with the official Minecraft launcher's version specification and supports Fabric, Forge and Quilt
 - [mozillazg/pypy](https://github.com/mozillazg/pypy) - The unofficial GitHub mirror of PyPy (mirrored via https://github.com/mozillazg/job-mirror-hg-repos)
 - [proskur1n/cmeson](https://github.com/proskur1n/cmeson) - TUI for the meson build system
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
@@ -2623,7 +2623,7 @@
 - [msys2/MINGW-packages](https://github.com/msys2/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
 - [tmux-plugins/tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu percentage and icon indicator for Tmux.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [arcmags/usync](https://github.com/arcmags/usync) - Simple rsync wrapper controlled by config file.
 - [arcmags/uln](https://github.com/arcmags/uln) - Automated link creator/file copier controlled by simple config file.
