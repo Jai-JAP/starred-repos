@@ -216,6 +216,7 @@
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [dorimanx/exfat-nofuse](https://github.com/dorimanx/exfat-nofuse) - Android ARM Linux non-fuse read/write kernel driver for exFat and VFat Android file systems
 - [onetrueawk/awk](https://github.com/onetrueawk/awk) - One true awk
+- [krlvm/ClassicSearch](https://github.com/krlvm/ClassicSearch) - Restore classic File Explorer search and shrink address bar on Windows 10 19H2+
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [djs/notepad2](https://github.com/djs/notepad2) - DEPRECATED fork of notepad2, use notepad2-mod instead
 - [White-Tiger/T-Clock](https://github.com/White-Tiger/T-Clock) - Highly configurable Windows taskbar clock
@@ -720,7 +721,6 @@
 - [decaf-emu/decaf-emu](https://github.com/decaf-emu/decaf-emu) - Researching Wii U emulation.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [krlvm/AcrylicMenus](https://github.com/krlvm/AcrylicMenus) - Acrylic effect for all existing Win32 context menus
-- [krlvm/ClassicSearch](https://github.com/krlvm/ClassicSearch) - Restore classic File Explorer search and shrink address bar on Windows 10 19H2+
 - [timsneath/notepad2](https://github.com/timsneath/notepad2) - Updated version of Florian Balmer's free Notepad2 replacement.
 - [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [XhmikosR/notepad2-mod](https://github.com/XhmikosR/notepad2-mod) - LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting
