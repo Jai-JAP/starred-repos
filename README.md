@@ -618,6 +618,7 @@
 
 ## C++ 
 
+- [audacious-media-player/audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player
 - [bingmann/sound-of-sorting](https://github.com/bingmann/sound-of-sorting) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 - [FedoraQt/QAdwaitaDecorations](https://github.com/FedoraQt/QAdwaitaDecorations) - Qt decoration plugin implementing Adwaita-like client-side decorations
@@ -1824,6 +1825,7 @@
 
 ## Pascal 
 
+- [vhanla/BootLogoChanger](https://github.com/vhanla/BootLogoChanger) - Windows 8 and Windows 8.1 Boot Logo Changer, no BIOS UEFI, Legacy mode only
 - [tarcode-apps/BatteryMode](https://github.com/tarcode-apps/BatteryMode) - Windows Battery Indicator replacement
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 
