@@ -593,7 +593,7 @@
 - [ChanpleCai/SmartTaskbar](https://github.com/ChanpleCai/SmartTaskbar) - A lightweight utility which can automatically switch the display state of the Windows Taskbar.
 - [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-- [ArkaneDev/WinPass11](https://github.com/ArkaneDev/WinPass11) - 🪟 WinPass11 is a tool for installing Windows 11 on unsupported hardware.
+- [ArkaneDev/Escape-from-tarkov-cheat](https://github.com/ArkaneDev/Escape-from-tarkov-cheat) - 🪟 WinPass11 is a tool for installing Windows 11 on unsupported hardware.
 - [microsoft/Oryx](https://github.com/microsoft/Oryx) - Build your repo automatically.
 - [nptr/msstyleEditor](https://github.com/nptr/msstyleEditor) - an editor for windows visual styles
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
@@ -1223,6 +1223,7 @@
 
 ## JavaScript 
 
+- [d3vr/yt-siphon](https://github.com/d3vr/yt-siphon) - Firefox add-on to open YouTube videos in open alternative frontends (e.g: Piped)
 - [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [microsoft/beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node) - Beginner's Series: Introduction to JavaScript (Node.js)
@@ -1840,6 +1841,7 @@
 
 ## PowerShell 
 
+- [YT-Advanced/SAB](https://github.com/YT-Advanced/SAB) - Hack StartAllBack :)))
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
@@ -1866,6 +1868,7 @@
 
 ## Python 
 
+- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
 - [Clueless-Community/scrape-up](https://github.com/Clueless-Community/scrape-up) - A web-scraping-based python package that enables you to scrape data from various platforms like GitHub, Twitter, Instagram, or any useful website.
 - [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web) - Tabby Web - an SSH/Telnet/Serial client in your browser.
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
@@ -2889,7 +2892,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-- [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content.
+- [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: viewtube.wiki, Status: https://uptime.m-o.dev/status
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
