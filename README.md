@@ -530,7 +530,6 @@
 - [Icepenguins101/charms-bar-port](https://github.com/Icepenguins101/charms-bar-port) - The solution for restoring the Windows 8.x Charms Bar to Windows 10 and Windows 11
 - [Pdawg-bytes/factoryos-10x-shell](https://github.com/Pdawg-bytes/factoryos-10x-shell) - A Win10x shell recreation to run in place of the default FactoryOS shell.
 - [FrozenAssassine/Fastedit](https://github.com/FrozenAssassine/Fastedit) - Fastedit is a lightweight and fluent Texteditor for Windows
-- [WinUICommunity/SettingsUI](https://github.com/WinUICommunity/SettingsUI) - Windows 11 settings page in WinUI 3 applications ported from Powertoys with some custom controls and styles
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [Pdawg-bytes/GyroShell](https://github.com/Pdawg-bytes/GyroShell) - A shell for Windows 11 (and maybe 10) that aims to allow for a much more customizable and streamlined shell experience. Fully written in C# WASDK.
@@ -593,7 +592,6 @@
 - [ChanpleCai/SmartTaskbar](https://github.com/ChanpleCai/SmartTaskbar) - A lightweight utility which can automatically switch the display state of the Windows Taskbar.
 - [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-- [ArkaneDev/Escape-from-tarkov-cheat](https://github.com/ArkaneDev/Escape-from-tarkov-cheat) - 🪟 WinPass11 is a tool for installing Windows 11 on unsupported hardware.
 - [microsoft/Oryx](https://github.com/microsoft/Oryx) - Build your repo automatically.
 - [nptr/msstyleEditor](https://github.com/nptr/msstyleEditor) - an editor for windows visual styles
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
