@@ -110,6 +110,7 @@
 
 ## Batchfile 
 
+- [PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.x](https://github.com/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.x) - 
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [he3als/online-sxs](https://github.com/he3als/online-sxs) - An extension to sxsc to install CBS packages on a live installation of Windows.
 - [echnobas/sxs_offender](https://github.com/echnobas/sxs_offender) - 
@@ -589,7 +590,7 @@
 - [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
 - [torchgm/WpfModernWinver](https://github.com/torchgm/WpfModernWinver) - A modern replacement for the About Windows screen relying on ModernWPF and FluentWPF
 - [torchgm/ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - A simple app that lets you pin windows to your desktop and use fullscreen programs and videos as interactive wallpapers.
-- [ChanpleCai/SmartTaskbar](https://github.com/ChanpleCai/SmartTaskbar) - A lightweight utility which can automatically switch the display state of the Windows Taskbar.
+- [Oliviaophia/SmartTaskbar](https://github.com/Oliviaophia/SmartTaskbar) - A lightweight utility which can automatically switch the display state of the Windows Taskbar.
 - [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [microsoft/Oryx](https://github.com/microsoft/Oryx) - Build your repo automatically.
@@ -1092,7 +1093,7 @@
 ## HTML 
 
 - [Parcoil/nativegames.net](https://github.com/Parcoil/nativegames.net) - Nativegames - Free Unblocked Games - Opensource
-- [D3ch/hell](https://github.com/D3ch/hell) - 260+ unblocked games and ultraviolet. star this repo thx !
+- [D3ch/hell](https://github.com/D3ch/hell) - 260+ unblocked games and ultraviolet. star this repo pls! recommendations and the site may be down for now (will fix soon).
 - [Red-exe-Engineer/The-Hello-World-Archive](https://github.com/Red-exe-Engineer/The-Hello-World-Archive) - A group of hello world programs written in various programming languages.
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [matthew-asuncion/Fast-YouTube-to-MP3-Converter-API](https://github.com/matthew-asuncion/Fast-YouTube-to-MP3-Converter-API) - Very Fast YouTube to MP3 & MP4 Converter API JSON, Python, JavaScript, iFrame, PHP, Android & iOS Video Downloader API
@@ -1208,7 +1209,7 @@
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
-- [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiler of Java bytecode to JavaScript
+- [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiles Java bytecode to JavaScript, WebAssembly and C
 - [Catrobat/Catroid](https://github.com/Catrobat/Catroid) - Writing programs on an Android device without prior knowledge.
 - [opencast/opencast](https://github.com/opencast/opencast) - The free and open source solution for automated video capture and distribution at scale.
 - [PhoenicisOrg/phoenicis](https://github.com/PhoenicisOrg/phoenicis) - Phoenicis PlayOnLinux and PlayOnMac 5 repository
@@ -1839,6 +1840,7 @@
 
 ## PowerShell 
 
+- [SunsetTechuila/Cursor-Colors-Synchronizer](https://github.com/SunsetTechuila/Cursor-Colors-Synchronizer) - Synchronizes cursor colors with Windows
 - [YT-Advanced/SAB](https://github.com/YT-Advanced/SAB) - Hack StartAllBack :)))
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) - Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
@@ -2690,7 +2692,7 @@
 - [pi-hosted/pi-hosted](https://github.com/pi-hosted/pi-hosted) - Pi-Hosted is a collection of tutorials for hosting a variety of server applications using Docker and Portainer on the Raspberry Pi.
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
 - [ofirgall/tmux-browser](https://github.com/ofirgall/tmux-browser) - Web browser sessions attached to tmux sessions
-- [raspberrypi/rpi-eeprom](https://github.com/raspberrypi/rpi-eeprom) - Installation scripts and binaries for the closed sourced Raspberry Pi 4 EEPROMs
+- [raspberrypi/rpi-eeprom](https://github.com/raspberrypi/rpi-eeprom) - Installation scripts and binaries for the Raspberry Pi 4 and Raspberry Pi 5 bootloader EEPROMs
 - [openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64) - This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)
 - [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
