@@ -712,7 +712,6 @@
 - [Jax-Core/YourMixer](https://github.com/Jax-Core/YourMixer) - Extremely customizable volume control for windows
 - [aristocratos/btop4win](https://github.com/aristocratos/btop4win) - btop++ for windows
 - [GPUCode/citra](https://github.com/GPUCode/citra) - A Nintendo 3DS Emulator
-- [rounk-ctrl/SecureUxHelper](https://github.com/rounk-ctrl/SecureUxHelper) - 
 - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5
 - [linuxdeepin/deepin-font-manager](https://github.com/linuxdeepin/deepin-font-manager) - 
 - [SaschaWillems/glCapsViewer](https://github.com/SaschaWillems/glCapsViewer) - C++ port of the OpenGL hardware capability viewer
@@ -1451,6 +1450,7 @@
 - [soyarizaedgar/Flat-Full-NotTire_CNN](https://github.com/soyarizaedgar/Flat-Full-NotTire_CNN) - Convolutional Neural Network (CNN) Model to classificate flat tire / full tire / not tire
 - [SerdarHelli/The-Classification-of-Thyroid-Tumors-on-UltraSound-Images-using-Deep-Learning-Methods](https://github.com/SerdarHelli/The-Classification-of-Thyroid-Tumors-on-UltraSound-Images-using-Deep-Learning-Methods) - The Basic Classification
 - [kritikaparmar-programmer/HealthCheck](https://github.com/kritikaparmar-programmer/HealthCheck) - Health Check ✔ is a Machine Learning Web Application made using Flask that can predict mainly three diseases i.e. Diabetes, Heart Disease, and Cancer.
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [ishfulthinking/Python-Hand-Gesture-Recognition](https://github.com/ishfulthinking/Python-Hand-Gesture-Recognition) - A guide to using Python and OpenCV2 to create an application that can recognize hand gestures/movements.
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -1555,7 +1555,6 @@
 - [ReVanced-Extended-Community/Patches-Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation) - Additional community documentation with screenshots for the various ReVanced Extended patches.
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters) - My personal and very opinionated uBlock Origin filters
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [YT-Advanced/Crystal-Clear-Premium-by-BIueGuy](https://github.com/YT-Advanced/Crystal-Clear-Premium-by-BIueGuy) - 
 - [YT-Advanced/Windows-11-Cursor-by-rosea92](https://github.com/YT-Advanced/Windows-11-Cursor-by-rosea92) - Windows 11 Cursor Premium
