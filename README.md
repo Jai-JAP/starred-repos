@@ -156,6 +156,7 @@
 - [nholstein/OpenDoas](https://github.com/nholstein/OpenDoas) - A portable version of the OpenBSD `doas` command
 - [iglunix/oslo](https://github.com/iglunix/oslo) - Operating System LOader
 - [kukrimate/yaub](https://github.com/kukrimate/yaub) - UEFI boot manager (using libefi).
+- [worproject/Rockchip-Windows-Drivers](https://github.com/worproject/Rockchip-Windows-Drivers) - Windows on Arm drivers for RK35xx platforms.
 - [ahmed605/10Mica](https://github.com/ahmed605/10Mica) - Mica but for Windows 10
 - [orangeduck/tgc](https://github.com/orangeduck/tgc) - A Tiny Garbage Collector for C
 - [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588) - EDK2 UEFI firmware for Rockchip RK3588 platforms
@@ -644,7 +645,6 @@
 - [funbiscuit/spacedisplay](https://github.com/funbiscuit/spacedisplay) - Almost cross-platform way to analyze used disk space
 - [rounk-ctrl/W95PCHealthCheck](https://github.com/rounk-ctrl/W95PCHealthCheck) - funny clone of windows 11 pc health check app
 - [rounk-ctrl/TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM) - A lightweight utility that makes the Windows Start Menu translucent/transparent.
-- [worproject/Rockchip-Windows-Drivers](https://github.com/worproject/Rockchip-Windows-Drivers) - Windows on Arm drivers for RK35xx platforms.
 - [blackhole89/notekit](https://github.com/blackhole89/notekit) - A GTK3 hierarchical markdown notetaking application with tablet support.
 - [yuzu-emu/yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline) - 
 - [contour-terminal/libunicode](https://github.com/contour-terminal/libunicode) - Modern C++17 Unicode library
