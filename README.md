@@ -507,7 +507,7 @@
 - [SebLague/Chess-Coding-Adventure](https://github.com/SebLague/Chess-Coding-Adventure) - A work-in-progress chess bot written in C#
 - [icedterminal/HackBGRT-signed](https://github.com/icedterminal/HackBGRT-signed) - Windows boot logo changer for UEFI systems
 - [dfchang149/Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe) - A Fluent-styled game of Tic-Tac-Toe for Windows
-- [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) - A modern VLC based media player for the Universal Windows Platform
+- [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
 - [FireCubeStudios/Clippy](https://github.com/FireCubeStudios/Clippy) - Bring back Clippy on Windows 10/11!
 - [ahmed605/DuiTool](https://github.com/ahmed605/DuiTool) - The ultimate DirectUI tool
 - [securefolderfs-community/SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS) - Powerful, secure, modern way to keep your files protected.
