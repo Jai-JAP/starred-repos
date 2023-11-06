@@ -1297,7 +1297,7 @@
 - [gndx/javascript-challenges](https://github.com/gndx/javascript-challenges) - 
 - [JoelGMSec/EvilnoVNC](https://github.com/JoelGMSec/EvilnoVNC) - Ready to go Phishing Platform
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-- [sonnyp/Workbench](https://github.com/sonnyp/Workbench) - Code playground for GNOME 🛠️
+- [workbenchdev/Workbench](https://github.com/workbenchdev/Workbench) - Code playground for GNOME 🛠️
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [Ceiridge/SimpleDiscordCrypt-Extended](https://github.com/Ceiridge/SimpleDiscordCrypt-Extended) - Extended Discord message end-to-end encryption plugin, supporting auto key exchange and encrypted file transfers
 - [zombieFox/hexagonTab](https://github.com/zombieFox/hexagonTab) - Hexagon bookmarks accented with a chosen colour. Customise the layout, style, background and bookmarks with hexagonTab.
@@ -1675,7 +1675,7 @@
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
 - [amarioguy/AppleWOAProject](https://github.com/amarioguy/AppleWOAProject) - AppleWOA project website. Head https://github.com/AppleWOA (@AppleWOA) to see the actual progress of project repositories!
 - [tmplink/ipv6](https://github.com/tmplink/ipv6) - IPv6 文档
-- [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2023 & Summer 2024 tech internships!
+- [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2024 tech internships!
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [worproject/WoR-Imager-Translations](https://github.com/worproject/WoR-Imager-Translations) - Language files for the Windows on Raspberry imager.
 - [gunnarmorling/awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open-Source Data Engineering Projects
@@ -2450,7 +2450,7 @@
 - [Jai-JAP/pi-apps](https://github.com/Jai-JAP/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [scotch-io/All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons) - A repo of every emoji icon as a separate file and commit.
-- [TuxVinyards/qqX](https://github.com/TuxVinyards/qqX) - qqX - Quickemu Virtual Machine Manager  -  A powerful desktop integrated interface for both quickemu beginners & more advanced users alike
+- [TuxVinyards/qqX](https://github.com/TuxVinyards/qqX) - qqX - Quickemu Virtual Machine Manager  -  A powerful desktop integrated interface for both advanced users and quickemu beginners alike
 - [cheadrian/termux-chroot-proot-wine-box86_64](https://github.com/cheadrian/termux-chroot-proot-wine-box86_64) - Repo with instruction about how you can setup Proot / Chroot using Termux and GPU acceleration for Box86, Wine, etc.
 - [Audio4Linux/Viper4Linux](https://github.com/Audio4Linux/Viper4Linux) - Second iteration of Viper4Linux including smarter volume management and more to come... maybe.
 - [miaobuao/winapps](https://github.com/miaobuao/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
