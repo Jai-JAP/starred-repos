@@ -265,7 +265,7 @@
 - [adlocode/xfway](https://github.com/adlocode/xfway) - Not actually part of Xfce, just an experimental window manager.
 - [adlocode/xfwm4](https://github.com/adlocode/xfwm4) - 
 - [agordon/datamash](https://github.com/agordon/datamash) - mirror of GNU Datamash. Send questions/comments/bugs to bug-datamash@gnu.org
-- [pbatard/gnu-efi](https://github.com/pbatard/gnu-efi) - gnu-efi mirror
+- [pbatard/gnu-efi](https://github.com/pbatard/gnu-efi) - gnu-efi fork
 - [pbatard/ntfs-3g-old](https://github.com/pbatard/ntfs-3g-old) - UEFI read/write NTFS driver, based on ntfs-3g
 - [pbatard/uefi-ntfs](https://github.com/pbatard/uefi-ntfs) - UEFI:NTFS - Boot NTFS or exFAT partitions from UEFI
 - [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
@@ -646,6 +646,7 @@
 - [rounk-ctrl/W95PCHealthCheck](https://github.com/rounk-ctrl/W95PCHealthCheck) - funny clone of windows 11 pc health check app
 - [rounk-ctrl/TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM) - A lightweight utility that makes the Windows Start Menu translucent/transparent.
 - [blackhole89/notekit](https://github.com/blackhole89/notekit) - A GTK3 hierarchical markdown notetaking application with tablet support.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [yuzu-emu/yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline) - 
 - [contour-terminal/libunicode](https://github.com/contour-terminal/libunicode) - Modern C++17 Unicode library
 - [MengRao/fmtlog](https://github.com/MengRao/fmtlog) - fmtlog is a performant fmtlib-style logging library with latency in nanoseconds.
@@ -1026,7 +1027,6 @@
 - [spddl/disableDWMactivitys](https://github.com/spddl/disableDWMactivitys) - 
 - [arukateru/BasicThemer5](https://github.com/arukateru/BasicThemer5) - The most lightweight basic themer yet.
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools. Still experimental
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [huydx/hget](https://github.com/huydx/hget) - interruptable, resumable download accelerator written in golang
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) - The fastest, resumable file download client
@@ -2580,7 +2580,7 @@
 - [Har-Kuun/OneClickCDN](https://github.com/Har-Kuun/OneClickCDN) - A one-click shell script to set up a CDN node for your websites.
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
 - [exions/undo-push](https://github.com/exions/undo-push) - ↪️ Undo a git push by removing the commit and going back to the commit before it.
-- [AmineDjeghri/AwesomeWindows11](https://github.com/AmineDjeghri/AwesomeWindows11) - Some windows tips to improve your UX experience when using windows 11 (including WSL2 & development tools)
+- [AmineDjeghri/Awesome-Windows11-WSL](https://github.com/AmineDjeghri/Awesome-Windows11-WSL) - Some windows tips to improve your UX experience when using windows 11 (including WSL2 & development tools)
 - [WSA-Community/WSA-Linux-Kernel](https://github.com/WSA-Community/WSA-Linux-Kernel) - Mirror for the Windows Subsystem for Android (WSA) kernel source code, and superuser
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
@@ -2871,7 +2871,7 @@
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [SHSGames/shsgames.github.io](https://github.com/SHSGames/shsgames.github.io) - Unblocked Games
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, Vertex
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with u
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [Venthe/vscode-fauxpilot](https://github.com/Venthe/vscode-fauxpilot) - 
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
