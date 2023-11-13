@@ -1120,6 +1120,7 @@
 - [arm-university/Embedded-Linux-Education-Kit](https://github.com/arm-university/Embedded-Linux-Education-Kit) - Develop an embedded Linux system on low-cost Arm based platforms
 - [arm-university/Introduction-to-Computer-Architecture-Education-Kit](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit) - Gain an understanding of the fundamental topics and concepts of computer architecture including the application of these with modern Arm processors
 - [nestoris/Win98SE](https://github.com/nestoris/Win98SE) - SE98 icon theme for GNU/Linux based on Windows 98 SE style and grassmunk/Chicago95 theme.
+- [AmineDjeghri/Awesome-Windows11-WSL](https://github.com/AmineDjeghri/Awesome-Windows11-WSL) - Some windows tips to improve your UX experience when using windows 11 (including WSL2 & development tools)
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [ubuntu/ubuntu-make](https://github.com/ubuntu/ubuntu-make) - Easy setup of common tools for developers on Ubuntu.
 - [maunium/dontasktoask.com](https://github.com/maunium/dontasktoask.com) - An informational website about why you should ask questions directly instead of asking to ask
@@ -2580,7 +2581,6 @@
 - [Har-Kuun/OneClickCDN](https://github.com/Har-Kuun/OneClickCDN) - A one-click shell script to set up a CDN node for your websites.
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
 - [exions/undo-push](https://github.com/exions/undo-push) - ↪️ Undo a git push by removing the commit and going back to the commit before it.
-- [AmineDjeghri/Awesome-Windows11-WSL](https://github.com/AmineDjeghri/Awesome-Windows11-WSL) - Some windows tips to improve your UX experience when using windows 11 (including WSL2 & development tools)
 - [WSA-Community/WSA-Linux-Kernel](https://github.com/WSA-Community/WSA-Linux-Kernel) - Mirror for the Windows Subsystem for Android (WSA) kernel source code, and superuser
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
