@@ -2671,7 +2671,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
 - [D2Lx0wse/pi-apps-manjaro](https://github.com/D2Lx0wse/pi-apps-manjaro) - Manjaro Raspberry Pi App Store for Open Source Projects
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 - [manishprivet/dynamic-gnome-wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them
 - [imperador/chromefy](https://github.com/imperador/chromefy) - Project Croissant: Install Chrome OS on any Computer - Transforming Chromium to Chrome
 - [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
