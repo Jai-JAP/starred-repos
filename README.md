@@ -1587,7 +1587,7 @@
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
 - [Pi-Apps-Coders/GitHub-Markdown](https://github.com/Pi-Apps-Coders/GitHub-Markdown) - Additional Markdown for GitHub
 - [givinghawk/pihole-block-list](https://github.com/givinghawk/pihole-block-list) - 
-- [TrickJoker312/Unblocked-Sites](https://github.com/TrickJoker312/Unblocked-Sites) - Join the official Unblocked Sites discord server! https://discord.gg/jhMGJtYz  The original Unblocked Sites repository :D This is  your go-to place for unblocked game sites! I'd also appreciate a star
+- [TrickJoker312/Unblocked-Sites](https://github.com/TrickJoker312/Unblocked-Sites) - Join the official Unblocked Sites discord server! https://discord.gg/x4RDQaQD  The original Unblocked Sites repository :D This is  your go-to place for unblocked game sites! I'd also appreciate a star
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [mmtrt/box86-64_AppImage](https://github.com/mmtrt/box86-64_AppImage) - 
 - [sonnyp/awesome-gnome](https://github.com/sonnyp/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
@@ -2609,7 +2609,7 @@
 - [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community) - Automatic import of svn 'community' repo (read-only mirror)
 - [clayrisser/breeze-hacked-cursor-theme](https://github.com/clayrisser/breeze-hacked-cursor-theme) - Official cursor theme for Jam OS
 - [ProjectAfterBurner/afterburner-neofetch-theme](https://github.com/ProjectAfterBurner/afterburner-neofetch-theme) - Fork of neofetch that displays the afterburner logo
-- [radxa/debos-radxa](https://github.com/radxa/debos-radxa) - 
+- [radxa/debos-radxa](https://github.com/radxa/debos-radxa) - This repo is deprecated, please use https://github.com/radxa-repo/rbuild instead
 - [ryanfortner/ubuntu22.04-scripts](https://github.com/ryanfortner/ubuntu22.04-scripts) - scripts to make ubuntu 22.04 better
 - [bottlesdevs/components](https://github.com/bottlesdevs/components) - Repository for Bottles components
 - [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom) - My custom build of wine, made to use with lutris. Built with lutris's buildbot.
