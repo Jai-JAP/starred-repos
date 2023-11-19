@@ -674,6 +674,7 @@
 - [HO-COOH/FastCopy](https://github.com/HO-COOH/FastCopy) - A GUI wrappers for Windows' built-in robocopy
 - [MicaApps/DiskInfo](https://github.com/MicaApps/DiskInfo) - DiskInfo based on CrystalDiskInfo
 - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
+- [kirb/LegacyUpdate](https://github.com/kirb/LegacyUpdate) - Fix Windows Update on Windows XP, Vista, Server 2008, 2003, and 2000
 - [solvespace/solvespace](https://github.com/solvespace/solvespace) - Parametric 2d/3d CAD
 - [brookmiles/windows-heic-thumbnails](https://github.com/brookmiles/windows-heic-thumbnails) - Enable Windows Explorer to display thumbnails for HEIC files
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
@@ -1528,7 +1529,6 @@
 
 ## NSIS 
 
-- [kirb/LegacyUpdate](https://github.com/kirb/LegacyUpdate) - Fix Windows Update on Windows XP, Vista, Server 2008, 2003, and 2000
 - [kaylh/old-RetroBat-obsolete](https://github.com/kaylh/old-RetroBat-obsolete) - RetroBat is the best way to play your ROMs collection on Windows !
 - [da2x/EdgeDeflector](https://github.com/da2x/EdgeDeflector) - A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.
 
@@ -2449,6 +2449,7 @@
 
 ## Shell 
 
+- [mobiledesres/Google-Sans-web-fonts](https://github.com/mobiledesres/Google-Sans-web-fonts) - Google Sans, Google Sans Display & Gallery Icons web fonts
 - [geeks1230/ParallelsDesktopCrack](https://github.com/geeks1230/ParallelsDesktopCrack) - Parallels Desktop for mac Crack
 - [Jai-JAP/pi-apps](https://github.com/Jai-JAP/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
