@@ -990,6 +990,8 @@
 
 ## Dart 
 
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [KRTirtho/flemozi](https://github.com/KRTirtho/flemozi) - Advanced⚡ Emoji Picker😀 for Linux🐧, Windows🪟 and macOS🍎
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -1273,7 +1275,6 @@
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - 
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
-- [ave9858/msdl](https://github.com/ave9858/msdl) - Moved to https://github.com/massgravel/msdl
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [patrikx3/ramdisk](https://github.com/patrikx3/ramdisk) - 💾 Linux Persistent RAM disk
@@ -1558,6 +1559,7 @@
 
 ## Others 
 
+- [CathyKMeow/rosetta-linux-asahi](https://github.com/CathyKMeow/rosetta-linux-asahi) - Hacked RosettaLinux that runs on Asahi Linux
 - [ReVanced-Extended-Community/Patches-Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation) - Additional community documentation with screenshots for the various ReVanced Extended patches.
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters) - My personal and very opinionated uBlock Origin filters
@@ -1591,7 +1593,7 @@
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
 - [Pi-Apps-Coders/GitHub-Markdown](https://github.com/Pi-Apps-Coders/GitHub-Markdown) - Additional Markdown for GitHub
 - [givinghawk/pihole-block-list](https://github.com/givinghawk/pihole-block-list) - 
-- [TrickJoker312/Unblocked-Sites](https://github.com/TrickJoker312/Unblocked-Sites) - Join the official Unblocked Sites discord server! https://discord.gg/x4RDQaQD  The original Unblocked Sites repository :D This is  your go-to place for unblocked game sites! I'd also appreciate a star
+- [TrickJoker312/Unblocked-Sites](https://github.com/TrickJoker312/Unblocked-Sites) - Join the official Unblocked Sites discord server! https://discord.gg/ePZRvP4h  The original Unblocked Sites repository :D This is  your go-to place for unblocked game sites! I'd also appreciate a star
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [mmtrt/box86-64_AppImage](https://github.com/mmtrt/box86-64_AppImage) - 
 - [sonnyp/awesome-gnome](https://github.com/sonnyp/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
@@ -1639,7 +1641,7 @@
 - [marchmountain/-Windows-XP-High-Resolution-Icon-Pack](https://github.com/marchmountain/-Windows-XP-High-Resolution-Icon-Pack) - These are the source PSDs of my DeviantArt icon pack. The files themselves may be a little sloppy. Bad organization, silly layer names, etc. But they got the job done. It was suggested I release them 
 - [jeffmakes/pi-data-recovery](https://github.com/jeffmakes/pi-data-recovery) - Recovering data from a bricked Raspberry Pi CM4. Same method would work on other Pis / SBC's
 - [ninjaaron/replacing-bash-scripting-with-python](https://github.com/ninjaaron/replacing-bash-scripting-with-python) - Guide on using using python for administrative scripting
-- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 4th Gen (Haswell) or AMD Ryzen
+- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 6th Gen (Skylake) or AMD Ryzen
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [kmille36/scrcpy-audio-support](https://github.com/kmille36/scrcpy-audio-support) - Easy remote your Android device over wifi with scrcpy + audio support over vlc.
 - [TheTorProject/gettorbrowser](https://github.com/TheTorProject/gettorbrowser) - 
@@ -1656,7 +1658,7 @@
 - [pbatard/UEFI-Shell](https://github.com/pbatard/UEFI-Shell) - UEFI Shell binary images, generated from EDK2 stable
 - [afontcu/awesome-learning](https://github.com/afontcu/awesome-learning) - A curated list of awesome learning material
 - [USBA/Cupertino-Catalina-iCons](https://github.com/USBA/Cupertino-Catalina-iCons) - macOS Catalina like icon theme for GNOME, elementaryOS and DeepinOS
-- [USBA/Cupertino-Ventura-iCons](https://github.com/USBA/Cupertino-Ventura-iCons) - macOS Monterey style icon theme for GNOME, elementaryOS and DeepinOS
+- [USBA/Cupertino-Sonoma-iCons](https://github.com/USBA/Cupertino-Sonoma-iCons) - macOS Monterey style icon theme for GNOME, elementaryOS and DeepinOS
 - [B00merang-Artwork/Windows-10-Dark](https://github.com/B00merang-Artwork/Windows-10-Dark) - Dark version of the Windows 10 Icon theme
 - [B00merang-Artwork/Windows-8](https://github.com/B00merang-Artwork/Windows-8) - Windows 8 icons
 - [B00merang-Artwork/Windows-7](https://github.com/B00merang-Artwork/Windows-7) - The original Win2-7 icon theme adjusted to work with GTK 3.18 +
@@ -1873,6 +1875,8 @@
 
 ## Python 
 
+- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [fineanmol/Hacktoberfest2023](https://github.com/fineanmol/Hacktoberfest2023) - Make your first Pull Request on Hacktoberfest 2023. Don't forget to spread love and if you like give us a ⭐️
 - [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM) - Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM.
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
@@ -2864,6 +2868,7 @@
 
 ## TypeScript 
 
+- [akuldeepj/screenshot-to-code](https://github.com/akuldeepj/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
