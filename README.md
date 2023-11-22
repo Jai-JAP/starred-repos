@@ -990,6 +990,7 @@
 
 ## Dart 
 
+- [akuldeepj/tictactoe](https://github.com/akuldeepj/tictactoe) - 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
@@ -1229,6 +1230,7 @@
 
 ## JavaScript 
 
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
 - [tekofx/linkleaf](https://github.com/tekofx/linkleaf) - 🍃 Alternative to LinkTree
@@ -1658,7 +1660,7 @@
 - [pbatard/UEFI-Shell](https://github.com/pbatard/UEFI-Shell) - UEFI Shell binary images, generated from EDK2 stable
 - [afontcu/awesome-learning](https://github.com/afontcu/awesome-learning) - A curated list of awesome learning material
 - [USBA/Cupertino-Catalina-iCons](https://github.com/USBA/Cupertino-Catalina-iCons) - macOS Catalina like icon theme for GNOME, elementaryOS and DeepinOS
-- [USBA/Cupertino-Sonoma-iCons](https://github.com/USBA/Cupertino-Sonoma-iCons) - macOS Monterey style icon theme for GNOME, elementaryOS and DeepinOS
+- [USBA/Cupertino-Sonoma-iCons](https://github.com/USBA/Cupertino-Sonoma-iCons) - macOS Sonoma style icon theme for GNOME, elementaryOS and DeepinOS
 - [B00merang-Artwork/Windows-10-Dark](https://github.com/B00merang-Artwork/Windows-10-Dark) - Dark version of the Windows 10 Icon theme
 - [B00merang-Artwork/Windows-8](https://github.com/B00merang-Artwork/Windows-8) - Windows 8 icons
 - [B00merang-Artwork/Windows-7](https://github.com/B00merang-Artwork/Windows-7) - The original Win2-7 icon theme adjusted to work with GTK 3.18 +
@@ -2228,7 +2230,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-553-Stars](https://github.com/iBug/This-Repo-Has-553-Stars) - Yes, it's true :orange_heart: This repository has 553 stars.
+- [iBug/This-Repo-Has-554-Stars](https://github.com/iBug/This-Repo-Has-554-Stars) - Yes, it's true :heartbeat: This repository has 554 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
