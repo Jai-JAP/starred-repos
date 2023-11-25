@@ -2230,7 +2230,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-556-Stars](https://github.com/iBug/This-Repo-Has-556-Stars) - Yes, it's true :revolving_hearts: This repository has 556 stars.
+- [iBug/This-Repo-Has-555-Stars](https://github.com/iBug/This-Repo-Has-555-Stars) - Yes, it's true :orange_heart: This repository has 555 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2592,7 +2592,7 @@
 - [Har-Kuun/OneClickCDN](https://github.com/Har-Kuun/OneClickCDN) - A one-click shell script to set up a CDN node for your websites.
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
 - [exions/undo-push](https://github.com/exions/undo-push) - ↪️ Undo a git push by removing the commit and going back to the commit before it.
-- [AmineDjeghri/Awesome-Windows11-WSL](https://github.com/AmineDjeghri/Awesome-Windows11-WSL) - Some windows tips to improve your UX experience when using windows 11 / (including WSL2, Unix & development tools)
+- [AmineDjeghri/Awesome-Windows11-WSL-Linux](https://github.com/AmineDjeghri/Awesome-Windows11-WSL-Linux) - Some windows tips to improve your UX experience when using windows 11 / (including WSL2, Unix & development tools)
 - [WSA-Community/WSA-Linux-Kernel](https://github.com/WSA-Community/WSA-Linux-Kernel) - Mirror for the Windows Subsystem for Android (WSA) kernel source code, and superuser
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
