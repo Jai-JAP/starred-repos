@@ -1576,13 +1576,13 @@
 - [yaronelh/False-Positive-Center](https://github.com/yaronelh/False-Positive-Center) - Repository to help security vendors deal with false positives
 - [michalleptuch/fluent-emoji-gallery](https://github.com/michalleptuch/fluent-emoji-gallery) - Official issue-only repo for Fluent Emoji Gallery
 - [DesignLipsx/WinUI-3-Apps-List](https://github.com/DesignLipsx/WinUI-3-Apps-List) - A curated collection of over 250+ apps that embrace the WinUI 3 Design
-- [ThePBone/awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Awesome list of Android apps making use of Shizuku
+- [ThePBone/awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [prepkg/opencv-raspberrypi](https://github.com/prepkg/opencv-raspberrypi) - Precompiled OpenCV 4.8.1 binaries for Raspberry Pi 3 & 4
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
-- [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
+- [TodePond/nDreamBerd](https://github.com/TodePond/nDreamBerd) - perfect programming language
 - [smartmaster/opennt](https://github.com/smartmaster/opennt) - The vanished OpenNT project
 - [cpredef/predef](https://github.com/cpredef/predef) - Pre-defined Compiler Macros wiki
 - [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows Vista (extended kernel), 7 and 8.x
@@ -2455,6 +2455,7 @@
 
 ## Shell 
 
+- [Pipetto-crypto/androBox](https://github.com/Pipetto-crypto/androBox) - Another Box86 and Box64  Android project using proot
 - [mobiledesres/Google-Sans-web-fonts](https://github.com/mobiledesres/Google-Sans-web-fonts) - Google Sans, Google Sans Display & Gallery Icons web fonts
 - [geeks1230/ParallelsDesktopCrack](https://github.com/geeks1230/ParallelsDesktopCrack) - Parallels Desktop for mac Crack
 - [Jai-JAP/pi-apps](https://github.com/Jai-JAP/pi-apps) - Raspberry Pi App Store for Open Source Projects
