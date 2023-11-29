@@ -156,7 +156,6 @@
 - [nholstein/OpenDoas](https://github.com/nholstein/OpenDoas) - A portable version of the OpenBSD `doas` command
 - [iglunix/oslo](https://github.com/iglunix/oslo) - Operating System LOader
 - [kukrimate/yaub](https://github.com/kukrimate/yaub) - UEFI boot manager (using libefi).
-- [worproject/Rockchip-Windows-Drivers](https://github.com/worproject/Rockchip-Windows-Drivers) - Windows on Arm drivers for RK35xx platforms.
 - [ahmed605/10Mica](https://github.com/ahmed605/10Mica) - Mica but for Windows 10
 - [orangeduck/tgc](https://github.com/orangeduck/tgc) - A Tiny Garbage Collector for C
 - [edk2-porting/edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588) - EDK2 UEFI firmware for Rockchip RK3588 platforms
@@ -502,6 +501,7 @@
 
 ## C# # 
 
+- [Lixkote/Startify](https://github.com/Lixkote/Startify) - Tiled, WinUI3 Style and Windows 10-Layouted start menu replacement for Windows 11.
 - [DigitalLogicSimCommunity/Digital-Logic-Sim-CE](https://github.com/DigitalLogicSimCommunity/Digital-Logic-Sim-CE) - Community Edition of SebLague 's Digital Logic Sim
 - [MattMcManis/Axiom](https://github.com/MattMcManis/Axiom) - An FFmpeg GUI for Windows
 - [skttl/ptrun-guid](https://github.com/skttl/ptrun-guid) - Guid Generator for Microsoft PowerToys Run
@@ -646,6 +646,7 @@
 - [funbiscuit/spacedisplay](https://github.com/funbiscuit/spacedisplay) - Almost cross-platform way to analyze used disk space
 - [rounk-ctrl/W95PCHealthCheck](https://github.com/rounk-ctrl/W95PCHealthCheck) - funny clone of windows 11 pc health check app
 - [rounk-ctrl/TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM) - A lightweight utility that makes the Windows Start Menu translucent/transparent.
+- [worproject/Rockchip-Windows-Drivers](https://github.com/worproject/Rockchip-Windows-Drivers) - Windows on Arm drivers for RK35xx platforms.
 - [blackhole89/notekit](https://github.com/blackhole89/notekit) - A GTK3 hierarchical markdown notetaking application with tablet support.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [yuzu-emu/yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline) - 
@@ -2595,7 +2596,7 @@
 - [Har-Kuun/OneClickCDN](https://github.com/Har-Kuun/OneClickCDN) - A one-click shell script to set up a CDN node for your websites.
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
 - [exions/undo-push](https://github.com/exions/undo-push) - ↪️ Undo a git push by removing the commit and going back to the commit before it.
-- [AmineDjeghri/Awesome-Windows11-WSL-Linux](https://github.com/AmineDjeghri/Awesome-Windows11-WSL-Linux) - Some windows tips to improve your UX experience when using windows 11 / (including WSL2, Unix & development tools)
+- [AmineDjeghri/Awesome-Windows11-WSL-Linux](https://github.com/AmineDjeghri/Awesome-Windows11-WSL-Linux) - Some Windows/Linux tips to improve your UX experience when using windows 11 or Linux (including WSL2, conda, GPU drivers & development tools)
 - [WSA-Community/WSA-Linux-Kernel](https://github.com/WSA-Community/WSA-Linux-Kernel) - Mirror for the Windows Subsystem for Android (WSA) kernel source code, and superuser
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
@@ -2888,7 +2889,7 @@
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [SHSGames/shsgames.github.io](https://github.com/SHSGames/shsgames.github.io) - Unblocked Games
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you 
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [Venthe/vscode-fauxpilot](https://github.com/Venthe/vscode-fauxpilot) - 
 - [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2) - A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
