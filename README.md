@@ -1076,7 +1076,7 @@
 - [codeyourweb/fastfinder](https://github.com/codeyourweb/fastfinder) - Incident Response - Fast suspicious file finder
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [rawnly/splash-cli](https://github.com/rawnly/splash-cli) - A simple, CLI to download Unsplash wallpapers. Nothing fancy — it just works.
@@ -1100,7 +1100,7 @@
 
 ## HTML 
 
-- [Parcoil/nativegames.net](https://github.com/Parcoil/nativegames.net) - Nativegames (v3 december 1st)
+- [Parcoil/native-v2](https://github.com/Parcoil/native-v2) - Old use V3
 - [D3ch/hell](https://github.com/D3ch/hell) - 260+ unblocked games and ultraviolet. star this repo pls! HELL IS ALMOST BACK!!!
 - [Red-exe-Engineer/The-Hello-World-Archive](https://github.com/Red-exe-Engineer/The-Hello-World-Archive) - A group of hello world programs written in various programming languages.
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
@@ -2234,7 +2234,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-556-Stars](https://github.com/iBug/This-Repo-Has-556-Stars) - Yes, it's true :heartpulse: This repository has 556 stars.
+- [iBug/This-Repo-Has-557-Stars](https://github.com/iBug/This-Repo-Has-557-Stars) - Yes, it's true :orange_heart: This repository has 557 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
