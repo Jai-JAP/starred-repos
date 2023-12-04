@@ -1112,6 +1112,7 @@
 - [Parcoil/nativegames.net-v1](https://github.com/Parcoil/nativegames.net-v1) - Nativegames - Free Unblocked Games - Opensource
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - [Service is DOWN now] A badge generator service to count visitors of your markdown file.
 - [oxmc/browser-logos-css](https://github.com/oxmc/browser-logos-css) - 
+- [AbdulRKB/Anonymous-SMS](https://github.com/AbdulRKB/Anonymous-SMS) - You can send messages to your friends Anonymously by using this tool!
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [strongdan/js-analog-clock](https://github.com/strongdan/js-analog-clock) - 
 - [chadbaldwin/simple-blog-bootstrap](https://github.com/chadbaldwin/simple-blog-bootstrap) - This is a template repo you can use to set up a simple blog using GitHub Pages with SSMS Style T-SQL highlighting. Refer to the blog post below for more instructions.
@@ -1956,7 +1957,6 @@
 - [mvo5/apt-clone](https://github.com/mvo5/apt-clone) - Create a "state" file for Debian/Ubuntu systems with the  installed packages (and the aility to restore)
 - [aleiepure/devtoolbox](https://github.com/aleiepure/devtoolbox) - Development tools at your fingertips
 - [hemantapkh/PySimpleLogger](https://github.com/hemantapkh/PySimpleLogger) - ⌨️ A simple python code that you can use to make an effective keylogger.
-- [AbdulRKB/Anonymous-SMS](https://github.com/AbdulRKB/Anonymous-SMS) - You can send messages to your friends Anonymously by using this tool!
 - [shubhamc183/way2sms](https://github.com/shubhamc183/way2sms) - Send upto 100 free SMS within 10 seconds in India daily, unofficial API.
 - [mfr-fr/sms-sender](https://github.com/mfr-fr/sms-sender) - This script in python allows to send messages anonymously
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
