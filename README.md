@@ -495,7 +495,7 @@
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [u-boot/u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
 - [Itai-Nelken/ish](https://github.com/Itai-Nelken/ish) - A simple shell written in C
-- [dev47apps/droidcam](https://github.com/dev47apps/droidcam) - GNU/Linux client for DroidCam
+- [dev47apps/droidcam](https://github.com/dev47apps/droidcam) - GNU/Linux/nix client for DroidCam
 - [ptitSeb/gl4es](https://github.com/ptitSeb/gl4es) - GL4ES is a OpenGL 2.1/1.5 to GL ES 2.0/1.1 translation library, with support for Pandora, ODroid, OrangePI, CHIP, Raspberry PI, Android, Emscripten and AmigaOS4.
 - [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
@@ -2234,7 +2234,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-557-Stars](https://github.com/iBug/This-Repo-Has-557-Stars) - Yes, it's true :orange_heart: This repository has 557 stars.
+- [iBug/This-Repo-Has-558-Stars](https://github.com/iBug/This-Repo-Has-558-Stars) - Yes, it's true :two_hearts: This repository has 558 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
