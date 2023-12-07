@@ -144,7 +144,7 @@
 - [ThePBone/RootlessJamesDSP](https://github.com/ThePBone/RootlessJamesDSP) - An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices
 - [james34602/JamesDSPManager](https://github.com/james34602/JamesDSPManager) - Audio DSP effects build on Android system framework layer. This is a repository contains a pack of high quality DSP algorithms specialized for audio processing.
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
-- [woesss/JL-Mod](https://github.com/woesss/JL-Mod) - This is an experimental mod of https://github.com/nikita36078/J2ME-Loader with support for games developed for the 3D engine "Mascot Capsule v3"
+- [woesss/JL-Mod](https://github.com/woesss/JL-Mod) - Unofficial fork of https://github.com/nikita36078/J2ME-Loader (J2ME emulator for Android)
 - [alexvorxx/mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22) - Most stable version of Mesa Zink from 11.06.22
 - [CloverHackyColor/CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written in C.
@@ -994,7 +994,7 @@
 
 - [akuldeepj/tictactoe](https://github.com/akuldeepj/tictactoe) - 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [KRTirtho/flemozi](https://github.com/KRTirtho/flemozi) - Advanced⚡ Emoji Picker😀 for Linux🐧, Windows🪟 and macOS🍎
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -1575,7 +1575,6 @@
 - [YT-Advanced/Windows-11-Cursor-by-rosea92](https://github.com/YT-Advanced/Windows-11-Cursor-by-rosea92) - Windows 11 Cursor Premium
 - [YT-Advanced/Windows-11-Cursor-Tail-by-rosea92](https://github.com/YT-Advanced/Windows-11-Cursor-Tail-by-rosea92) - Windows 11 Cursor Tail Version Premium
 - [hyperio546/ladb-builds](https://github.com/hyperio546/ladb-builds) - Compiled builds for LADB for free instead of paying in the Play Store
-- [21Z/Microsoft-Office-2021](https://github.com/21Z/Microsoft-Office-2021) - Download and Activate Microsoft Office 2021 (Latest) for free. (Legal)
 - [Android-PowerUser/Windroid_11](https://github.com/Android-PowerUser/Windroid_11) - Windroid 11 is a Windows 11 equivalent for Android.
 - [Priyanka488/100DaysOfSystemDesign](https://github.com/Priyanka488/100DaysOfSystemDesign) - Documenting resources and notes for learning system design.
 - [yaronelh/False-Positive-Center](https://github.com/yaronelh/False-Positive-Center) - Repository to help security vendors deal with false positives
@@ -1590,7 +1589,7 @@
 - [TodePond/nDreamBerd](https://github.com/TodePond/nDreamBerd) - perfect programming language
 - [smartmaster/opennt](https://github.com/smartmaster/opennt) - The vanished OpenNT project
 - [cpredef/predef](https://github.com/cpredef/predef) - Pre-defined Compiler Macros wiki
-- [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows Vista (extended kernel), 7 and 8.x
+- [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows Vista, 7 and 8.x
 - [makedeb/prebuilt-mpr](https://github.com/makedeb/prebuilt-mpr) - The backend system powering the Prebuilt-MPR
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
@@ -2198,7 +2197,7 @@
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
-- [natorsc/gui-python-pygobject-gtk](https://github.com/natorsc/gui-python-pygobject-gtk) - Repository created to document tips, tutorials and code examples on building graphical interfaces with the Python programming language (PyGObject) and the GTK graphics toolkit.
+- [natorsc/pygobject-gtk](https://github.com/natorsc/pygobject-gtk) - Repositório criado para centralizar dicas, tutoriais e exemplos de código sobre a construção de interfaces gráficas com a linguagem de programação Python (PyGObject) e o tookit gráfico GTK.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -2235,7 +2234,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-559-Stars](https://github.com/iBug/This-Repo-Has-559-Stars) - Yes, it's true :two_hearts: This repository has 559 stars.
+- [iBug/This-Repo-Has-561-Stars](https://github.com/iBug/This-Repo-Has-561-Stars) - Yes, it's true :sparkling_heart: This repository has 561 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
