@@ -1234,6 +1234,7 @@
 
 ## JavaScript 
 
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
@@ -2597,7 +2598,7 @@
 - [KhanhNguyen9872/Kali-Linux-aarch64-arm64-](https://github.com/KhanhNguyen9872/Kali-Linux-aarch64-arm64-) - Here is Server Kali-Linux (arm64) by KhanhNguyen9872
 - [KhanhNguyen9872/ubuntu-on-android](https://github.com/KhanhNguyen9872/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 - [yeyushengfan258/Win11-icon-theme](https://github.com/yeyushengfan258/Win11-icon-theme) - A colorful design icon theme for linux desktops
-- [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Open source macOS Cursors.
+- [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
 - [vinceliuice/WhiteSur-icon-theme](https://github.com/vinceliuice/WhiteSur-icon-theme) - MacOS Big Sur style icon theme for linux desktops
 - [Har-Kuun/OneClickCDN](https://github.com/Har-Kuun/OneClickCDN) - A one-click shell script to set up a CDN node for your websites.
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
