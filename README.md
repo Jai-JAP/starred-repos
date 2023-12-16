@@ -1601,7 +1601,6 @@
 - [cpredef/predef](https://github.com/cpredef/predef) - Pre-defined Compiler Macros wiki
 - [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows Vista, 7 and 8.x
 - [makedeb/prebuilt-mpr](https://github.com/makedeb/prebuilt-mpr) - The backend system powering the Prebuilt-MPR
-- [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [BreeceW/Oxidized](https://github.com/BreeceW/Oxidized) - Windows 11 and 10 chat app
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
@@ -2511,6 +2510,7 @@
 - [topjohnwu/ondk](https://github.com/topjohnwu/ondk) - Oxidized NDK - NDK repackaged with Rust toolchain
 - [sebanc/brioche](https://github.com/sebanc/brioche) - An alternative to Crostini / Crouton for devices running brunch
 - [sebanc/brunch-toolchain](https://github.com/sebanc/brunch-toolchain) - x86_64 toolchain for ChromeOS
+- [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [VulpoTheDev/Linux-Stuff](https://github.com/VulpoTheDev/Linux-Stuff) - Scripts I use for Arch Linux, this will include the installation script and possibly in the future will grow into a repo full of my configurations for linux
 - [FydeOS-ArcHero/project-archero](https://github.com/FydeOS-ArcHero/project-archero) - 
 - [mathiasbynens/evil.sh](https://github.com/mathiasbynens/evil.sh) - :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
@@ -2771,7 +2771,7 @@
 - [procount/pinnify](https://github.com/procount/pinnify) - A simple, templated script to create PINN-compatible compressed tarballs and metadata from an OS disk image
 - [procount/noobsconfig](https://github.com/procount/noobsconfig) - Allows you to customise the installation of a NOOBS distro installation
 - [procount/pinn-os](https://github.com/procount/pinn-os) - os-images for PINN
-- [FydeOS/chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B and Pi400
+- [FydeOS/chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi) - Build your Chromium OS for Raspberry Pi 4B, Pi400 and the latest Raspberry Pi 5
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [PlayOnLinux/wine-patches](https://github.com/PlayOnLinux/wine-patches) - Wine Patches used by PlayOnLinux/PlayOnMac project.
@@ -2902,7 +2902,7 @@
 - [replugged-org/replugged](https://github.com/replugged-org/replugged) - A lightweight Discord client mod focused on simplicity and performance.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
-- [ChatGPTNextWebTeam/ChatGPT-Next-Web](https://github.com/ChatGPTNextWebTeam/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [SHSGames/shsgames.github.io](https://github.com/SHSGames/shsgames.github.io) - Unblocked Games
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
