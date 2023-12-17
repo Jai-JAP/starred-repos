@@ -1485,6 +1485,7 @@
 
 ## Kotlin 
 
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
 - [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) - Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
 - [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches) - 🧩 Patches for ReVanced
@@ -2612,7 +2613,7 @@
 - [Har-Kuun/OneClickCDN](https://github.com/Har-Kuun/OneClickCDN) - A one-click shell script to set up a CDN node for your websites.
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
 - [exions/undo-push](https://github.com/exions/undo-push) - ↪️ Undo a git push by removing the commit and going back to the commit before it.
-- [AmineDjeghri/Awesome-Windows11-WSL-Linux](https://github.com/AmineDjeghri/Awesome-Windows11-WSL-Linux) - Some Windows/Linux tips to improve your UX experience when using windows 11 or Linux (including WSL2, conda, GPU drivers & development tools)
+- [AmineDjeghri/Awesome-Windows11-WSL-Linux](https://github.com/AmineDjeghri/Awesome-Windows11-WSL-Linux) - Some Windows/Linux tips to improve your UX experience (including WSL2, conda, GPU drivers & development tools)
 - [WSA-Community/WSA-Linux-Kernel](https://github.com/WSA-Community/WSA-Linux-Kernel) - Mirror for the Windows Subsystem for Android (WSA) kernel source code, and superuser
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
