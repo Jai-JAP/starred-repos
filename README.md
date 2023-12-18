@@ -1184,6 +1184,7 @@
 
 ## Java 
 
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 - [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) - Customize Boring Android UI
 - [atharvakale31/Real-Time_Face_Recognition_Android](https://github.com/atharvakale31/Real-Time_Face_Recognition_Android) - Real-Time Face Recognition App using Tensorflow Lite
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
@@ -1889,6 +1890,7 @@
 
 ## Python 
 
+- [andrewzlee/NeuralBlock](https://github.com/andrewzlee/NeuralBlock) - Neural Network that detects in-video YouTube sponsorships.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [fjueic/gsconnect-mount-manager](https://github.com/fjueic/gsconnect-mount-manager) - 
@@ -2892,6 +2894,7 @@
 
 ## TypeScript 
 
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [akuldeepj/screenshot-to-code](https://github.com/akuldeepj/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
