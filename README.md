@@ -119,7 +119,6 @@
 - [Typical0/Windows11-Debloat-Guide](https://github.com/Typical0/Windows11-Debloat-Guide) - 
 - [SyXo/offlineinsiderenroll](https://github.com/SyXo/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
 - [abbodi1406/offlineinsiderenroll](https://github.com/abbodi1406/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
-- [semazurek/ET-Optimizer](https://github.com/semazurek/ET-Optimizer) - ET is a Batch/PowerShell GUI script to improve performance, debloat, optimize and enhance privacy for Windows 10/11.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
 - [massgravel/MAS-Legacy-Methods](https://github.com/massgravel/MAS-Legacy-Methods) - 
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
@@ -177,7 +176,7 @@
 - [earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico) - Raspberry Pi Pico Arduino core, for all RP2040 boards
 - [zhovner/OneFileLinux](https://github.com/zhovner/OneFileLinux) - Live linux distro combined in one ~20MB file. Runs on any UEFI computer.
 - [embeddedartistry/arduino-printf](https://github.com/embeddedartistry/arduino-printf) - Add printf support to the Arduino SDK
-- [tyfkda/xcc](https://github.com/tyfkda/xcc) - Toy C compiler for x86-64/aarch64/wasm
+- [tyfkda/xcc](https://github.com/tyfkda/xcc) - Toy C compiler for x86-64/aarch64/riscv64/wasm
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [orsonteodoro/nano-ycmd](https://github.com/orsonteodoro/nano-ycmd) - Modded GNU Nano using ycmd code completion and IntelliSense.  The ycmd code completion support for nano is found in the ymcd-code-completion branch.
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
@@ -1580,6 +1579,7 @@
 
 ## Others 
 
+- [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X) - Demonstration of different algorithms and operations on faces. Star the repo⭐
 - [CathyKMeow/rosetta-linux-asahi](https://github.com/CathyKMeow/rosetta-linux-asahi) - Hacked RosettaLinux that runs on Asahi Linux
 - [ReVanced-Extended-Community/Patches-Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation) - Additional community documentation with screenshots for the various ReVanced Extended patches.
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
@@ -1869,6 +1869,7 @@
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [semazurek/ET-Optimizer](https://github.com/semazurek/ET-Optimizer) - ET is a Batch/PowerShell GUI script to improve performance, debloat, optimize and enhance privacy for Windows 10/11.
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [Marvin700/Windows_Optimisation_Pack](https://github.com/Marvin700/Windows_Optimisation_Pack) - Debloat & Optimise your Windows
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
@@ -1891,6 +1892,7 @@
 
 ## Python 
 
+- [xenova/sponsorblock-ml](https://github.com/xenova/sponsorblock-ml) - Automatically detect in-video YouTube sponsorships, self/unpaid promotions, and interaction reminders.
 - [andrewzlee/NeuralBlock](https://github.com/andrewzlee/NeuralBlock) - Neural Network that detects in-video YouTube sponsorships.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
@@ -3061,7 +3063,7 @@
 
 - [Fleex255/PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor plus more, for all Windows editions
 - [asheroto/Deploy-Office](https://github.com/asheroto/Deploy-Office) - Easily install the latest version of Microsoft Office 2019 or 2021.
-- [CodingWonders/DISMTools](https://github.com/CodingWonders/DISMTools) - The project-driven GUI front-end and automation tool for DISM operations
+- [CodingWonders/DISMTools](https://github.com/CodingWonders/DISMTools) - The connected place for Windows system administration
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Transparently compress active games and programs using Windows 10/11 APIs
 - [mcdenis/AccentApplicator](https://github.com/mcdenis/AccentApplicator) - A Windows utility that applies the accent color in desktop applications.
 - [Jevil7452/Simple-GUID-Generator](https://github.com/Jevil7452/Simple-GUID-Generator) - 
