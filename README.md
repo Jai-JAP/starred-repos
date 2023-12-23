@@ -1110,7 +1110,6 @@
 - [matthew-asuncion/Fast-YouTube-to-MP3-Converter-API](https://github.com/matthew-asuncion/Fast-YouTube-to-MP3-Converter-API) - Very Fast YouTube to MP3 & MP4 Converter API JSON, Python, JavaScript, iFrame, PHP, Android & iOS Video Downloader API
 - [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life) - A massive list including a huge amount of products and services that are completely free!
 - [OutRed/outred-site](https://github.com/OutRed/outred-site) - Play unblocked games and unblock your favorite websites.
-- [OutRed/outredgames](https://github.com/OutRed/outredgames) - One of the most professional and best game websites there is out there.
 - [Tristan296/FileManager](https://github.com/Tristan296/FileManager) - File-Manager | GUI Desktop Application made in Python using PyQt5
 - [Parcoil/nativegames.net-v1](https://github.com/Parcoil/nativegames.net-v1) - Nativegames - Free Unblocked Games - Opensource
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - [Service is DOWN now] A badge generator service to count visitors of your markdown file.
@@ -1892,6 +1891,7 @@
 
 ## Python 
 
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [xenova/sponsorblock-ml](https://github.com/xenova/sponsorblock-ml) - Automatically detect in-video YouTube sponsorships, self/unpaid promotions, and interaction reminders.
 - [andrewzlee/NeuralBlock](https://github.com/andrewzlee/NeuralBlock) - Neural Network that detects in-video YouTube sponsorships.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
@@ -2675,8 +2675,8 @@
 - [cycool29/whatsapp-for-linux](https://github.com/cycool29/whatsapp-for-linux) - Install WhatsApp on all Linux devices
 - [koenvervloesem/bazel-on-arm](https://github.com/koenvervloesem/bazel-on-arm) - Build the open source build tool Bazel for ARM on the Raspberry Pi
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
-- [lowspecman420/armhf-proot-for-aarch64-android](https://github.com/lowspecman420/armhf-proot-for-aarch64-android) - Anlinux armhf proot for aarch64 android using Termux.
-- [lowspecman420/AnBox86](https://github.com/lowspecman420/AnBox86) - 
+- [WafiWal/armhf-proot-for-aarch64-android](https://github.com/WafiWal/armhf-proot-for-aarch64-android) - Anlinux armhf proot for aarch64 android using Termux.
+- [WafiWal/AnBox86](https://github.com/WafiWal/AnBox86) - 
 - [WheezyE/Winelink](https://github.com/WheezyE/Winelink) - Installation scripts for running Winlink (RMS Express/Trimode & VARA) on non-Windows computers. Wine & Box86 make this project possible.
 - [vividcolorss/pimarket](https://github.com/vividcolorss/pimarket) - App Store For The Raspberry Pi.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
