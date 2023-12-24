@@ -140,7 +140,6 @@
 - [termux/proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
 - [Gcenx/winecx](https://github.com/Gcenx/winecx) - Codeweavers modified wine version. This repository is just a mirror of https://media.codeweavers.com/pub/crossover/source/
 - [varmd/wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
-- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [ThePBone/RootlessJamesDSP](https://github.com/ThePBone/RootlessJamesDSP) - An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices
 - [james34602/JamesDSPManager](https://github.com/james34602/JamesDSPManager) - Audio DSP effects build on Android system framework layer. This is a repository contains a pack of high quality DSP algorithms specialized for audio processing.
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
@@ -1190,6 +1189,7 @@
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keymapper for Android x86
 - [HardcodedCat/termux-monet](https://github.com/HardcodedCat/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
 - [tisoft/microemu](https://github.com/tisoft/microemu) - Microemulator
 - [eiroca/microemu](https://github.com/eiroca/microemu) - Microemulator is pure Java implementation of J2ME in J2SE
@@ -2618,7 +2618,7 @@
 - [Har-Kuun/OneClickCDN](https://github.com/Har-Kuun/OneClickCDN) - A one-click shell script to set up a CDN node for your websites.
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
 - [exions/undo-push](https://github.com/exions/undo-push) - ↪️ Undo a git push by removing the commit and going back to the commit before it.
-- [AmineDjeghri/Awesome-Windows11-WSL-Linux](https://github.com/AmineDjeghri/Awesome-Windows11-WSL-Linux) - Some Windows/Linux tips to improve your UX experience (including WSL2, conda, GPU drivers & development tools)
+- [AmineDjeghri/Awesome-Windows11-WSL-Linux](https://github.com/AmineDjeghri/Awesome-Windows11-WSL-Linux) - Windows/Linux settings to improve your UX & productivity (including WSL2, conda, GPU drivers & development tools)
 - [WSA-Community/WSA-Linux-Kernel](https://github.com/WSA-Community/WSA-Linux-Kernel) - Mirror for the Windows Subsystem for Android (WSA) kernel source code, and superuser
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
