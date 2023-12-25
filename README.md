@@ -1682,6 +1682,7 @@
 - [B00merang-Artwork/Windows-10](https://github.com/B00merang-Artwork/Windows-10) - The Windows 10 Icon theme repository
 - [matafokka/PowerPointDarkThemeFix](https://github.com/matafokka/PowerPointDarkThemeFix) - When a custom (especially dark) theme is applied, default PowerPoint's color picker messes grey colors for fill, borders, shadow and glow. PowerPointDarkThemeFix does this simple task right.
 - [matafokka/ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fixes Microsoft Excel appearance when custom Windows theme is used
+- [AmineDjeghri/Awesome-Windows11-WSL-Linux](https://github.com/AmineDjeghri/Awesome-Windows11-WSL-Linux) - Windows/Linux settings to improve your UX & productivity (including WSL2, conda, GPU drivers & development tools)
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [novialriptide/learnthebasicsfirst.com](https://github.com/novialriptide/learnthebasicsfirst.com) - A website informing first-time programmers to not get too ambitious with their first project. Inspired by https://dontasktoask.com/.
 - [novaspirit/piprox-arch](https://github.com/novaspirit/piprox-arch) - Install notes for installing arch linux on pi proxmox
@@ -2507,7 +2508,6 @@
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [termux-pacman/glibc-packages](https://github.com/termux-pacman/glibc-packages) - Glibc packages for termux
 - [hexdump0815/imagebuilder](https://github.com/hexdump0815/imagebuilder) - velvet os - simple script framework to build ubuntu 20.04/22.04 lts (focal/jammy) and debian 11/12 (bullseye/bookworm) bootable sd card images for some arm and intel devices - lots of prebuilt images 
-- [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot) - Auto check and patch some apps from revanced/inotia00 sources
 - [HooverHigh/hhos](https://github.com/HooverHigh/hhos) - Tool used to create the official Raspberry Pi OS images
 - [anoraktrend/bash-passgen](https://github.com/anoraktrend/bash-passgen) - 
 - [iglunix/iglunix](https://github.com/iglunix/iglunix) - Linux (and other kernels) distro with no GNU components
@@ -2618,7 +2618,6 @@
 - [Har-Kuun/OneClickCDN](https://github.com/Har-Kuun/OneClickCDN) - A one-click shell script to set up a CDN node for your websites.
 - [aaron-dev-git/Linux-Mint-Debloater](https://github.com/aaron-dev-git/Linux-Mint-Debloater) - Script to debloat Linux Mint
 - [exions/undo-push](https://github.com/exions/undo-push) - ↪️ Undo a git push by removing the commit and going back to the commit before it.
-- [AmineDjeghri/Awesome-Windows11-WSL-Linux](https://github.com/AmineDjeghri/Awesome-Windows11-WSL-Linux) - Windows/Linux settings to improve your UX & productivity (including WSL2, conda, GPU drivers & development tools)
 - [WSA-Community/WSA-Linux-Kernel](https://github.com/WSA-Community/WSA-Linux-Kernel) - Mirror for the Windows Subsystem for Android (WSA) kernel source code, and superuser
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
@@ -2909,7 +2908,7 @@
 - [replugged-org/replugged](https://github.com/replugged-org/replugged) - A lightweight Discord client mod focused on simplicity and performance.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [SHSGames/shsgames.github.io](https://github.com/SHSGames/shsgames.github.io) - Unblocked Games
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
@@ -2967,7 +2966,7 @@
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
-- [flathub/linux-store-frontend](https://github.com/flathub/linux-store-frontend) - A web application to browse and install applications present in Flatpak repositories. Powers https://www.flathub.org
+- [flathub-infra/linux-store-frontend](https://github.com/flathub-infra/linux-store-frontend) - A web application to browse and install applications present in Flatpak repositories. Powers https://www.flathub.org
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
