@@ -147,7 +147,7 @@
 - [alexvorxx/mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22) - Most stable version of Mesa Zink from 11.06.22
 - [CloverHackyColor/CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
-- [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) - Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 13
+- [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) - Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 14
 - [giuliomoro/checkinstall](https://github.com/giuliomoro/checkinstall) - 
 - [pbatard/bled](https://github.com/pbatard/bled) - Base Library for Easy Decompression
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) - A small utility to modify the dynamic linker and RPATH of ELF executables
