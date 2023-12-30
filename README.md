@@ -487,7 +487,7 @@
 - [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
-- [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application. Still in early development.
+- [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application.
 - [Gadgetoid/pi400kb](https://github.com/Gadgetoid/pi400kb) - Raw HID keyboard forwarder to turn the Pi 400 into a USB keyboard
 - [Itai-Nelken/vm](https://github.com/Itai-Nelken/vm) - 
 - [Itai-Nelken/aptpac](https://github.com/Itai-Nelken/aptpac) - A simple wrapper for 'pacman' with a syntax similar to 'apt' to help people transitioning to Arch and Arch based distributions like Manjaro.
@@ -1938,7 +1938,6 @@
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
-- [echnobas/sxsc](https://github.com/echnobas/sxsc) - 
 - [labapart/cross_sysroot](https://github.com/labapart/cross_sysroot) - `cross-tool` is a utility to generate `sysroot` tree for cross-compilation.
 - [jncraton/languagemodels](https://github.com/jncraton/languagemodels) - Explore large language models on any computer with 512MB of RAM
 - [lord63/tldr.py](https://github.com/lord63/tldr.py) - A python client for tldr: simplified and community-driven man pages.
@@ -2216,7 +2215,7 @@
 - [robtech21/chromiumos](https://github.com/robtech21/chromiumos) - 
 - [TheBananaStore/TheBananaClient](https://github.com/TheBananaStore/TheBananaClient) - [WIP]🍌🐧 Client for the Banana Store
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
-- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
+- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
 - [natorsc/pygobject-gtk](https://github.com/natorsc/pygobject-gtk) - Repositório criado para centralizar dicas, tutoriais e exemplos de código sobre a construção de interfaces gráficas com a linguagem de programação Python (PyGObject) e o tookit gráfico GTK.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -2241,7 +2240,7 @@
 - [virtio-win/virtio-win-pkg-scripts](https://github.com/virtio-win/virtio-win-pkg-scripts) - Scripts for packaging virtio-win drivers
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with 
 - [MilhouseVH/bcmstat](https://github.com/MilhouseVH/bcmstat) - Simple Raspberry Pi monitoring tool
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [JezerM/web-greeter](https://github.com/JezerM/web-greeter) - A modern, visually appealing greeter for LightDM.
 - [hwittenborn/tap](https://github.com/hwittenborn/tap) - MPR in your pocket
 - [makedeb/mprweb](https://github.com/makedeb/mprweb) - Hosting platform for the makedeb Package Repository (MPR)
@@ -2902,7 +2901,7 @@
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Workshop for the mind
@@ -3030,6 +3029,7 @@
 ## VBScript 
 
 - [farag2/Office](https://github.com/farag2/Office) - Download and setup Office 2019/2021/365
+- [echnobas/sxsc](https://github.com/echnobas/sxsc) - 
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 
 ## Vala 
