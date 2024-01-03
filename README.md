@@ -1105,7 +1105,6 @@
 
 ## HTML 
 
-- [Parcoil/native-v2](https://github.com/Parcoil/native-v2) - Old use V3
 - [D3ch/hell](https://github.com/D3ch/hell) - 260+ unblocked games and ultraviolet. star this repo pls!
 - [Red-exe-Engineer/The-Hello-World-Archive](https://github.com/Red-exe-Engineer/The-Hello-World-Archive) - A group of hello world programs written in various programming languages.
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
@@ -2080,7 +2079,7 @@
 - [GloDroid/glodroid_tests](https://github.com/GloDroid/glodroid_tests) - DRM/KMS manual validation scripts
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [8go/matrix-commander](https://github.com/8go/matrix-commander) - simple but convenient CLI-based Matrix client app for sending and receiving
-- [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications
+- [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Debian and Arch packages (including AUR), Flatpak, Snap and native Web applications
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [GabMus/HydraPaper](https://github.com/GabMus/HydraPaper) - A Gtk utility to set two different backgrounds for each monitor on GNOME (which lacks this feature)
 - [Soemonewho2/apocolyptic-fighter](https://github.com/Soemonewho2/apocolyptic-fighter) - A post apocalyptic game made with pygame
