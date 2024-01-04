@@ -1488,6 +1488,7 @@
 
 ## Kotlin 
 
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
 - [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) - Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
@@ -2256,7 +2257,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-563-Stars](https://github.com/iBug/This-Repo-Has-563-Stars) - Yes, it's true :orange_heart: This repository has 563 stars.
+- [iBug/This-Repo-Has-561-Stars](https://github.com/iBug/This-Repo-Has-561-Stars) - Yes, it's true :yellow_heart: This repository has 561 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -3008,7 +3009,7 @@
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord) - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
