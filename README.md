@@ -1112,7 +1112,7 @@
 
 ## HTML 
 
-- [D3ch/hell](https://github.com/D3ch/hell) - 260+ unblocked games and ultraviolet. star this repo pls!
+- [D3ch/hell](https://github.com/D3ch/hell) - 260+ unblocked games and ultraviolet. star this repo pls! This repo is currently being archived as of 1/22/24. Thank you everyone!
 - [Red-exe-Engineer/The-Hello-World-Archive](https://github.com/Red-exe-Engineer/The-Hello-World-Archive) - A group of hello world programs written in various programming languages.
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [matthew-asuncion/Fast-YouTube-to-MP3-Converter-API](https://github.com/matthew-asuncion/Fast-YouTube-to-MP3-Converter-API) - Very Fast YouTube to MP3 & MP4 Converter API JSON, Python, JavaScript, iFrame, PHP, Android & iOS Video Downloader API
@@ -1938,7 +1938,6 @@
 - [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [pwwang/toml-bench](https://github.com/pwwang/toml-bench) - Which toml package to use in python?
 - [5yutan5/PyQtDarkTheme](https://github.com/5yutan5/PyQtDarkTheme) - A flat dark theme for PySide and PyQt.
-- [zhiyiYo/QMaterialWidgets](https://github.com/zhiyiYo/QMaterialWidgets) - A material design widgets library based on PyQt/PySide.
 - [slashtechno/cloudflare-gateway-adblocking](https://github.com/slashtechno/cloudflare-gateway-adblocking) - Serverless ad blocking via Cloudflare Zero Trust gateway
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
 - [MustardChef/WSAPackages](https://github.com/MustardChef/WSAPackages) - Ongoing archive of all of the public Windows Subsystem For Android™ Build packages (.msix) from the Microsoft Store
