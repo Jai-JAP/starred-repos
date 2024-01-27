@@ -201,7 +201,7 @@
 - [Linaro/vixl](https://github.com/Linaro/vixl) - AArch32 and AArch64 Runtime Code Generation Library
 - [armvixl/vixl](https://github.com/armvixl/vixl) - 
 - [bztsrc/raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial) - Bare metal Raspberry Pi 3 tutorials
-- [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
+- [babbleberry/rpi4-osdev](https://github.com/babbleberry/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
 - [stolk/energygraph](https://github.com/stolk/energygraph) - Graphs the energy use of a host inside a text terminal, using intel-rapl data from the /sys filesystem.
 - [P-p-H-d/mlib](https://github.com/P-p-H-d/mlib) - Library of generic and type safe containers in pure C language (C99 or C11) for a wide collection of container (comparable to the C++ STL).
@@ -1909,7 +1909,7 @@
 ## Python 
 
 - [FDX100/Auto_Tor_IP_changer](https://github.com/FDX100/Auto_Tor_IP_changer) - change your Ip address automatically  This tool based on tor project
-- [Sjoerd1993/Graphs](https://github.com/Sjoerd1993/Graphs) - This is a mirror repository, Graphs is now hosted on the GNOME GitLab here: https://gitlab.gnome.org/World/Graphs
+- [sstendahl/Graphs](https://github.com/sstendahl/Graphs) - This is a mirror repository, Graphs is now hosted on the GNOME GitLab here: https://gitlab.gnome.org/World/Graphs
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
 - [rosinality/stylegan2-pytorch](https://github.com/rosinality/stylegan2-pytorch) - Implementation of Analyzing and Improving the Image Quality of StyleGAN (StyleGAN 2) in PyTorch
