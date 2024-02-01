@@ -1895,7 +1895,7 @@
 ## Python 
 
 - [FDX100/Auto_Tor_IP_changer](https://github.com/FDX100/Auto_Tor_IP_changer) - change your Ip address automatically  This tool based on tor project
-- [sstendahl/Graphs](https://github.com/sstendahl/Graphs) - This is a mirror repository, Graphs is now hosted on the GNOME GitLab here: https://gitlab.gnome.org/World/Graphs
+- [sstendahl/Graphs](https://github.com/sstendahl/Graphs) - This is the official mirror repository to Graphs, the source repository is now hosted on the GNOME GitLab here: https://gitlab.gnome.org/World/Graphs
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
 - [rosinality/stylegan2-pytorch](https://github.com/rosinality/stylegan2-pytorch) - Implementation of Analyzing and Improving the Image Quality of StyleGAN (StyleGAN 2) in PyTorch
@@ -2167,7 +2167,7 @@
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
 - [Red-exe-Engineer/Minecraft-pi-reborn-texture-swapper](https://github.com/Red-exe-Engineer/Minecraft-pi-reborn-texture-swapper) - This simple GUI program lets you easily swap texture packs!
 - [adyrosebrigg/pyWordle](https://github.com/adyrosebrigg/pyWordle) - No I don't play wordle. Yes I reimplemented it in python for funsies based on my best friend's obsession with it and spinoff games. :^)
-- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An an easy-to-use backup tool for GNU Linux using rsync in the back
+- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU Linux using rsync in the back
 - [20Koen02/GamePilot](https://github.com/20Koen02/GamePilot) - Autonomous driving in simulators
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -2261,7 +2261,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-564-Stars](https://github.com/iBug/This-Repo-Has-564-Stars) - Yes, it's true :heartpulse: This repository has 564 stars.
+- [iBug/This-Repo-Has-565-Stars](https://github.com/iBug/This-Repo-Has-565-Stars) - Yes, it's true :gift_heart: This repository has 565 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2718,7 +2718,7 @@
 - [lvv/git-prompt](https://github.com/lvv/git-prompt) - bash prompt with GIT, SVN and HG modules
 - [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 - [hchbaw/auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh) - #zsh automatic complete-word and list-choices. Originally incr-0.2.zsh  by y.fujii &lt;y-fujii at mimosa-pudica.net&gt;
-- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
+- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
 - [D2Lx0wse/pi-apps-manjaro](https://github.com/D2Lx0wse/pi-apps-manjaro) - Manjaro Raspberry Pi App Store for Open Source Projects
