@@ -497,7 +497,6 @@
 - [OpenByteDev/ModernWpf.MessageBox](https://github.com/OpenByteDev/ModernWpf.MessageBox) - A drop-in replacement for System.Windows.MessageBox using a modern WPF UI.
 - [Empyreal96/Appx_Re-Sign](https://github.com/Empyreal96/Appx_Re-Sign) - A small tool to help automate resigning Appx Packages with the help of MS tooling
 - [Lixkote/FluentMsgBox](https://github.com/Lixkote/FluentMsgBox) - W11 Style Drop-In wpf messagebox replacement.
-- [Lixkote/Startify](https://github.com/Lixkote/Startify) - Windows 11 Start Menu replacement based on Xamlislands. Currently, it features Windows 10 Layout combined with Windows 11 Theme and Style.
 - [DigitalLogicSimCommunity/Digital-Logic-Sim-CE](https://github.com/DigitalLogicSimCommunity/Digital-Logic-Sim-CE) - Community Edition of SebLague 's Digital Logic Sim
 - [MattMcManis/Axiom](https://github.com/MattMcManis/Axiom) - An FFmpeg GUI for Windows
 - [skttl/ptrun-guid](https://github.com/skttl/ptrun-guid) - Guid Generator for Microsoft PowerToys Run
@@ -2333,7 +2332,7 @@
 - [j-hc/mindetach-magisk](https://github.com/j-hc/mindetach-magisk) - Simpler and better Magisk module to detach apps from Play Store
 - [MarcGuiselin/wedge](https://github.com/MarcGuiselin/wedge) - A Simple, Open-Source Edge Redirector
 - [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
 - [uutils/parse_datetime](https://github.com/uutils/parse_datetime) - Parses a relative time string and returns a `Duration`
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [birbe/jvm-old](https://github.com/birbe/jvm-old) - Pure Rust implementation of the JVM 7 specification
