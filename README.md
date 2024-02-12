@@ -369,7 +369,6 @@
 - [elogind/elogind](https://github.com/elogind/elogind) - The systemd project's "logind", extracted to a standalone package
 - [tumble1999/hello-world](https://github.com/tumble1999/hello-world) - Porting hello world to every platform
 - [AustinWise/delay-load-mingw](https://github.com/AustinWise/delay-load-mingw) - 
-- [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [madewokherd/wine-mono](https://github.com/madewokherd/wine-mono) - 
 - [raspberrypi/userland](https://github.com/raspberrypi/userland) - Source code for ARM side libraries for interfacing to Raspberry Pi GPU.
 - [fluix-dev/sway-borders](https://github.com/fluix-dev/sway-borders) - Fork of sway with some extra features, mainly related to borders.
@@ -858,6 +857,7 @@
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [linuxdeepin/dtkwidget](https://github.com/linuxdeepin/dtkwidget) - Deepin Toolkit, widget module for DDE look and feel
+- [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [voyageur/openglide](https://github.com/voyageur/openglide) - Git mirror of openglide CVS (http://openglide.sourceforge.net/)
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
