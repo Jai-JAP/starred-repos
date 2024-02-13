@@ -697,7 +697,6 @@
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [afbjorklund/lima-gui](https://github.com/afbjorklund/lima-gui) - Making a GUI for lima VM
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) - 
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
 - [Maplespe/ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11
 - [amilaperera/clang-format-gui](https://github.com/amilaperera/clang-format-gui) - GUI Wrapper for clang-format
 - [taocpp/json](https://github.com/taocpp/json) - C++ header-only JSON library
@@ -2256,7 +2255,7 @@
 - [220735540/WebAppMaker](https://github.com/220735540/WebAppMaker) - WebApp Maker make web apps (Duh). It is open source and make with python and shell. This app can take any website and turn it into an app. I highly recommend turning these few websites into webapps: -
 - [JeremyGrosser/repoman](https://github.com/JeremyGrosser/repoman) - A reprepro and pbuilder management API with a RESTful interface
 - [virtio-win/virtio-win-pkg-scripts](https://github.com/virtio-win/virtio-win-pkg-scripts) - Scripts for packaging virtio-win drivers
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with 
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
 - [MilhouseVH/bcmstat](https://github.com/MilhouseVH/bcmstat) - Simple Raspberry Pi monitoring tool
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [JezerM/web-greeter](https://github.com/JezerM/web-greeter) - A modern, visually appealing greeter for LightDM.
@@ -2375,6 +2374,7 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) - A simple example with Rust and Cosmopolitan Libc
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
@@ -2750,7 +2750,6 @@
 - [rollingrhinoremix/rhino-update](https://github.com/rollingrhinoremix/rhino-update) - Rhino Update is a command-line utility script which will provide updates to items that do not hit the Ubuntu devel repositories, such as the latest Linux Kernel.
 - [RPi-Distro/userconf-pi](https://github.com/RPi-Distro/userconf-pi) - Raspberry Pi tool to rename a user
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [appnjoy/dosbian](https://github.com/appnjoy/dosbian) - A Raspberry Pi distro that boots straightly to Dosbox emulator
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [willfarrell/docker-crontab](https://github.com/willfarrell/docker-crontab) - A docker job scheduler (aka. crontab for docker)
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
