@@ -1771,7 +1771,7 @@
 - [joshnh/Git-Commands](https://github.com/joshnh/Git-Commands) - A list of commonly used Git commands
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [speedcrunch/SpeedCrunch](https://github.com/speedcrunch/SpeedCrunch) - A fast, high-precision and powerful cross-platform desktop calculator.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
@@ -2163,7 +2163,7 @@
 - [bluesabre/mugshot](https://github.com/bluesabre/mugshot) - Mugshot - User Management Utility for Linux
 - [brccabral/WeatherPySimpleGUI](https://github.com/brccabral/WeatherPySimpleGUI) - Weather using PySimpleGUI
 - [pythonguis/pyqtconfig](https://github.com/pythonguis/pyqtconfig) - A PyQt config manager. Keep Qt widgets in sync with an config dictionary and/or QSettings object.
-- [pythonguis/15-minute-apps](https://github.com/pythonguis/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
+- [pythonguis/15-minute-apps](https://github.com/pythonguis/15-minute-apps) - Demo desktop apps built with Python & Qt. With examples for PyQt6, PySide6, PyQt5 & PySide2
 - [xonsh/py-bash-completion](https://github.com/xonsh/py-bash-completion) - A framework for accessing bash completions from Python
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [sahinakkaya/binary-clock-wallpaper](https://github.com/sahinakkaya/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
