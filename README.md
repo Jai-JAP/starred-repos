@@ -650,7 +650,7 @@
 - [blackhole89/notekit](https://github.com/blackhole89/notekit) - A GTK3 hierarchical markdown notetaking application with tablet support.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [yuzu-emu/yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline) - 
-- [contour-terminal/libunicode](https://github.com/contour-terminal/libunicode) - Modern C++17 Unicode library
+- [contour-terminal/libunicode](https://github.com/contour-terminal/libunicode) - Modern C++20 Unicode library
 - [MengRao/fmtlog](https://github.com/MengRao/fmtlog) - fmtlog is a performant fmtlib-style logging library with latency in nanoseconds.
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
 - [ramensoftware/windhawk-mods](https://github.com/ramensoftware/windhawk-mods) - The official collection of Windhawk mods
@@ -969,7 +969,7 @@
 - [B00merang-Project/macOS](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops
 - [USBA/macOS11-theme](https://github.com/USBA/macOS11-theme) - macOS11 concept design GTK+ and GNOME-Shell theme for Linux
 - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) - Sun Valley + MDL2 Theme for Firefox
-- [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
+- [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - This repo is a read-only mirror of https://codeberg.org/ranmaru22/firefox-vertical-tabs
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [radxa/apt](https://github.com/radxa/apt) - radxa debian packages repository
@@ -1478,7 +1478,7 @@
 
 ## Jupyter Notebook 
 
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [soyarizaedgar/Flat-Full-NotTire_CNN](https://github.com/soyarizaedgar/Flat-Full-NotTire_CNN) - Convolutional Neural Network (CNN) Model to classificate flat tire / full tire / not tire
 - [SerdarHelli/The-Classification-of-Thyroid-Tumors-on-UltraSound-Images-using-Deep-Learning-Methods](https://github.com/SerdarHelli/The-Classification-of-Thyroid-Tumors-on-UltraSound-Images-using-Deep-Learning-Methods) - The Basic Classification
 - [kritikaparmar-programmer/HealthCheck](https://github.com/kritikaparmar-programmer/HealthCheck) - Health Check ✔ is a Machine Learning Web Application made using Flask that can predict mainly three diseases i.e. Diabetes, Heart Disease, and Cancer.
@@ -1540,7 +1540,7 @@
 - [HolyBlackCat/quasi-msys2](https://github.com/HolyBlackCat/quasi-msys2) - Cross-compile C/C++ from Linux to Windows using MSYS2 packages
 - [changrui/ManjaroWSL](https://github.com/changrui/ManjaroWSL) - Manjaro for WSL2 using wsldl
 - [CoreELEC/CoreELEC](https://github.com/CoreELEC/CoreELEC) - A lightweight OS for KODI
-- [EmuELEC/EmuELEC](https://github.com/EmuELEC/EmuELEC) - EmuELEC, retro emulation for Amlogic devices. Based on CoreELEC. https://emuelec.org or join us on Discord: https://discord.gg/cbgtJTu
+- [EmuELEC/EmuELEC](https://github.com/EmuELEC/EmuELEC) - EmuELEC, retro emulation for Amlogic devices. Based on CoreELEC. https://emuelec.org or join us on Discord: https://discord.gg/QqGYBzG
 - [libretro/Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.
 - [ProjectAfterBurner/afver](https://github.com/ProjectAfterBurner/afver) - Displays the afterburner version
 - [android-rpi/device_arpi_rpi4](https://github.com/android-rpi/device_arpi_rpi4) - Device build-config for Raspberry Pi 4
@@ -1581,6 +1581,7 @@
 
 ## Others 
 
+- [valpackett/awesome-gtk](https://github.com/valpackett/awesome-gtk) - List of awesome GTK (3/4) applications
 - [RyanRana/The-Simplest-Guide-to-Machine-Learning-Models.](https://github.com/RyanRana/The-Simplest-Guide-to-Machine-Learning-Models.) - 8 Articles and Project Builds to learn Machine Learning Models.
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) - Magisk module to block ads on android
 - [WhatTheBlock/WindowsSimplify](https://github.com/WhatTheBlock/WindowsSimplify) - Windows Simplify Project
@@ -2872,7 +2873,6 @@
 - [Botspot/autostar](https://github.com/Botspot/autostar) - Conveniently manage programs to launch on startup
 - [Botspot/cloudbuddy](https://github.com/Botspot/cloudbuddy) - CloudBuddy is the ultimate wizard for cloud storage. It uses rclone to connect to your cloud drives, download from them, upload to them, mount them to your file manager, and more. In addition, CloudBu
 - [Botspot/Pi-Power-Tools](https://github.com/Botspot/Pi-Power-Tools) - General Purpose Raspbian Image & SD Card Manager
-- [Botspot/rpi-flashplayer](https://github.com/Botspot/rpi-flashplayer) - Restore Adobe Flash Player so it can run on Raspberry Pi again
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [Botspot/zoom-pwa](https://github.com/Botspot/zoom-pwa) - Install Zoom PWA web-app on Raspberry Pi OS or on Linux
 - [Pi-Apps-Recreates/pi-apps-x86](https://github.com/Pi-Apps-Recreates/pi-apps-x86) - Pi-Apps For X86
