@@ -2125,7 +2125,6 @@
 - [Red-exe-Engineer/Toybox](https://github.com/Red-exe-Engineer/Toybox) - A simple(ish) tool to list installed commands
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [Jack477/DynamicWallpaper](https://github.com/Jack477/DynamicWallpaper) - Dynamic wallpaper for Xfce
-- [PySimpleGUI/psgtray](https://github.com/PySimpleGUI/psgtray) - System Tray Icon for PySimpleGUI (the tkinter version). Adds a system tray icon by using pystray and PIL
 - [CoolCat467/fix-lwjgl](https://github.com/CoolCat467/fix-lwjgl) - Fix LWJGL (Light Weight Java Game Library) java classpath data for ARM devices
 - [DrGFreeman/pdfmerge](https://github.com/DrGFreeman/pdfmerge) - Merge scanned pdf documents of odd and even pages into a single pdf document
 - [WOA-Project/SurfaceDuo-Guides](https://github.com/WOA-Project/SurfaceDuo-Guides) - Guides for the Surface Duo
@@ -2164,7 +2163,7 @@
 - [bluesabre/mugshot](https://github.com/bluesabre/mugshot) - Mugshot - User Management Utility for Linux
 - [brccabral/WeatherPySimpleGUI](https://github.com/brccabral/WeatherPySimpleGUI) - Weather using PySimpleGUI
 - [pythonguis/pyqtconfig](https://github.com/pythonguis/pyqtconfig) - A PyQt config manager. Keep Qt widgets in sync with an config dictionary and/or QSettings object.
-- [pythonguis/15-minute-apps](https://github.com/pythonguis/15-minute-apps) - Demo desktop apps built with Python & Qt. With examples for PyQt6, PySide6, PyQt5 & PySide2
+- [pythonguis/pythonguis-examples](https://github.com/pythonguis/pythonguis-examples) - Demo desktop apps built with Python & Qt. With examples for PyQt6, PySide6, PyQt5 & PySide2
 - [xonsh/py-bash-completion](https://github.com/xonsh/py-bash-completion) - A framework for accessing bash completions from Python
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [sahinakkaya/binary-clock-wallpaper](https://github.com/sahinakkaya/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
@@ -2272,7 +2271,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-572-Stars](https://github.com/iBug/This-Repo-Has-572-Stars) - Yes, it's true :yellow_heart: This repository has 572 stars.
+- [iBug/This-Repo-Has-573-Stars](https://github.com/iBug/This-Repo-Has-573-Stars) - Yes, it's true :gift_heart: This repository has 573 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2397,7 +2396,7 @@
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [olix3001/Arclight](https://github.com/olix3001/Arclight) - Simple programming language
-- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🇵🇸
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [pls-rs/pls](https://github.com/pls-rs/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification
