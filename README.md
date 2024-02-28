@@ -521,7 +521,7 @@
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 - [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
 - [clashbyte/openvice](https://github.com/clashbyte/openvice) - Grand Theft Auto: Vice City Open Source port to C#
-- [GTA-ASM/SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
+- [in0finite/SanAndreasUnity](https://github.com/in0finite/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
 - [krlvm/BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker
 - [Icepenguins101/charms-bar-port](https://github.com/Icepenguins101/charms-bar-port) - The solution for restoring the Windows 8.x Charms Bar to Windows 10 and Windows 11
 - [Pdawg-bytes/factoryos-10x-shell](https://github.com/Pdawg-bytes/factoryos-10x-shell) - A Win10x shell recreation to run in place of the default FactoryOS shell.
@@ -928,6 +928,7 @@
 
 ## CSS 
 
+- [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
 - [discord-extensions/modern-indicators](https://github.com/discord-extensions/modern-indicators) - Updates Discord's indicators to feel more modern.
 - [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby!
 - [NYRI4/Couve](https://github.com/NYRI4/Couve) - A new look to discord
@@ -2503,6 +2504,7 @@
 
 ## Shell 
 
+- [refi64/stylepak](https://github.com/refi64/stylepak) - Automatically install your host GTK+ theme as a Flatpak
 - [dadatuputi/bitwarden_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) - Bitwarden installation optimized for Google Cloud's 'always free' e2-micro compute instance
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) - Colorize your termux! Oh-my-zsh included!
