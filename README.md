@@ -2266,7 +2266,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-574-Stars](https://github.com/iBug/This-Repo-Has-574-Stars) - Yes, it's true :revolving_hearts: This repository has 574 stars.
+- [iBug/This-Repo-Has-573-Stars](https://github.com/iBug/This-Repo-Has-573-Stars) - Yes, it's true :revolving_hearts: This repository has 573 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2505,7 +2505,7 @@
 - [sgerrand/alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) - A glibc compatibility layer package for Alpine Linux
 - [worproject/rpi5-uefi](https://github.com/worproject/rpi5-uefi) - EDK2 firmware images for Raspberry Pi 5
 - [PhrozenByte/rmtrash](https://github.com/PhrozenByte/rmtrash) - Put files (and directories) in trash using the `trash-put` command in a way that is, otherwise as `trash-put` itself, compatible to GNUs `rm` and `rmdir`
-- [Pipetto-crypto/androBox](https://github.com/Pipetto-crypto/androBox) - Another Box86 and Box64  Android project using proot
+- [Pipetto-crypto/androBox](https://github.com/Pipetto-crypto/androBox) - Another Box86 and Box64  Android project using glibc-for-termux
 - [mobiledesres/Google-Sans-web-fonts](https://github.com/mobiledesres/Google-Sans-web-fonts) - Google Sans, Google Sans Display & Gallery Icons web fonts
 - [Jai-JAP/pi-apps](https://github.com/Jai-JAP/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
@@ -2710,7 +2710,7 @@
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux) - This is a project, where I give you a way to use Autodesk Fusion 360 on Linux!
-- [armbian/build](https://github.com/armbian/build) - Armbian Linux Build Framework
+- [armbian/build](https://github.com/armbian/build) - Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf
 - [ThomasKaiser/sbc-bench](https://github.com/ThomasKaiser/sbc-bench) - Simple benchmark for single board computers
 - [codespell-project/actions-codespell](https://github.com/codespell-project/actions-codespell) - 
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
