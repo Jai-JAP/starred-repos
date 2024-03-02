@@ -2266,7 +2266,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-573-Stars](https://github.com/iBug/This-Repo-Has-573-Stars) - Yes, it's true :revolving_hearts: This repository has 573 stars.
+- [iBug/This-Repo-Has-573-Stars](https://github.com/iBug/This-Repo-Has-573-Stars) - Yes, it's true :orange_heart: This repository has 573 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2886,7 +2886,7 @@
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
 - [Botspot/vdesktop](https://github.com/Botspot/vdesktop) - Run a second instance of Raspbian inside Raspbian.
 - [Itai-Nelken/Ubuntu-on-rpi-fixes](https://github.com/Itai-Nelken/Ubuntu-on-rpi-fixes) - apps, fixes, and optimizations for the RaspberryPi running Ubuntu desktop
-- [Botspot/Screensavers](https://github.com/Botspot/Screensavers) - Installers for windows screensavers on RPI4 / Twister OS
+- [Botspot/Screensavers](https://github.com/Botspot/Screensavers) - Installers for windows screensavers on PiOS
 - [gl91306/lunar](https://github.com/gl91306/lunar) - 
 - [laomingOfficial/RaspberryPi-re3](https://github.com/laomingOfficial/RaspberryPi-re3) - Raspberry Pi - GTA III, Vice City
 - [Itai-Nelken/BalenaEtcher-arm](https://github.com/Itai-Nelken/BalenaEtcher-arm) - balena-etcher v1.5.109 and newer compiled for armhf and arm64 for the RaspberryPi and other arm computers
