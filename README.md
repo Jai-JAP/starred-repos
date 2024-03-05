@@ -647,7 +647,6 @@
 - [worproject/Rockchip-Windows-Drivers](https://github.com/worproject/Rockchip-Windows-Drivers) - Windows on Arm drivers for RK35xx platforms.
 - [blackhole89/notekit](https://github.com/blackhole89/notekit) - A GTK3 hierarchical markdown notetaking application with tablet support.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
-- [yuzu-emu/yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline) - 
 - [contour-terminal/libunicode](https://github.com/contour-terminal/libunicode) - Modern C++20 Unicode library
 - [MengRao/fmtlog](https://github.com/MengRao/fmtlog) - fmtlog is a performant fmtlib-style logging library with latency in nanoseconds.
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
@@ -768,8 +767,6 @@
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [GuyWhoChad/Winver-Modded](https://github.com/GuyWhoChad/Winver-Modded) - Windows Version applet reporter, now in a new style and fluent!
 - [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
-- [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [litespeedtech/openlitespeed](https://github.com/litespeedtech/openlitespeed) - Our high-performance, lightweight, open source HTTP server
 - [ALTaleX531/TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Translucent effect for most of the win32 flyouts
 - [sovetskyfish/winver](https://github.com/sovetskyfish/winver) - A CLI version of winver
@@ -831,7 +828,6 @@
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [linuxdeepin/deepin-devicemanager](https://github.com/linuxdeepin/deepin-devicemanager) - 
 - [rexim/aids](https://github.com/rexim/aids) - std replacement for C++
-- [merryhime/dynarmic](https://github.com/merryhime/dynarmic) - An ARM dynamic recompiler.
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [linuxdeepin/qt5platform-plugins](https://github.com/linuxdeepin/qt5platform-plugins) - Qt platform integration plugin for DDE.
 - [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
