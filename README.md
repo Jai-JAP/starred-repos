@@ -223,7 +223,6 @@
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
 - [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
-- [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [strongtz/edk2-rk3399](https://github.com/strongtz/edk2-rk3399) - Highly experimental port of edk2 for rk3399
 - [gnuplot/gnuplot](https://github.com/gnuplot/gnuplot) - Unofficial mirror of gnuplot's git repository. Please don't open pull requests here, go to https://sourceforge.net/p/gnuplot/gnuplot-main/merge-requests/ instead.
 - [rpm-software-management/popt](https://github.com/rpm-software-management/popt) - C library for parsing command line parameters
@@ -1505,7 +1504,7 @@
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩ReVanced Patches template
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
-- [mozilla-mobile/firefox-android](https://github.com/mozilla-mobile/firefox-android) - This repository hosts the Firefox for Android (Fenix), Focus for Android, and Mozilla Android Components projects.
+- [mozilla-mobile/firefox-android](https://github.com/mozilla-mobile/firefox-android) - This repository hosts the Firefox for Android (Fenix), Focus for Android, and Mozilla Android Components projects. :warning: This repository will soon be migrated to Mozilla Central.
 - [Tobi823/ffupdater](https://github.com/Tobi823/ffupdater) - FFUpdater: Updater for privacy friendly browser
 - [tytydraco/Buoy](https://github.com/tytydraco/Buoy) - An extension to the built in Android Battery Saver
 - [tmo1/sms-ie](https://github.com/tmo1/sms-ie) - SMS Import / Export is a simple Android app that imports and exports SMS and MMS messages, call logs, and contacts from and to JSON / NDJSON files.
@@ -1663,6 +1662,7 @@
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [kmille36/scrcpy-audio-support](https://github.com/kmille36/scrcpy-audio-support) - Easy remote your Android device over wifi with scrcpy + audio support over vlc.
 - [TheTorProject/gettorbrowser](https://github.com/TheTorProject/gettorbrowser) - 
+- [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [notopsee/Microsoft-Segoe-UI-Emoji-SVG-Icons](https://github.com/notopsee/Microsoft-Segoe-UI-Emoji-SVG-Icons) - 3070 Vector based Emoji icons with the Windows 10 style in SVG & PNG
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH
@@ -2531,7 +2531,7 @@
 - [iglunix/iglunix](https://github.com/iglunix/iglunix) - Linux (and other kernels) distro with no GNU components
 - [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
 - [micha/jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
-- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Automatic Repository build Revanced and Revanced Extended non-root version
+- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and another patches about 5 minutes after patches release
 - [topjohnwu/ondk](https://github.com/topjohnwu/ondk) - Oxidized NDK - NDK repackaged with Rust toolchain
 - [sebanc/brioche](https://github.com/sebanc/brioche) - An alternative to Crostini / Crouton for devices running brunch
 - [sebanc/brunch-toolchain](https://github.com/sebanc/brunch-toolchain) - x86_64 toolchain for ChromeOS
