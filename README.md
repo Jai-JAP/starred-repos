@@ -1007,7 +1007,6 @@
 
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 - [ms-jpq/kde-in-docker](https://github.com/ms-jpq/kde-in-docker) - So you can run KDE inside a browser
-- [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [ponsfrilus/arch-novnc](https://github.com/ponsfrilus/arch-novnc) - Docker container running ArchLinux accessible through novnc in a browser
 - [DCsunset/docker-archlinux-vnc](https://github.com/DCsunset/docker-archlinux-vnc) - A docker image of Arch Linux with KDE desktop and VNC support.
@@ -2262,7 +2261,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-574-Stars](https://github.com/iBug/This-Repo-Has-574-Stars) - Yes, it's true :gift_heart: This repository has 574 stars.
+- [iBug/This-Repo-Has-574-Stars](https://github.com/iBug/This-Repo-Has-574-Stars) - Yes, it's true :purple_heart: This repository has 574 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2562,6 +2561,7 @@
 - [theofficialgman/gmans-retropie-scripts](https://github.com/theofficialgman/gmans-retropie-scripts) - a repo hosting more scripts that can be installed through the retropie setup
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
+- [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [pi-extras/autoupdate](https://github.com/pi-extras/autoupdate) - Script to update the packages automatically
 - [TheFreePenguin/tfpstore](https://github.com/TheFreePenguin/tfpstore) - A CLI frontend to your favorite package managers! Supports all Debian-based, Arch-based, and RHEL-based distros!
 - [sickcodes/anbox-modules-dkms](https://github.com/sickcodes/anbox-modules-dkms) - anbox-modules-dkms for kernel - resurrected aur.archlinux.org/anbox-modules-dkms for ongoing maintaining. Next Generation Box Modules DKMS (ngbox). WayDroid, Anbox Halium, Droid Native, Dock Droid + B
