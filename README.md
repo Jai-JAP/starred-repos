@@ -2695,8 +2695,8 @@
 - [cycool29/whatsapp-for-linux](https://github.com/cycool29/whatsapp-for-linux) - Install WhatsApp on all Linux devices
 - [koenvervloesem/bazel-on-arm](https://github.com/koenvervloesem/bazel-on-arm) - Build the open source build tool Bazel for ARM on the Raspberry Pi
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
-- [WafiWal/armhf-proot-for-aarch64-android](https://github.com/WafiWal/armhf-proot-for-aarch64-android) - Anlinux armhf proot for aarch64 android using Termux.
-- [WafiWal/AnBox86](https://github.com/WafiWal/AnBox86) - 
+- [Kualid/armhf-proot-for-aarch64-android](https://github.com/Kualid/armhf-proot-for-aarch64-android) - Anlinux armhf proot for aarch64 android using Termux.
+- [Kualid/AnBox86](https://github.com/Kualid/AnBox86) - 
 - [WheezyE/Winelink](https://github.com/WheezyE/Winelink) - Installation scripts for running Winlink (RMS Express/Trimode & VARA) on non-Windows computers. Wine & Box86 make this project possible.
 - [vividcolorss/pimarket](https://github.com/vividcolorss/pimarket) - App Store For The Raspberry Pi.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
@@ -2970,6 +2970,7 @@
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -3097,7 +3098,6 @@
 
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [juhaku/loginized](https://github.com/juhaku/loginized) - Gnome GDM Login Theme Manager. Easy and Fast Login Theme Manipulation
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [Electron-Store/electron-app-store](https://github.com/Electron-Store/electron-app-store) - A Cross-Platform App Store for Electron.js Apps
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
