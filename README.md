@@ -1584,6 +1584,7 @@
 - [ReVanced-Extended-Community/Patches-Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation) - Additional community documentation with screenshots for the various ReVanced Extended patches.
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters) - My personal and very opinionated uBlock Origin filters
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [YT-Advanced/Crystal-Clear-Premium-by-BIueGuy](https://github.com/YT-Advanced/Crystal-Clear-Premium-by-BIueGuy) - 
 - [YT-Advanced/Windows-11-Cursor-by-rosea92](https://github.com/YT-Advanced/Windows-11-Cursor-by-rosea92) - Windows 11 Cursor Premium
@@ -1961,7 +1962,7 @@
 - [distrochooser/distrochooser](https://github.com/distrochooser/distrochooser) - An orientation guide for Linux newbies
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [acheong08/Bard](https://github.com/acheong08/Bard) - Python SDK/API for reverse engineered Google Bard
 - [SputnikRocket/PyThOS-V2](https://github.com/SputnikRocket/PyThOS-V2) - PyThOS system simulation rewritten from scratch
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
@@ -2503,7 +2504,6 @@
 - [PhrozenByte/rmtrash](https://github.com/PhrozenByte/rmtrash) - Put files (and directories) in trash using the `trash-put` command in a way that is, otherwise as `trash-put` itself, compatible to GNUs `rm` and `rmdir`
 - [Pipetto-crypto/androBox](https://github.com/Pipetto-crypto/androBox) - Another Box86 and Box64  Android project using glibc-for-termux
 - [mobiledesres/Google-Sans-web-fonts](https://github.com/mobiledesres/Google-Sans-web-fonts) - Google Sans, Google Sans Display & Gallery Icons web fonts
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [Jai-JAP/pi-apps](https://github.com/Jai-JAP/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [scotch-io/All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons) - A repo of every emoji icon as a separate file and commit.
