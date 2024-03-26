@@ -1035,7 +1035,7 @@
 - [audstanley/NodeJs-Raspberry-Pi](https://github.com/audstanley/NodeJs-Raspberry-Pi) - Install NodeJs on your Raspberry Pi 1, 2, 3, 4, zero, and zero w
 - [spddl/disableDWMactivitys](https://github.com/spddl/disableDWMactivitys) - 
 - [arukateru/BasicThemer5](https://github.com/arukateru/BasicThemer5) - The most lightweight basic themer yet.
-- [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools. Still experimental
+- [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [huydx/hget](https://github.com/huydx/hget) - interruptable, resumable download accelerator written in golang
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) - The fastest, resumable file download client
@@ -2689,7 +2689,7 @@
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration
+- [holoiso-eol/holoiso](https://github.com/holoiso-eol/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [arcmags/usync](https://github.com/arcmags/usync) - Simple rsync wrapper controlled by config file.
 - [arcmags/uln](https://github.com/arcmags/uln) - Automated link creator/file copier controlled by simple config file.
 - [arcmags/ramroot](https://github.com/arcmags/ramroot) - Load root file system to ram during boot.
