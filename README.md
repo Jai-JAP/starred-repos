@@ -138,6 +138,7 @@
 - [termux/proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
 - [Gcenx/winecx](https://github.com/Gcenx/winecx) - Codeweavers modified wine version. This repository is just a mirror of https://media.codeweavers.com/pub/crossover/source/
 - [varmd/wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [ThePBone/RootlessJamesDSP](https://github.com/ThePBone/RootlessJamesDSP) - An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices
 - [james34602/JamesDSPManager](https://github.com/james34602/JamesDSPManager) - Audio DSP effects build on Android system framework layer. This is a repository contains a pack of high quality DSP algorithms specialized for audio processing.
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
@@ -415,7 +416,7 @@
 - [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
 - [incbee/Unarchiver](https://github.com/incbee/Unarchiver) - Git mirror of The Unarchiver
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
-- [petzval/btferret](https://github.com/petzval/btferret) - Bluetooth Interface for Raspberry Pi
+- [petzval/btferret](https://github.com/petzval/btferret) - Python and C Bluetooth Library
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 - [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 - [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines based on PCem.
@@ -1042,7 +1043,7 @@
 - [HikariKnight/ls-iommu](https://github.com/HikariKnight/ls-iommu) - A tool to list devices in iommu groups, useful for setting up VFIO
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [lima-vm/sshocker](https://github.com/lima-vm/sshocker) - ssh + reverse sshfs + port forwarder, in Docker-like CLI (predecessor of Lima)
-- [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) - apx is the Vanilla OS package manager. It’s meant to be simple to use, but also powerful with support to installing packages from multiple sources without altering the root filesystem.
+- [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) - Apx is the Vanilla OS package manager. It’s meant to be simple to use, but also powerful with support to installing packages from multiple sources without altering the root filesystem.
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [gennaro-tedesco/element](https://github.com/gennaro-tedesco/element) - 🧪 periodic table on the command line
 - [gennaro-tedesco/stargazer](https://github.com/gennaro-tedesco/stargazer) - ⭐ github stats from the command line
@@ -1189,7 +1190,6 @@
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keymapper for Android
 - [KitsunedFox/termux-monet](https://github.com/KitsunedFox/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
-- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
 - [tisoft/microemu](https://github.com/tisoft/microemu) - Microemulator
 - [eiroca/microemu](https://github.com/eiroca/microemu) - Microemulator is pure Java implementation of J2ME in J2SE
