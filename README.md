@@ -2127,7 +2127,7 @@
 - [Will-777/spawn_mobs_mcpi](https://github.com/Will-777/spawn_mobs_mcpi) - Python script to spawn some mobs in your Minecraft Pi world, Raspberry Pi version
 - [chbrown/pi](https://github.com/chbrown/pi) - Simpler python package installation
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- [CMDR-Piboy314/Python-Typing-Test](https://github.com/CMDR-Piboy314/Python-Typing-Test) - A Text-Based Typing Test made in Python
+- [Piras314/Python-Typing-Test](https://github.com/Piras314/Python-Typing-Test) - A Text-Based Typing Test made in Python
 - [pikvm/pi-builder](https://github.com/pikvm/pi-builder) - Extensible tool to build Arch Linux ARM for Raspberry Pi on x86_64 host using Docker
 - [odziom91/libadwaita-theme-changer](https://github.com/odziom91/libadwaita-theme-changer) - Theme changer for Libadwaita
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
