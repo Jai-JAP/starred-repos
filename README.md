@@ -561,7 +561,7 @@
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [dlrudie/Snip](https://github.com/dlrudie/Snip) - Snip will get the artist, track, and album information from Spotify and iTunes, and save the information to a text file.
 - [luandersonn/MyFTP](https://github.com/luandersonn/MyFTP) - A modern FTP client for Windows 11
-- [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+- [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [thisismalindu/SymbolPicker](https://github.com/thisismalindu/SymbolPicker) - A Simple Symbol Picker app like the Windows Emoji Picker to search and copy symbols to the clipboard.
 - [randyrants/winverex](https://github.com/randyrants/winverex) - Command prompt utility that returns a "fully qualified" version of Windows 10
 - [dongle-the-gadget/WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - A UWP version of winver
@@ -1597,7 +1597,7 @@
 - [YT-Advanced/Windows-11-Cursor-Tail-by-rosea92](https://github.com/YT-Advanced/Windows-11-Cursor-Tail-by-rosea92) - Windows 11 Cursor Tail Version Premium
 - [hyperio546/ladb-builds](https://github.com/hyperio546/ladb-builds) - Compiled builds for LADB for free instead of paying in the Play Store
 - [Android-PowerUser/Windroid_11](https://github.com/Android-PowerUser/Windroid_11) - Windroid 11 is a Windows 11 equivalent for Android.
-- [Priyanka488/100DaysOfSystemDesign](https://github.com/Priyanka488/100DaysOfSystemDesign) - Documenting resources and notes for learning system design.
+- [Priyanka488/SystemDesignResources](https://github.com/Priyanka488/SystemDesignResources) - Documenting resources and notes for learning system design.
 - [yaronelh/False-Positive-Center](https://github.com/yaronelh/False-Positive-Center) - Repository to help security vendors deal with false positives
 - [michalleptuch/fluent-emoji-gallery](https://github.com/michalleptuch/fluent-emoji-gallery) - Official issue-only repo for Fluent Emoji Gallery
 - [DesignLipsx/WinUI-3-Apps-List](https://github.com/DesignLipsx/WinUI-3-Apps-List) - A curated collection of over 300+ apps that embrace the WinUI 3 Design
