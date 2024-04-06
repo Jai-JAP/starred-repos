@@ -225,7 +225,7 @@
 - [CollinChaffin/MPC-BE](https://github.com/CollinChaffin/MPC-BE) - 
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
-- [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
+- [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [strongtz/edk2-rk3399](https://github.com/strongtz/edk2-rk3399) - Highly experimental port of edk2 for rk3399
 - [gnuplot/gnuplot](https://github.com/gnuplot/gnuplot) - Unofficial mirror of gnuplot's git repository. Please don't open pull requests here, go to https://sourceforge.net/p/gnuplot/gnuplot-main/merge-requests/ instead.
 - [rpm-software-management/popt](https://github.com/rpm-software-management/popt) - C library for parsing command line parameters
@@ -1776,7 +1776,6 @@
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [lineage-rpi/OTA](https://github.com/lineage-rpi/OTA) - 
 - [raspbian-addons/.github](https://github.com/raspbian-addons/.github) - 
-- [flathub/io.freetubeapp.FreeTube](https://github.com/flathub/io.freetubeapp.FreeTube) - 
 - [fliptheweb/bash-shortcuts-cheat-sheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet) - Useful shortcuts for bash/zsh
 - [theofficialgman/lwjgl3-binaries-arm64](https://github.com/theofficialgman/lwjgl3-binaries-arm64) - Linux ARM64 LWJGL2/3 Backports Binaries. Refer to https://github.com/theofficialgman/lwjgl3 https://github.com/theofficialgman/lwjgl for the source
 - [theofficialgman/lwjgl3-binaries-arm32](https://github.com/theofficialgman/lwjgl3-binaries-arm32) - Linux ARM32 LWJGL2/3 Backports Binaries
@@ -2788,6 +2787,7 @@
 - [novaspirit/rpi_zram](https://github.com/novaspirit/rpi_zram) - script to enable zram for raspberry pi
 - [pguyot/arm-runner-action](https://github.com/pguyot/arm-runner-action) - Run tests natively and build images directly from GitHub Actions using a chroot-based virtualized Raspberry Pi (raspios/raspbian) environment
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
+- [flathub/io.freetubeapp.FreeTube](https://github.com/flathub/io.freetubeapp.FreeTube) - 
 - [hmsjy2017/n-debs](https://github.com/hmsjy2017/n-debs) - 
 - [tj/n](https://github.com/tj/n) - Node version management
 - [NoozAbooz/mcpi-reborn-extended](https://github.com/NoozAbooz/mcpi-reborn-extended) - The enthusiast's MCPI mod.
