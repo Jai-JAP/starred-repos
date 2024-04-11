@@ -841,7 +841,7 @@
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [linuxdeepin/qt5integration](https://github.com/linuxdeepin/qt5integration) - Qt platform theme integration plugins for DDE.
 - [raspberrypi/rpicam-apps](https://github.com/raspberrypi/rpicam-apps) - 
-- [mholtkamp/octave](https://github.com/mholtkamp/octave) - A 3D game engine for Windows, Linux, and Android.
+- [mholtkamp/octave](https://github.com/mholtkamp/octave) - A 3D game engine for GameCube, Wii, 3DS, Windows, Linux, and Android.
 - [mholtkamp/retro-league](https://github.com/mholtkamp/retro-league) - Retro League GX is a clone of Rocket League made with the Octave game engine.
 - [HerMajestyDrMona/Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - "Windows 11 Drag & Drop to the Taskbar (Fix)" fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like Und
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -1785,7 +1785,7 @@
 - [Augmentedjs/balena-io-etcher-builds](https://github.com/Augmentedjs/balena-io-etcher-builds) - A place to host my community builds of Ethcher
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [alfaaarex/awesome-tweaks](https://github.com/alfaaarex/awesome-tweaks) - 💻 List of awesome programs and tweaks for Windows, macOS and Linux.
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
