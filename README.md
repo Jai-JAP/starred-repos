@@ -131,6 +131,7 @@
 
 ## C 
 
+- [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [flonatel/pipexec](https://github.com/flonatel/pipexec) - Handling pipe of commands like a single command
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [Genivia/ugrep-indexer](https://github.com/Genivia/ugrep-indexer) - A monotonic indexer to speed up grepping by &gt;10x
@@ -492,6 +493,7 @@
 
 ## C# # 
 
+- [ClementGre/ThreeFingerDragOnWindows](https://github.com/ClementGre/ThreeFingerDragOnWindows) - Enables macOS-style three-finger dragging functionality on Windows Precision touchpads.
 - [nearby-sharing/android](https://github.com/nearby-sharing/android) - Share files between android and PC via the Windows 10 / 11 built-in sharing functionality (Project Rome)
 - [OpenByteDev/ModernWpf.MessageBox](https://github.com/OpenByteDev/ModernWpf.MessageBox) - A drop-in replacement for System.Windows.MessageBox using a modern WPF UI.
 - [Empyreal96/Appx_Re-Sign](https://github.com/Empyreal96/Appx_Re-Sign) - A small tool to help automate resigning Appx Packages with the help of MS tooling
@@ -610,6 +612,7 @@
 
 ## C++ 
 
+- [xieyubo/WSL2](https://github.com/xieyubo/WSL2) - Some enhancements for Microsoft WSL2
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [CHIP-SPV/chipStar](https://github.com/CHIP-SPV/chipStar) - chipStar is a tool for compiling and running HIP/CUDA on SPIR-V via OpenCL or Level Zero APIs.
@@ -1242,6 +1245,7 @@
 
 ## JavaScript 
 
+- [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [Reda-BENMAKDAD/wordle](https://github.com/Reda-BENMAKDAD/wordle) - Wordle : my implementation of the wordle game
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
@@ -2303,6 +2307,11 @@
 
 ## Rust 
 
+- [toastxc/egui](https://github.com/toastxc/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
+- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
+- [emanguy/rust-rest](https://github.com/emanguy/rust-rest) - A full template for a REST API written in Rust, engineered for maximum testability.
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux.
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
