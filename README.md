@@ -77,7 +77,7 @@
 
 ## Assembly 
 
-- [ahmedembeddedx/Everything_but_Assembly](https://github.com/ahmedembeddedx/Everything_but_Assembly) - Welcome to the "Everything but Assembly" repository! If you've ever thought, "I want to learn everything about programming, except assembly," you're not in the right place.
+- [ahmedembeddedx/Everything-in-x8086](https://github.com/ahmedembeddedx/Everything-in-x8086) - Welcome to the "Everything but Assembly" repository! If you've ever thought, "I want to learn everything about programming, except assembly," you're not in the right place.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [Lillithlilly/hello-world](https://github.com/Lillithlilly/hello-world) - 
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
@@ -716,7 +716,6 @@
 - [Jax-Core/ValliStart](https://github.com/Jax-Core/ValliStart) - A start menu to replace the un-customizable one that you have right now.
 - [Jax-Core/YourMixer](https://github.com/Jax-Core/YourMixer) - Extremely customizable volume control for windows
 - [aristocratos/btop4win](https://github.com/aristocratos/btop4win) - btop++ for windows
-- [GPUCode/citra](https://github.com/GPUCode/citra) - A Nintendo 3DS Emulator
 - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5
 - [linuxdeepin/deepin-font-manager](https://github.com/linuxdeepin/deepin-font-manager) - 
 - [SaschaWillems/glCapsViewer](https://github.com/SaschaWillems/glCapsViewer) - C++ port of the OpenGL hardware capability viewer
@@ -1611,7 +1610,6 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
-- [smartmaster/opennt](https://github.com/smartmaster/opennt) - The vanished OpenNT project
 - [cpredef/predef](https://github.com/cpredef/predef) - Pre-defined Compiler Macros wiki
 - [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows XP/2003 and up
 - [makedeb/prebuilt-mpr](https://github.com/makedeb/prebuilt-mpr) - The backend system powering the Prebuilt-MPR
