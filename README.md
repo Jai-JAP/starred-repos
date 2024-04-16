@@ -2158,7 +2158,7 @@
 - [notepad-plus-plus/nppPluginList](https://github.com/notepad-plus-plus/nppPluginList) - The official collection of Notepad++ plugins.
 - [Sven-Bo/one-line-gui](https://github.com/Sven-Bo/one-line-gui) - 
 - [bluesabre/mugshot](https://github.com/bluesabre/mugshot) - Mugshot - User Management Utility for Linux
-- [brccabral/WeatherPySimpleGUI](https://github.com/brccabral/WeatherPySimpleGUI) - Weather using PySimpleGUI
+- [brccabral/Python_PySimpleGUI_Weather](https://github.com/brccabral/Python_PySimpleGUI_Weather) - Weather using PySimpleGUI
 - [pythonguis/pyqtconfig](https://github.com/pythonguis/pyqtconfig) - A PyQt config manager. Keep Qt widgets in sync with an config dictionary and/or QSettings object.
 - [pythonguis/pythonguis-examples](https://github.com/pythonguis/pythonguis-examples) - Demo desktop apps built with Python & Qt. With examples for PyQt6, PySide6, PyQt5 & PySide2
 - [xonsh/py-bash-completion](https://github.com/xonsh/py-bash-completion) - A framework for accessing bash completions from Python
