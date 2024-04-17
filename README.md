@@ -386,7 +386,7 @@
 - [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
 - [glfw/glfw-legacy](https://github.com/glfw/glfw-legacy) - Official repository of legacy GLFW 2.x
 - [abhayanigam/Learn_C](https://github.com/abhayanigam/Learn_C) - Introduction in C language and all basic codes.
-- [Alvarito050506/n2vm](https://github.com/Alvarito050506/n2vm) - No Name Virtual Machine.
+- [torralbaalla/n2vm](https://github.com/torralbaalla/n2vm) - No Name Virtual Machine.
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [abakh/nbsdgames](https://github.com/abakh/nbsdgames) - A package of 18 text-based modern games
 - [kilograham/rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
@@ -1226,7 +1226,7 @@
 - [google/gitiles](https://github.com/google/gitiles) - A simple browser for Git repositories.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [CoderLogy/Java-maths-calaculator-for-beginners](https://github.com/CoderLogy/Java-maths-calaculator-for-beginners) - I am learning java so I made a calculator with it to do some calculations. Lol
-- [Alvarito050506/mc4k](https://github.com/Alvarito050506/mc4k) - Minecraft 4K, but fixed.
+- [torralbaalla/mc4k](https://github.com/torralbaalla/mc4k) - Minecraft 4K, but fixed.
 - [MCPI-Revival/minecraft-4k-reborn](https://github.com/MCPI-Revival/minecraft-4k-reborn) - Our new big project! [APRIL FOOLS!]
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
@@ -2230,7 +2230,7 @@
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
-- [natorsc/pygobject-gtk](https://github.com/natorsc/pygobject-gtk) - Repositório criado para centralizar dicas, tutoriais e exemplos de código sobre a construção de interfaces gráficas com a linguagem de programação Python (PyGObject) e o tookit gráfico GTK.
+- [natorsc/python-gtk-pygobject](https://github.com/natorsc/python-gtk-pygobject) - Repositório criado para centralizar dicas, tutoriais e exemplos de código sobre a construção de interfaces gráficas com a linguagem de programação Python (PyGObject) e o tookit gráfico GTK.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
