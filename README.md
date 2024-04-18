@@ -141,7 +141,7 @@
 - [Gcenx/winecx](https://github.com/Gcenx/winecx) - Codeweavers modified wine version. This repository is just a mirror of https://media.codeweavers.com/pub/crossover/source/
 - [varmd/wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
-- [ThePBone/RootlessJamesDSP](https://github.com/ThePBone/RootlessJamesDSP) - An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices
+- [timschneeb/RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP) - An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices
 - [james34602/JamesDSPManager](https://github.com/james34602/JamesDSPManager) - Audio DSP effects build on Android system framework layer. This is a repository contains a pack of high quality DSP algorithms specialized for audio processing.
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
 - [woesss/JL-Mod](https://github.com/woesss/JL-Mod) - J2ME emulator for Android (unofficial fork of https://github.com/nikita36078/J2ME-Loader)
@@ -1033,6 +1033,7 @@
 
 ## Go 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -1108,7 +1109,7 @@
 
 ## HTML 
 
-- [Tacogamerman/ByeBlocker](https://github.com/Tacogamerman/ByeBlocker) - The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts)
+- [TacoGuy21/ByeBlocker](https://github.com/TacoGuy21/ByeBlocker) - The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts)
 - [D3ch/hell](https://github.com/D3ch/hell) - 260+ unblocked games and ultraviolet. star this repo pls! This repo is currently being archived as of 1/22/24. Thank you everyone!
 - [Red-exe-Engineer/The-Hello-World-Archive](https://github.com/Red-exe-Engineer/The-Hello-World-Archive) - A group of hello world programs written in various programming languages.
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
@@ -1244,6 +1245,7 @@
 
 ## JavaScript 
 
+- [Page-David/fx991ex-QR](https://github.com/Page-David/fx991ex-QR) - Reverse engineering of Casio fx991ex calculator QR code
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [Reda-BENMAKDAD/wordle](https://github.com/Reda-BENMAKDAD/wordle) - Wordle : my implementation of the wordle game
@@ -1603,7 +1605,7 @@
 - [yaronelh/False-Positive-Center](https://github.com/yaronelh/False-Positive-Center) - Repository to help security vendors deal with false positives
 - [michalleptuch/fluent-emoji-gallery](https://github.com/michalleptuch/fluent-emoji-gallery) - Official issue-only repo for Fluent Emoji Gallery
 - [DesignLipsx/WinUI-3-Apps-List](https://github.com/DesignLipsx/WinUI-3-Apps-List) - A curated collection of over 300+ apps that embrace the WinUI 3 Design
-- [ThePBone/awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
+- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [prepkg/opencv-raspberrypi](https://github.com/prepkg/opencv-raspberrypi) - Precompiled OpenCV 4.9 binaries for Raspberry Pi 3 & 4
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
@@ -2931,7 +2933,7 @@
 ## TypeScript 
 
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [akuldeepj/screenshot-to-code](https://github.com/akuldeepj/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
