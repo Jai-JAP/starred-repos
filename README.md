@@ -173,7 +173,6 @@
 - [sysprog21/shecc](https://github.com/sysprog21/shecc) - A self-hosting and educational C optimizing compiler
 - [mpmendespt/Ext4Fsd](https://github.com/mpmendespt/Ext4Fsd) - Ext4 file system driver for Windows
 - [Battelle/movfuscator](https://github.com/Battelle/movfuscator) - The single instruction C compiler
-- [earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico) - Raspberry Pi Pico Arduino core, for all RP2040 boards
 - [zhovner/OneFileLinux](https://github.com/zhovner/OneFileLinux) - Live linux distro combined in one ~20MB file. Runs on any UEFI computer.
 - [embeddedartistry/arduino-printf](https://github.com/embeddedartistry/arduino-printf) - Add printf support to the Arduino SDK
 - [tyfkda/xcc](https://github.com/tyfkda/xcc) - Toy C compiler for x86-64/aarch64/riscv64/wasm
@@ -682,6 +681,7 @@
 - [brookmiles/windows-heic-thumbnails](https://github.com/brookmiles/windows-heic-thumbnails) - Enable Windows Explorer to display thumbnails for HEIC files
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [gphalkes/tilde](https://github.com/gphalkes/tilde) - The Tilde text editor
+- [earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico) - Raspberry Pi Pico Arduino core, for all RP2040 boards
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
