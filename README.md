@@ -359,7 +359,7 @@
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [gup4win/wingup](https://github.com/gup4win/wingup) - WinGup - Generic Updater for Windows
 - [Coreforge/linux](https://github.com/Coreforge/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum
-- [Mashpoe/c-vector](https://github.com/Mashpoe/c-vector) - a simple vector library written in C. Can store any type
+- [Mashpoe/c-vector](https://github.com/Mashpoe/c-vector) - A simple vector library for C that can store any type.
 - [probonopd/zsync-curl](https://github.com/probonopd/zsync-curl) - Partial/differential file download client over HTTP(S)
 - [wyatt8740/glc](https://github.com/wyatt8740/glc) - Original nullkey/glc repository backup. "glc is an ALSA & OpenGL capture tool for Linux." Preserving the legacy of the now-disappeared repository https://github.com/nullkey/glc . Made from the clone o
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
