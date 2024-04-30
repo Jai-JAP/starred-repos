@@ -521,7 +521,7 @@
 - [clashbyte/openvice](https://github.com/clashbyte/openvice) - Grand Theft Auto: Vice City Open Source port to C#
 - [in0finite/SanAndreasUnity](https://github.com/in0finite/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
 - [krlvm/BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker
-- [Icepenguins101/charms-bar-port](https://github.com/Icepenguins101/charms-bar-port) - The solution for restoring the Windows 8.x Charms Bar to Windows 10 and Windows 11
+- [Icepenguins101/charms-bar-port](https://github.com/Icepenguins101/charms-bar-port) - Charms Bar Revived for Windows 10 and Windows 11
 - [Pdawg-bytes/factoryos-10x-shell](https://github.com/Pdawg-bytes/factoryos-10x-shell) - A Win10x shell recreation to run in place of the default FactoryOS shell.
 - [FrozenAssassine/Fastedit](https://github.com/FrozenAssassine/Fastedit) - Fastedit is a lightweight and fluent Texteditor for Windows
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
