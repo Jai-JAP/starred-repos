@@ -130,6 +130,7 @@
 
 ## C 
 
+- [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [flonatel/pipexec](https://github.com/flonatel/pipexec) - Handling pipe of commands like a single command
@@ -2274,7 +2275,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-577-Stars](https://github.com/iBug/This-Repo-Has-577-Stars) - Yes, it's true :gift_heart: This repository has 577 stars.
+- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :revolving_hearts: This repository has 578 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2875,7 +2876,7 @@
 - [pyavitz/scripts](https://github.com/pyavitz/scripts) - misc scripts
 - [pyavitz/rpi-img-builder](https://github.com/pyavitz/rpi-img-builder) - Image Builder for the Raspberry Pi
 - [pyavitz/debian-image-builder](https://github.com/pyavitz/debian-image-builder) - Debian image builder for single board computers
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [termux/x11-packages](https://github.com/termux/x11-packages) - A set of packages using X11 Windows System.
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
