@@ -2131,7 +2131,7 @@
 - [Red-exe-Engineer/Toybox](https://github.com/Red-exe-Engineer/Toybox) - A simple(ish) tool to list installed commands
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [Jack477/DynamicWallpaper](https://github.com/Jack477/DynamicWallpaper) - Dynamic wallpaper for Xfce
-- [CoolCat467/fix-lwjgl](https://github.com/CoolCat467/fix-lwjgl) - Fix LWJGL (Light Weight Java Game Library) java classpath data for ARM devices
+- [CoolCat467/fix-lwjgl](https://github.com/CoolCat467/fix-lwjgl) - Fix which LWJGL (Light Weight Java Game Library) version is used in Minecraft for ARM devices
 - [DrGFreeman/pdfmerge](https://github.com/DrGFreeman/pdfmerge) - Merge scanned pdf documents of odd and even pages into a single pdf document
 - [WOA-Project/SurfaceDuo-Guides](https://github.com/WOA-Project/SurfaceDuo-Guides) - Guides for the Surface Duo
 - [Will-777/spawn_mobs_mcpi](https://github.com/Will-777/spawn_mobs_mcpi) - Python script to spawn some mobs in your Minecraft Pi world, Raspberry Pi version
