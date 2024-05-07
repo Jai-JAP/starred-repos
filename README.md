@@ -135,7 +135,7 @@
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [flonatel/pipexec](https://github.com/flonatel/pipexec) - Handling pipe of commands like a single command
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
-- [Genivia/ugrep-indexer](https://github.com/Genivia/ugrep-indexer) - A monotonic indexer to speed up grepping by &gt;10x
+- [Genivia/ugrep-indexer](https://github.com/Genivia/ugrep-indexer) - A monotonic indexer to speed up grepping by &gt;10x (ugrep-indexer is now part of ugrep 6.0)
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [termux/proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
@@ -601,8 +601,8 @@
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [AmirDahan/Application-Template](https://github.com/AmirDahan/Application-Template) - Just a modern application template with modern looking ui
-- [AmirDahan/WoR-ControlPanel](https://github.com/AmirDahan/WoR-ControlPanel) - Windows on Raspberry Control Panel is a simple utility to make your WoR experience just a little bit easier
+- [System64fumo/Application-Template](https://github.com/System64fumo/Application-Template) - Just a modern application template with modern looking ui
+- [System64fumo/WoR-ControlPanel](https://github.com/System64fumo/WoR-ControlPanel) - Windows on Raspberry Control Panel is a simple utility to make your WoR experience just a little bit easier
 - [microsoft/winget-create](https://github.com/microsoft/winget-create) - The Windows Package Manager Manifest Creator command-line tool (aka wingetcreate)
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [TheMindVirus/rpidiag](https://github.com/TheMindVirus/rpidiag) - Raspberry Pi Diagnostics serial monitor in C# .NETv4 Windows Forms [Any CPU]
@@ -618,7 +618,7 @@
 - [revng/revng](https://github.com/revng/revng) - revng: the core repository of the rev.ng project
 - [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pa
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.0: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [audacious-media-player/audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player
 - [bingmann/sound-of-sorting](https://github.com/bingmann/sound-of-sorting) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
@@ -1681,7 +1681,7 @@
 - [nsonaniya2010/SecretKeyWords](https://github.com/nsonaniya2010/SecretKeyWords) - Secret Keywords patterns - aggregated from different sources.
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [autotools-mirror/m4](https://github.com/autotools-mirror/m4) - GNU M4. Mirror of git://git.savannah.gnu.org/m4.git
-- [JustJordanT/Windows_11_Emjois](https://github.com/JustJordanT/Windows_11_Emjois) - 😜☁️⛅⛈️🌪️ This is an ongoing collection of the new Windows 11 Emoji set. Please note that these are PNG images and not editable SVGs. The emojis list will be updated with time. I am not associated with
+- [JustJordanT/windows_11_emojis](https://github.com/JustJordanT/windows_11_emojis) - 😜☁️⛅⛈️🌪️ This is an ongoing collection of the new Windows 11 Emoji set. Please note that these are PNG images and not editable SVGs. The emojis list will be updated with time. I am not associated with
 - [ventoy/DeleteVentoySecureBootKey](https://github.com/ventoy/DeleteVentoySecureBootKey) - How to delete the secure boot key enrolled by Ventoy.
 - [Seabreg/resource_hacker](https://github.com/Seabreg/resource_hacker) - 
 - [zdotsh/git-io-replace](https://github.com/zdotsh/git-io-replace) - We offer a free replace with your old git.io URLs.
@@ -1804,7 +1804,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Jai-JAP/starred-repos](https://github.com/Jai-JAP/starred-repos) - List of my starred repos autogenerated
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
-- [AmirDahan/WoR-CP-Apps](https://github.com/AmirDahan/WoR-CP-Apps) - Application Repository Used for WoR-Cp's Appstore
+- [System64fumo/WoR-CP-Apps](https://github.com/System64fumo/WoR-CP-Apps) - Application Repository Used for WoR-Cp's Appstore
 - [Aman9das/Waydroid_Setup_Guide](https://github.com/Aman9das/Waydroid_Setup_Guide) - 
 - [krishenriksen/schroot-chromium-armhf](https://github.com/krishenriksen/schroot-chromium-armhf) - Buy me a Coffee https://www.paypal.me/krishenriksendk
 - [layquack/Twister-UI-Manjaro](https://github.com/layquack/Twister-UI-Manjaro) - Twister UI for aarch64 Manjaro
@@ -3002,6 +3002,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
+- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [OhMyMndy/bin-get](https://github.com/OhMyMndy/bin-get) - Script to easily and safely fetch binaries from Github Releases/tags
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
