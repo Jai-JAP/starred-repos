@@ -186,7 +186,7 @@
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 - [PietJankbal/powershell-wrapper-for-wine](https://github.com/PietJankbal/powershell-wrapper-for-wine) - pwsh
-- [pbatard/efifs](https://github.com/pbatard/efifs) - EFI FileSystem drivers
+- [pbatard/EfiFs](https://github.com/pbatard/EfiFs) - EFI FileSystem drivers
 - [maharmstone/quibble](https://github.com/maharmstone/quibble) - Quibble - the custom Windows bootloader
 - [ebiggers/ntfs-3g-system-compression](https://github.com/ebiggers/ntfs-3g-system-compression) - NTFS-3G plugin for reading "system compressed" files
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
@@ -2275,7 +2275,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :gift_heart: This repository has 578 stars.
+- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :sparkling_heart: This repository has 578 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2652,7 +2652,7 @@
 - [AlexRogalskiy/github-action-charts](https://github.com/AlexRogalskiy/github-action-charts) - 📊 GitHub action to generate graph charts
 - [dspinellis/pmonitor](https://github.com/dspinellis/pmonitor) - Progress monitor: monitor a job's progress
 - [vinceliuice/Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme) - Colloid icon theme for linux desktops
-- [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your active Raspberry
+- [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup your Raspberry
 - [KhanhNguyen9872/ubuntu-in-termux](https://github.com/KhanhNguyen9872/ubuntu-in-termux) - This is a script by which you can install Ubuntu in your termux application without a rooted device
 - [KhanhNguyen9872/Kali-Linux-aarch64-arm64-](https://github.com/KhanhNguyen9872/Kali-Linux-aarch64-arm64-) - Here is Server Kali-Linux (arm64) by KhanhNguyen9872
 - [KhanhNguyen9872/ubuntu-on-android](https://github.com/KhanhNguyen9872/ubuntu-on-android) - Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
