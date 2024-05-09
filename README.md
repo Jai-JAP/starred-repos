@@ -88,6 +88,7 @@
 
 ## Astro 
 
+- [e9x/chrome100](https://github.com/e9x/chrome100) - Collection of ChromeOS recovery images.
 - [Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng](https://github.com/Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng) - Lengthen your URLs: lo(x62).ng
 
 ## AutoHotkey 
@@ -1937,7 +1938,7 @@
 - [Clueless-Community/scrape-up](https://github.com/Clueless-Community/scrape-up) - A web-scraping-based python package that enables you to scrape data from various platforms like GitHub, Twitter, Instagram, or any useful website.
 - [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web) - Tabby Web - an SSH/Telnet/Serial client in your browser.
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
-- [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through a batch script.
+- [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [pwwang/toml-bench](https://github.com/pwwang/toml-bench) - Which toml package to use in python?
@@ -2985,7 +2986,6 @@
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [e9x/chrome100](https://github.com/e9x/chrome100) - Collection of ChromeOS recovery images.
 - [brunnerh/insert-unicode](https://github.com/brunnerh/insert-unicode) - A Visual Studio Code extension which adds commands for inserting unicode characters/codes.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io) - Nushell's main website, blog, book, and more
