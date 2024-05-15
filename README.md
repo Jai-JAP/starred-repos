@@ -68,6 +68,7 @@
 - [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
+- [WebAssembly](#webassembly)
 - [Zig](#zig)
 
 ## Adblock Filter List 
@@ -495,7 +496,8 @@
 
 ## C# # 
 
-- [PackJC/YoutubeToMP3](https://github.com/PackJC/YoutubeToMP3) - This Windows Forms application in C# allows users to download YouTube videos as MP3 files.
+- [Lixkote/UIForms](https://github.com/Lixkote/UIForms) - Gives a modern touch to your old Windows Forms applications. Originally by @raphael3292383.
+- [PackJC/YoutubeToMP3](https://github.com/PackJC/YoutubeToMP3) - This Windows Forms application in C# allows users to download YouTube videos as MP3 files. Open Source.
 - [ClementGre/ThreeFingerDragOnWindows](https://github.com/ClementGre/ThreeFingerDragOnWindows) - Enables macOS-style three-finger dragging functionality on Windows Precision touchpads.
 - [nearby-sharing/android](https://github.com/nearby-sharing/android) - Share files between android and PC via the Windows 10 / 11 built-in sharing functionality (Project Rome)
 - [OpenByteDev/ModernWpf.MessageBox](https://github.com/OpenByteDev/ModernWpf.MessageBox) - A drop-in replacement for System.Windows.MessageBox using a modern WPF UI.
@@ -1037,6 +1039,8 @@
 
 ## Go 
 
+- [andydunstall/pico](https://github.com/andydunstall/pico) - A reverse proxy to connect to external networks (tunnelling)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
@@ -1249,6 +1253,7 @@
 
 ## JavaScript 
 
+- [red-stone-network/clockwork](https://github.com/red-stone-network/clockwork) - It's like an operating system in your browser! [LIKE THIS REPO? STAR IT!]
 - [smartfoloo/lunarsync](https://github.com/smartfoloo/lunarsync) - An ultrafast, yet simple web proxy to unblock all of your favorites.
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update) - Update indicator for ArchLinux and Gnome-Shell
@@ -1500,7 +1505,7 @@
 ## Kotlin 
 
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
-- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy 
+- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to
 - [KieronQuinn/AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Port of Now Playing from Pixels to other Android devices
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
@@ -1593,6 +1598,9 @@
 
 ## Others 
 
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - J41LBR34K PR0MPT5
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [valpackett/awesome-gtk](https://github.com/valpackett/awesome-gtk) - List of awesome GTK (3/4) applications
 - [RyanRana/The-Simplest-Guide-to-Machine-Learning-Models.](https://github.com/RyanRana/The-Simplest-Guide-to-Machine-Learning-Models.) - 8 Articles and Project Builds to learn Machine Learning Models.
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) - Magisk module to block ads on android
@@ -1910,6 +1918,9 @@
 
 ## Python 
 
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory
+- [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 - [mijorus/smile](https://github.com/mijorus/smile) - An emoji picker for linux, with custom tags support and localization. I'll also put some random emojis here 🦁🐾🦔🦇
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
@@ -2349,7 +2360,6 @@
 - [sotanakamura/winui-rust](https://github.com/sotanakamura/winui-rust) - 
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
-- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 - [knurling-rs/defmt](https://github.com/knurling-rs/defmt) - Efficient, deferred formatting for logging on embedded systems
 - [RazrFalcon/rustybuzz](https://github.com/RazrFalcon/rustybuzz) - A complete harfbuzz's shaping algorithm port to Rust
@@ -3134,6 +3144,10 @@
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [ek0t0v/minecraft-launcher](https://github.com/ek0t0v/minecraft-launcher) - Launcher for Minecraft written in Electron and Node.js
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+
+## WebAssembly 
+
+- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 
 ## Zig 
 
