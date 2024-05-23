@@ -2076,7 +2076,7 @@
 - [IndieCoderMM/chess-gui](https://github.com/IndieCoderMM/chess-gui) - 2-player Chess game in a beautiful GUI with legal moves highlighting. Created using Python Chess & PySimpleGUI.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [MFDGaming/mcpe-0.6.1-patcher](https://github.com/MFDGaming/mcpe-0.6.1-patcher) - Applies pocket tool .mod patches on libminecraftpe.so
-- [Askaniy/TrueColorTools](https://github.com/Askaniy/TrueColorTools) - GUI application for calculating human-visible colors of celestial bodies from their photometry data
+- [Askaniy/TrueColorTools](https://github.com/Askaniy/TrueColorTools) - GUI application for calculating human-visible colors of celestial bodies from their photometric data
 - [Askaniy/fits2png](https://github.com/Askaniy/fits2png) - A small GUI program for converting space images
 - [mcastorina/graph-cli](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data
 - [Sven-Bo/advanced-gui-with-usersettings-and-menubar](https://github.com/Sven-Bo/advanced-gui-with-usersettings-and-menubar) - PySimpleGUI application with menu bar & settings (.ini) file to load/save user settings
@@ -2178,7 +2178,7 @@
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [pytest-dev/pytest-qt](https://github.com/pytest-dev/pytest-qt) - pytest plugin for Qt (PyQt5/PyQt6 and PySide2/PySide6) application testing
 - [actionschnitzel/sudo_passer](https://github.com/actionschnitzel/sudo_passer) - Sudo Password GUI to CLI
 - [novialriptide/gravity](https://github.com/novialriptide/gravity) - A puzzle game where you can control the gravity in the room you're in.
@@ -2296,7 +2296,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-578-Stars](https://github.com/iBug/This-Repo-Has-578-Stars) - Yes, it's true :heart: This repository has 578 stars.
+- [iBug/This-Repo-Has-579-Stars](https://github.com/iBug/This-Repo-Has-579-Stars) - Yes, it's true :revolving_hearts: This repository has 579 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
