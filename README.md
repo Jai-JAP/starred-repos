@@ -1257,6 +1257,7 @@
 
 ## JavaScript 
 
+- [4very/awesome-arc](https://github.com/4very/awesome-arc) - A list of awesome resources for Arc Browser.
 - [red-stone-network/clockwork](https://github.com/red-stone-network/clockwork) - It's like an operating system in your browser! [LIKE THIS REPO? STAR IT!]
 - [smartfoloo/lunarsync](https://github.com/smartfoloo/lunarsync) - An ultrafast, yet simple web proxy to unblock all of your favorites.
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
@@ -2011,7 +2012,7 @@
 - [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
-- [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
+- [nyxiereal/XToolbox](https://github.com/nyxiereal/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [rescuezilla/rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
@@ -2536,6 +2537,7 @@
 
 ## Shell 
 
+- [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps) - Finally use web apps the way they were designed to be used. Forget Arc if all you wanted is a clean design, this is for you.
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [jothi-prasath/gnomintosh](https://github.com/jothi-prasath/gnomintosh) - Gnomintosh - Macintosh look like theme for Gnome
 - [bryansteiner/gpu-passthrough-tutorial](https://github.com/bryansteiner/gpu-passthrough-tutorial) - 
