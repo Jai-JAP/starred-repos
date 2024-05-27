@@ -89,7 +89,6 @@
 
 ## Astro 
 
-- [e9x/chrome100](https://github.com/e9x/chrome100) - Collection of ChromeOS recovery images.
 - [Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng](https://github.com/Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng) - Lengthen your URLs: lo(x62).ng
 
 ## AutoHotkey 
@@ -177,6 +176,7 @@
 - [sysprog21/shecc](https://github.com/sysprog21/shecc) - A self-hosting and educational C optimizing compiler
 - [mpmendespt/Ext4Fsd](https://github.com/mpmendespt/Ext4Fsd) - Ext4 file system driver for Windows
 - [Battelle/movfuscator](https://github.com/Battelle/movfuscator) - The single instruction C compiler
+- [earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico) - Raspberry Pi Pico Arduino core, for all RP2040 boards
 - [zhovner/OneFileLinux](https://github.com/zhovner/OneFileLinux) - Live linux distro combined in one ~20MB file. Runs on any UEFI computer.
 - [embeddedartistry/arduino-printf](https://github.com/embeddedartistry/arduino-printf) - Add printf support to the Arduino SDK
 - [tyfkda/xcc](https://github.com/tyfkda/xcc) - Toy C compiler for x86-64/aarch64/riscv64/wasm
@@ -688,7 +688,6 @@
 - [brookmiles/windows-heic-thumbnails](https://github.com/brookmiles/windows-heic-thumbnails) - Enable Windows Explorer to display thumbnails for HEIC files
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [gphalkes/tilde](https://github.com/gphalkes/tilde) - The Tilde text editor
-- [earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico) - Raspberry Pi Pico Arduino core, for all RP2040 boards
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
@@ -1005,6 +1004,7 @@
 
 ## Dart 
 
+- [arcnations-united/evolve](https://github.com/arcnations-united/evolve) - A modern GTK Theme Manager for GNOME with GTK 4.0 support and some cool features.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [akuldeepj/tictactoe](https://github.com/akuldeepj/tictactoe) - 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1061,6 +1061,7 @@
 - [lima-vm/sshocker](https://github.com/lima-vm/sshocker) - ssh + reverse sshfs + port forwarder, in Docker-like CLI (predecessor of Lima)
 - [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) - Apx is the Vanilla OS package manager. It’s meant to be simple to use, but also powerful with support to installing packages from multiple sources without altering the root filesystem.
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
+- [e9x/chrome100](https://github.com/e9x/chrome100) - Collection of ChromeOS recovery images.
 - [gennaro-tedesco/element](https://github.com/gennaro-tedesco/element) - 🧪 periodic table on the command line
 - [gennaro-tedesco/stargazer](https://github.com/gennaro-tedesco/stargazer) - ⭐ github stats from the command line
 - [gennaro-tedesco/gh-i](https://github.com/gennaro-tedesco/gh-i) - 🔎 search your github issues interactively
@@ -1496,6 +1497,7 @@
 
 ## Jupyter Notebook 
 
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [soyarizaedgar/Flat-Full-NotTire_CNN](https://github.com/soyarizaedgar/Flat-Full-NotTire_CNN) - Convolutional Neural Network (CNN) Model to classificate flat tire / full tire / not tire
 - [SerdarHelli/The-Classification-of-Thyroid-Tumors-on-UltraSound-Images-using-Deep-Learning-Methods](https://github.com/SerdarHelli/The-Classification-of-Thyroid-Tumors-on-UltraSound-Images-using-Deep-Learning-Methods) - The Basic Classification
