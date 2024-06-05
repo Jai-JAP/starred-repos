@@ -1640,6 +1640,7 @@
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [cpredef/predef](https://github.com/cpredef/predef) - Pre-defined Compiler Macros wiki
+- [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows XP/2003 and up
 - [makedeb/prebuilt-mpr](https://github.com/makedeb/prebuilt-mpr) - The backend system powering the Prebuilt-MPR
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [BreeceW/Oxidized](https://github.com/BreeceW/Oxidized) - Windows 11 and 10 chat app
@@ -3056,7 +3057,6 @@
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [Muhammed-Rahif/Notepad](https://github.com/Muhammed-Rahif/Notepad) - Windows notepad in web with additional features! Made with typescript and nextjs.
-- [AH-dark/website-screenshot](https://github.com/AH-dark/website-screenshot) - Take screenshot for websites
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
