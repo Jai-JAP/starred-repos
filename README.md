@@ -443,6 +443,7 @@
 - [Acry/flappy](https://github.com/Acry/flappy) - Flappy Birds - A rapid prototype implementation in SDL2-C
 - [mmhobi7/xwinwrap](https://github.com/mmhobi7/xwinwrap) - X11 Window in desktop enviroment background
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu
+- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [cutiepi-io/cutiepi-drivers](https://github.com/cutiepi-io/cutiepi-drivers) - Drivers for the CutiePi tablet
 - [GNOME/mutter](https://github.com/GNOME/mutter) - Read-only mirror of https://gitlab.gnome.org/GNOME/mutter
@@ -875,6 +876,7 @@
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [filcuc/dotherside](https://github.com/filcuc/dotherside) - C language library for creating bindings for the Qt QML language
+- [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [linuxdeepin/dtkgui](https://github.com/linuxdeepin/dtkgui) - Deepin Toolkit, gui module for DDE look and feel
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [mickelson/attract](https://github.com/mickelson/attract) - A graphical front-end for command line emulators that hides the underlying operating system and is intended to be controlled with a joystick or gamepad.
@@ -893,6 +895,8 @@
 - [KDE/kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, X Window Manager and Wayland Compositor
 - [codenamecpp/carnage3d](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto 1 [GTA1]
 - [librerpi/rpi-tools](https://github.com/librerpi/rpi-tools) - 
+- [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 - [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
 - [winegui/WineGUI](https://github.com/winegui/WineGUI) - At last, a user-friendly Wine graphical interface (mirror from Gitlab)
@@ -1798,7 +1802,6 @@
 - [android-rpi/kernel_manifest](https://github.com/android-rpi/kernel_manifest) - Android-RPi Kernel Manifest
 - [open-sorcerer64/stacer-on-pi](https://github.com/open-sorcerer64/stacer-on-pi) - 
 - [joshnh/Git-Commands](https://github.com/joshnh/Git-Commands) - A list of commonly used Git commands
-- [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [speedcrunch/SpeedCrunch](https://github.com/speedcrunch/SpeedCrunch) - A fast, high-precision and powerful cross-platform desktop calculator.
@@ -1819,10 +1822,7 @@
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [alfaaarex/awesome-tweaks](https://github.com/alfaaarex/awesome-tweaks) - 💻 List of awesome programs and tweaks for Windows, macOS and Linux.
-- [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
-- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [ryanfortner/starred](https://github.com/ryanfortner/starred) - Curated list of my GitHub stars
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Jai-JAP/starred-repos](https://github.com/Jai-JAP/starred-repos) - List of my starred repos autogenerated
@@ -2351,7 +2351,7 @@
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 - [toastxc/egui](https://github.com/toastxc/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
-- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
+- [maestro-os/maestro](https://github.com/maestro-os/maestro) - Unix-like kernel written in Rust
 - [emanguy/rust-rest](https://github.com/emanguy/rust-rest) - A full template for a REST API written in Rust, engineered for maximum testability.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux.
@@ -2566,7 +2566,7 @@
 - [Jai-JAP/pi-apps](https://github.com/Jai-JAP/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [scotch-io/All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons) - A repo of every emoji icon as a separate file and commit.
-- [TuxVinyards/qqX](https://github.com/TuxVinyards/qqX) - qqX - Quickemu Virtual Machine Manager  -  A powerful desktop integrated interface for both advanced users and quickemu beginners alike
+- [TuxVinyards/qqX](https://github.com/TuxVinyards/qqX) - qqX - Quickemu Virtual Machine Manager  -  Easy download of Windows, Mac and  Linux. Straight forward and simple to run.  Ideal for advanced users and quickemu beginners alike.
 - [cheadrian/termux-chroot-proot-wine-box86_64](https://github.com/cheadrian/termux-chroot-proot-wine-box86_64) - Repo with instruction about how you can setup Proot / Chroot using Termux and GPU acceleration for Box86, Wine, etc.
 - [Audio4Linux/Viper4Linux](https://github.com/Audio4Linux/Viper4Linux) - Second iteration of Viper4Linux including smarter volume management and more to come... maybe.
 - [miaobuao/winapps](https://github.com/miaobuao/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
