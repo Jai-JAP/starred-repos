@@ -40,6 +40,7 @@
 - [NSIS](#nsis)
 - [Nim](#nim)
 - [Nix](#nix)
+- [Nushell](#nushell)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -986,7 +987,6 @@
 - [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [radxa/apt](https://github.com/radxa/apt) - radxa debian packages repository
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
-- [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [caracal-js/Incognito](https://github.com/caracal-js/Incognito) - Source code.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1503,6 +1503,7 @@
 
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X) - Demonstration of different algorithms and operations on faces. Star the repo⭐
 - [soyarizaedgar/Flat-Full-NotTire_CNN](https://github.com/soyarizaedgar/Flat-Full-NotTire_CNN) - Convolutional Neural Network (CNN) Model to classificate flat tire / full tire / not tire
 - [SerdarHelli/The-Classification-of-Thyroid-Tumors-on-UltraSound-Images-using-Deep-Learning-Methods](https://github.com/SerdarHelli/The-Classification-of-Thyroid-Tumors-on-UltraSound-Images-using-Deep-Learning-Methods) - The Basic Classification
 - [kritikaparmar-programmer/HealthCheck](https://github.com/kritikaparmar-programmer/HealthCheck) - Health Check ✔ is a Machine Learning Web Application made using Flask that can predict mainly three diseases i.e. Diabetes, Heart Disease, and Cancer.
@@ -1603,6 +1604,10 @@
 - [Tow-Boot/Tow-Boot](https://github.com/Tow-Boot/Tow-Boot) - An opinionated distribution of U-Boot. — https://matrix.to/#/#Tow-Boot:matrix.org?via=matrix.org
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
+## Nushell 
+
+- [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io) - Nushell's main website, blog, book, and more
+
 ## Objective-C 
 
 - [jcsalterego/pngpaste](https://github.com/jcsalterego/pngpaste) - Paste PNG into files, much like pbpaste does for text.
@@ -1621,7 +1626,6 @@
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) - Magisk module to block ads on android
 - [WhatTheBlock/WindowsSimplify](https://github.com/WhatTheBlock/WindowsSimplify) - Windows Simplify Project
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
-- [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X) - Demonstration of different algorithms and operations on faces. Star the repo⭐
 - [CathyKMeow/rosetta-linux-asahi](https://github.com/CathyKMeow/rosetta-linux-asahi) - Hacked RosettaLinux that runs on Asahi Linux
 - [ReVanced-Extended-Community/Patches-Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation) - Additional community documentation with screenshots for the various ReVanced Extended patches.
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
@@ -1785,6 +1789,7 @@
 - [Jai-JAP/freetube-armhf-builds](https://github.com/Jai-JAP/freetube-armhf-builds) - 
 - [Jai-JAP/Jai-JAP](https://github.com/Jai-JAP/Jai-JAP) - My GitHub profile readme
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
+- [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - User requested backgrounds for @Discord.
 - [android-rpi/local_manifests](https://github.com/android-rpi/local_manifests) - Android on Raspberry Pi : Entry-Point
 - [jay0lee/CPython-Windows-ARM64](https://github.com/jay0lee/CPython-Windows-ARM64) - Unofficial Python 3 binaries for Windows on ARM devices like the Surface Pro X
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -1803,7 +1808,6 @@
 - [open-sorcerer64/stacer-on-pi](https://github.com/open-sorcerer64/stacer-on-pi) - 
 - [joshnh/Git-Commands](https://github.com/joshnh/Git-Commands) - A list of commonly used Git commands
 - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [speedcrunch/SpeedCrunch](https://github.com/speedcrunch/SpeedCrunch) - A fast, high-precision and powerful cross-platform desktop calculator.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
@@ -2506,6 +2510,7 @@
 - [White-Oak/qml-rust](https://github.com/White-Oak/qml-rust) - QML (Qt Quick) bindings for Rust language
 - [Rust-GCC/cargo-gccrs](https://github.com/Rust-GCC/cargo-gccrs) - Gaining support for cargo via rustc-wrapper
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [KDE/rust-qt-binding-generator](https://github.com/KDE/rust-qt-binding-generator) - Generate bindings to use Rust code in Qt and QML
 - [SkwalExe/learn-rust](https://github.com/SkwalExe/learn-rust) - Free Rust 🦀 course in English 🇬🇧
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
@@ -3021,7 +3026,6 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [brunnerh/insert-unicode](https://github.com/brunnerh/insert-unicode) - A Visual Studio Code extension which adds commands for inserting unicode characters/codes.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-- [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io) - Nushell's main website, blog, book, and more
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [tmigone/pulseaudio](https://github.com/tmigone/pulseaudio) - A TypeScript based client library for PulseAudio
