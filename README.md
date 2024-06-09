@@ -540,7 +540,7 @@
 - [FrozenAssassine/TextControlBox-UWP](https://github.com/FrozenAssassine/TextControlBox-UWP) - A UWP based textbox with Syntaxhighlighting and support for very large amounts of text
 - [Rise-Software/Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) - One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 - [veler/notepad-based-calculator](https://github.com/veler/notepad-based-calculator) - A smart calculator using natural language processing
-- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - The stylish yet powerful GitHub client for Windows.
+- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - The best, stylish yet powerful GitHub client for Windows.
 - [lepoco/wpfui](https://github.com/lepoco/wpfui) - WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.
 - [FireCubeStudios/Run](https://github.com/FireCubeStudios/Run) - WinUI 3 Run
 - [2fast-team/2fast](https://github.com/2fast-team/2fast) - Two-Factor Authenticator Supporting TOTP (Windows 10 & Android, iOS, Linux and macOS App)
@@ -1789,7 +1789,7 @@
 - [Jai-JAP/freetube-armhf-builds](https://github.com/Jai-JAP/freetube-armhf-builds) - 
 - [Jai-JAP/Jai-JAP](https://github.com/Jai-JAP/Jai-JAP) - My GitHub profile readme
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
-- [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - User requested backgrounds for @Discord.
+- [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A database of custom user requested backgrounds for @Discord.
 - [android-rpi/local_manifests](https://github.com/android-rpi/local_manifests) - Android on Raspberry Pi : Entry-Point
 - [jay0lee/CPython-Windows-ARM64](https://github.com/jay0lee/CPython-Windows-ARM64) - Unofficial Python 3 binaries for Windows on ARM devices like the Surface Pro X
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -1932,6 +1932,7 @@
 
 ## Python 
 
+- [slashtechno/scrape-and-ntfy](https://github.com/slashtechno/scrape-and-ntfy) - An extremely customizable web scraper with a modular notification system and persistent storage via SQLite.
 - [TransformerOptimus/AutoNode](https://github.com/TransformerOptimus/AutoNode) - AutoNode: A Neuro-Graphic Self-Learnable Engine for Cognitive GUI Automation
 - [snorain/searxng](https://github.com/snorain/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
@@ -2349,6 +2350,7 @@
 
 ## Rust 
 
+- [rustcoreutils/posixutils-rs](https://github.com/rustcoreutils/posixutils-rs) - Core POSIX command line utilities in safe Rust
 - [integration-os/integrationos](https://github.com/integration-os/integrationos) - The open source Unified API
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [nokyan/resources](https://github.com/nokyan/resources) - Keep an eye on system resources
