@@ -134,6 +134,7 @@
 
 ## C 
 
+- [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
@@ -396,6 +397,7 @@
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [abakh/nbsdgames](https://github.com/abakh/nbsdgames) - A package of 18 text-based modern games
 - [kilograham/rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
+- [axeldavy/Xnine](https://github.com/axeldavy/Xnine) - 
 - [spencertipping/shell-tutorial](https://github.com/spencertipping/shell-tutorial) - How to write a UNIX shell, with a lot of background
 - [anotherlin/tcpl](https://github.com/anotherlin/tcpl) - Solutions for "The C Programming Language", 2nd Edition, Kernighan and Ritchie
 - [ohkimur/the-c-programming-language-2nd-edition-solutions](https://github.com/ohkimur/the-c-programming-language-2nd-edition-solutions) - Solutions to the exercises in the book "The C Programming Language" (2nd edition) by Brian W. Kernighan and Dennis M. Ritchie. This book is also referred to as K&R.
@@ -882,7 +884,6 @@
 - [linuxdeepin/dtkgui](https://github.com/linuxdeepin/dtkgui) - Deepin Toolkit, gui module for DDE look and feel
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [mickelson/attract](https://github.com/mickelson/attract) - A graphical front-end for command line emulators that hides the underlying operating system and is intended to be controlled with a joystick or gamepad.
-- [axeldavy/Xnine](https://github.com/axeldavy/Xnine) - 
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 - [fragmede/schroot](https://github.com/fragmede/schroot) - Securely enter a chroot and run a command or login shell
 - [doitsujin/dxvk-ags](https://github.com/doitsujin/dxvk-ags) - Experimental implementation of AGS D3D11 extensions for DXVK
