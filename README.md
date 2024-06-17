@@ -551,7 +551,7 @@
 - [WereDev/Wu10Man](https://github.com/WereDev/Wu10Man) - Enable/Disable Windows 10 Automatic Updates
 - [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [G-Stas/Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system.
 - [SyedAounHaiderNaqvi/To-Do_App](https://github.com/SyedAounHaiderNaqvi/To-Do_App) - A UWP app designed with WinUI 2.x controls, the To-Do app stores and displays your tasks and supports beautiful color themes.
@@ -1625,7 +1625,7 @@
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - J41LBR34K PR0MPT5 F0R 4LL M4J0R LLM5
+- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [valpackett/awesome-gtk](https://github.com/valpackett/awesome-gtk) - List of awesome GTK (3/4) applications
 - [RyanRana/The-Simplest-Guide-to-Machine-Learning-Models.](https://github.com/RyanRana/The-Simplest-Guide-to-Machine-Learning-Models.) - 8 Articles and Project Builds to learn Machine Learning Models.
@@ -2317,7 +2317,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-579-Stars](https://github.com/iBug/This-Repo-Has-579-Stars) - Yes, it's true :heartpulse: This repository has 579 stars.
+- [iBug/This-Repo-Has-580-Stars](https://github.com/iBug/This-Repo-Has-580-Stars) - Yes, it's true :two_hearts: This repository has 580 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
