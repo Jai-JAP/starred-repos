@@ -946,7 +946,6 @@
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
 - [discord-extensions/modern-indicators](https://github.com/discord-extensions/modern-indicators) - Updates Discord's indicators to feel more modern.
 - [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby!
-- [NYRI4/Couve](https://github.com/NYRI4/Couve) - A new look to discord
 - [CapnKitten/Spotify-Discord](https://github.com/CapnKitten/Spotify-Discord) - Combine Discord and Spotify into one
 - [defaultnamehere/verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
@@ -2537,6 +2536,7 @@
 
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [DiscordStyles/FrostedGlass](https://github.com/DiscordStyles/FrostedGlass) - Display your picture of choice with adjustable blur and brightness.
+- [NYRI4/Couve](https://github.com/NYRI4/Couve) - A new look to discord
 - [TakosThings/Fluent-Discord](https://github.com/TakosThings/Fluent-Discord) - Windows 11 Fluent Discord theme.
 - [Tropix126/wincss](https://github.com/Tropix126/wincss) - A SASS framework which emulates the styles of Fluent Design applications as seen in WinUI 2.4.
 - [FireCubeStudios/wincss](https://github.com/FireCubeStudios/wincss) - A SASS framework which emulates the styles of Fluent Design applications as seen in WinUI 2.4.
