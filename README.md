@@ -2283,7 +2283,7 @@
 - [PlayOnLinux/POL-POM-4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [jlu5/icoextract](https://github.com/jlu5/icoextract) - Extract icons from Windows PE files (.exe/.dll)
-- [natorsc/python-gtk-pygobject](https://github.com/natorsc/python-gtk-pygobject) - Repositório criado para centralizar dicas, tutoriais e exemplos de código sobre a construção de interfaces gráficas com a linguagem de programação Python (PyGObject) e o tookit gráfico GTK.
+- [natorsc/python-gtk-pygobject](https://github.com/natorsc/python-gtk-pygobject) - Repository created to centralize tips, tutorials and code examples on building graphical interfaces with the Python programming language (PyGObject) and the GTK graphics tookit.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -3129,7 +3129,7 @@
 
 ## VBScript 
 
-- [farag2/Office](https://github.com/farag2/Office) - Download and setup Office 2019/2021/365
+- [farag2/Office](https://github.com/farag2/Office) - Download and setup Office 2019/2021/2024/365
 - [echnobas/sxsc](https://github.com/echnobas/sxsc) - 
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 
