@@ -134,6 +134,7 @@
 
 ## C 
 
+- [ldelossa/way-shell](https://github.com/ldelossa/way-shell) - A Gnome-like shell for wayland compositors
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
@@ -623,6 +624,7 @@
 
 ## C++ 
 
+- [edisionnano/QDiskInfo](https://github.com/edisionnano/QDiskInfo) - CrystalDiskInfo alternative for Linux
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [xieyubo/WSL2](https://github.com/xieyubo/WSL2) - Some enhancements for Microsoft WSL2
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
@@ -1064,7 +1066,7 @@
 - [HikariKnight/ls-iommu](https://github.com/HikariKnight/ls-iommu) - A tool to list devices in iommu groups, useful for setting up VFIO
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [lima-vm/sshocker](https://github.com/lima-vm/sshocker) - ssh + reverse sshfs + port forwarder, in Docker-like CLI (predecessor of Lima)
-- [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) - Apx is the Vanilla OS package manager. It’s meant to be simple to use, but also powerful with support to installing packages from multiple sources without altering the root filesystem.
+- [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) - Apx (/à·peks/) is the default package manager in Vanilla OS. It is a wrapper around multiple package managers to install packages and run commands inside a managed container.
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [e9x/chrome100](https://github.com/e9x/chrome100) - Collection of ChromeOS recovery images.
 - [gennaro-tedesco/element](https://github.com/gennaro-tedesco/element) - 🧪 periodic table on the command line
@@ -1975,7 +1977,7 @@
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [fineanmol/Hacktoberfest2023](https://github.com/fineanmol/Hacktoberfest2023) - Make your first Pull Request on Hacktoberfest 2023. Don't forget to spread love and if you like give us a ⭐️
-- [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM) - Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM.
+- [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM) - Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM. Now with macOS Sequoia beta support!
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
 - [Clueless-Community/scrape-up](https://github.com/Clueless-Community/scrape-up) - A web-scraping-based python package that enables you to scrape data from various platforms like GitHub, Twitter, Instagram, or any useful website.
 - [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web) - Tabby Web - an SSH/Telnet/Serial client in your browser.
@@ -2562,6 +2564,7 @@
 
 ## Shell 
 
+- [ivan-hc/ArchImage](https://github.com/ivan-hc/ArchImage) - Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [aviaryan/utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - 🤓 Useful bash scripts to do automatable tasks with a single command
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
