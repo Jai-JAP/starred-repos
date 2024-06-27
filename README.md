@@ -59,7 +59,6 @@
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
 - [Smali](#smali)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [Tcl](#tcl)
 - [TeX](#tex)
@@ -136,7 +135,6 @@
 
 - [ldelossa/way-shell](https://github.com/ldelossa/way-shell) - A Gnome-like shell for wayland compositors
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
@@ -625,6 +623,7 @@
 ## C++ 
 
 - [edisionnano/QDiskInfo](https://github.com/edisionnano/QDiskInfo) - CrystalDiskInfo alternative for Linux
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [xieyubo/WSL2](https://github.com/xieyubo/WSL2) - Some enhancements for Microsoft WSL2
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
@@ -1136,6 +1135,7 @@
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [matthew-asuncion/Fast-YouTube-to-MP3-Converter-API](https://github.com/matthew-asuncion/Fast-YouTube-to-MP3-Converter-API) - Very Fast YouTube to MP3 & MP4 Converter API JSON, Python, JavaScript, iFrame, PHP, Android & iOS Video Downloader API
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [Tristan296/FileManager](https://github.com/Tristan296/FileManager) - File-Manager | GUI Desktop Application made in Python using PyQt5
 - [Parcoil/nativegames.net-v1](https://github.com/Parcoil/nativegames.net-v1) - Nativegames - Free Unblocked Games - Opensource
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - [Service is DOWN now] A badge generator service to count visitors of your markdown file.
@@ -2974,10 +2974,6 @@
 ## Smali 
 
 - [akbarri/ExaGear-SU](https://github.com/akbarri/ExaGear-SU) - Exagear Windows Emulator Decompiled Source Code & Add SU/ROOT
-
-## Svelte 
-
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 
 ## Swift 
 
