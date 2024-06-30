@@ -1947,6 +1947,7 @@
 
 ## Python 
 
+- [evalplus/evalplus](https://github.com/evalplus/evalplus) - Rigourous evaluation of LLM-synthesized code - NeurIPS 2023
 - [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API.
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
@@ -2597,7 +2598,7 @@
 - [Jai-JAP/pi-apps](https://github.com/Jai-JAP/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [scotch-io/All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons) - A repo of every emoji icon as a separate file and commit.
-- [TuxVinyards/qqX](https://github.com/TuxVinyards/qqX) - qqX - Virtual Machine Manager  -  Easy download of Windows, Mac and  Linux. Straight forward and simple to run.  Ideal for advanced users and QEMU beginners alike.
+- [TuxVinyards/qqX](https://github.com/TuxVinyards/qqX) - qqX - Virtual Machine Manager - Easy download of Windows, Mac and Linux. Straight forward and simple to run. Ideal for advanced users and QEMU beginners alike.
 - [cheadrian/termux-chroot-proot-wine-box86_64](https://github.com/cheadrian/termux-chroot-proot-wine-box86_64) - Repo with instruction about how you can setup Proot / Chroot using Termux and GPU acceleration for Box86, Wine, etc.
 - [Audio4Linux/Viper4Linux](https://github.com/Audio4Linux/Viper4Linux) - Second iteration of Viper4Linux including smarter volume management and more to come... maybe.
 - [miaobuao/winapps](https://github.com/miaobuao/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
