@@ -650,7 +650,7 @@
 - [ReMinecraftPE/mcped](https://github.com/ReMinecraftPE/mcped) - The Minecraft PE (mcpe01_canada.apk) Decompilation Project
 - [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer) - Free Media Player for Windows, Linux and Mac OS with YouTube support.
 - [ReMinecraftPE/mcpe](https://github.com/ReMinecraftPE/mcpe) - ReMinecraftPE - A custom experience based on Minecraft PE as of 2011.
-- [AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk) - Direct3D 8 to Vulkan translation for DXVK!
+- [AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk) - Direct3D 8 to Vulkan translation for DXVK! Merged into dxvk: https://github.com/doitsujin/dxvk
 - [itsfolf/Discord-Screenshare-Linux](https://github.com/itsfolf/Discord-Screenshare-Linux) - Updating Discord's shit because they won't do it themselves 2: Electric Boogaloo
 - [rvagg/rpi-newer-crosstools](https://github.com/rvagg/rpi-newer-crosstools) - Newer cross-compiler toolchains than are available @ https://github.com/raspberrypi/tools
 - [jupyter-xeus/xeus-cling](https://github.com/jupyter-xeus/xeus-cling) - Jupyter kernel for the C++ programming language
@@ -2334,7 +2334,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-581-Stars](https://github.com/iBug/This-Repo-Has-581-Stars) - Yes, it's true :sparkling_heart: This repository has 581 stars.
+- [iBug/This-Repo-Has-582-Stars](https://github.com/iBug/This-Repo-Has-582-Stars) - Yes, it's true :orange_heart: This repository has 582 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2385,7 +2385,7 @@
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Unix-like kernel written in Rust
 - [emanguy/rust-rest](https://github.com/emanguy/rust-rest) - A full template for a REST API written in Rust, engineered for maximum testability.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and MacOS.
+- [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [xremap/xremap](https://github.com/xremap/xremap) - Key remapper for X11 and Wayland
