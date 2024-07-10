@@ -133,7 +133,7 @@
 
 ## C 
 
-- [salykova/matmul.c](https://github.com/salykova/matmul.c) - 
+- [salykova/matmul.c](https://github.com/salykova/matmul.c) - Fast multi-threaded matrix multiplication in C.
 - [ldelossa/way-shell](https://github.com/ldelossa/way-shell) - A Gnome-like shell for wayland compositors
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
@@ -635,7 +635,7 @@
 - [revng/revng](https://github.com/revng/revng) - revng: the core repository of the rev.ng project
 - [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.1: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.2: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [audacious-media-player/audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player
 - [bingmann/sound-of-sorting](https://github.com/bingmann/sound-of-sorting) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
@@ -2334,7 +2334,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-582-Stars](https://github.com/iBug/This-Repo-Has-582-Stars) - Yes, it's true :orange_heart: This repository has 582 stars.
+- [iBug/This-Repo-Has-583-Stars](https://github.com/iBug/This-Repo-Has-583-Stars) - Yes, it's true :heart: This repository has 583 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
