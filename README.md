@@ -133,7 +133,7 @@
 
 ## C 
 
-- [salykova/matmul.c](https://github.com/salykova/matmul.c) - Fast multi-threaded matrix multiplication in C.
+- [salykova/matmul.c](https://github.com/salykova/matmul.c) - Fast multi-threaded matrix multiplication in C
 - [ldelossa/way-shell](https://github.com/ldelossa/way-shell) - A Gnome-like shell for wayland compositors
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
@@ -903,7 +903,7 @@
 - [codenamecpp/carnage3d](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto 1 [GTA1]
 - [librerpi/rpi-tools](https://github.com/librerpi/rpi-tools) - 
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
-- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 - [ValveSoftware/dxvk](https://github.com/ValveSoftware/dxvk) - dxvk tree containing branches used by Proton
 - [winegui/WineGUI](https://github.com/winegui/WineGUI) - At last, a user-friendly Wine graphical interface (mirror from Gitlab)
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
