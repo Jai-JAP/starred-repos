@@ -47,6 +47,7 @@
 - [PHP](#php)
 - [Pascal](#pascal)
 - [Perl](#perl)
+- [Pkl](#pkl)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
@@ -1091,7 +1092,6 @@
 - [dingqiangliu/mhtml2html](https://github.com/dingqiangliu/mhtml2html) - Convert MHTM file to single html embedded all resources with base64 encoding
 - [electron-userland/electron-build-service](https://github.com/electron-userland/electron-build-service) - Package Electron applications in a distributable format on any platform for any platform
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [SeungheonOh/pot](https://github.com/SeungheonOh/pot) - These are pixels, but on a terminal
@@ -1918,6 +1918,10 @@
 - [jnweiger/showspeed](https://github.com/jnweiger/showspeed) - print I/O activity of process, files, or network.
 - [apt-mirror/apt-mirror](https://github.com/apt-mirror/apt-mirror) - Official apt-mirror source.
 
+## Pkl 
+
+- [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
+
 ## PowerShell 
 
 - [SunsetTechuila/Cursor-Colors-Synchronizer](https://github.com/SunsetTechuila/Cursor-Colors-Synchronizer) - Synchronizes cursor colors with Windows
@@ -2310,7 +2314,6 @@
 - [Gamper98/Sudoku-Solver](https://github.com/Gamper98/Sudoku-Solver) - Sudoku solver written in python
 - [KrispyCamel4u/SysMonTask](https://github.com/KrispyCamel4u/SysMonTask) - Linux system monitor with the compactness and usefulness of windows task manager to allow higher control and monitoring.
 - [SW-Samuel/calculator](https://github.com/SW-Samuel/calculator) - calculator for mean deviation, instance, standard deviation and quartiles, using pysimplegui to produce the interface
-- [CoronaBorealis02/CalculusVisualiser](https://github.com/CoronaBorealis02/CalculusVisualiser) - Visualise Integration and Differentiation in python (Project for Computer Science AQA A level)
 - [ronreiter/interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials
 - [Chalarangelo/30-seconds-of-python](https://github.com/Chalarangelo/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [libredeb/comice-control-center](https://github.com/libredeb/comice-control-center) - A simply control center to monitor connections such as WiFi, Bluetooth, etc. And Monitor brightness and sound levels.
@@ -2334,7 +2337,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-583-Stars](https://github.com/iBug/This-Repo-Has-583-Stars) - Yes, it's true :heart: This repository has 583 stars.
+- [iBug/This-Repo-Has-583-Stars](https://github.com/iBug/This-Repo-Has-583-Stars) - Yes, it's true :gift_heart: This repository has 583 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
