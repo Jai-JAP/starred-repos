@@ -816,7 +816,7 @@
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 - [linuxdeepin/dde-control-center](https://github.com/linuxdeepin/dde-control-center) - Control panel of Deepin Desktop Environment.
@@ -1712,7 +1712,6 @@
 - [dortania/macOS-VMware-Guide](https://github.com/dortania/macOS-VMware-Guide) - Guide on making a AMD macOS virtual machine in VMware Player/Workstation
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
 - [CSMarckitus/Photoshop](https://github.com/CSMarckitus/Photoshop) - This program written in C will help you to automatically install everything you need and configure it so that you can run Photoshop on your Linux without problems.
-- [vxiiduu/VxKex](https://github.com/vxiiduu/VxKex) - Windows 7 API Extensions
 - [VernonGrant/gnu-c-language-manual](https://github.com/VernonGrant/gnu-c-language-manual) - This is a mirror of Richard Stallman's GNU C Language Intro and Reference, available in Markdown and PDF.
 - [chris1111/VoodooHDA-OC](https://github.com/chris1111/VoodooHDA-OC) - 
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
@@ -1884,6 +1883,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [AndrewPaglusch/FlashPaper](https://github.com/AndrewPaglusch/FlashPaper) - One-time encrypted password/secret sharing
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
