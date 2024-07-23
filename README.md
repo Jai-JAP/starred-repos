@@ -45,6 +45,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
@@ -1902,6 +1903,10 @@
 - [soxft/UrlShorting](https://github.com/soxft/UrlShorting) - A simple but powerful URL shortener
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
+
+## PLpgSQL 
+
+- [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
 
 ## Pascal 
 
