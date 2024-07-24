@@ -503,6 +503,7 @@
 
 ## C# # 
 
+- [robsonfelix/VMDetector](https://github.com/robsonfelix/VMDetector) - Detect virtual machine environments using C#
 - [Lixkote/UIForms](https://github.com/Lixkote/UIForms) - Gives a modern touch to your old Windows Forms applications. Originally by @raphael3292383.
 - [PackJC/YoutubeToMP3](https://github.com/PackJC/YoutubeToMP3) - This Windows Forms application in C# allows users to download YouTube videos as MP3 files. Open Source.
 - [ClementGre/ThreeFingerDragOnWindows](https://github.com/ClementGre/ThreeFingerDragOnWindows) - Enables macOS-style three-finger dragging functionality on Windows Precision touchpads.
@@ -1222,7 +1223,7 @@
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [atharvakale31/Real-Time_Face_Recognition_Android](https://github.com/atharvakale31/Real-Time_Face_Recognition_Android) - Real-Time Face Recognition App using Tensorflow Lite
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
-- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keymapper for Android
+- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Advanced keyboard and mouse input mapping tool
 - [KitsunedFox/termux-monet](https://github.com/KitsunedFox/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
 - [tisoft/microemu](https://github.com/tisoft/microemu) - Microemulator
@@ -1965,7 +1966,7 @@
 - [snorain/searxng](https://github.com/snorain/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.1, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 - [mijorus/smile](https://github.com/mijorus/smile) - An emoji picker for linux, with custom tags support and localization. I'll also put some random emojis here 🦁🐾🦔🦇
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
