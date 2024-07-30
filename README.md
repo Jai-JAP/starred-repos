@@ -1294,6 +1294,7 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
+- [fineanmol/Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️
 - [tekofx/linkleaf](https://github.com/tekofx/linkleaf) - 🍃 Alternative to LinkTree
 - [d3vr/yt-siphon](https://github.com/d3vr/yt-siphon) - Firefox add-on to open YouTube videos in open alternative frontends (e.g: Piped)
 - [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
@@ -1996,7 +1997,6 @@
 - [sio/bash-complete-partial-path](https://github.com/sio/bash-complete-partial-path) - Enhanced file path completion in bash (like in zsh)
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
-- [fineanmol/Hacktoberfest2023](https://github.com/fineanmol/Hacktoberfest2023) - Make your first Pull Request on Hacktoberfest 2023. Don't forget to spread love and if you like give us a ⭐️
 - [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM) - Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM. Now with macOS Sequoia beta support!
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
 - [Clueless-Community/scrape-up](https://github.com/Clueless-Community/scrape-up) - A web-scraping-based python package that enables you to scrape data from various platforms like GitHub, Twitter, Instagram, or any useful website.
@@ -2019,7 +2019,7 @@
 - [putkoff/Python-Tools](https://github.com/putkoff/Python-Tools) - A repository for python functions that can help make things a little easier
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [sebaubuntu-python/aospdtgen](https://github.com/sebaubuntu-python/aospdtgen) - LineageOS device tree generator
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Ilya114/Box64Droid](https://github.com/Ilya114/Box64Droid) - Running x86_64 applications on Android
 - [Viral-Doshi/Gesture-Controlled-Virtual-Mouse](https://github.com/Viral-Doshi/Gesture-Controlled-Virtual-Mouse) - Virtually controlling computer using hand-gestures and voice commands. Using MediaPipe, OpenCV Python.
 - [Py-KMS-Organization/py-kms](https://github.com/Py-KMS-Organization/py-kms) - KMS Server Emulator written in Python
