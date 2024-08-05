@@ -393,7 +393,7 @@
 - [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
 - [glfw/glfw-legacy](https://github.com/glfw/glfw-legacy) - Official repository of legacy GLFW 2.x
 - [abhayanigam/Learn_C](https://github.com/abhayanigam/Learn_C) - Introduction in C language and all basic codes.
-- [torralbaalla/n2vm](https://github.com/torralbaalla/n2vm) - No Name Virtual Machine.
+- [torralbaa/n2vm](https://github.com/torralbaa/n2vm) - No Name Virtual Machine.
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [abakh/nbsdgames](https://github.com/abakh/nbsdgames) - A package of 18 text-based modern games
 - [kilograham/rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
@@ -1259,7 +1259,7 @@
 - [google/gitiles](https://github.com/google/gitiles) - A simple browser for Git repositories.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [CoderLogy/Java-maths-calaculator-for-beginners](https://github.com/CoderLogy/Java-maths-calaculator-for-beginners) - I am learning java so I made a calculator with it to do some calculations. Lol
-- [torralbaalla/mc4k](https://github.com/torralbaalla/mc4k) - Minecraft 4K, but fixed.
+- [torralbaa/mc4k](https://github.com/torralbaa/mc4k) - Minecraft 4K, but fixed.
 - [MCPI-Revival/minecraft-4k-reborn](https://github.com/MCPI-Revival/minecraft-4k-reborn) - Our new big project! [APRIL FOOLS!]
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
@@ -2379,6 +2379,7 @@
 
 ## Rust 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) - Practice your typing skills
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
@@ -3095,7 +3096,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [AppOutlet/AppOutlet](https://github.com/AppOutlet/AppOutlet) - A Universal linux app store
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
-- [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer
+- [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer (WIP)
 - [pl4nty/spotify-public-likes](https://github.com/pl4nty/spotify-public-likes) - Sync your liked songs to a public Spotify playlist
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
