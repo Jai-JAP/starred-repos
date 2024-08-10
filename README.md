@@ -2694,7 +2694,7 @@
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [wimpysworld/machinespawn](https://github.com/wimpysworld/machinespawn) - Wrapper for machinectl and systemd-nspawn for creating containers
 - [TanmayPatil105/wifi-cli](https://github.com/TanmayPatil105/wifi-cli) - 📶 Wifi through command line
-- [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
+- [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - (Yes, the project is still alive 😃) This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
 - [saeziae/pkgbuild-linux-phytium](https://github.com/saeziae/pkgbuild-linux-phytium) - Archlinux package for Linux kernel on Phytium 飞腾
 - [M0Rf30/simonpi](https://github.com/M0Rf30/simonpi) - A quick & dirty script to emulate Raspberry PI family devices on your laptop.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
