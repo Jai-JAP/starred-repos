@@ -2150,7 +2150,7 @@
 - [tianocore/edk2-pytool-extensions](https://github.com/tianocore/edk2-pytool-extensions) - Extensions to the edk2 build system allowing for a more robust and plugin based build system and tool execution environment
 - [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) - ElevenClock: Customize Windows 11 taskbar clock
 - [hugsy/cemu](https://github.com/hugsy/cemu) - Cheap EMUlator: lightweight multi-architecture assembly playground
-- [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
+- [pyston/pyston](https://github.com/pyston/pyston) - (No longer maintained) A faster and highly-compatible implementation of the Python programming language.
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [VatsalP/pdf_utility](https://github.com/VatsalP/pdf_utility) - GUI to merge pdf files
 - [blender/blender-addons-contrib](https://github.com/blender/blender-addons-contrib) - This is an official read-only mirror.
