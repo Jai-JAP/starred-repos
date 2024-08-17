@@ -429,7 +429,7 @@
 - [petzval/btferret](https://github.com/petzval/btferret) - Python and C Bluetooth Library
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
-- [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines based on PCem.
+- [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines.
 - [lgblgblgb/xemu](https://github.com/lgblgblgb/xemu) - Emulations (running on Linux/Unix/Windows/macOS, utilizing SDL2) of some - mainly - 8 bit machines, including the Commodore LCD, Commodore 65, and the MEGA65 as well.
 - [CleanMachine1/C-Code](https://github.com/CleanMachine1/C-Code) - 
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
@@ -1225,7 +1225,7 @@
 - [atharvakale31/Real-Time_Face_Recognition_Android](https://github.com/atharvakale31/Real-Time_Face_Recognition_Android) - Real-Time Face Recognition App using Tensorflow Lite
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Advanced keyboard and mouse input mapping tool
-- [KitsunedFox/termux-monet](https://github.com/KitsunedFox/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
+- [Termux-Monet/termux-monet](https://github.com/Termux-Monet/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
 - [tisoft/microemu](https://github.com/tisoft/microemu) - Microemulator
 - [eiroca/microemu](https://github.com/eiroca/microemu) - Microemulator is pure Java implementation of J2ME in J2SE
@@ -1638,6 +1638,7 @@
 
 ## Others 
 
+- [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [patelkiran185/patelkiran185](https://github.com/patelkiran185/patelkiran185) - Config files for my GitHub profile.
 - [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
@@ -1910,6 +1911,7 @@
 
 ## PLpgSQL 
 
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
 - [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
 
 ## Pascal 
@@ -1960,6 +1962,7 @@
 
 ## Python 
 
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
 - [evalplus/evalplus](https://github.com/evalplus/evalplus) - Rigourous evaluation of LLM-synthesized code - NeurIPS 2023
 - [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API.
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
@@ -3024,6 +3027,7 @@
 
 ## TypeScript 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano) - Next-gen Clipboard Manager for Gnome Shell
