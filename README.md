@@ -624,6 +624,7 @@
 
 ## C++ 
 
+- [chrxh/alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
 - [spion/adbfs-rootless](https://github.com/spion/adbfs-rootless) - Mount Android phones on Linux with adb. No root required.
 - [isieo/adbFS](https://github.com/isieo/adbFS) - A Proof of concept fuse filesystem for android debugger
 - [edisionnano/QDiskInfo](https://github.com/edisionnano/QDiskInfo) - CrystalDiskInfo alternative for Linux
