@@ -129,6 +129,7 @@
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
+- [WOA-Project/SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers) - Collection of driver binaries for Surface Duo devices
 - [jeremyd2019/winautoconfig](https://github.com/jeremyd2019/winautoconfig) - automatic config for a Windows VM in QEMU, for ARM64 and AMD64
 
 ## C 
@@ -627,7 +628,7 @@
 - [chrxh/alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
 - [spion/adbfs-rootless](https://github.com/spion/adbfs-rootless) - Mount Android phones on Linux with adb. No root required.
 - [isieo/adbFS](https://github.com/isieo/adbFS) - A Proof of concept fuse filesystem for android debugger
-- [edisionnano/QDiskInfo](https://github.com/edisionnano/QDiskInfo) - CrystalDiskInfo alternative for Linux
+- [edisionnano/QDiskInfo](https://github.com/edisionnano/QDiskInfo) - QDiskInfo is a frontend for smartctl (part of the smartmontools package). It provides a user experience similar to CrystalDiskInfo. It shows the SMART (Self-Monitoring, Analysis, and Reporting Technol
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [xieyubo/WSL2](https://github.com/xieyubo/WSL2) - Some enhancements for Microsoft WSL2
@@ -1912,7 +1913,6 @@
 
 ## PLpgSQL 
 
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
 - [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
 
 ## Pascal 
@@ -2366,7 +2366,6 @@
 ## Roff 
 
 - [autotools-mirror/autoconf](https://github.com/autotools-mirror/autoconf) - GNU Autoconf. Mirror of git://git.savannah.gnu.org/autoconf.git
-- [WOA-Project/SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers) - Collection of driver binaries for Surface Duo devices
 - [RPi-Distro/chromium-browser](https://github.com/RPi-Distro/chromium-browser) - 
 
 ## Ruby 
@@ -2387,7 +2386,7 @@
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) - Practice your typing skills
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [rustcoreutils/posixutils-rs](https://github.com/rustcoreutils/posixutils-rs) - Core POSIX command line utilities in safe Rust
 - [integration-os/integrationos](https://github.com/integration-os/integrationos) - The open source Unified API
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
@@ -3028,6 +3027,7 @@
 
 ## TypeScript 
 
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
