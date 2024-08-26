@@ -182,7 +182,7 @@
 - [sysprog21/shecc](https://github.com/sysprog21/shecc) - A self-hosting and educational C optimizing compiler
 - [mpmendespt/Ext4Fsd](https://github.com/mpmendespt/Ext4Fsd) - Ext4 file system driver for Windows
 - [Battelle/movfuscator](https://github.com/Battelle/movfuscator) - The single instruction C compiler
-- [earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico) - Raspberry Pi Pico Arduino core, for all RP2040 boards
+- [earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico) - Raspberry Pi Pico Arduino core, for all RP2040 and RP2350 boards
 - [zhovner/OneFileLinux](https://github.com/zhovner/OneFileLinux) - Live linux distro combined in one ~20MB file. Runs on any UEFI computer.
 - [embeddedartistry/arduino-printf](https://github.com/embeddedartistry/arduino-printf) - Add printf support to the Arduino SDK
 - [tyfkda/xcc](https://github.com/tyfkda/xcc) - Standalone C compiler/assembler/linker/libc for x86-64/aarch64/riscv64/wasm
