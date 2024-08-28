@@ -934,7 +934,7 @@
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [ErnyTech/p7zip](https://github.com/ErnyTech/p7zip) - 
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
-- [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform Multicast-enabled VNC viewer based on LibVNCClient. The desktop version runs on Unix, Mac OS X and Windows. There also is an Android version.
+- [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform Multicast-enabled VNC viewer based on LibVNCClient. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
 - [TheMindVirus/pi4bdd](https://github.com/TheMindVirus/pi4bdd) - Second Monitor Support for Pi4 running Windows 10 for ARM Insider Build 21322
 - [TheMindVirus/ioctl](https://github.com/TheMindVirus/ioctl) - Example Implementation of Device I/O Control (IOCTL) in Windows 10 running on a Raspberry Pi 4
 - [TheMindVirus/roscos](https://github.com/TheMindVirus/roscos) - Visual Studio 2019 Compiled Source Directories of Windows Render/Compute-Only-Sample Drivers (ROS/COS)
