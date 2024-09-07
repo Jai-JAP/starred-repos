@@ -529,6 +529,7 @@
 - [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋 Improve your Windows 11 device's battery life. A WinUI 3 GUI for https://github.com/imbushuo/EnergyStar.
 - [goranalkovic/WinGetGui](https://github.com/goranalkovic/WinGetGui) - A very basic GUI for installing apps through WinGet
 - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
+- [semazurek/ET-Optimizer](https://github.com/semazurek/ET-Optimizer) - ET is a Batch/PowerShell GUI script to improve performance, debloat, optimize and enhance privacy for Windows 10/11.
 - [JitHubApp/JitHubV2](https://github.com/JitHubApp/JitHubV2) - GitHub WinUI Client
 - [MarkHopper24/barcodrod.io](https://github.com/MarkHopper24/barcodrod.io) - A free, modern barcode and QR code toolkit for Windows.
 - [RTFTR/AccentColorizer-E11-ForWASDK](https://github.com/RTFTR/AccentColorizer-E11-ForWASDK) - Accent Colorization for Windows 11 File Explorer Icon Glyphs
@@ -1520,6 +1521,8 @@
 
 ## Jupyter Notebook 
 
+- [flin3500/Cuda-Google-Colab](https://github.com/flin3500/Cuda-Google-Colab) - The cuda code is mainly for nvidia hardware device. This repo will show how to run cuda c or cuda cpp code on the google colab platform for free.
+- [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos) - A curated list of awesome machine learning frameworks, libraries and software (by language). I
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X) - Demonstration of different algorithms and operations on faces. Star the repo⭐
@@ -1941,7 +1944,6 @@
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [semazurek/ET-Optimizer](https://github.com/semazurek/ET-Optimizer) - ET is a Batch/PowerShell GUI script to improve performance, debloat, optimize and enhance privacy for Windows 10/11.
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [Marvin700/Windows_Optimisation_Pack](https://github.com/Marvin700/Windows_Optimisation_Pack) - Debloat & Optimise your Windows
@@ -3034,7 +3036,7 @@
 ## TypeScript 
 
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
