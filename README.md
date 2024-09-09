@@ -112,7 +112,6 @@
 - [LeoRH123/Windows-11-Cursor-Concept-Pro-v2.0](https://github.com/LeoRH123/Windows-11-Cursor-Concept-Pro-v2.0) - 
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [he3als/online-sxs](https://github.com/he3als/online-sxs) - An extension to sxsc to install CBS packages on a live installation of Windows.
-- [echnobas/sxs_offender](https://github.com/echnobas/sxs_offender) - 
 - [arturolegovich/BypassESU-v9-AIO](https://github.com/arturolegovich/BypassESU-v9-AIO) - BypassESU-v9-AIO for Windows 7 x64 & x86
 - [swagkarna/Defeat-Defender-V1.2.0](https://github.com/swagkarna/Defeat-Defender-V1.2.0) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC
 - [Typical0/Windows11-Debloat-Guide](https://github.com/Typical0/Windows11-Debloat-Guide) - 
@@ -529,7 +528,7 @@
 - [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋 Improve your Windows 11 device's battery life. A WinUI 3 GUI for https://github.com/imbushuo/EnergyStar.
 - [goranalkovic/WinGetGui](https://github.com/goranalkovic/WinGetGui) - A very basic GUI for installing apps through WinGet
 - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
-- [semazurek/ET-Optimizer](https://github.com/semazurek/ET-Optimizer) - ET is a Batch/PowerShell GUI script to improve performance, debloat, optimize and enhance privacy for Windows 10/11.
+- [semazurek/ET-Optimizer](https://github.com/semazurek/ET-Optimizer) - ET is a powerful application to improve performance, debloat, optimize and enhance privacy for Windows 10/11.
 - [JitHubApp/JitHubV2](https://github.com/JitHubApp/JitHubV2) - GitHub WinUI Client
 - [MarkHopper24/barcodrod.io](https://github.com/MarkHopper24/barcodrod.io) - A free, modern barcode and QR code toolkit for Windows.
 - [RTFTR/AccentColorizer-E11-ForWASDK](https://github.com/RTFTR/AccentColorizer-E11-ForWASDK) - Accent Colorization for Windows 11 File Explorer Icon Glyphs
@@ -1140,6 +1139,7 @@
 
 ## HTML 
 
+- [Skoolgq/Polaris](https://github.com/Skoolgq/Polaris) - The professional unblocked games site.
 - [jfmartinz/ResourceHub](https://github.com/jfmartinz/ResourceHub) - ResourceHub is an open-source project that serves as a one-stop repository of valuable resources curated by the amazing contributors in the community🚀
 - [TacoGuy21/ByeBlocker](https://github.com/TacoGuy21/ByeBlocker) - The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts)
 - [D3ch/hell](https://github.com/D3ch/hell) - 260+ unblocked games and ultraviolet. star this repo pls! This repo is currently being archived as of 1/22/24. Thank you everyone!
@@ -2704,7 +2704,7 @@
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [wimpysworld/machinespawn](https://github.com/wimpysworld/machinespawn) - Wrapper for machinectl and systemd-nspawn for creating containers
 - [TanmayPatil105/wifi-cli](https://github.com/TanmayPatil105/wifi-cli) - 📶 Wifi through command line
-- [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - (Yes, the project is still alive 😃) This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
+- [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - (Yes, the project is still alive 😃) This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch. A Linux to c
 - [saeziae/pkgbuild-linux-phytium](https://github.com/saeziae/pkgbuild-linux-phytium) - Archlinux package for Linux kernel on Phytium 飞腾
 - [M0Rf30/simonpi](https://github.com/M0Rf30/simonpi) - A quick & dirty script to emulate Raspberry PI family devices on your laptop.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
@@ -3180,7 +3180,6 @@
 ## VBScript 
 
 - [farag2/Office](https://github.com/farag2/Office) - Download and setup Office 2019/2021/2024/365
-- [echnobas/sxsc](https://github.com/echnobas/sxsc) - 
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 
 ## Vala 
