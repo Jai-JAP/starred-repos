@@ -1056,6 +1056,7 @@
 
 ## Go 
 
+- [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [JFryy/qq](https://github.com/JFryy/qq) - jq inspired (and gojq dependent) interoperable config format transcoder with interactive querying.
