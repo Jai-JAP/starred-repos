@@ -2376,7 +2376,7 @@
 ## Roff 
 
 - [autotools-mirror/autoconf](https://github.com/autotools-mirror/autoconf) - GNU Autoconf. Mirror of git://git.savannah.gnu.org/autoconf.git
-- [RPi-Distro/chromium-browser](https://github.com/RPi-Distro/chromium-browser) - 
+- [RPi-Distro/chromium](https://github.com/RPi-Distro/chromium) - 
 
 ## Ruby 
 
