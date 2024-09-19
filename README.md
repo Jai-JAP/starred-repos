@@ -1282,11 +1282,12 @@
 
 ## JavaScript 
 
+- [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative
 - [thel0ner/fdm](https://github.com/thel0ner/fdm) - free download manager
 - [fflewddur/tophat](https://github.com/fflewddur/tophat) - View CPU, memory, disk, and network activity in the GNOME top bar.
 - [4very/awesome-arc](https://github.com/4very/awesome-arc) - A list of awesome resources for Arc Browser.
 - [red-stone-network/clockwork](https://github.com/red-stone-network/clockwork) - It's like an operating system in your browser! [LIKE THIS REPO? STAR IT!]
-- [smartfoloo/lunarsync](https://github.com/smartfoloo/lunarsync) - An ultrafast, yet simple web proxy to unblock all of your favorites.
+- [smartfoloo/lunarsync](https://github.com/smartfoloo/lunarsync) - An ultrafast, yet simple web proxy
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update) - Update indicator for ArchLinux and Gnome-Shell
 - [Page-David/fx991ex-QR](https://github.com/Page-David/fx991ex-QR) - Reverse engineering of Casio fx991ex calculator QR code
