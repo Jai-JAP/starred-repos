@@ -1493,7 +1493,7 @@
 - [Kajakklubben/gta2-webgl](https://github.com/Kajakklubben/gta2-webgl) - Why not port GTA2 to webgl? That's a great idea....
 - [niklasvh/WebGL-GTA](https://github.com/niklasvh/WebGL-GTA) - JavaScript implementation of GTA
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
@@ -1970,6 +1970,7 @@
 
 ## Python 
 
+- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST MIRROR! Main development repository is https://codeberg.org/Freedium-cfd/web
 - [IlNonoP/LibreRecall](https://github.com/IlNonoP/LibreRecall) - This is an open surce alternative at microsof recall and at OpenRecall (sorry... but OpenRecall isn't working on my waylnad KDE Arhc linux)
