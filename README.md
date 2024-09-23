@@ -51,6 +51,7 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
+- [ReScript](#rescript)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -60,6 +61,7 @@
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
 - [Smali](#smali)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [Tcl](#tcl)
 - [TeX](#tex)
@@ -974,7 +976,6 @@
 - [koush/adb.clockworkmod.com](https://github.com/koush/adb.clockworkmod.com) - 
 - [StylishThemes/StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
-- [purogamer/Fluent-for-Steam](https://github.com/purogamer/Fluent-for-Steam) - Fluent for Steam. A simple skin for steam to make it look like windows 11.
 - [discord-modifications/dark-discord](https://github.com/discord-modifications/dark-discord) - An actual dark mode for discord.
 - [B00merang-Project/Windows-XP](https://github.com/B00merang-Project/Windows-XP) - Windows XP themes
 - [B00merang-Project/Windows-8-Metro](https://github.com/B00merang-Project/Windows-8-Metro) - GTK theme taking styles & colors from Windows 8.1 Metro apps
@@ -1493,7 +1494,7 @@
 - [Kajakklubben/gta2-webgl](https://github.com/Kajakklubben/gta2-webgl) - Why not port GTA2 to webgl? That's a great idea....
 - [niklasvh/WebGL-GTA](https://github.com/niklasvh/WebGL-GTA) - JavaScript implementation of GTA
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
@@ -2376,6 +2377,10 @@
 - [KDE/plasma-mobile](https://github.com/KDE/plasma-mobile) - Plasma shell for mobile devices
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
+## ReScript 
+
+- [purogamer/Fluent-for-Steam](https://github.com/purogamer/Fluent-for-Steam) - Fluent for Steam. A simple skin for steam to make it look like windows 11.
+
 ## Roff 
 
 - [autotools-mirror/autoconf](https://github.com/autotools-mirror/autoconf) - GNU Autoconf. Mirror of git://git.savannah.gnu.org/autoconf.git
@@ -2776,7 +2781,7 @@
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [wimpysworld/ubuntu-pi-image](https://github.com/wimpysworld/ubuntu-pi-image) - Raspberry Pi 🥧 image creator for Ubuntu MATE 🧉
 - [51sec/xrdp4arm](https://github.com/51sec/xrdp4arm) - 
-- [LukeShortCloud/winesapOS](https://github.com/LukeShortCloud/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
+- [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS) - winesapOS - Game with Linux anywhere, no installation required!
 - [openFyde/overlay-rpi4-openfyde](https://github.com/openFyde/overlay-rpi4-openfyde) - openFyde supported hardware Raspberry Pi 4 build artefacts and pre-built image releases.
 - [elementary/os](https://github.com/elementary/os) - The OS build system
 - [YurinDoctrine/ubuntu-base-setup](https://github.com/YurinDoctrine/ubuntu-base-setup) - A tweaker script works on Ubuntu or Debian
@@ -3020,6 +3025,10 @@
 
 - [akbarri/ExaGear-SU](https://github.com/akbarri/ExaGear-SU) - Exagear Windows Emulator Decompiled Source Code & Add SU/ROOT
 
+## Svelte 
+
+- [Muhammed-Rahif/Notepad](https://github.com/Muhammed-Rahif/Notepad) - Windows like notepad for cross platform.
+
 ## Swift 
 
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
@@ -3130,7 +3139,6 @@
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
-- [Muhammed-Rahif/Notepad](https://github.com/Muhammed-Rahif/Notepad) - Windows notepad in web with additional features! Made with typescript and nextjs.
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
