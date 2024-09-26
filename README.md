@@ -1063,7 +1063,7 @@
 - [JFryy/qq](https://github.com/JFryy/qq) - jq inspired (and gojq dependent) interoperable config format transcoder with interactive querying.
 - [piqoni/hn-text](https://github.com/piqoni/hn-text) - A text-first HN client.
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
@@ -1679,7 +1679,7 @@
 - [Priyanka488/SystemDesignResources](https://github.com/Priyanka488/SystemDesignResources) - Documenting resources and notes for learning system design.
 - [yaronelh/False-Positive-Center](https://github.com/yaronelh/False-Positive-Center) - Repository to help security vendors deal with false positives
 - [michalleptuch/fluent-emoji-gallery](https://github.com/michalleptuch/fluent-emoji-gallery) - Official issue-only repo for Fluent Emoji Gallery
-- [DesignLipsx/WinUI-3-Apps-List](https://github.com/DesignLipsx/WinUI-3-Apps-List) - A curated collection of over 380+ apps that embrace the WinUI 3 Design
+- [DesignLipsx/WinUI-3-Apps-List](https://github.com/DesignLipsx/WinUI-3-Apps-List) - A curated collection of over 420+ apps that embrace the WinUI 3 Design
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [prepkg/opencv-raspberrypi](https://github.com/prepkg/opencv-raspberrypi) - Precompiled OpenCV 4.10 binaries for Raspberry Pi 3 & 4
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
