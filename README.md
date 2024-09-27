@@ -1971,6 +1971,7 @@
 
 ## Python 
 
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST MIRROR! Main development repository is https://codeberg.org/Freedium-cfd/web
