@@ -1541,6 +1541,7 @@
 
 ## Kotlin 
 
+- [sakethpathike/Linkora](https://github.com/sakethpathike/Linkora) - the only link utility app you need for Android
 - [shubham0204/FaceRecognition_With_FaceNet_Android](https://github.com/shubham0204/FaceRecognition_With_FaceNet_Android) - Face Recognition using the FaceNet model and MLKit on Android.
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A Android Application for share DeviceOwner
@@ -2359,7 +2360,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-589-Stars](https://github.com/iBug/This-Repo-Has-589-Stars) - Yes, it's true :two_hearts: This repository has 589 stars.
+- [iBug/This-Repo-Has-591-Stars](https://github.com/iBug/This-Repo-Has-591-Stars) - Yes, it's true :heartpulse: This repository has 591 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
