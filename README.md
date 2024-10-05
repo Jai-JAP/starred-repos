@@ -118,7 +118,6 @@
 - [Typical0/Windows11-Debloat-Guide](https://github.com/Typical0/Windows11-Debloat-Guide) - 
 - [SyXo/offlineinsiderenroll](https://github.com/SyXo/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
 - [abbodi1406/offlineinsiderenroll](https://github.com/abbodi1406/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [massgravel/MAS-Legacy-Methods](https://github.com/massgravel/MAS-Legacy-Methods) - 
 - [pal1000/mesa-dist-win](https://github.com/pal1000/mesa-dist-win) - Pre-built Mesa3D drivers for Windows
 - [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
@@ -830,7 +829,7 @@
 - [linuxdeepin/deepin-compressor](https://github.com/linuxdeepin/deepin-compressor) - 
 - [snes9xgit/snes9x](https://github.com/snes9xgit/snes9x) - Snes9x - Portable Super Nintendo Entertainment System (TM) emulator
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio) - TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
@@ -1282,6 +1281,7 @@
 
 ## JavaScript 
 
+- [NightProxy/Space](https://github.com/NightProxy/Space) - Space is a modern, and clean web proxy with many games, apps and features.
 - [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative
 - [thel0ner/fdm](https://github.com/thel0ner/fdm) - free download manager
 - [fflewddur/tophat](https://github.com/fflewddur/tophat) - View CPU, memory, disk, and network activity in the GNOME top bar.
@@ -1525,7 +1525,7 @@
 - [flin3500/Cuda-Google-Colab](https://github.com/flin3500/Cuda-Google-Colab) - The cuda code is mainly for nvidia hardware device. This repo will show how to run cuda c or cuda cpp code on the google colab platform for free.
 - [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos) - A curated list of awesome machine learning frameworks, libraries and software (by language). I
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X) - Demonstration of different algorithms and operations on faces. Star the repo⭐
 - [soyarizaedgar/Flat-Full-NotTire_CNN](https://github.com/soyarizaedgar/Flat-Full-NotTire_CNN) - Convolutional Neural Network (CNN) Model to classificate flat tire / full tire / not tire
 - [SerdarHelli/The-Classification-of-Thyroid-Tumors-on-UltraSound-Images-using-Deep-Learning-Methods](https://github.com/SerdarHelli/The-Classification-of-Thyroid-Tumors-on-UltraSound-Images-using-Deep-Learning-Methods) - The Basic Classification
@@ -1541,6 +1541,7 @@
 
 ## Kotlin 
 
+- [EtchDroid/EtchDroid](https://github.com/EtchDroid/EtchDroid) - An application to write OS images to USB drives, on Android, no root required.
 - [sakethpathike/Linkora](https://github.com/sakethpathike/Linkora) - the only link utility app you need for Android
 - [shubham0204/FaceRecognition_With_FaceNet_Android](https://github.com/shubham0204/FaceRecognition_With_FaceNet_Android) - Face Recognition using the FaceNet model and MLKit on Android.
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
@@ -1947,6 +1948,7 @@
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [Marvin700/Windows_Optimisation_Pack](https://github.com/Marvin700/Windows_Optimisation_Pack) - Debloat & Optimise your Windows
@@ -2092,7 +2094,7 @@
 - [shubhamc183/way2sms](https://github.com/shubhamc183/way2sms) - Send upto 100 free SMS within 10 seconds in India daily, unofficial API.
 - [mfr-fr/sms-sender](https://github.com/mfr-fr/sms-sender) - This script in python allows to send messages anonymously
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video upscaling framework. Est. Hack the Valley II, 2018.
 - [techwithtim/OpenCV-Tutorials](https://github.com/techwithtim/OpenCV-Tutorials) - All the code for the Tech With Tim Python OpenCV Tutorials.
 - [Vanilla-OS/vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer) - A frontend in GTK 4 and Libadwaita for Albius.
 - [FelipeeM/color-picker-on-the-screen](https://github.com/FelipeeM/color-picker-on-the-screen) - Identify hexadecimal and rgb codes of images on your screen with just a few clicks
@@ -2482,7 +2484,7 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) - A simple example with Rust and Cosmopolitan Libc
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
