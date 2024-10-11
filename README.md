@@ -1543,7 +1543,7 @@
 
 ## Kotlin 
 
-- [EtchDroid/EtchDroid](https://github.com/EtchDroid/EtchDroid) - An application to write OS images to USB drives, on Android, no root required.
+- [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
 - [sakethpathike/Linkora](https://github.com/sakethpathike/Linkora) - the only link utility app you need for Android
 - [shubham0204/FaceRecognition_With_FaceNet_Android](https://github.com/shubham0204/FaceRecognition_With_FaceNet_Android) - Face Recognition using the FaceNet model and MLKit on Android.
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
@@ -1983,7 +1983,7 @@
 - [IlNonoP/LibreRecall](https://github.com/IlNonoP/LibreRecall) - This is an open surce alternative at microsof recall and at OpenRecall (sorry... but OpenRecall isn't working on my waylnad KDE Arhc linux)
 - [SafeBreach-Labs/WindowsDowndate](https://github.com/SafeBreach-Labs/WindowsDowndate) - A tool that takes over Windows Updates to craft custom downgrades and expose past fixed vulnerabilities
 - [ptrsr/pi-ci](https://github.com/ptrsr/pi-ci) - Prepare Raspberry Pi 3, 4 & 5 configurations using a virtual machine.
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024
 - [evalplus/evalplus](https://github.com/evalplus/evalplus) - Rigourous evaluation of LLM-synthesized code - NeurIPS 2023
 - [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API.
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
@@ -3242,7 +3242,7 @@
 
 ## Vue 
 
-- [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps) - Finally use web apps the way they were designed to be used. Forget Arc if all you wanted is a clean design, this is for you.
+- [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps) - Let your web applications be free from your browser's frame. Free the web apps, frontend engineers deserve it!
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [juhaku/loginized](https://github.com/juhaku/loginized) - Gnome GDM Login Theme Manager. Easy and Fast Login Theme Manipulation
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
