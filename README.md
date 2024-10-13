@@ -1016,6 +1016,7 @@
 
 ## Dart 
 
+- [Shentia/PlayOn-Youtube-Music-APP](https://github.com/Shentia/PlayOn-Youtube-Music-APP) - Stream & Loop Unlimited Music
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [arcnations-united/evolve](https://github.com/arcnations-united/evolve) - A modern GTK Theme Manager for GNOME with GTK 4.0 support and some cool features.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -1282,6 +1283,7 @@
 
 ## JavaScript 
 
+- [dakouan18/vx.dev](https://github.com/dakouan18/vx.dev) - An open-source alternative to v0.dev. Cost-effective, highly customizable, and seamlessly integrated within GitHub.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [thekittycatclub/Kitty-Cat-Club](https://github.com/thekittycatclub/Kitty-Cat-Club) - Kitty Cat Club is a fast, yet simple UV-based proxy that provides the needs to all students, bypassing restrictions so you can explore the endless boundaries of the internet with lighting-fast speeds 
 - [NightProxy/Space](https://github.com/NightProxy/Space) - Space is a modern, and clean web proxy with many games, apps and features.
@@ -1975,6 +1977,7 @@
 
 ## Python 
 
+- [anordin95/run-llama-locally](https://github.com/anordin95/run-llama-locally) - Run and explore Llama models locally with minimal dependencies on CPU
 - [gaphor/gaphor](https://github.com/gaphor/gaphor) - Gaphor is the simple modeling tool
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
