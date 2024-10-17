@@ -136,7 +136,6 @@
 - [salykova/matmul.c](https://github.com/salykova/matmul.c) - Fast multi-threaded matrix multiplication in C
 - [ldelossa/way-shell](https://github.com/ldelossa/way-shell) - A Gnome-like shell for wayland compositors
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
@@ -628,6 +627,7 @@
 - [spion/adbfs-rootless](https://github.com/spion/adbfs-rootless) - Mount Android phones on Linux with adb. No root required.
 - [isieo/adbFS](https://github.com/isieo/adbFS) - A Proof of concept fuse filesystem for android debugger
 - [edisionnano/QDiskInfo](https://github.com/edisionnano/QDiskInfo) - QDiskInfo is a frontend for smartctl (part of the smartmontools package). It provides a user experience similar to CrystalDiskInfo. It shows the SMART (Self-Monitoring, Analysis, and Reporting Technol
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [xieyubo/WSL2](https://github.com/xieyubo/WSL2) - Some enhancements for Microsoft WSL2
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
@@ -689,7 +689,7 @@
 - [lavv17/lftp](https://github.com/lavv17/lftp) - sophisticated command line file transfer program (ftp, http, sftp, fish, torrent)
 - [jeffThompson/DarkArduinoTheme](https://github.com/jeffThompson/DarkArduinoTheme) - A dark theme for the Arduino IDE – no longer maintained :(
 - [WayfireWM/wcm](https://github.com/WayfireWM/wcm) - Wayfire Config Manager
-- [gta-reversed/gta-reversed-modern](https://github.com/gta-reversed/gta-reversed-modern) - Reimplementation of GTA:SA 1.0 US
+- [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed) - Reimplementation of GTA:SA 1.0 US
 - [aap/librw](https://github.com/aap/librw) - A re-implementation of the RenderWare Graphics engine
 - [csmith-project/csmith](https://github.com/csmith-project/csmith) - Csmith, a random generator of C programs
 - [HO-COOH/FastCopy](https://github.com/HO-COOH/FastCopy) - A GUI wrappers for Windows' built-in robocopy. QQ讨论群：479734355
@@ -1282,6 +1282,7 @@
 
 ## JavaScript 
 
+- [amarullz/windowgestures](https://github.com/amarullz/windowgestures) - GNOME Extension to Manage window with touchpad gestures
 - [dakouan18/vx.dev](https://github.com/dakouan18/vx.dev) - An open-source alternative to v0.dev. Cost-effective, highly customizable, and seamlessly integrated within GitHub.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [thekittycatclub/Kitty-Cat-Club](https://github.com/thekittycatclub/Kitty-Cat-Club) - Kitty Cat Club is a fast, yet simple UV-based proxy that provides the needs to all students, bypassing restrictions so you can explore the endless boundaries of the internet with lighting-fast speeds 
