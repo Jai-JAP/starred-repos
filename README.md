@@ -3035,7 +3035,7 @@
 
 ## Svelte 
 
-- [Muhammed-Rahif/Notpad](https://github.com/Muhammed-Rahif/Notpad) - The Notepad you love, from open source.
+- [Muhammed-Rahif/Notpad](https://github.com/Muhammed-Rahif/Notpad) - The ordinary notepad that everyone know, but it's rich!
 
 ## Swift 
 
