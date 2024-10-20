@@ -1178,7 +1178,7 @@
 - [ryanfortner/public-docs](https://github.com/ryanfortner/public-docs) - The repository for the new Fosshost documentation.
 - [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-- [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - A minimal, responsive and light theme for Hugo inspired by Linux console.
+- [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - Lightweight and responsive theme for Hugo, inspired by the Linux console designed for fast performance, with an average page load time of just 0.5 seconds.
 - [rollingrhinoremix/rollingrhinoremix.github.io](https://github.com/rollingrhinoremix/rollingrhinoremix.github.io) - This is the official repository for the Rolling Rhino Remix. Rolling Rhino Remix is an un-official Ubuntu flavour which converts the Ubuntu operating system into a rolling release Linux distribution b
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -1978,6 +1978,7 @@
 
 ## Python 
 
+- [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [anordin95/run-llama-locally](https://github.com/anordin95/run-llama-locally) - Run and explore Llama models locally with minimal dependencies on CPU
@@ -2370,7 +2371,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
-- [iBug/This-Repo-Has-591-Stars](https://github.com/iBug/This-Repo-Has-591-Stars) - Yes, it's true :heartpulse: This repository has 591 stars.
+- [iBug/This-Repo-Has-592-Stars](https://github.com/iBug/This-Repo-Has-592-Stars) - Yes, it's true :purple_heart: This repository has 592 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -3137,7 +3138,7 @@
 - [OhMyMndy/bin-get](https://github.com/OhMyMndy/bin-get) - Script to easily and safely fetch binaries from Github Releases/tags
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [MarshallOfSound/electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer) - An easy way to ensure Chrome DevTools extensions into Electron
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
