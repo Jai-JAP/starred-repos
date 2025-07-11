@@ -61,6 +61,7 @@
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
 - [Smali](#smali)
+- [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [Tcl](#tcl)
@@ -636,6 +637,7 @@
 
 ## C++ 
 
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [taj-ny/kwin-effects-forceblur](https://github.com/taj-ny/kwin-effects-forceblur) - Fork of the Plasma 6 blur effect with additional features (including force blur) and bug fixes.
 - [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
@@ -1279,6 +1281,7 @@
 
 ## Java 
 
+- [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material You, features and improvements
@@ -1345,6 +1348,8 @@
 
 ## JavaScript 
 
+- [Justmalhar/open-audio](https://github.com/Justmalhar/open-audio) - Open-Audio TTS: A robust web app leveraging OpenAI's powerful Text-to-Speech (TTS) models to generate natural-sounding audio from text. Built with modern web technologies for an intuitive user experie
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [jasmine/jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
 - [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
@@ -2143,6 +2148,14 @@
 
 ## Python 
 
+- [tau-yihouxiang/EX-4D](https://github.com/tau-yihouxiang/EX-4D) - The implementation of Extreme Viewpoint 4D Video Generation
+- [CN-makers/LongAnimation](https://github.com/CN-makers/LongAnimation) - 
+- [liuff19/LangScene-X](https://github.com/liuff19/LangScene-X) - [ICCV 2025] LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion
+- [HVision-NKU/DepthAnythingAC](https://github.com/HVision-NKU/DepthAnythingAC) - Official code for the paper: Depth Anything At Any Condition
+- [Calligrapher2025/Calligrapher](https://github.com/Calligrapher2025/Calligrapher) - Calligrapher: Freestyle Text Image Customization
+- [AIDC-AI/Ovis-U1](https://github.com/AIDC-AI/Ovis-U1) - An unified model that seamlessly integrates multimodal understanding, text-to-image generation, and image editing within a single powerful framework.
+- [kyutai-labs/delayed-streams-modeling](https://github.com/kyutai-labs/delayed-streams-modeling) - Kyutai's Speech-To-Text and Text-To-Speech models based on the Delayed Streams Modeling framework.
+- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [MeiGen-AI/PosterCraft](https://github.com/MeiGen-AI/PosterCraft) - Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
@@ -3334,6 +3347,10 @@
 
 - [akbarri/ExaGear-SU](https://github.com/akbarri/ExaGear-SU) - Exagear Windows Emulator Decompiled Source Code & Add SU/ROOT
 
+## Starlark 
+
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
+
 ## Svelte 
 
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
@@ -3360,6 +3377,9 @@
 
 ## TypeScript 
 
+- [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
+- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
+- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [bknd-io/bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
