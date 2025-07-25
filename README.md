@@ -601,7 +601,7 @@
 - [unoplatform/calculator](https://github.com/unoplatform/calculator) - Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downlo
 - [MaxtorCoder/MultiConverter](https://github.com/MaxtorCoder/MultiConverter) - Official WoW Model Converter (Originially written by Adspartan)
-- [KodeByWrath/NoMoreEdge](https://github.com/KodeByWrath/NoMoreEdge) - 
+- [HarshalKudale/NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge) - 
 - [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 - [driver1998/VMGuide](https://github.com/driver1998/VMGuide) - Virtual Machine utility, turn back BIOS date, disable ACPI and more.
@@ -3416,6 +3416,7 @@
 
 ## TypeScript 
 
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [coderamp-labs/pad.ws](https://github.com/coderamp-labs/pad.ws) - Whiteboard as an IDE, draw and code in your browser
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
