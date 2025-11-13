@@ -20,7 +20,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install starred
       - name: Check for stars changes
-        run: starred --username Jai-JAP --token ${{secrets.TOKEN}} --sort > README.md
+        run: starred --username Jai-JAP --token ${{secrets.GITHUB_TOKEN}} --sort > README.md
       - name: Push changes
         run: |
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
