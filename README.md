@@ -685,7 +685,7 @@
 - [b4rtaz/distributed-llama](https://github.com/b4rtaz/distributed-llama) - Distributed LLM inference. Connect home devices into a powerful cluster to accelerate LLM inference. More devices means faster inference.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
-- [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
+- [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
 - [seenaburns/dex-ui](https://github.com/seenaburns/dex-ui) - A science fiction desktop running on Linux. Awesome.
@@ -1214,6 +1214,7 @@
 - [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) - Apx (/à·peks/) is the default package manager in Vanilla OS. It is a wrapper around multiple package managers to install packages and run commands inside a managed container.
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [e9x/chrome100](https://github.com/e9x/chrome100) - Collection of ChromeOS recovery images.
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [gennaro-tedesco/element](https://github.com/gennaro-tedesco/element) - 🧪 periodic table on the command line
 - [gennaro-tedesco/stargazer](https://github.com/gennaro-tedesco/stargazer) - ⭐ github stats from the command line
 - [gennaro-tedesco/gh-i](https://github.com/gennaro-tedesco/gh-i) - 🔎 search your github issues interactively
@@ -1290,7 +1291,6 @@
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [rutikakengal/100DAYS_OF_100WEBPROJECTS](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS) - 100 Days 100 Web Projects is a frontend-focused open-source challenge where I build one project daily using HTML, CSS, and JavaScript. Contributors are welcome to add creative mini-projects, improve e
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
-- [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [shsfwork/awesome-inspiration](https://github.com/shsfwork/awesome-inspiration) - A curated collection of the best resources for designers and developers to elevate their projects. Explore inspiration for landing pages, SaaS, components, UX patterns, and much more.
 - [TheUnblockedHubOfficial/TheUnblockedHub](https://github.com/TheUnblockedHubOfficial/TheUnblockedHub) - The Unblocked Hub is the #1 site for all-in-one school entertainment. Accelerate your "learning" with our collection of games, apps, emulators, proxies, and so much more.
 - [Marc8019/bookmarklets](https://github.com/Marc8019/bookmarklets) - My library of bookmarklets for bypassing school filters (securly, goguardian, etc) make sure to read the readme to see how to use.
@@ -1485,6 +1485,7 @@
 - [hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite) - A light-weight torrent media center at one place.
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 - [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
+- [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
@@ -1810,6 +1811,7 @@
 
 ## Kotlin 
 
+- [anujja/DoNotNotify](https://github.com/anujja/DoNotNotify) - DoNotNotify app
 - [KieronQuinn/PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - A root app that enables you to add a number of features to the stock Pixel Launcher, without needing Xposed
 - [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - More Expressive InstallerX !
 - [t895/DNSNet](https://github.com/t895/DNSNet) - DNS filter for Android
@@ -1967,6 +1969,7 @@
 
 ## Others 
 
+- [rtedpro-cpu/dockermox](https://github.com/rtedpro-cpu/dockermox) - Run Proxmox VE in a docker container
 - [s0md3v/be-a-hacker](https://github.com/s0md3v/be-a-hacker) - roadmap for a self-taught hacker
 - [dbrun3/blur-my-rounded-window-corners](https://github.com/dbrun3/blur-my-rounded-window-corners) - Gnome shell and extension patches for blurry windows with round corners
 - [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering) - A curated list of awesome social engineering resources.
@@ -2110,7 +2113,6 @@
 - [CSMarckitus/Photoshop](https://github.com/CSMarckitus/Photoshop) - This program written in C will help you to automatically install everything you need and configure it so that you can run Photoshop on your Linux without problems.
 - [VernonGrant/gnu-c-language-manual](https://github.com/VernonGrant/gnu-c-language-manual) - This is a mirror of Richard Stallman's GNU C Language Intro and Reference, available in Markdown and PDF.
 - [chris1111/VoodooHDA-OC](https://github.com/chris1111/VoodooHDA-OC) - 
-- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [LiaBooks/C-Programming](https://github.com/LiaBooks/C-Programming) - Interactive Port of the Wikibook C-Programming to LiaScript (english)
 - [glocore/country-list](https://github.com/glocore/country-list) - JSON list of all countries with their timezones, lat/long, capital cities, dial codes and flag emojis.
 - [marchmountain/-Windows-XP-High-Resolution-Icon-Pack](https://github.com/marchmountain/-Windows-XP-High-Resolution-Icon-Pack) - These are the source PSDs of my DeviantArt icon pack. The files themselves may be a little sloppy. Bad organization, silly layer names, etc. But they got the job done. It was suggested I release them 
@@ -2266,7 +2268,6 @@
 - [Pi-Apps-Coders/files](https://github.com/Pi-Apps-Coders/files) - 
 - [worproject/RPi-Windows-Drivers](https://github.com/worproject/RPi-Windows-Drivers) - Windows on ARM device drivers for the Raspberry Pi single-board computer.
 - [Jai-JAP/RPi-GTA-re](https://github.com/Jai-JAP/RPi-GTA-re) - re3 (GTA 3) and reVC (GTA VC) compiled for RPi (armhf & arm64)
-- [SpacingBat3/discord-arm](https://github.com/SpacingBat3/discord-arm) - My approach to port Discord Official Client for the Linux ARM.
 - [pftf/RPi4](https://github.com/pftf/RPi4) - Raspberry Pi 4 UEFI Firmware Images
 
 ## PHP 
@@ -2413,7 +2414,6 @@
 - [Hunyuan-PromptEnhancer/PromptEnhancer](https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer) - PromptEnhancer is a prompt-rewriting tool, refining prompts into clearer, structured versions for better image generation.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [mfat/sshpilot](https://github.com/mfat/sshpilot) - User-friendly, cross-platform SSH connection manager
-- [CursorTouch/Windows-Use](https://github.com/CursorTouch/Windows-Use) - 🖥️Open-source Computer-USE for Windows
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) - MCP server integration for DaVinci Resolve
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -2968,6 +2968,7 @@
 
 ## Rust 
 
+- [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [dextero/smithay](https://github.com/dextero/smithay) - A smithy for rusty wayland compositors
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
@@ -3272,6 +3273,7 @@
 
 ## Shell 
 
+- [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 - [Ronin-CK/Zen-Backup-Tool](https://github.com/Ronin-CK/Zen-Backup-Tool) - A Simple Backup Tool for FireFox Forks / Zen Browser
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
@@ -3737,6 +3739,8 @@
 
 ## Swift 
 
+- [Bengerthelorf/macIconChanger](https://github.com/Bengerthelorf/macIconChanger) - Transform your Mac. One icon at a time.
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [skiptools/skip-ui](https://github.com/skiptools/skip-ui) - SwiftUI for Android
 - [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
@@ -3767,6 +3771,8 @@
 
 ## TypeScript 
 
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
+- [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [rbadillap/pastecn](https://github.com/rbadillap/pastecn) - pastebin + shadcn = pastecn. Paste your code and get a shadcn-compatible registry URL instantly.
 - [invoicerr-app/invoicerr](https://github.com/invoicerr-app/invoicerr) - Invoicerr is a freelance-focused invoicing app that lets you create quotes, generate invoices, track payments, and collect secure signatures.
@@ -4135,6 +4141,7 @@
 
 ## Vala 
 
+- [kem-a/AppManager](https://github.com/kem-a/AppManager) - MacOS style AppImage installer and management application
 - [bkw777/mainline](https://github.com/bkw777/mainline) - Install mainline kernel packages from kernel.ubuntu.com
 - [teejee2008/ukuu](https://github.com/teejee2008/ukuu) - A paid version of Ukuu is now available with more features. https://teejeetech.in/2019/01/20/ukuu-v19-01/                 Kernel Update Utility for Ubuntu-based distributions. Provides desktop notific
 - [teejee2008/groot](https://github.com/teejee2008/groot) - Chroot helper utility for all Linux distributions
