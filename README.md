@@ -11,6 +11,7 @@
 - [AutoHotkey](#autohotkey)
 - [AutoIt](#autoit)
 - [Batchfile](#batchfile)
+- [Bru](#bru)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -137,6 +138,10 @@
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 - [WOA-Project/SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers) - Collection of driver binaries for Surface Duo devices
 - [jeremyd2019/winautoconfig](https://github.com/jeremyd2019/winautoconfig) - automatic config for a Windows VM in QEMU, for ARM64 and AMD64
+
+## Bru 
+
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## C 
 
@@ -672,6 +677,7 @@
 - [BalajeS/WSL-For-FreeBSD](https://github.com/BalajeS/WSL-For-FreeBSD) - Experimental project to adapt the WSL2 open-source components to run FreeBSD OS
 - [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
 - [imputnet/helium-macos](https://github.com/imputnet/helium-macos) - Helium Browser for macOS
+- [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
@@ -1160,7 +1166,7 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [authgear/authgear-server](https://github.com/authgear/authgear-server) - Open source Auth0/Clerk/Firebase alternative. Passkeys, SSO, MFA, passwordless, biometric login. Self-hosted or cloud. Enterprise-ready for SaaS & mobile apps
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
-- [nao1215/filesql](https://github.com/nao1215/filesql) - sql driver for CSV, TSV, LTSV, Parquet, Excel with gzip, bzip2, xz, zstd support.
+- [nao1215/filesql](https://github.com/nao1215/filesql) - sql driver for CSV, TSV, LTSV, JSON, Parquet, Excel with gzip, bzip2, xz, zstd support.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
 - [Notifuse/notifuse](https://github.com/Notifuse/notifuse) - Notifuse is an open-source & modern emailing platform
 - [jzelinskie/faq](https://github.com/jzelinskie/faq) - Format Agnostic jQ -- process various formats with libjq
@@ -1310,7 +1316,7 @@
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A huge list of great stuff you can get for free!
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [Tristan296/FileManager](https://github.com/Tristan296/FileManager) - File-Manager | GUI Desktop Application made in Python using PyQt5
-- [parcoil/nativegames.net-v1](https://github.com/parcoil/nativegames.net-v1) - Nativegames - Free Unblocked Games - Opensource
+- [parcoillegacy/nativegames.net-v1](https://github.com/parcoillegacy/nativegames.net-v1) - Nativegames - Free Unblocked Games - Opensource
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - [Service is DOWN now] A badge generator service to count visitors of your markdown file.
 - [oxmc/browser-logos-css](https://github.com/oxmc/browser-logos-css) - 
 - [AbdulRKB/Anonymous-SMS](https://github.com/AbdulRKB/Anonymous-SMS) - You can send messages to your friends Anonymously by using this tool!
@@ -1488,7 +1494,6 @@
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [Justmalhar/open-audio](https://github.com/Justmalhar/open-audio) - Open-Audio TTS: A robust web app leveraging OpenAI's powerful Text-to-Speech (TTS) models to generate natural-sounding audio from text. Built with modern web technologies for an intuitive user experie
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
@@ -1517,7 +1522,7 @@
 - [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro) - Youtube client with older Android version support, background player, Google Gemini ✨ and many more features.
 - [ashboy27/Codeforces-Editorial-Blocker](https://github.com/ashboy27/Codeforces-Editorial-Blocker) - A Chrome extension that prevents premature access to Codeforces editorials by enforcing a series of thought-provoking questions and a timed delay before unlocking. Built to encourage problem-solving d
 - [anatolyzenkov/button-stealer](https://github.com/anatolyzenkov/button-stealer) - A Chrome extension that “steals” a button from every website you open.
-- [parcoil/lunaar.org](https://github.com/parcoil/lunaar.org) - *Please star if you fork* A simple open-source unblocked games site
+- [thedogecraft/lunaar.org](https://github.com/thedogecraft/lunaar.org) - *Please star if you fork* A simple open-source unblocked games site
 - [hotheadhacker/youtube-player](https://github.com/hotheadhacker/youtube-player) - youtube-player
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
@@ -1954,7 +1959,7 @@
 
 ## Nunjucks 
 
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## Objective-C 
 
@@ -1984,7 +1989,7 @@
 - [SheeshTony/ShizukuApps](https://github.com/SheeshTony/ShizukuApps) - The ultimate curated list of Android apps that use Shizuku for enhanced functionality without root access. Updated September 2025
 - [sabi-31/Modern_Arch_Linux_Install](https://github.com/sabi-31/Modern_Arch_Linux_Install) - A comprehensive guide to installing Arch Linux with all of the modern features.
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-- [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Lists of company wise questions available on leetcode premium. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode com
+- [liquidslr/interview-company-wise-problems](https://github.com/liquidslr/interview-company-wise-problems) - Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Ju
 - [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - If you want to become good at system design, join this newsletter now 👇
 - [dan1471/FREE-openai-api-keys](https://github.com/dan1471/FREE-openai-api-keys) - collection for free openai keys to use in your projects
 - [Xposed-Modules-Repo/io.github.alexdonh.noaccessibilityservices](https://github.com/Xposed-Modules-Repo/io.github.alexdonh.noaccessibilityservices) - NoAccessibilityServices
@@ -2348,6 +2353,7 @@
 
 ## Python 
 
+- [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [mrinfinidy/qrcode-pretty](https://github.com/mrinfinidy/qrcode-pretty) - Generate pretty QR codes right from your terminal
 - [hackclub/podium](https://github.com/hackclub/podium) - Podium is Hack Club's open-source peer-judging platform for hackathons
 - [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
@@ -2438,7 +2444,7 @@
 - [zjx0101/ObjectClear](https://github.com/zjx0101/ObjectClear) - ObjectClear: Complete Object Removal via Object-Effect Attention
 - [microsoft/DAViD](https://github.com/microsoft/DAViD) - 
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
-- [scottvr/wtffmpeg](https://github.com/scottvr/wtffmpeg) - a toy that has a local llm spit out ffmpeg commands from natural language prompts on the command-line
+- [scottvr/wtffmpeg](https://github.com/scottvr/wtffmpeg) - A minimal character terminal (console) REPL UI for controlling ffmpeg via natural language descriptions of input files and the desired outcome, powered by local or remote LLM. Shell-style history with
 - [HiDream-ai/HiDream-E1](https://github.com/HiDream-ai/HiDream-E1) - 
 - [AsahiLinux/widevine-installer](https://github.com/AsahiLinux/widevine-installer) - Widevine CDM installer for aarch64 systems
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
@@ -2454,10 +2460,11 @@
 - [AIDC-AI/Ovis-U1](https://github.com/AIDC-AI/Ovis-U1) - An unified model that seamlessly integrates multimodal understanding, text-to-image generation, and image editing within a single powerful framework.
 - [kyutai-labs/delayed-streams-modeling](https://github.com/kyutai-labs/delayed-streams-modeling) - Kyutai's Speech-To-Text and Text-To-Speech models based on the Delayed Streams Modeling framework.
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [MeiGen-AI/PosterCraft](https://github.com/MeiGen-AI/PosterCraft) - [ICLR2026] Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) - ⚡ TabPFN: Foundation Model for Tabular Data ⚡
 - [phillipberndt/fakexrandr](https://github.com/phillipberndt/fakexrandr) - Fake XRandR configurations for multi-head setups with crappy video drivers, like fakexinerama but with xrandr
 - [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video
@@ -2921,7 +2928,7 @@
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [stevenjwheeler/github-stats](https://github.com/stevenjwheeler/github-stats) - Better GitHub statistics images for your profile, no external server required
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [iBug/This-Repo-Has-628-Stars](https://github.com/iBug/This-Repo-Has-628-Stars) - Yes, it's true :heartbeat: This repository has 628 stars.
+- [iBug/This-Repo-Has-629-Stars](https://github.com/iBug/This-Repo-Has-629-Stars) - Yes, it's true :revolving_hearts: This repository has 629 stars.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Jack477/CommanderPi](https://github.com/Jack477/CommanderPi) - Easy RaspberryPi4 GUI system managment
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2970,7 +2977,7 @@
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [dextero/smithay](https://github.com/dextero/smithay) - A smithy for rusty wayland compositors
-- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
 - [deep-gaurav/warden-worker](https://github.com/deep-gaurav/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
@@ -3287,7 +3294,6 @@
 - [ih8d8/archstrap](https://github.com/ih8d8/archstrap) - Scripts to automate my encrypted Arch Linux setup
 - [LongQT-sea/macos-iso-builder](https://github.com/LongQT-sea/macos-iso-builder) - Generate bootable macOS installer ISO or DMG images directly from Apple servers via GitHub Actions - no Mac required.
 - [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
-- [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) - HyDE, your Development Environment 🖥️💻
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install from a Live ISO or with the Dotfiles Installer app wi
 - [Botspot/automaton](https://github.com/Botspot/automaton) - Automate any task on linux with computer vision
@@ -3881,6 +3887,7 @@
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The browser for web developers 🧑‍💻  Build your app right inside the browser while fully owning the codebase, take inspiration from the web and debug with AI
 - [subhadeeproy3902/mvpblocks](https://github.com/subhadeeproy3902/mvpblocks) - MVPBlocks is an open-source component library for developers to copy, customize, and launch MVPs lightning-fast—no installations, just pure productivity.
 - [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (+ Web) animation library, powered by Reanimated 3.
@@ -3895,7 +3902,6 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
 - [NickTikhonov/snap-ql](https://github.com/NickTikhonov/snap-ql) - AI-powered Postgres Client
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
@@ -3920,7 +3926,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
-- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
+- [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
@@ -3955,7 +3961,6 @@
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [aceternity/saasternity](https://github.com/aceternity/saasternity) - Open source SaaS boilerplate, built with Next.js and Aceternity UI, deployed on Vercel.
