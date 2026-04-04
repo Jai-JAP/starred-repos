@@ -22,6 +22,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [Fluent](#fluent)
 - [GDScript](#gdscript)
 - [Go](#go)
 - [Go Template](#go-template)
@@ -534,6 +535,7 @@
 
 ## C# # 
 
+- [jakeswenson/BitBetter](https://github.com/jakeswenson/BitBetter) - Modify bitwarden to provide my own licensing for self hosting
 - [microsoft/msstore-cli](https://github.com/microsoft/msstore-cli) - Microsoft Store CLI
 - [archistico/ShadeOfColor2](https://github.com/archistico/ShadeOfColor2) - A simple cross-platform tool to hide files inside PNG images
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
@@ -1142,6 +1144,10 @@
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [dwyl/hits](https://github.com/dwyl/hits) - :chart_with_upwards_trend: General purpose hits (page views) counter
 
+## Fluent 
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+
 ## GDScript 
 
 - [j-p-higgins/SoundThread](https://github.com/j-p-higgins/SoundThread) - Node based GUI for The Composers Desktop Project
@@ -1483,7 +1489,7 @@
 - [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list) - This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub
 - [lokus-ai/lokus](https://github.com/lokus-ai/lokus) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
 - [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [alyssaxuu/motionity](https://github.com/alyssaxuu/motionity) - The web-based motion graphics editor for everyone 📽
 - [petercunha/tts](https://github.com/petercunha/tts) - :pencil: :sound: A simple text-to-speech tool. Converts your text to speech with any Amazon Polly voices. Built with Node.js.
@@ -1819,6 +1825,9 @@
 
 ## Kotlin 
 
+- [mrYouki/YoukiDex-Android-Desktop](https://github.com/mrYouki/YoukiDex-Android-Desktop) - YoukiDEX  is a full Android desktop experience built on top of Smart Dock — no launcher swap needed. Runs as a system overlay with full UI customization, persistent dock, notification panel, icon pack
+- [Karna14314/Pdf_Tools](https://github.com/Karna14314/Pdf_Tools) - Privacy-first, offline PDF editor for Android. Merge, split, compress, convert and annotate PDFs — 100% on-device, no internet required.
+- [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) - Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 - [RookieEnough/De-ReVanced](https://github.com/RookieEnough/De-ReVanced) - De-ReVanced exists because the old way started getting frustrating, so I migrated everything to Morphe and turned it into a better, cleaner place to keep the experience alive.
 - [saad-khan-rind/NOSAtmosphereEffect](https://github.com/saad-khan-rind/NOSAtmosphereEffect) - Atmosphere Effect by Nothing for Android Devices on Android 13+
 - [AhmetCanArslan/ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) - Lightweight, no vpn firewall solution for Android 11+
@@ -2023,6 +2032,7 @@
 - [IceClear/SeedVR2](https://github.com/IceClear/SeedVR2) - [ICLR2026] SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training
 - [InterviewReady/ai-engineering-resources](https://github.com/InterviewReady/ai-engineering-resources) - Research papers and blogs to transition to AI Engineering
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [abint7/free-domains](https://github.com/abint7/free-domains) - Free subdomains for personal sites, open-source projects, and more.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [Vigilante-Hackers/ctf-resources](https://github.com/Vigilante-Hackers/ctf-resources) - A repository for getting started on Capture The Flag competitions.
@@ -2049,7 +2059,6 @@
 - [gi11es/equal-pay-for-equal-work](https://github.com/gi11es/equal-pay-for-equal-work) - This is a list of organizations that pay remote workers equally regardless of their location
 - [progrium/bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right!
 - [sech1p/windows-on-linux](https://github.com/sech1p/windows-on-linux) - 🖥️ Run Windows(-only) programs on Linux
-- [ramensoftware/windows-11-start-menu-styling-guide](https://github.com/ramensoftware/windows-11-start-menu-styling-guide) - A collection of commonly requested start menu styling customizations for Windows 11
 - [Xposed-Modules-Repo/top.ltfan.notdeveloper](https://github.com/Xposed-Modules-Repo/top.ltfan.notdeveloper) - 我不是开发者 / IAmNotADeveloper
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [patelkiran185/patelkiran185](https://github.com/patelkiran185/patelkiran185) - Config files for my GitHub profile.
@@ -2382,7 +2391,7 @@
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [ryzendew/Linux-Affinity-Installer](https://github.com/ryzendew/Linux-Affinity-Installer) - A repository that helps users get affinity software working on GNU/Linux 🐧
 - [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limit's. Join our Discord: https://discord.gg/ejRNvftDp9
 - [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 - [h3nock/scriptify](https://github.com/h3nock/scriptify) - A PyTorch handwriting-synthesis model built on Graves’ LSTM+attention paper, with multi-stage distributed training, a React demo UI, and a ready-to-use inference API.
@@ -2566,6 +2575,7 @@
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
+- [ramensoftware/windows-11-start-menu-styling-guide](https://github.com/ramensoftware/windows-11-start-menu-styling-guide) - A collection of commonly requested start menu styling customizations for Windows 11
 - [Samuobe/LibreRecall](https://github.com/Samuobe/LibreRecall) - This is an open surce alternative at microsof recall and at OpenRecall (sorry... but OpenRecall isn't working on my waylnad KDE Arhc linux)
 - [SafeBreach-Labs/WindowsDowndate](https://github.com/SafeBreach-Labs/WindowsDowndate) - A tool that takes over Windows Updates to craft custom downgrades and expose past fixed vulnerabilities
 - [ptrsr/pi-ci](https://github.com/ptrsr/pi-ci) - Prepare Raspberry Pi 3, 4 & 5 configurations using a virtual machine.
@@ -2579,7 +2589,7 @@
 - [snorain/searxng](https://github.com/snorain/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
 - [mijorus/smile](https://github.com/mijorus/smile) - An emoji picker for linux, with custom tags support and localization. I'll also put some random emojis here 🦁🐾🦔🦇
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -2604,7 +2614,6 @@
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [GabePoel/KvLibadwaita](https://github.com/GabePoel/KvLibadwaita) - Libadwaita style theme for Kvantum. Based on Colloid-kde.
 - [sio/bash-complete-partial-path](https://github.com/sio/bash-complete-partial-path) - Enhanced file path completion in bash (like in zsh)
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM) - Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM. Now with macOS Tahoe support!
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's t
@@ -2993,6 +3002,7 @@
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [bjn7/passkeyd](https://github.com/bjn7/passkeyd) - An Opinionated WebAuthn Authenticator Backed by a TPM
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [dextero/smithay](https://github.com/dextero/smithay) - A smithy for rusty wayland compositors
@@ -3005,7 +3015,7 @@
 - [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating with zoom, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. Written in Rust.
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [lzlrd/wsl-hello-sudo](https://github.com/lzlrd/wsl-hello-sudo) - Let's sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL). It runs on both WSL 1 and WSL 2. This is a PAM module for Linux on WSL.
 - [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
@@ -3179,7 +3189,7 @@
 - [alexcrichton/curl-rust](https://github.com/alexcrichton/curl-rust) - Rust bindings to libcurl
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc) - Cross platform command line utility for launching Minecraft quickly and reliably with included support for Mojang versions and popular mod loaders such as Fabric, Forge, NeoForge and derived.
+- [theorzr/portablemc](https://github.com/theorzr/portablemc) - Cross platform command line utility for launching Minecraft quickly and reliably with included support for Mojang versions and popular mod loaders such as Fabric, Forge, NeoForge and derived.
 - [linebender/runebender](https://github.com/linebender/runebender) - A font editor written in Rust.
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [brxken128/dexios](https://github.com/brxken128/dexios) - A secure file encryption utility, written in Rust.
@@ -3194,7 +3204,6 @@
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [pls-rs/pls](https://github.com/pls-rs/pls) - pls is a prettier and powerful ls(1) for the pros.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
@@ -3799,6 +3808,9 @@
 
 ## TypeScript 
 
+- [sayampy/deepdenoiser](https://github.com/sayampy/deepdenoiser) - An offline AI Audio Denoiser app built using DeepFilternet3
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
+- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is avail
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
@@ -3903,7 +3915,7 @@
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [Bytez-com/docs](https://github.com/Bytez-com/docs) - 1 API key. 220,000+ AI models. Bytez is the largest serverless Model Inference API on the internet. Let's build ✨
-- [campfirein/cipher](https://github.com/campfirein/cipher) - Byterover Cipher is an opensource memory layer specifically designed for coding agents. Compatible with Cursor, Codex, Claude Code, Windsurf, Cline, Claude Desktop, Gemini CLI, AWS's Kiro, VS Code, Ro
+- [campfirein/byterover-cli](https://github.com/campfirein/byterover-cli) - ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
 - [Nutlope/self.so](https://github.com/Nutlope/self.so) - LinkedIn -&gt; personal site generator
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - AI Product Design Agent - Open Source
@@ -4173,7 +4185,7 @@
 
 ## VBScript 
 
-- [farag2/Install-Office](https://github.com/farag2/Install-Office) - Download and install Microsoft 365 & Office 2019/2021/2024
+- [farag2/Install-Office](https://github.com/farag2/Install-Office) - Download Microsoft 365 & Microsoft Office 2019/2021/2024
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 
 ## Vala 
