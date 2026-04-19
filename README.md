@@ -178,7 +178,6 @@
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [termux/proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
-- [Gcenx/winecx](https://github.com/Gcenx/winecx) - Codeweavers modified wine version. This repository is just a mirror of https://media.codeweavers.com/pub/crossover/source/
 - [varmd/wine-wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [timschneeb/RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP) - An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices
@@ -2066,7 +2065,6 @@
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [patelkiran185/patelkiran185](https://github.com/patelkiran185/patelkiran185) - Config files for my GitHub profile.
 - [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for developers
@@ -2108,7 +2106,6 @@
 - [Pi-Apps-Coders/GitHub-Markdown](https://github.com/Pi-Apps-Coders/GitHub-Markdown) - Additional Markdown for GitHub
 - [Sv443-Network/JokeAPI](https://github.com/Sv443-Network/JokeAPI) - A free and open REST API that delivers consistently formatted jokes in JSON, XML, YAML, or plain text – with powerful filters to get just the jokes you want, no sign-up needed.
 - [TrickJoker312/Unblocked-Sites](https://github.com/TrickJoker312/Unblocked-Sites) - Join the official Unblocked Sites discord server! https://discord.gg/rcpC9VfE  The original Unblocked Sites repository :D This is  your go-to place for unblocked game sites! I'd also appreciate a star
-- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [mmtrt/box86-64_AppImage](https://github.com/mmtrt/box86-64_AppImage) - 
 - [sonnyp/awesome-gnome](https://github.com/sonnyp/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 - [sonnyp/awesome-gtk](https://github.com/sonnyp/awesome-gtk) - List of awesome GTK (3/4) applications
@@ -2379,6 +2376,7 @@
 
 ## Python 
 
+- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era ✨
 - [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
 - [armadasvc/armada](https://github.com/armadasvc/armada) - Kubernetes-native framework for bot and scraper orchestration
 - [0x0be/yesitsme](https://github.com/0x0be/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
@@ -2446,7 +2444,7 @@
 - [honmashironeko/ProxyCat](https://github.com/honmashironeko/ProxyCat) - 一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用
 - [bytedance/Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
-- [Hunyuan-PromptEnhancer/PromptEnhancer](https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer) - PromptEnhancer is a prompt-rewriting tool, refining prompts into clearer, structured versions for better image generation.
+- [Hunyuan-PromptEnhancer/PromptEnhancer](https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer) - [CVPR 2026] PromptEnhancer is a prompt-rewriting tool, refining prompts into clearer, structured versions for better image generation.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [mfat/sshpilot](https://github.com/mfat/sshpilot) - User-friendly, cross-platform SSH connection manager
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) - MCP server integration for DaVinci Resolve
@@ -2508,7 +2506,7 @@
 - [Neural-Nirvana/iota](https://github.com/Neural-Nirvana/iota) - AI terminal for easy IoT and robotics development
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [vivoCameraResearch/any-to-bokeh](https://github.com/vivoCameraResearch/any-to-bokeh) - [ICLR2026] Any-to-Bokeh is a novel one-step video bokeh framework that converts arbitrary input videos into temporally coherent, depth-aware bokeh effects.
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [xdavidhu/awesome-google-vrp-writeups](https://github.com/xdavidhu/awesome-google-vrp-writeups) - 🐛 A list of writeups from the Google VRP Bug Bounty program
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
