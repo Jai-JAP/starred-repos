@@ -141,6 +141,7 @@
 
 ## C 
 
+- [kristapsdz/openrsync](https://github.com/kristapsdz/openrsync) - BSD-licensed implementation of rsync
 - [kancko/gnome-rounded-blur](https://github.com/kancko/gnome-rounded-blur) - 
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
