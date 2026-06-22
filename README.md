@@ -629,7 +629,7 @@
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [unoplatform/calculator](https://github.com/unoplatform/calculator) - Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows
-- [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downlo
+- [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop, and Embedded apps from a single C#/XAML codebase. Work from any IDE/CLI with Hot Reload, Visual Designer, MCPs, and Skills
 - [MaxtorCoder/MultiConverter](https://github.com/MaxtorCoder/MultiConverter) - Official WoW Model Converter (Originially written by Adspartan)
 - [HarshalKudale/NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge) - 
 - [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
@@ -1493,7 +1493,6 @@
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [neuromorph/openbar](https://github.com/neuromorph/openbar) - A GNOME Shell extension for theming Gnome Top Bar / Top Panel, Menus, Dash/Dock, Gnome Shell and Gtk/Flatpak Apps.
 - [Mac-Web/macvg](https://github.com/Mac-Web/macvg) - ⭐ Please star if you want to fork ⭐ MacVG is the best unblocked game site with 450+ games and a ton of features!
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
 - [technomancer702/nodecast-tv](https://github.com/technomancer702/nodecast-tv) - A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large li
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list) - This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub
@@ -1828,7 +1827,6 @@
 - [kritikaparmar-programmer/HealthCheck](https://github.com/kritikaparmar-programmer/HealthCheck) - Health Check ✔ is a Machine Learning Web Application made using Flask that can predict mainly three diseases i.e. Diabetes, Heart Disease, and Cancer.
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [cesar-cipher/Python-Hand-Gesture-Recognition](https://github.com/cesar-cipher/Python-Hand-Gesture-Recognition) - A guide to using Python and OpenCV2 to create an application that can recognize hand gestures/movements.
-- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [jgmarquesm/Python](https://github.com/jgmarquesm/Python) - To upload my codes, solved exercises and advances while learning and studying Python.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
@@ -1838,6 +1836,8 @@
 
 ## Kotlin 
 
+- [arnesacnussem/jellyfin-documents-provider](https://github.com/arnesacnussem/jellyfin-documents-provider) - Use Poweramp with Jellyfin
+- [ishanjain28/jellyfin-saf-provider](https://github.com/ishanjain28/jellyfin-saf-provider) - A Jellyfin Android SAF provider intended to be used with applications like PowerAMP!
 - [1372Slash/Zenith](https://github.com/1372Slash/Zenith) - A Material Design 3 Expressive Digital Wellbeing App
 - [NikhilKain/vyxel-apps](https://github.com/NikhilKain/vyxel-apps) - Open-source GitHub-powered Android app store
 - [xavigsm10/RayMusic](https://github.com/xavigsm10/RayMusic) - 
@@ -2111,6 +2111,7 @@
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
+- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [cpredef/predef](https://github.com/cpredef/predef) - Pre-defined Compiler Macros wiki
 - [makedeb/prebuilt-mpr](https://github.com/makedeb/prebuilt-mpr) - The backend system powering the Prebuilt-MPR
@@ -2414,6 +2415,7 @@
 - [mrinfinidy/qrcode-pretty](https://github.com/mrinfinidy/qrcode-pretty) - Generate pretty QR codes right from your terminal
 - [hackclub/podium](https://github.com/hackclub/podium) - Podium is Hack Club's open-source peer-judging platform for hackathons
 - [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
@@ -2517,7 +2519,6 @@
 - [kyutai-labs/delayed-streams-modeling](https://github.com/kyutai-labs/delayed-streams-modeling) - Kyutai's Speech-To-Text and Text-To-Speech models based on the Delayed Streams Modeling framework.
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [MeiGen-AI/PosterCraft](https://github.com/MeiGen-AI/PosterCraft) - [ICLR2026] Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
@@ -2883,7 +2884,7 @@
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 - [sahinakkaya/binary-clock-wallpaper](https://github.com/sahinakkaya/binary-clock-wallpaper) - A python script to generate wallpaper that shows time in binary.
 - [pythonguis/python-qtwidgets](https://github.com/pythonguis/python-qtwidgets) - Custom widget library for PyQt5 and PySide2 (Qt for Python). Free to use in your own applications.
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [oskarsh/Yin-Yang](https://github.com/oskarsh/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
@@ -2952,7 +2953,7 @@
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [simons-public/protonfixes](https://github.com/simons-public/protonfixes) - A module for applying fixes at runtime to unsupported games with Steam Proton without changing game installation files
-- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
+- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing proot containers.
 - [Djdefrag/NiceScaler](https://github.com/Djdefrag/NiceScaler) - NiceScaler - image/video deeplearning upscaler (OpenCV)
 - [hermanhermitage/videocoreiv](https://github.com/hermanhermitage/videocoreiv) - Tools and information for the Broadcom VideoCore IV (RaspberryPi)
 - [volitank/pyshell](https://github.com/volitank/pyshell) - pyshell is a Linux subprocess module
@@ -3097,6 +3098,7 @@
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [nozwock/packet](https://github.com/nozwock/packet) - Quick Share client for Linux
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -3818,7 +3820,7 @@
 
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.
 - [Bengerthelorf/macIconChanger](https://github.com/Bengerthelorf/macIconChanger) - Transform your Mac, one icon at a time — customize app & folder icons with GUI, CLI, macOSicons.com integration, and auto-restore
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -3853,11 +3855,12 @@
 
 ## TypeScript 
 
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [sharkui-inc/shark-ui](https://github.com/sharkui-inc/shark-ui) - Beautifully designed components built with Ark UI and Tailwind.
 - [kapishdima/remocn](https://github.com/kapishdima/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo bui
 - [zzzzshawn/matrix](https://github.com/zzzzshawn/matrix) - 
-- [vprix21/neonblade-ui](https://github.com/vprix21/neonblade-ui) - 
+- [vprix21/neonblade-ui](https://github.com/vprix21/neonblade-ui) - Futuristic React UI component library - neon, sci-fi, and futuristic components for modern web apps. Install via CLI.
 - [bug0inc/passmark](https://github.com/bug0inc/passmark) - The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.
 - [jal-co/shieldcn](https://github.com/jal-co/shieldcn) - Beautiful README badges, inspired by shields.io and styled like shadcn/ui.
 - [pontusab/hyper](https://github.com/pontusab/hyper) - Fast, opinionated, AI-native API framework for Bun.
