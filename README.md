@@ -145,7 +145,7 @@
 - [kancko/gnome-rounded-blur](https://github.com/kancko/gnome-rounded-blur) - 
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
-- [Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA, Triton and HIP compiler targeting multiple GPU and CPU architectures.
+- [Zaneham/Booth](https://github.com/Zaneham/Booth) - Open-source CUDA, Triton and HIP compiler targeting multiple GPU and CPU architectures.
 - [bazaar-org/bazaar](https://github.com/bazaar-org/bazaar) - New App Store for GNOME
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [malxau/yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
@@ -455,7 +455,7 @@
 - [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
-- [incbee/Unarchiver](https://github.com/incbee/Unarchiver) - Git mirror of The Unarchiver
+- [mapache-soft/Unarchiver](https://github.com/mapache-soft/Unarchiver) - Git mirror of The Unarchiver
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [petzval/btferret](https://github.com/petzval/btferret) - Python and C Bluetooth Library
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc
@@ -550,7 +550,6 @@
 - [robsonfelix/VMDetector](https://github.com/robsonfelix/VMDetector) - Detect virtual machine environments using C#
 - [lixkote/UIForms](https://github.com/lixkote/UIForms) - Gives a modern touch to your old Windows Forms applications. Originally by @raphael3292383.
 - [PackJC/YoutubeToMP3](https://github.com/PackJC/YoutubeToMP3) - This Windows Forms application in C# allows users to download YouTube videos as MP3 files. Open Source.
-- [ClementGre/ThreeFingerDragOnWindows](https://github.com/ClementGre/ThreeFingerDragOnWindows) - Enables macOS-style three-finger dragging functionality on Windows Precision touchpads.
 - [nearby-sharing/android](https://github.com/nearby-sharing/android) - Share files between android and PC via the Windows 10 / 11 built-in nearby-sharing functionality (Project Rome)
 - [OpenByteDev/ModernWpf.MessageBox](https://github.com/OpenByteDev/ModernWpf.MessageBox) - A drop-in replacement for System.Windows.MessageBox using a modern WPF UI.
 - [Empyreal96/Appx_Re-Sign](https://github.com/Empyreal96/Appx_Re-Sign) - A small tool to help automate resigning Appx Packages with the help of MS tooling
@@ -881,7 +880,6 @@
 - [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - Qalculate! Qt UI
 - [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK UI
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [kjliew/qemu-xtra](https://github.com/kjliew/qemu-xtra) - Old PC Games Addons for QEMU
 - [schellingb/dosbox-pure](https://github.com/schellingb/dosbox-pure) - DOSBox Pure is a new fork of DOSBox built for RetroArch/Libretro aiming for simplicity and ease of use.
 - [Electronicks/JoyShockMapper](https://github.com/Electronicks/JoyShockMapper) - A tool for PC gamers to play games with DualShock 4s, JoyCons, and Pro Controllers. Gyro aiming, flick stick.
@@ -960,7 +958,7 @@
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [BlitterStudio/amiberry](https://github.com/BlitterStudio/amiberry) - Optimized Amiga emulator
+- [BlitterStudio/amiberry](https://github.com/BlitterStudio/amiberry) - Optimized multi-platform Amiga emulator
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
@@ -1028,6 +1026,7 @@
 
 ## CSS 
 
+- [ragnarokxg/VivalArc](https://github.com/ragnarokxg/VivalArc) - With just a few tweaks, you can give Vivaldi that cool Arc vibe
 - [SwordPuffin/Rewaita](https://github.com/SwordPuffin/Rewaita) - Bring color to Adwaita
 - [YashjitPal/Arc-2.0](https://github.com/YashjitPal/Arc-2.0) - Arc which receives non-chromium updates every 1-2 weeks! (iykyk)
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
@@ -1056,6 +1055,7 @@
 - [StylishThemes/StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [discord-modifications/dark-discord](https://github.com/discord-modifications/dark-discord) - An actual dark mode for discord.
+- [AdguardTeam/KnowledgeBaseDNS](https://github.com/AdguardTeam/KnowledgeBaseDNS) - AdGuard DNS knowledge base
 - [B00merang-Project/Windows-XP](https://github.com/B00merang-Project/Windows-XP) - Windows XP themes
 - [B00merang-Project/Windows-8-Metro](https://github.com/B00merang-Project/Windows-8-Metro) - GTK theme taking styles & colors from Windows 8.1 Metro apps
 - [B00merang-Project/Windows-95](https://github.com/B00merang-Project/Windows-95) - GTK theme based on the classic appearance of Windows 95 and Windows Server 2003
@@ -1279,7 +1279,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [rawnly/splash-cli](https://github.com/rawnly/splash-cli) - A simple, CLI to download Unsplash wallpapers. Nothing fancy — it just works.
 - [HikariKnight/quickpassthrough](https://github.com/HikariKnight/quickpassthrough) - A project to remove the complexity of setting up GPU passthrough for qemu
-- [mkaczanowski/packer-builder-arm](https://github.com/mkaczanowski/packer-builder-arm) - Packer plugin to build ARM images
+- [mkaczanowski/packer-plugin-builder-arm](https://github.com/mkaczanowski/packer-plugin-builder-arm) - Packer plugin to build ARM images
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -1673,7 +1673,6 @@
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
-- [AdguardTeam/KnowledgeBaseDNS](https://github.com/AdguardTeam/KnowledgeBaseDNS) - AdGuard DNS knowledge base
 - [mimoccc/webkit-greeter](https://github.com/mimoccc/webkit-greeter) - gdm webkit greeter
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
@@ -1814,7 +1813,7 @@
 - [VectorSpaceLab/OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - OmniGen2: Exploration to Advanced Multimodal Generation. https://arxiv.org/abs/2506.18871
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
 - [DrewThomasson/ebook2audiobookpiper-tts](https://github.com/DrewThomasson/ebook2audiobookpiper-tts) - Converts ebooks into audiobooks with piper-tts
 - [kmille36/Colab-Cloud-Gaming](https://github.com/kmille36/Colab-Cloud-Gaming) - Run Steam and Play Game on Gooogle Colab
 - [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes
@@ -1921,7 +1920,7 @@
 - [gujjwal00/avnc](https://github.com/gujjwal00/avnc) - VNC Client for Android
 - [lcarsde/lcarswm](https://github.com/lcarsde/lcarswm) - DEPRECATED - USE https://github.com/lcarsde/lcarsde. lcarswm (LCARS Window Manager) is a window manager that is supposed to look like an LCARS interface. It's written in Kotlin and utilizing XLib.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
-- [roozbehzarei/filester](https://github.com/roozbehzarei/filester) - A secure, accessible cloud storage app for android
+- [roozbehzarei/filester](https://github.com/roozbehzarei/filester) - Temporary cloud storage for fast, private file sharing
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
 - [termux/termux-styling](https://github.com/termux/termux-styling) - Termux add-on app for customizing the terminal font and color theme.
@@ -2112,7 +2111,6 @@
 - [Priyanka488/SystemDesignResources](https://github.com/Priyanka488/SystemDesignResources) - Documenting resources and notes for learning system design.
 - [yaronelh/False-Positive-Center](https://github.com/yaronelh/False-Positive-Center) - Repository to help security vendors deal with false positives
 - [michalleptuch/fluent-emoji-gallery](https://github.com/michalleptuch/fluent-emoji-gallery) - Official issue-only repo for Fluent Emoji Gallery
-- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 500+ apps that embrace the WinUI 3 Design
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection about awesome markdown (& beyond) - let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
@@ -2203,7 +2201,6 @@
 - [Botspot/pi-apps-replies](https://github.com/Botspot/pi-apps-replies) - This repository hosts messages to send back to Pi-Apps users who reported an error.
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
 - [amarioguy/NTASPProjectSiteDeprecated](https://github.com/amarioguy/NTASPProjectSiteDeprecated) - Deprecated NTASP project website. Head https://github.com/NT-for-ASi (@NT-for-ASi) to see the actual progress of project repositories!
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [worproject/WoR-Imager-Translations](https://github.com/worproject/WoR-Imager-Translations) - Language files for the Windows on Raspberry imager.
 - [gunnarmorling/awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open-Source Data Engineering Projects
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
@@ -2397,6 +2394,8 @@
 
 ## Python 
 
+- [littledivy/mimic](https://github.com/littledivy/mimic) - Intercept any app, then call it from Python like a library
+- [InledGroup/DroidTux](https://github.com/InledGroup/DroidTux) - Integrate your  Android phone's apps on Linux.
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.
@@ -2426,7 +2425,7 @@
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [ryzendew/Linux-Affinity-Installer](https://github.com/ryzendew/Linux-Affinity-Installer) - A repository that helps users get affinity software working on GNU/Linux 🐧
 - [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from the Internet. Join our Discord: https://discord.gg/ejRNvftDp9
 - [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 - [h3nock/scriptify](https://github.com/h3nock/scriptify) - A PyTorch handwriting-synthesis model built on Graves’ LSTM+attention paper, with multi-stage distributed training, a React demo UI, and a ready-to-use inference API.
@@ -2436,7 +2435,7 @@
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemist
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 148 ready-to-use skills plus 100+ scientific databases covering biology, chemist
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
@@ -2572,6 +2571,7 @@
 - [FreedomIntelligence/LLMArena](https://github.com/FreedomIntelligence/LLMArena) - LLMArena is an open-source platform designed to facilitate AI competitions between large language models.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
+- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
@@ -2673,6 +2673,7 @@
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [sebaubuntu-python/aospdtgen](https://github.com/sebaubuntu-python/aospdtgen) - LineageOS device tree generator
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 500+ apps that embrace the WinUI 3 Design
 - [Ilya114/Box64Droid](https://github.com/Ilya114/Box64Droid) - Running x86_64 applications on Android
 - [Viral-Doshi/Gesture-Controlled-Virtual-Mouse](https://github.com/Viral-Doshi/Gesture-Controlled-Virtual-Mouse) - Virtually controlling computer using hand-gestures and voice commands. Using MediaPipe, OpenCV Python.
 - [Py-KMS-Organization/py-kms](https://github.com/Py-KMS-Organization/py-kms) - KMS Server Emulator written in Python
@@ -2809,6 +2810,7 @@
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [dsanson/termpdf.py](https://github.com/dsanson/termpdf.py) - A graphical pdf and epub reader that works inside the kitty terminal
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
@@ -3256,6 +3258,7 @@
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [weclaw1/image-roll](https://github.com/weclaw1/image-roll) - Image Roll - simple and fast GTK image viewer with basic image manipulation tools. Written in Rust.
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [makedeb/mist](https://github.com/makedeb/mist) - The official command-line interface for the makedeb Package Repository
 - [antoyo/relm](https://github.com/antoyo/relm) - Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
@@ -3338,7 +3341,7 @@
 - [FireCubeStudios/wincss](https://github.com/FireCubeStudios/wincss) - A SASS framework which emulates the styles of Fluent Design applications as seen in WinUI 2.4.
 - [DiscordStyles/Fluent](https://github.com/DiscordStyles/Fluent) - Brings the look of Windows 11 to Discord.
 - [Mojang/web-theme-bootstrap](https://github.com/Mojang/web-theme-bootstrap) - Contains the theme used on minecraft.net based on Boostrap 4
-- [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6) - Highly customizable theme for BetterDiscord.
+- [ClearVision/OLD-ClearVision-v6](https://github.com/ClearVision/OLD-ClearVision-v6) - Highly customizable theme for BetterDiscord.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - All Ubuntu Yaru GNOME themes
@@ -4059,7 +4062,6 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [tailwiinder/nativecn](https://github.com/tailwiinder/nativecn) - A React Native UI component library inspired by shadcn/ui. Get beautiful, accessible UI components for your React Native apps by copying and pasting code.
-- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.
 - [mattwilson1024/google-photos-exif](https://github.com/mattwilson1024/google-photos-exif) - A tool to populate missing `DateTimeOriginal` EXIF metadata in Google Photos takeout, using Google's JSON metadata.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
