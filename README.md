@@ -141,6 +141,7 @@
 
 ## C 
 
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [kristapsdz/openrsync](https://github.com/kristapsdz/openrsync) - BSD-licensed implementation of rsync
 - [kancko/gnome-rounded-blur](https://github.com/kancko/gnome-rounded-blur) - 
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
@@ -456,7 +457,6 @@
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
 - [mapache-soft/Unarchiver](https://github.com/mapache-soft/Unarchiver) - Git mirror of The Unarchiver
-- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [petzval/btferret](https://github.com/petzval/btferret) - Python and C Bluetooth Library
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc
 - [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
@@ -550,6 +550,7 @@
 - [robsonfelix/VMDetector](https://github.com/robsonfelix/VMDetector) - Detect virtual machine environments using C#
 - [lixkote/UIForms](https://github.com/lixkote/UIForms) - Gives a modern touch to your old Windows Forms applications. Originally by @raphael3292383.
 - [PackJC/YoutubeToMP3](https://github.com/PackJC/YoutubeToMP3) - This Windows Forms application in C# allows users to download YouTube videos as MP3 files. Open Source.
+- [ClementGre/ThreeFingerDragOnWindows](https://github.com/ClementGre/ThreeFingerDragOnWindows) - Enables macOS-style three-finger dragging functionality on Windows Precision touchpads.
 - [nearby-sharing/android](https://github.com/nearby-sharing/android) - Share files between android and PC via the Windows 10 / 11 built-in nearby-sharing functionality (Project Rome)
 - [OpenByteDev/ModernWpf.MessageBox](https://github.com/OpenByteDev/ModernWpf.MessageBox) - A drop-in replacement for System.Windows.MessageBox using a modern WPF UI.
 - [Empyreal96/Appx_Re-Sign](https://github.com/Empyreal96/Appx_Re-Sign) - A small tool to help automate resigning Appx Packages with the help of MS tooling
@@ -1155,6 +1156,7 @@
 
 ## Go 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [craigmccaskill/posthorn](https://github.com/craigmccaskill/posthorn) - Self-hosted email gateway between your apps and a transactional mail provider (Postmark, Resend, Mailgun, AWS SES, or outbound-SMTP). Three ingress shapes (HTTP form, HTTP API, SMTP). One Docker conta
@@ -1305,6 +1307,7 @@
 
 ## HTML 
 
+- [Shrey113/Android-Dex](https://github.com/Shrey113/Android-Dex) - Enable a full desktop experience from any Android device over Wi‑Fi. No root, scrcpy-powered, Flutter desktop app with wireless ADB, per‑app audio, and quick controls.
 - [Shrey113/App-Scrcpy](https://github.com/Shrey113/App-Scrcpy) - A scrcpy-inspired Android screen, audio, and control streaming client for Windows — built without ADB, using pure WebSocket communication.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [anoniemerd/PruneMate](https://github.com/anoniemerd/PruneMate) - PruneMate - Docker image & resource cleanup helper, on a schedule!
@@ -1409,6 +1412,7 @@
 
 ## Java 
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [egdels/makeacopy](https://github.com/egdels/makeacopy) - MakeACopy is an open-source document scanner app for Android that allows you to digitize paper documents with OCR functionality. The app is designed to be privacy-friendly, working completely offline 
 - [floci-io/floci-gcp](https://github.com/floci-io/floci-gcp) - Light, fluffy, and always free - GCP Local Emulator
 - [floci-io/floci-az](https://github.com/floci-io/floci-az) - Light, fluffy, and always free - Local Azure Emulator
@@ -1589,7 +1593,6 @@
 - [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
 - [fineanmol/Hacktoberfest2026](https://github.com/fineanmol/Hacktoberfest2026) - Make your first Pull Request on Hacktoberfest 2026. Don't forget to spread love and if you like give us a ⭐️
 - [d3vr/yt-siphon](https://github.com/d3vr/yt-siphon) - Firefox add-on to open YouTube videos in open alternative frontends (e.g: Piped)
-- [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [microsoft/beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node) - Beginner's Series: Introduction to JavaScript (Node.js)
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -2277,6 +2280,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [alfaaarex/awesome-tweaks](https://github.com/alfaaarex/awesome-tweaks) - 💻 List of awesome programs and tweaks for Windows, macOS and Linux.
 - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
+- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [ryanfortner/starred](https://github.com/ryanfortner/starred) - Automatically-compiled list of my GitHub stars
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Jai-JAP/starred-repos](https://github.com/Jai-JAP/starred-repos) - List of my starred repos autogenerated
@@ -2394,6 +2398,7 @@
 
 ## Python 
 
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [littledivy/mimic](https://github.com/littledivy/mimic) - Intercept any app, then call it from Python like a library
 - [InledGroup/DroidTux](https://github.com/InledGroup/DroidTux) - Integrate your  Android phone's apps on Linux.
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
@@ -2425,7 +2430,7 @@
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [ryzendew/Linux-Affinity-Installer](https://github.com/ryzendew/Linux-Affinity-Installer) - A repository that helps users get affinity software working on GNU/Linux 🐧
 - [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 - [h3nock/scriptify](https://github.com/h3nock/scriptify) - A PyTorch handwriting-synthesis model built on Graves’ LSTM+attention paper, with multi-stage distributed training, a React demo UI, and a ready-to-use inference API.
@@ -2435,7 +2440,7 @@
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 148 ready-to-use skills plus 100+ scientific databases covering biology, chemist
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 156 ready-to-use skills plus 100+ scientific databases covering biology, chemist
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
@@ -2625,7 +2630,6 @@
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
 - [mijorus/smile](https://github.com/mijorus/smile) - An emoji picker for linux, with custom tags support and localization. I'll also put some random emojis here 🦁🐾🦔🦇
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
 - [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions
 - [valpackett/awesome-gtk](https://github.com/valpackett/awesome-gtk) - List of awesome GTK (3/4) applications
@@ -2672,7 +2676,7 @@
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [sebaubuntu-python/aospdtgen](https://github.com/sebaubuntu-python/aospdtgen) - LineageOS device tree generator
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 500+ apps that embrace the WinUI 3 Design
+- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 800+ apps that embrace the WinUI 3 Design
 - [Ilya114/Box64Droid](https://github.com/Ilya114/Box64Droid) - Running x86_64 applications on Android
 - [Viral-Doshi/Gesture-Controlled-Virtual-Mouse](https://github.com/Viral-Doshi/Gesture-Controlled-Virtual-Mouse) - Virtually controlling computer using hand-gestures and voice commands. Using MediaPipe, OpenCV Python.
 - [Py-KMS-Organization/py-kms](https://github.com/Py-KMS-Organization/py-kms) - KMS Server Emulator written in Python
@@ -3035,6 +3039,8 @@
 
 ## Rust 
 
+- [rust-ui/ui](https://github.com/rust-ui/ui) - A Shadcn-inspired component registry for Rust — build cross-platform apps for Web, Desktop, iOS and Android.
+- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 - [immanuwell/dockerfile-roast](https://github.com/immanuwell/dockerfile-roast) - droast - a dockerfile linter that actually has opinions 🔥
@@ -3828,6 +3834,7 @@
 
 ## Swift 
 
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
@@ -3849,6 +3856,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [brycebostwick/AnimatedAppIcons](https://github.com/brycebostwick/AnimatedAppIcons) - Trick iOS Into Animating App Icons
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+- [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
@@ -3953,7 +3961,7 @@
 - [wannabespace/conar](https://github.com/wannabespace/conar) - AI-powered tool for working with Postgres, MySQL, MSSQL and Clickhouse.
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
 - [jsonquerylang/jsonquery](https://github.com/jsonquerylang/jsonquery) - A lightweight, flexible, and expandable JSON query language
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Copy any UI element for your agent
 - [0xchasercat/flint](https://github.com/0xchasercat/flint) - Lightweight tool for managing linux virtual machines
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
@@ -4127,6 +4135,7 @@
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [fflewddur/tophat](https://github.com/fflewddur/tophat) - View CPU, memory, disk, and network activity in the GNOME top bar.
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [Megabyteceer/thing-editor](https://github.com/Megabyteceer/thing-editor) - pixi.js based visual game editor
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
