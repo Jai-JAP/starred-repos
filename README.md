@@ -89,7 +89,6 @@
 
 ## Assembly 
 
-- [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for Linux x86_64
 - [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book) - A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level langu
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [Lillithlilly/hello-world](https://github.com/Lillithlilly/hello-world) - 
@@ -393,7 +392,7 @@
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 - [hughsie/colord](https://github.com/hughsie/colord) - Making color management just work
-- [dvorka-oss/hstr](https://github.com/dvorka-oss/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [eteran/c-vector](https://github.com/eteran/c-vector) - A dynamic array implementation in C similar to the one found in standard C++
 - [Itai-Nelken/itai-lang](https://github.com/Itai-Nelken/itai-lang) - 
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
@@ -429,7 +428,7 @@
 - [abhayanigam/Learn_C](https://github.com/abhayanigam/Learn_C) - Introduction in C language and all basic codes.
 - [torralbaa/n2vm](https://github.com/torralbaa/n2vm) - No Name Virtual Machine.
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
-- [abakh/nbsdgames](https://github.com/abakh/nbsdgames) - A package of 21 new, improved, text-based games. Some are entirely original ideas. Best and lightest! Last games you will need! Years of free, fun and endless brain exercise for everyone.
+- [abakh/nbsdgames](https://github.com/abakh/nbsdgames) - A package of 21 new, improved, text-based games. Some are entirely original ideas. Best and lightest! Years of free, fun and endless brain exercise for everyone.
 - [kilograham/rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
 - [axeldavy/Xnine](https://github.com/axeldavy/Xnine) - 
 - [spencertipping/shell-tutorial](https://github.com/spencertipping/shell-tutorial) - How to write a UNIX shell, with a lot of background
@@ -652,6 +651,7 @@
 - [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 - [emoacht/Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
+- [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [dotnet/msbuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [WOA-Project/WOA-Deployer-Rpi](https://github.com/WOA-Project/WOA-Deployer-Rpi) - WOA Deployer for Raspberry Pi
@@ -707,6 +707,7 @@
 - [manuarora700/data-structures-algorithms-interviews](https://github.com/manuarora700/data-structures-algorithms-interviews) - 👨‍💻 Repo contains my solutions to coding interview problems on various platforms. Will later convert into a React based web app for personal revision.
 - [MAZHARMIK/Interview_DS_Algo](https://github.com/MAZHARMIK/Interview_DS_Algo) - Super Repository for Coding Interview Preperation
 - [jwise/HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for Mac OS X
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [nillerusr/source-engine](https://github.com/nillerusr/source-engine) - Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
@@ -948,7 +949,6 @@
 - [HerMajestyDrMona/Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - "Windows 11 Drag & Drop to the Taskbar (Fix)" fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like Und
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [microsoft/DirectStorage](https://github.com/microsoft/DirectStorage) - DirectStorage for Windows is an API that allows game developers to unlock the full potential of high speed NVMe drives for loading game assets.
-- [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [44670/p7zip-wasm](https://github.com/44670/p7zip-wasm) - 
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
@@ -1105,6 +1105,7 @@
 
 ## Dart 
 
+- [bitscoper/bitscoper_cyberkit](https://github.com/bitscoper/bitscoper_cyberkit) - A Flutter Application: Bluetooth Low Energy Scanner, IPv4 Subnet Scanner, mDNS Scanner, UPnP Scanner, Route Tracer, TCP Port Scanner, Pinger, DNS Record Retriever, File Hash Calculator, String Hash Ca
 - [SaltyAom/niku](https://github.com/SaltyAom/niku) - Compose Flutter UI from utilities Widget and extensions with dot cascade. Fluently developing without headache and Nested Hell.
 - [Senzme/NFile](https://github.com/Senzme/NFile) - A Beautiful File Manager
 - [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
@@ -1158,6 +1159,7 @@
 
 ## Go 
 
+- [akihiro/wsl-secret-service](https://github.com/akihiro/wsl-secret-service) - 
 - [pgrundev/pgbot](https://github.com/pgrundev/pgbot) - Postgres intelligence for ai agents & apps
 - [Calnode/calnode](https://github.com/Calnode/calnode) - Lean, self-hostable Calendly & Cal.com alternative — a single Go binary + SQLite, API-first and MCP-native. Apache-2.0.
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
@@ -1230,7 +1232,7 @@
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [mholt/archiver](https://github.com/mholt/archiver) - DEPRECATED. Please use mholt/archives instead.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [audstanley/NodeJs-Raspberry-Pi](https://github.com/audstanley/NodeJs-Raspberry-Pi) - Install NodeJs on your Raspberry Pi 1, 2, 3, 4, zero, and zero w
 - [spddl/disableDWMactivitys](https://github.com/spddl/disableDWMactivitys) - 
 - [7kt4/BasicThemer5](https://github.com/7kt4/BasicThemer5) - The most lightweight basic themer yet.
@@ -1315,7 +1317,7 @@
 
 ## HTML 
 
-- [Shrey113/Android-Dex](https://github.com/Shrey113/Android-Dex) - Enable a full desktop experience from any Android device over Wi‑Fi. No root, scrcpy-powered, Flutter desktop app with wireless ADB, per‑app audio, and quick controls.
+- [Shrey113/Android-Dex](https://github.com/Shrey113/Android-Dex) - Universal Samsung DeX alternative for all Android devices. Run Android apps on Windows, Linux & macOS with resizable windows, advanced FPS gaming controls, and high-performance wireless ADB mirroring.
 - [Shrey113/App-Scrcpy](https://github.com/Shrey113/App-Scrcpy) - A scrcpy-inspired Android screen, audio, and control streaming client for Windows — built without ADB, using pure WebSocket communication.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [anoniemerd/PruneMate](https://github.com/anoniemerd/PruneMate) - PruneMate - Docker image & resource cleanup helper, on a schedule!
@@ -1511,7 +1513,9 @@
 
 ## JavaScript 
 
-- [ivanusto/unmark-web](https://github.com/ivanusto/unmark-web) - Independent browser-first client that strips invisible Unicode marks and C2PA/EXIF/XMP metadata locally, or via the watermarks-remover Python service (MIT)
+- [VaZark/appindicator-quicksetting](https://github.com/VaZark/appindicator-quicksetting) - Show the AppIndicator item in the Gnome's QuickSettings dropdown
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+- [ivanusto/unmark-web](https://github.com/ivanusto/unmark-web) - Independent browser-first client that strips invisible Unicode marks and C2PA/EXIF/XMP/ID3 metadata from text, images, audio and video locally, or via the watermarks-remover Python service (MIT)
 - [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini
 - [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [TheRealSourcer/mirror](https://github.com/TheRealSourcer/mirror) - 
@@ -1542,6 +1546,7 @@
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [Justmalhar/open-audio](https://github.com/Justmalhar/open-audio) - Open-Audio TTS: A robust web app leveraging OpenAI's powerful Text-to-Speech (TTS) models to generate natural-sounding audio from text. Built with modern web technologies for an intuitive user experie
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
@@ -1581,7 +1586,6 @@
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 - [yqs112358/EdgeTranslator-CodeTag-BugFix](https://github.com/yqs112358/EdgeTranslator-CodeTag-BugFix) - Fix &lt;code&gt; bug for Microsoft Edge translator
 - [gravesoft/msdl](https://github.com/gravesoft/msdl) - Microsoft Software Download Listing
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [noCaptchaAi/firefox-addon](https://github.com/noCaptchaAi/firefox-addon) - noCaptchaAi: CAPTCHA Solver Firefox Addon
 - [amarullz/windowgestures](https://github.com/amarullz/windowgestures) - GNOME Extension to Manage window with touchpad gestures
@@ -1592,7 +1596,7 @@
 - [thel0ner/fdm](https://github.com/thel0ner/fdm) - free download manager
 - [4very/awesome-arc](https://github.com/4very/awesome-arc) - A list of awesome resources for Arc Browser.
 - [red-stone-network/clockwork](https://github.com/red-stone-network/clockwork) - It's like an operating system in your browser! [LIKE THIS REPO? STAR IT!]
-- [smartfoloo/lunarsync](https://github.com/smartfoloo/lunarsync) - An ultrafast, yet simple web proxy
+- [smartfoloo/lunarsync](https://github.com/smartfoloo/lunarsync) - This project has been archived. For a more updated and maintained proxy, check out arsenic.
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update) - Update indicator for ArchLinux and Gnome-Shell [Move to Codeberg]
 - [Page-David/fx991ex-QR](https://github.com/Page-David/fx991ex-QR) - Reverse engineering of Casio fx991ex calculator QR code
@@ -1755,7 +1759,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [khlam/discord-sandboxed](https://github.com/khlam/discord-sandboxed) - Alternative electron-based Discord client with custom telemetry blocker and privacy-focused push-to-talk.
 - [hmanzur/actions-set-secret](https://github.com/hmanzur/actions-set-secret) - Create or update secrets in github repository
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [Annihil/github-spray](https://github.com/Annihil/github-spray) - :octocat: Draw on your GitHub contribution graph ░▒▓█
@@ -2424,7 +2428,7 @@
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [dograh-hq/dograh](https://github.com/dograh-hq/dograh) - Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
-- [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex), backed by Markdown and Milvus.
+- [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -2530,7 +2534,6 @@
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [perrypixel/10x-Tool-Calls](https://github.com/perrypixel/10x-Tool-Calls) - 10x-Tool-Calls is a lightweight rules file designed to help you maximize the value of your monthly AI coding tool calls, enabling you to get more done with fewer requests.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [tau-yihouxiang/EX-4D](https://github.com/tau-yihouxiang/EX-4D) - The implementation of Extreme Viewpoint 4D Video Generation
@@ -2645,7 +2648,7 @@
 - [snorain/searxng](https://github.com/snorain/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
 - [mijorus/smile](https://github.com/mijorus/smile) - An emoji picker for linux, with custom tags support and localization. I'll also put some random emojis here 🦁🐾🦔🦇
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
@@ -3057,7 +3060,9 @@
 
 ## Rust 
 
-- [remorses/gpuix](https://github.com/remorses/gpuix) - Node.js & React bindings for Zed GPUI.
+- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [Xoshbin/asyar](https://github.com/Xoshbin/asyar) - The power of Raycast. The speed of Alfred. Privacy by design.
+- [remorses/gpuix](https://github.com/remorses/gpuix) - Node.js & React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron
 - [timhartmann7/omnyssh](https://github.com/timhartmann7/omnyssh) - A fast, keyboard-driven TUI for managing SSH connections, written in Rust
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
@@ -3286,7 +3291,7 @@
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [pls-rs/pls](https://github.com/pls-rs/pls) - pls is a prettier and powerful ls(1) for the pros.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Safety guardrails for ai coding agents and human terminal commands
-- [origin-bi/rust-by-practice](https://github.com/origin-bi/rust-by-practice) - Rust By Practice will evolve into Origin.
+- [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Rust By Practice will evolve into Origin.
 - [weclaw1/image-roll](https://github.com/weclaw1/image-roll) - Image Roll - simple and fast GTK image viewer with basic image manipulation tools. Written in Rust.
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [makedeb/mist](https://github.com/makedeb/mist) - The official command-line interface for the makedeb Package Repository
@@ -3426,6 +3431,7 @@
 - [Botspot/androidbuddy](https://github.com/Botspot/androidbuddy) - Manage your Android phone from a Linux computer. File transfer, file browsing and in-place editing, screen control, tethering, reverse tethering, and an autostart feature when a phone is detected.
 - [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) - 
 - [JustASquirrelinAround/pifandashboard](https://github.com/JustASquirrelinAround/pifandashboard) - A complete solution for Raspberry Pi PWM fan control, featuring a web-based dashboard to monitor CPU temperature, fan speed, and system performance — with support for monitoring multiple Raspberry Pis
+- [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for Linux x86_64
 - [kentonv/lanparty](https://github.com/kentonv/lanparty) - Netboot a fleet of desktop machines from a single base image
 - [Botspot/bvm](https://github.com/Botspot/bvm) - User friendly, high performance Windows 11 Virtual Machine on ARM Linux
 - [K0p1-Git/cloudflare-ddns-updater](https://github.com/K0p1-Git/cloudflare-ddns-updater) - Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP! Written in pure BASH~
