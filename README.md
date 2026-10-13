@@ -160,6 +160,7 @@
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [jb55/binmoji](https://github.com/jb55/binmoji) - A compact, lossless, 64-bit emoji encoding
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
+- [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
 - [cashapp/zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs
 - [jsummers/imageworsener](https://github.com/jsummers/imageworsener) - A utility for processing PNG, JPEG, BMP, and WebP images. Features include resize/resample, dither, grayscale, apply background color, subpixel rendering.
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
@@ -524,6 +525,7 @@
 - [Gadgetoid/pi400kb](https://github.com/Gadgetoid/pi400kb) - Raw HID keyboard forwarder to turn the Pi 400 into a USB keyboard
 - [Itai-Nelken/vm](https://github.com/Itai-Nelken/vm) - 
 - [Itai-Nelken/aptpac](https://github.com/Itai-Nelken/aptpac) - A simple wrapper for 'pacman' with a syntax similar to 'apt' to help people transitioning to Arch and Arch based distributions like Manjaro.
+- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [u-boot/u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
 - [Itai-Nelken/ish](https://github.com/Itai-Nelken/ish) - A simple shell written in C
@@ -580,6 +582,7 @@
 - [clashbyte/openvice](https://github.com/clashbyte/openvice) - Grand Theft Auto: Vice City Open Source port to C#
 - [in0finite/SanAndreasUnity](https://github.com/in0finite/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
 - [krlvm/BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - WinUI app for building smaller, customized Windows 11 images.
 - [Icepenguins101/charms-bar-port](https://github.com/Icepenguins101/charms-bar-port) - Charms Bar Revived for Windows 10 and Windows 11
 - [Pdawg-bytes/factoryos-10x-shell](https://github.com/Pdawg-bytes/factoryos-10x-shell) - A Win10x shell recreation to run in place of the default FactoryOS shell.
 - [FrozenAssassine/Fastedit](https://github.com/FrozenAssassine/Fastedit) - Fastedit is a lightweight and fluent texteditor for Windows developed in C#, based on my own textbox
@@ -1207,7 +1210,7 @@
 - [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization.
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [flexprice/flexprice](https://github.com/flexprice/flexprice) - Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature access
@@ -1520,6 +1523,7 @@
 
 ## JavaScript 
 
+- [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov) - A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries.
 - [xenlism/gnome-widget-center](https://github.com/xenlism/gnome-widget-center) - Widget Center for Gnome
 - [reisxd/TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.
 - [everyx/gnome-shell-extension-window-nativizer](https://github.com/everyx/gnome-shell-extension-window-nativizer) - A GNOME Shell extension. Seamlessly nativize non-native applications into the GNOME desktop.
@@ -1585,7 +1589,7 @@
 - [hotheadhacker/youtube-player](https://github.com/hotheadhacker/youtube-player) - youtube-player
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The biggest open source library of animated, interactive & fully customizable React and NextJS components for building memorable websites.
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
 - [aamirkhan2478/awsome-books-es6](https://github.com/aamirkhan2478/awsome-books-es6) - In this project, we built an essential website that allows users to add/remove books from a list. We achieved that by using JavaScript modules and arrays. We also dynamically modified the DOM and adde
 - [Axorax/inkless](https://github.com/Axorax/inkless) - Write simple, stay focused.
 - [manuarora700/javascript-interview-questions](https://github.com/manuarora700/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
@@ -1864,6 +1868,9 @@
 
 ## Kotlin 
 
+- [sameerasw/Overcast](https://github.com/sameerasw/Overcast) - Weather is also Essential
+- [d4rken-org/butler](https://github.com/d4rken-org/butler) - The Android file explorer I always wanted.
+- [d4rken-org/porter](https://github.com/d4rken-org/porter) - ADB access for your apps. A minimal, maintained Shizuku fork.
 - [EvanKoe/expressive-cutout](https://github.com/EvanKoe/expressive-cutout) - This app aims to recreate Apple's dynamic island for Android, but this time, following Google's Material Expressive design.
 - [Kjell6/Z-Sync](https://github.com/Kjell6/Z-Sync) - A companion App for your tabs and spaces.
 - [Chethan616/ClearPDF](https://github.com/Chethan616/ClearPDF) - Open-source Android PDF and document toolkit with PDF tools, Office viewing, XLSX editing, scanning, and image editing. Built with Kotlin and Jetpack Compose.
@@ -1915,7 +1922,6 @@
 - [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) - Kernel-based Android Root Solution & KPM
 - [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 - [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
-- [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
 - [aload0/AppLock](https://github.com/aload0/AppLock) - Powerful privacy tool to lock apps from intruders
 - [Kin69/Athena](https://github.com/Kin69/Athena) - Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.
 - [SebaUbuntu/Athena](https://github.com/SebaUbuntu/Athena) - Open source Material You Android device info app
@@ -2416,7 +2422,6 @@
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [Marvin700/Windows_Optimisation_Pack](https://github.com/Marvin700/Windows_Optimisation_Pack) - Debloat & Optimise your Windows
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
@@ -2439,6 +2444,7 @@
 
 ## Python 
 
+- [Nico-LaFoucate/Neutron](https://github.com/Nico-LaFoucate/Neutron) - A compatibility layer based on Wine, optimized for digital content creation suites
 - [Midrags/SFF](https://github.com/Midrags/SFF) - SteaMidra - Advanced Steam game setup and management tool featuring manifest handling, Lua integrations, LumaCore deployment, multiplayer fixes, DLC unlocking, backups, game fixes, and an easy-to-use 
 - [oliver-zehentleitner/keep-the-why](https://github.com/oliver-zehentleitner/keep-the-why) - The why layer of repo-native project memory: the reasoning behind a codebase as Markdown in the repo, versioned by Git, for coding agents and humans, so nothing rejected is proposed twice. No database
 - [BareBrowser/bare-browser](https://github.com/BareBrowser/bare-browser) - Bare is a de-Googled Chromium build for Android, built for privacy, control, and freedom on the web. It strips Google tracking, telemetry, and AI integration while keeping browser extensions and uBloc
@@ -2479,7 +2485,7 @@
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [ryzendew/Linux-Affinity-Installer](https://github.com/ryzendew/Linux-Affinity-Installer) - A repository that helps users get affinity software working on GNU/Linux 🐧
 - [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - Stealth browser automation for AI agents over MCP and the Chrome DevTools Protocol: navigation, network hooks, DOM extraction, and pixel-accurate UI cloning.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents (PDF, DOCX, XLSX, PPTX, etc.). Join our Discord: https://discord.gg/ejRN
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents. Join our Discord: https://discord.gg/ejRNvftDp9
 - [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 - [h3nock/scriptify](https://github.com/h3nock/scriptify) - A PyTorch handwriting-synthesis model built on Graves’ LSTM+attention paper, with multi-stage distributed training, a React demo UI, and a ready-to-use inference API.
@@ -3102,7 +3108,7 @@
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 - [immanuwell/dockerfile-roast](https://github.com/immanuwell/dockerfile-roast) - droast - a dockerfile linter that actually has opinions 🔥
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
-- [elio-fm/elio](https://github.com/elio-fm/elio) - Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support
+- [elio-fm/elio](https://github.com/elio-fm/elio) - Snappy, batteries-included terminal file manager.
 - [better-auth-rs/better-auth-rs](https://github.com/better-auth-rs/better-auth-rs) - 🦀 Rust backend implementation of @better-auth.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [rust-man-org/rustman](https://github.com/rust-man-org/rustman) - Free, open-source API testing desktop app built with Rust. No account, no cloud, no telemetry.
@@ -3117,7 +3123,7 @@
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [dextero/smithay](https://github.com/dextero/smithay) - A smithy for rusty wayland compositors
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 6.6x faster Homebrew client
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 5x faster Homebrew client
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
 - [deep-gaurav/warden-worker-new](https://github.com/deep-gaurav/warden-worker-new) - A Bitwarden-compatible server for Cloudflare Workers
@@ -3851,7 +3857,6 @@
 - [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 - [jmcerrejon/PiKISS](https://github.com/jmcerrejon/PiKISS) - PiKISS for Raspberry Pi: A bunch of scripts with menu to make your life easier.
 - [abchk1234/xfsudo](https://github.com/abchk1234/xfsudo) - To run graphical applications as superuser using sudo and zenity.
-- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [Botspot/wor-flasher](https://github.com/Botspot/wor-flasher) - Legal utility that runs on RPiOS to flash another SD card with Windows 10/11
 - [Botspot/youtubuddy](https://github.com/Botspot/youtubuddy) - Search/Watch/Download YouTube videos with a lightweight, interactive tool
 - [Botspot/autostar](https://github.com/Botspot/autostar) - Conveniently manage programs to launch on startup
@@ -3938,6 +3943,7 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [shadcn-ui/lint](https://github.com/shadcn-ui/lint) - An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
 - [libredb/libredb-studio](https://github.com/libredb/libredb-studio) - One browser tab for PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, SQLite, Couchbase, ClickHouse, Druid, DuckDB, Turso and more. An open-source SQL IDE with SSO, audit trail and AI-assisted qu
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL not
@@ -4020,11 +4026,11 @@
 - [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana pro🍌
 - [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-- [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor
+- [dineug/erd-editor](https://github.com/dineug/erd-editor) - ERD Editor: design database schemas visually, import SQL DDL, GraphQL, DBML and AML, export DDL and code for 22 languages. Web app, Google Drive, VS Code, IntelliJ, Obsidian, a custom element, and an 
 - [Kuberwastaken/fuzzy-redirect](https://github.com/Kuberwastaken/fuzzy-redirect) - Autocorrect for your website URLs - Fuzzy URL matching and redirection for React and Next.js applications
 - [W4G1/multithreading](https://github.com/W4G1/multithreading) - The missing standard library for multithreading in JavaScript (Works in the browser, Node.js, Deno, Bun)
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [YouMind-OpenLab/awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) - ♊ 50+ selected Gemini prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 - [boerdereinar/copyous](https://github.com/boerdereinar/copyous) - Modern Clipboard Manager for GNOME
 - [universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode) - 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.
@@ -4033,7 +4039,7 @@
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
 - [zerostaticthemes/square-ui](https://github.com/zerostaticthemes/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
 - [wigggle-ui/ui](https://github.com/wigggle-ui/ui) - A beautiful collection of copy-and-paste widgets for your next project.
-- [ranuts/document](https://github.com/ranuts/document) - Edit DOCX/XLSX/PPTX in your browser — client-side, no server, works offline (OnlyOffice + WebAssembly)
+- [ranuts/document](https://github.com/ranuts/document) - Local-first browser editor for Word, Excel, PowerPoint and PDF, with an experimental AI assistant. No Office installation or account required.
 - [deepnote/deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote c
 - [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Share files nearby and beyond.
 - [pantharshit007/aether-ui](https://github.com/pantharshit007/aether-ui) - A simple, lightweight, and customizable UI component library for React with motion and tailwindcss.
@@ -4078,7 +4084,7 @@
 - [shadcnblocks/kibo](https://github.com/shadcnblocks/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
-- [hasanharman/form-builder](https://github.com/hasanharman/form-builder) - A dynamic form-building tool that allows users to create, customize, and validate forms seamlessly within web applications.
+- [shadcn-labs/form-builder](https://github.com/shadcn-labs/form-builder) - A dynamic form-building tool that allows users to create, customize, and validate forms seamlessly within web applications.
 - [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) - Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Animated components for design engineers. 150+ free shadcn/ui components, built with Tailwind CSS and Motion. MIT licensed.
 - [educlopez/smoothui](https://github.com/educlopez/smoothui) - SmoothUI is a collection of beautifully designed components with smooth animations built with React, Tailwind CSS, Shadcn/ui and Motion
@@ -4187,7 +4193,7 @@
 - [BelkacemYerfa/shadcn-extension](https://github.com/BelkacemYerfa/shadcn-extension) - An open source component collection , that extends your ui library , built using shadcn component
 - [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) - More components built on top of shadcn-ui.
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
-- [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
+- [cosscom/ui](https://github.com/cosscom/ui) - coss.com/ui is the official design system of Cal.com
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
